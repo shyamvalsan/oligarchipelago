@@ -1,0 +1,89 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "chen-tao": {
+      "query": "\"Chen Tao\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "untitled",
+          "url": "https://digitallibrary.un.org/record/639568/files/A_HRC_8_3_Add.1-EN.pdf"
+        },
+        {
+          "title": "Chen Tao-ming",
+          "url": "https://en.wikipedia.org/wiki/Chen_Tao-ming"
+        }
+      ]
+    },
+    "antony-ressler": {
+      "query": "\"Antony Ressler\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Finance law does little to curb mayor's fundraising - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-2007-dec-18-me-funds18-story.html"
+        },
+        {
+          "title": "EDGAR Filing Documents for 0001104659-26-016671",
+          "url": "https://www.sec.gov/Archives/edgar/data/1176948/000110465926016671/0001104659-26-016671-index.htm"
+        },
+        {
+          "title": "Atlanta Hawks reportedly sold to group led by billionaire Antony Ressler for what might be a bargain-basement price - The Washington Post",
+          "url": "https://www.washingtonpost.com/news/early-lead/wp/2015/04/22/atlanta-hawks-reportedly-sold-to-group-led-by-billionaire-antony-ressler-for-what-might-be-a-bargain-basement-price/"
+        },
+        {
+          "title": "Tony Ressler",
+          "url": "https://en.wikipedia.org/wiki/Tony_Ressler"
+        },
+        {
+          "title": "PRIVATE EQUITY’S",
+          "url": "https://littlesis.org/wp-content/uploads/2022/02/PESP_SpecialReport_DirtyDozen_Feb2022-Final-LowRes.pdf"
+        }
+      ]
+    },
+    "patrick-soon-shiong": {
+      "query": "\"Patrick Soon-Shiong\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Patrick Soon-Shiong",
+          "url": "https://en.wikipedia.org/wiki/Patrick_Soon-Shiong"
+        },
+        {
+          "title": "Who’s the billionaire doctor palling around with Donald Trump? | STAT",
+          "url": "https://www.statnews.com/2016/11/21/trump-soon-shiong/"
+        },
+        {
+          "title": "Emails show how a donation boosted a billionaire's business",
+          "url": "https://www.statnews.com/2017/04/14/soon-shiong-business-boost/"
+        },
+        {
+          "title": "How a biotech billionaire used a donation to boost his business",
+          "url": "https://www.statnews.com/2017/03/06/soon-shiong-philanthropy-business/"
+        },
+        {
+          "title": "Koch Lobbyists and Opus Dei — Who’s Dropping in on Trump Budget Czar Mick Mulvaney? — ProPublica",
+          "url": "https://www.propublica.org/article/whos-dropping-in-on-trump-budget-czar-mick-mulvaney"
+        },
+        {
+          "title": "Patrick Soon-Shiong: the billionaire LA Times owner who blocked Harris endorsement | Los Angeles Times | The Guardian",
+          "url": "https://www.theguardian.com/media/2024/oct/25/patrick-soon-shiong-the-billionaire-la-times-owner-who-blocked-harris-endorsement"
+        }
+      ]
+    },
+    "wu-jianshu": {
+      "query": "\"Wu Jianshu\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "untitled",
+          "url": "https://www1.hkexnews.hk/app/sehk/2026/108378/a131435/sehk26033102231.pdf"
+        }
+      ]
+    }
+  }
+}

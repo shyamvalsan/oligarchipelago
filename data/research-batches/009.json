@@ -1,0 +1,97 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "ma-huateng": {
+      "query": "\"Ma Huateng\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Factional-Ideological Conflicts in Chinese Politic",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/9789048557080/pdf?licenseType=open-access"
+        },
+        {
+          "title": "China’s ‘two sessions’: Tencent boss Pony Ma makes his mark in key Beijing political gala with new proposals | South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3124037/chinas-two-sessions-tencent-boss-pony-ma-makes-his-mark-key-beijing"
+        },
+        {
+          "title": "Pony Ma",
+          "url": "https://en.wikipedia.org/wiki/Pony_Ma"
+        }
+      ]
+    },
+    "robin-zeng": {
+      "query": "\"Robin Zeng\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "The rise of Robin Zeng: China's billionaire battery king",
+          "url": "https://moneyweek.com/economy/people/the-rise-of-robin-zeng-chinas-billionaire-battery-king"
+        }
+      ]
+    },
+    "iris-fontbona": {
+      "query": "\"Iris Fontbona\" Chile political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Cómo el gobierno “progresista” de Chile y la burocracia sindical encubrieron la catástrofe de El Teniente - World Socialist Web Site",
+          "url": "https://www.wsws.org/es/articles/2026/08/25/ed74-a25.html"
+        },
+        {
+          "title": "Grupo Luksic",
+          "url": "https://es.wikipedia.org/wiki/Grupo_Luksic"
+        },
+        {
+          "title": "OLIGARQUÍA, PODER MATERIAL Y RECURSOS DE PODER EN CHILE, 2010-2020",
+          "url": "https://www.scielo.cl/scielo.php?pid=S0718-04622023000100237&script=sci_arttext"
+        },
+        {
+          "title": "Bloomberg Billionaires Index - Iris Fontbona & family",
+          "url": "https://www.bloomberg.com/billionaires/profiles/iris-fontbona/"
+        },
+        {
+          "title": "How Chile’s “progressive” government and union bureaucracy covered up the El Teniente disaster - World Socialist Web Site",
+          "url": "https://www16.worldsocialistwebsite.org/en/articles/2026/08/22/mtny-a22.html"
+        },
+        {
+          "title": "(PDF) Cuando un crédito por $6.500 millones poco importa. La verdadera influencia empresarial del Grupo Luksic",
+          "url": "https://www.researchgate.net/publication/320591706_Cuando_un_credito_por_6500_millones_poco_importa_La_verdadera_influencia_empresarial_del_Grupo_Luksic"
+        }
+      ]
+    },
+    "masayoshi-son": {
+      "query": "\"Masayoshi Son\" Japan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Asia Policy Point: White House Dinner for Prime Minister Sanae Takaichi",
+          "url": "https://www.jiaponline.org/2026/03/white-house-dinner-for-prime-minister.html"
+        },
+        {
+          "title": "Inside the eccentric, relentless deal making of SoftBank's Masayoshi Son - Los Angeles Times",
+          "url": "https://www.latimes.com/business/la-fi-tn-masayoshi-son-softbank-20180102-story.html"
+        },
+        {
+          "title": "Trump’s Japan Deal and the Disappearing Appropriations Clause",
+          "url": "https://www.justsecurity.org/123478/trump-japan-deal-appropriations-clause/"
+        },
+        {
+          "title": "Inside the Eccentric, Unstoppable Deal-Making of Masayoshi Son - Bloomberg",
+          "url": "https://www.bloomberg.com/news/features/2018-01-02/inside-the-eccentric-unstoppable-deal-making-of-masayoshi-son"
+        },
+        {
+          "title": "Masayoshi Son was among the first to flout Japan's business establishment - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/business/1999/05/09/masayoshi-son-was-among-the-first-to-flout-japans-business-establishment/a0708096-cf71-4dab-ad39-7ce55be0290c/"
+        },
+        {
+          "title": "Masayoshi Son",
+          "url": "https://en.wikipedia.org/wiki/Masayoshi_Son"
+        }
+      ]
+    }
+  }
+}

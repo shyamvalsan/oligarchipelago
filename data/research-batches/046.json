@@ -1,0 +1,67 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "zhang-zhidong": {
+      "query": "\"Zhang Zhidong\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Zhang Zhidong",
+          "url": "https://en.wikipedia.org/wiki/Zhang_Zhidong"
+        },
+        {
+          "title": "Full article: Britain and China’s redemption of the Canton–Hankow railway, 1898–1905",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/17535654.2024.2506907"
+        },
+        {
+          "title": "American China Development Company",
+          "url": "https://en.wikipedia.org/wiki/American_China_Development_Company"
+        }
+      ]
+    },
+    "harold-hamm": {
+      "query": "\"Harold Hamm\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Why oil tycoon Harold Hamm is raising millions to elect Trump in 2024 - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2024/08/13/oil-donors-trump-pac-harold-hamm-election//"
+        },
+        {
+          "title": "Harold Hamm",
+          "url": "https://en.wikipedia.org/wiki/Harold_Hamm"
+        },
+        {
+          "title": "Here’s the back story on how Donald Trump won over oil billionaire Harold Hamm - The Washington Post",
+          "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/07/20/heres-the-back-story-on-how-donald-trump-won-over-oil-billionaire-harold-hamm/"
+        },
+        {
+          "title": "Harold G Hamm - Person | PurchasingPolicy.org",
+          "url": "https://www.purchasingpolicy.org/entity/6d2c3f0b-beed-46ef-b69e-47cfe6a42f5e"
+        },
+        {
+          "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war | US news | The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/16/harold-hamm-trump-oil-israel-iran"
+        },
+        {
+          "title": "‘He's there to run it’: Trump’s energy whisperer looks ready to call the shots at major oil trade association - E&E News by POLITICO",
+          "url": "https://www.eenews.net/articles/hes-there-to-run-it-trumps-energy-whisperer-looks-ready-to-call-the-shots-at-major-oil-trade-association/"
+        }
+      ]
+    },
+    "zou-zhinong": {
+      "query": "\"Zou Zhinong\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "adam-foroughi": {
+      "query": "\"Adam Foroughi\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

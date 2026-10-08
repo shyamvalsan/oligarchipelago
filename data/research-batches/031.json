@@ -1,0 +1,105 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "vinod-adani": {
+      "query": "\"Vinod Adani\" Cyprus political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Vinod Adani",
+          "url": "https://en.wikipedia.org/wiki/Vinod_Adani"
+        },
+        {
+          "title": "Documents Provide Fresh Insight Into Allegations of Stock Manipulation That Rocked India’s Powerful Adani Group | OCCRP",
+          "url": "https://www.occrp.org/en/investigation/documents-provide-fresh-insight-into-allegations-of-stock-manipulation-that-rocked-indias-powerful-adani-group"
+        },
+        {
+          "title": "Congress alleges SEBI probe into Adani stalled by ‘silence’ from tax-haven countries - The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-alleges-sebi-probe-into-adani-stalled-by-silence-from-tax-haven-countries/articleshow/121875818.cms?from=mdr"
+        },
+        {
+          "title": "Vinod Adani, Pankaj Oswal among 66 Indians who got golden passport | Express Investigations News - The Indian Express",
+          "url": "https://indianexpress.com/article/express-exclusive/vinod-adani-pankaj-oswal-among-66-indians-who-got-golden-passport-9026977/lite/"
+        },
+        {
+          "title": "Cyprus Confidential Explained: Why Probe On 'Golden Passport' For Vinod Adani Has Sparked A Row – Outlook Business",
+          "url": "https://www.outlookbusiness.com/amp/story/news/cyprus-confidential-explained-why-probe-on-golden-passport-for-vinod-adani-has-sparked-a-row"
+        },
+        {
+          "title": "EXCLUSIVE: Documents show investments by Adani Group associates into the Group – Part 2 - Adani Watch",
+          "url": "https://www.adaniwatch.org/exclusive_documents_show_investments_by_adani_group_associates_into_the_group_part_2"
+        }
+      ]
+    },
+    "qin-yinglin": {
+      "query": "\"Qin Yinglin\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Qin Yinglin",
+          "url": "https://en.wikipedia.org/wiki/Qin_Yinglin"
+        },
+        {
+          "title": "China's poverty relief experience highlighted in 'two sessions' discussions",
+          "url": "https://english.www.gov.cn/news/topnews/202103/09/content_WS6046d7e2c6d0719374afa6c9.html"
+        },
+        {
+          "title": "Qin Yinglin",
+          "url": "https://de.wikipedia.org/wiki/Qin_Yinglin"
+        }
+      ]
+    },
+    "chen-tianshi": {
+      "query": "\"Chen Tianshi\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Chen Tianshi",
+          "url": "https://en.wikipedia.org/wiki/Chen_Tianshi"
+        },
+        {
+          "title": "Chinese AI start-up founder now world's 3rd richest under 40—how US chip curbs helped Chen Tianshi build a fortune | Company Business News",
+          "url": "https://www.livemint.com/companies/people/chinese-ai-start-up-founder-now-worlds-3rd-richest-under-40-how-us-chip-curbs-helped-chen-tianshi-build-a-fortune-11763337189203.html"
+        },
+        {
+          "title": "Thursday, March 9, 2023",
+          "url": "https://s3.amazonaws.com/fara2.opensecrets.org/3457-Informational-Materials-20230310-102.pdf"
+        },
+        {
+          "title": "2011H-DiploH-Diplo Review Essays Editor: Diane Labrosse",
+          "url": "https://www.h-diplo.org/essays/PDF/Taylor-ReviewForum.pdf"
+        }
+      ]
+    },
+    "dang-yanbao": {
+      "query": "\"Dang Yanbao\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2016/0201/LTN20160201043.pdf"
+        },
+        {
+          "title": "Dang Yanbao",
+          "url": "https://en.wikipedia.org/wiki/Dang_Yanbao"
+        },
+        {
+          "title": "POLICY BRIEFS SERIES",
+          "url": "https://rajawali.hks.harvard.edu/wp-content/uploads/sites/2/2024/08/331036_hks_policy_brief_china_philanthropy_v4.pdf"
+        },
+        {
+          "title": "Dang Yanbao, Chairman of China Baofeng and an executive Director, and Dang Ziwei entered into a scheme of agreement to acquire additional 30.09% stake in China Baofeng (International) Limited for approximately HKD 520 million. | MarketScreener",
+          "url": "https://www.marketscreener.com/quote/stock/CHINA-BAOFENG-INTERNATION-11049093/news/Dang-Yanbao-Chairman-of-China-Baofeng-and-an-executive-Director-and-Dang-Ziwei-entered-into-a-sche-33827746/"
+        },
+        {
+          "title": "China's Most Generous: Examining",
+          "url": "https://dash.harvard.edu/bitstreams/06cc1bc5-f92d-4e1a-a39f-acf7a8b24db2/download"
+        }
+      ]
+    }
+  }
+}

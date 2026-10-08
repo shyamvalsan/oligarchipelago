@@ -1,0 +1,77 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "john-tu": {
+      "query": "\"John Tu\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Family Immigration Led To John Tu's Billion Dollar Company",
+          "url": "https://www.forbes.com/sites/stuartanderson/2017/12/19/family-immigration-led-to-john-tus-billion-dollar-company/"
+        },
+        {
+          "title": "John Tu",
+          "url": "https://en.wikipedia.org/wiki/John_Tu"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — HOUSE",
+          "url": "https://www.govinfo.gov/link/crec/164/h/5436"
+        }
+      ]
+    },
+    "brad-jacobs": {
+      "query": "\"Brad Jacobs\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "RED CROSS CHAPTER UNDER FIRE - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/local/1993/09/09/red-cross-chapter-under-fire/3fe8221e-a386-4ae5-8a3a-119d819c55fd/"
+        }
+      ]
+    },
+    "jan-koum": {
+      "query": "\"Jan Koum\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Jan Koum",
+          "url": "https://en.wikipedia.org/wiki/Jan_Koum"
+        },
+        {
+          "title": "AIPAC Investigation — $126.9M 2024 Election Spending | AFNPT",
+          "url": "https://americansfortransparency.org/investigations/aipac"
+        },
+        {
+          "title": "The Donors Behind AIPAC's Political Money — VoteLog",
+          "url": "https://votelog.org/investigations/aipac-top-donors"
+        },
+        {
+          "title": "Where Did a Pro-Israel Super PAC Spend in California Congressional Races? | KQED",
+          "url": "https://www.kqed.org/news/12016915/aipac-spent-big-in-the-2024-election-how-did-the-money-show-up-in-californias-congressional-races"
+        },
+        {
+          "title": "$127 Million, 322 Races, and the Shell PACs That Hide the Money | VALOR Institute",
+          "url": "https://valor-institute.org/reports/aipac-spending-network-democratic-primaries-2026-04-14/"
+        },
+        {
+          "title": "AIPAC’s Aggressive Spending Is Bad for the Democratic Party—and Democracy Itself | The New Republic",
+          "url": "https://newrepublic.com/article/167169/aipac-aggressive-spending-bad-democratic-party-democracy"
+        }
+      ]
+    },
+    "zhou-qunfei": {
+      "query": "\"Zhou Qunfei\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Who is Zhou Qunfei, the self-made billionaire at China's state banquet for Trump?",
+          "url": "https://moneyweek.com/people/zhou-qunfei-chinas-touchscreen-queen"
+        }
+      ]
+    }
+  }
+}

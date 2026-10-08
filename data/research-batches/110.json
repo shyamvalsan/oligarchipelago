@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "agnete-kirk-thinggaard": {
+      "query": "\"Agnete Kirk Thinggaard\" Denmark political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "yitzhak-tshuva": {
+      "query": "\"Yitzhak Tshuva\" Israel political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Tshuva blows Up $6.7 Billion gas deal | The Jerusalem Post",
+          "url": "https://www.jpost.com/business-and-innovation/energy-and-infrastructure/article-910996"
+        },
+        {
+          "title": "Tshuva wants higher shekel price for gas - Globes",
+          "url": "https://en.globes.co.il/en/article-tshuva-wants-higher-shekel-price-for-gas-1001545351"
+        },
+        {
+          "title": "A ‘Leviathan’ Of A Controversy - New York Jewish Week",
+          "url": "https://www.jta.org/2015/11/04/ny/a-leviathan-of-a-controversy"
+        },
+        {
+          "title": "Yitzhak Tshuva",
+          "url": "https://en.wikipedia.org/wiki/Yitzhak_Tshuva"
+        },
+        {
+          "title": "Political parties and natural resource governance: A practical guide for developing resource policy positions",
+          "url": "https://resourcegovernance.org/sites/default/files/documents/israel-case-study.pdf"
+        },
+        {
+          "title": "The Blogs: Why should you and I give the gas monopoly NIS 325 million? | Ariel Paz-Sawicki | The Times of Israel",
+          "url": "https://blogs.timesofisrael.com/a-gift-of-325-million-nis-for-the-gas-monopoly-lets-stop-it/"
+        }
+      ]
+    },
+    "zhang-congyuan": {
+      "query": "\"Zhang Congyuan\" Taiwan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "張聰淵",
+          "url": "https://zh.wikipedia.org/wiki/%E5%BC%B5%E8%81%B0%E6%B7%B5"
+        }
+      ]
+    },
+    "joe-gebbia": {
+      "query": "\"Joe Gebbia\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Joe Gebbia",
+          "url": "https://en.wikipedia.org/wiki/Joe_Gebbia"
+        },
+        {
+          "title": "Joe Gebbia Is Making the Government Beautiful Again",
+          "url": "https://www.thefp.com/p/joe-gebbia-is-making-the-government"
+        },
+        {
+          "title": "Questions arise over donations to Brookhaven city councilman - WSB-TV Channel 2 - Atlanta",
+          "url": "https://www.wsbtv.com/news/local/records-show-questionable-behavior-brookhaven-city/54034092/"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.congress.gov/119/crec/2025/05/05/171/74/CREC-2025-05-05-pt1-PgS2747-3.pdf"
+        },
+        {
+          "title": "National Design Studio",
+          "url": "https://en.wikipedia.org/wiki/National_Design_Studio"
+        },
+        {
+          "title": "There Are No More Red Lines",
+          "url": "https://www.theatlantic.com/technology/archive/2025/02/jeff-bezos-great-emboldening/681886/?utm_source=apple_news"
+        }
+      ]
+    }
+  }
+}

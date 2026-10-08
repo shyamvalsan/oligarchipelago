@@ -1,0 +1,101 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "michael-herz": {
+      "query": "\"Michael Herz\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Michael Herz (Unternehmer)",
+          "url": "https://de.wikipedia.org/wiki/Michael_Herz_%28Unternehmer%29"
+        },
+        {
+          "title": "Wolfgang Peiner",
+          "url": "https://de.wikipedia.org/wiki/Wolfgang_Peiner"
+        },
+        {
+          "title": "Michael Herz | Voting rights Announcements - EQS News",
+          "url": "https://www.eqs-news.com/news/stimmrechtsanteile/michael-herz/29e0ca54-3d7d-4f1f-b826-22f8fdce6551"
+        },
+        {
+          "title": "Michael Herz",
+          "url": "https://de.wikipedia.org/wiki/Michael_Herz"
+        }
+      ]
+    },
+    "wolfgang-herz": {
+      "query": "\"Wolfgang Herz\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Wolfgang Peiner",
+          "url": "https://de.wikipedia.org/wiki/Wolfgang_Peiner"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.kyret.ky.gov/Investments/Proxy%20Voting%20Reports/2024%20June%20Proxy%20Voting%20Report.pdf"
+        }
+      ]
+    },
+    "paul-tudor-jones-ii": {
+      "query": "\"Paul Tudor Jones, II.\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Commission on Ethics and Lobbying in Government Lobbying Search",
+          "url": "https://reports.ethics.ny.gov/publicquery/ViewFiling/SOFPDF/NDkyMzAy0"
+        },
+        {
+          "title": "Interview with Paul Tudor Jones II",
+          "url": "https://doczz.net/doc/8669396/interview-with-paul-tudor-jones-ii"
+        },
+        {
+          "title": "U-Va.: A donor in the crisis - The Washington Post",
+          "url": "https://www.washingtonpost.com/local/education/u-va-a-donor-in-the-crisis/2012/08/04/b9e0e146-ce86-11e1-aa14-708bac2c7ee9_story.html"
+        },
+        {
+          "title": "Paul Tudor Jones - Influence Watch",
+          "url": "https://www.influencewatch.org/person/paul-tudor-jones/"
+        },
+        {
+          "title": "Paul Tudor Jones",
+          "url": "https://en.wikipedia.org/wiki/Paul_Tudor_Jones"
+        }
+      ]
+    },
+    "tatyana-kim": {
+      "query": "\"Tatyana Kim\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Tatyana Kim",
+          "url": "https://en.wikipedia.org/wiki/Tatyana_Kim"
+        },
+        {
+          "title": "The Era of Wild Putinism: How War Is Changing the Russian Regime and Elites | Carnegie Endowment for International Peace",
+          "url": "https://carnegieendowment.org/russia-eurasia/research/2024/11/russia-wild-putinism-politics"
+        },
+        {
+          "title": "Fakt yoxla",
+          "url": "https://www.factchecking.az/az/news/view/3543/to_top"
+        },
+        {
+          "title": "Tatyana Kim, la mujer más rica de Rusia con un imperio en llamas",
+          "url": "https://cincodias.elpais.com/opinion/2026-08-23/tatyana-kim-la-mujer-mas-rica-de-rusia-con-un-imperio-en-llamas.html"
+        },
+        {
+          "title": "Wildberries CEO’s Estranged Husband Says Kadyrov Helped Keep Him Alive - The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2024/09/25/wildberries-ceos-estranged-husband-says-kadyrov-helped-keep-him-alive-a86469"
+        },
+        {
+          "title": "Russia’s Richest Woman Tatanya Kim Sees Fortune Shrink After Drone Strikes - Bloomberg",
+          "url": "https://bloomberg.com/news/articles/2026-09-16/russia-s-richest-woman-sees-fortune-shrink-after-drone-strikes?srnd=phx-politics"
+        }
+      ]
+    }
+  }
+}

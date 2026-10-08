@@ -1,0 +1,105 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "jonathan-gray": {
+      "query": "\"Jonathan Gray\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Jonathan D. Gray",
+          "url": "https://en.wikipedia.org/wiki/Jonathan_D._Gray"
+        },
+        {
+          "title": "Lobbyists are still feeling good in Mamdani’s New York - City & State New York",
+          "url": "https://www.cityandstateny.com/policy/2026/08/lobbyists-are-still-feeling-good-mamdanis-new-york/415578/?oref=csny-author-river"
+        },
+        {
+          "title": "Jonathan Gray: Paris has its new Richelieu - Demokratiezentrum für Transparenz",
+          "url": "https://dctransparency.com/jonathan-gray-paris-has-its-new-richelieu/"
+        },
+        {
+          "title": "Jonathan Gray - Triton Capitol Group | LinkedIn",
+          "url": "https://www.linkedin.com/in/jonathan-gray-91431817a"
+        }
+      ]
+    },
+    "viktor-kharitonin": {
+      "query": "\"Viktor Kharitonin\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Харитонин, Виктор Владимирович",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%BE%D0%BD%D0%B8%D0%BD%2C_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "title": "Viktor Kharitonin",
+          "url": "https://en.wikipedia.org/wiki/Viktor_Kharitonin"
+        },
+        {
+          "title": "Page 5 of 16  ANZAM 2014",
+          "url": "https://www.anzam.org/wp-content/uploads/pdf-manager/1673_ANZAM-2014-246.PDF"
+        },
+        {
+          "title": "Report: Abramovich tied to Russian payment platform created to evade sanctions, serving drone makers — Meduza",
+          "url": "https://meduza.io/en/news/2026/04/29/report-abramovich-tied-to-russian-payment-platform-created-to-evade-sanctions-serving-drone-makers"
+        },
+        {
+          "title": "Viktor Kharitonin – OpenSanctions",
+          "url": "https://www.opensanctions.org/entities/Q4495880/"
+        },
+        {
+          "title": "Annual Privatization Report 2023 — Aviation",
+          "url": "https://reason.org/wp-content/uploads/annual-privatization-report-2023-aviation.pdf"
+        }
+      ]
+    },
+    "philippe-laffont": {
+      "query": "\"Philippe Laffont\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Philippe Laffont | Ithildin",
+          "url": "https://www.ithildin.app/dossiers/philippe-laffont/"
+        },
+        {
+          "title": "July 29, 2020",
+          "url": "https://www.congress.gov/116/meeting/house/110883/documents/HHRG-116-JU05-20200729-SD005.pdf"
+        }
+      ]
+    },
+    "wolfgang-marguerre": {
+      "query": "\"Wolfgang Marguerre\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Wolfgang Marguerre",
+          "url": "https://de.wikipedia.org/wiki/Wolfgang_Marguerre"
+        },
+        {
+          "title": "Annual Report",
+          "url": "https://ircenter.handelsblatt.com/download/companies/snp/Annual%20Reports/DE0007203705-JA-2022-EQ-E-00.pdf"
+        },
+        {
+          "title": "Heidelberg: Insiderhandel mit SNP-Aktien von Wolfgang Marguerre? - Wirtschaft Regional - Rhein-Neckar-Zeitung",
+          "url": "https://www.rnz.de/politik/wirtschaft-regional_artikel%2C-Heidelberg-Insiderhandel-mit-SNP-Aktien-von-Wolfgang-Marguerre-_arid%2C2420529.html"
+        },
+        {
+          "title": "Marguerres Goldader  – ruprecht",
+          "url": "https://www.ruprecht.de/2026/08/23/marguerres-goldader/"
+        },
+        {
+          "title": "Wolfgang Marguerre | Gesamte Stimmrechte - EQS News",
+          "url": "https://www.eqs-news.com/de/news/voting-rights/wolfgang-marguerre/7f98c9ad-6395-49cf-8f1b-363519f45aa1_en"
+        },
+        {
+          "title": "Insiderhandel: Vorwürfe gegen Octapharma-Boss und Heidelberger Milliardär Wolfgang Marguerre - WELT",
+          "url": "https://www.welt.de/politik/plus6a96827cd32756d4be19b05c/insiderhandel-vorwuerfe-gegen-octapharma-boss-und-heidelberger-milliardaer-wolfgang-marguerre.html"
+        }
+      ]
+    }
+  }
+}

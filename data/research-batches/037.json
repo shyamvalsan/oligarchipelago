@@ -1,0 +1,105 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "georg-schaeffler": {
+      "query": "\"Georg Schaeffler\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "The IRS Tried to Take on the Ultrawealthy. It Didn’t Go Well. — ProPublica",
+          "url": "https://www.propublica.org/article/ultrawealthy-taxes-irs-internal-revenue-service-global-high-wealth-audits"
+        },
+        {
+          "title": "Schaeffler-Gruppe",
+          "url": "https://de.wikipedia.org/wiki/Schaeffler-Gruppe"
+        },
+        {
+          "title": "Georg Friedrich Wilhelm Schaeffler",
+          "url": "https://de.wikipedia.org/wiki/Georg_Friedrich_Wilhelm_Schaeffler"
+        },
+        {
+          "title": "Schulden in Milliardenhöhe - Familie Schaeffler muss Macht abgeben - Wirtschaft - SZ.de",
+          "url": "https://www.sueddeutsche.de/wirtschaft/schulden-in-milliardenhoehe-familie-schaeffler-muss-macht-abgeben-1.472395"
+        },
+        {
+          "title": "Der Kampf ums Überleben",
+          "url": "https://www.deutschlandfunk.de/der-kampf-ums-ueberleben-104.html"
+        },
+        {
+          "title": "Wirtschaftskrise : Schaeffler fehlen sechs Milliarden Euro | DIE ZEIT",
+          "url": "https://www.zeit.de/online/2009/09/schaeffler-milliardenluecke-mitbestimmung"
+        }
+      ]
+    },
+    "brett-adcock": {
+      "query": "\"Brett Adcock\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Brett Adcock - Ohio Contributor - Transparency USA",
+          "url": "https://www.transparencyusa.org/oh/contributor/brett-adcock"
+        }
+      ]
+    },
+    "karl-albrecht-jr": {
+      "query": "\"Karl Albrecht Jr.\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Karl Albrecht jr.",
+          "url": "https://de.wikipedia.org/wiki/Karl_Albrecht_jr."
+        },
+        {
+          "title": "Die Aldi-Erben: Wer hinter dem Discounter-Imperium steht",
+          "url": "https://newstime.joyn.de/themen/aldi/aldi-erben-120525"
+        },
+        {
+          "title": "Karl Albrecht Jr.",
+          "url": "https://en.wikipedia.org/wiki/Karl_Albrecht_Jr."
+        },
+        {
+          "title": "Competing for",
+          "url": "https://extranet.greens-efa.eu/public/media/file/1/5920"
+        },
+        {
+          "title": "Microsoft Word - Master Thesis - FInal Version.docx",
+          "url": "https://diposit.ub.edu/server/api/core/bitstreams/50ff1f11-7aea-4715-b908-2d259bef0a6d/content"
+        },
+        {
+          "title": "TABLE OF CONTENTS",
+          "url": "https://goliathwatch.de/wp-content/uploads/2020/03/ENCO-2020-Feb-know_your_billionaires-1-2-engl.pdf"
+        }
+      ]
+    },
+    "beate-heister": {
+      "query": "\"Beate Heister\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Karl Albrecht jr.",
+          "url": "https://de.wikipedia.org/wiki/Karl_Albrecht_jr."
+        },
+        {
+          "title": "Beate Heister",
+          "url": "https://de.wikipedia.org/wiki/Beate_Heister"
+        },
+        {
+          "title": "Bayerns Justizministerin Beate Merk wird Koordinatorin der \"B-Justizminister\" / Merk: \"Unsere Aufgabe ist es, in wichtigen Fragen der bürgerlichen Rechtspolitik mit einer Stimme zu sprechen !\"",
+          "url": "https://www.justiz.bayern.de/presse-und-medien/pressemitteilungen/archiv/2008/31.php"
+        },
+        {
+          "title": "Microsoft Word - Master Thesis - FInal Version.docx",
+          "url": "https://diposit.ub.edu/server/api/core/bitstreams/50ff1f11-7aea-4715-b908-2d259bef0a6d/content"
+        },
+        {
+          "title": "TABLE OF CONTENTS",
+          "url": "https://goliathwatch.de/wp-content/uploads/2020/03/ENCO-2020-Feb-know_your_billionaires-1-2-engl.pdf"
+        }
+      ]
+    }
+  }
+}

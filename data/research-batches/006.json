@@ -1,0 +1,85 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "mukesh-ambani": {
+      "query": "\"Mukesh Ambani\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Essar leaks",
+          "url": "https://en.wikipedia.org/wiki/Essar_leaks"
+        },
+        {
+          "title": "Reliance paid ₹2.16 lakh crore to the government in FY26 — where did the money come from?  - BusinessToday",
+          "url": "https://www.businesstoday.in/latest/corporate/story/reliance-paid-rs2-16-lakh-crore-to-the-government-in-fy26-where-did-the-money-come-from-533739-2026-05-28"
+        },
+        {
+          "title": "Does Adani or Ambani Really Control Modi's Government? What the Money Trail Actually Shows",
+          "url": "https://www.newszest.in/2026/09/does-adani-or-ambani-really-control.html"
+        },
+        {
+          "title": "Mukesh Ambani runs India, not PM, says Arvind Kejriwal in his third 'expose': Highlights",
+          "url": "https://www.ndtv.com/india-news/mukesh-ambani-runs-india-not-pm-says-arvind-kejriwal-in-his-third-expose-highlights-503246"
+        },
+        {
+          "title": "PMO gets complaint: Corporate tapped VVIPs | India News - The Indian Express",
+          "url": "https://indianexpress.com/article/india/india-news-india/essar-tapped-ambani-brothers-suresh-prabhu-atal-bihari-vajpayee-pmo-staff-rajiv-mehrishi-2857573/"
+        },
+        {
+          "title": "Corrected - Kejriwal takes on Mukesh Ambani over gas pricing",
+          "url": "https://www.business-standard.com/article/reuters/corrected-kejriwal-takes-on-mukesh-ambani-over-gas-pricing-114021100903_1.html"
+        }
+      ]
+    },
+    "giancarlo-devasini": {
+      "query": "\"Giancarlo Devasini\" Italy political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "In Costa Azzurra, nel ristorante di Giancarlo Devasini, il più ricco d’Italia: seduti a tavola (sulla spiaggia) 127 miliardi di euro | Corriere.it",
+          "url": "https://www.corriere.it/economia/finanza/26_luglio_12/costa-azzurra-ristorante-piu-ricco-italia-devasini-144b3375-3900-4299-962d-19e130e99xlk_amp.shtml"
+        }
+      ]
+    },
+    "thomas-peterffy": {
+      "query": "\"Thomas Peterffy\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Thomas Peterffy",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Peterffy"
+        },
+        {
+          "title": "How Republican Billionaires Learned to Love Trump Again | The New Yorker",
+          "url": "https://www.newyorker.com/magazine/2024/10/28/how-republican-billionaires-learned-to-love-trump-again"
+        },
+        {
+          "title": "Questions arise over independent donations to Foley campaign",
+          "url": "https://www.thehour.com/news/article/Questions-arise-over-independent-donations-to-8095326.php"
+        }
+      ]
+    },
+    "julia-koch": {
+      "query": "\"Julia Koch\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Koch PAC Funding of Federal Political Campaigns - Greenpeace - Greenpeace",
+          "url": "https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-pac-funding-of-federal-political-campaigns/"
+        },
+        {
+          "title": "Lobbying and Political Spending",
+          "url": "https://www.greenpeace.org/static/planet4-usa-stateless/2024/11/b1e6e337-koch-industries-still-fueling-climate-denial-2011-update-greenpeace.pdf"
+        },
+        {
+          "title": "Ray Dalio, Julia Koch and Tom Pritzker Have 501c4s That Act Like Foundations | Inside Philanthropy",
+          "url": "https://www.insidephilanthropy.com/home/ray-dalio-julia-koch-and-tom-pritzker-have-501c4s-that-act-like-foundations"
+        }
+      ]
+    }
+  }
+}

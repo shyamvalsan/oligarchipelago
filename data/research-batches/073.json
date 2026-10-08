@@ -1,0 +1,77 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "arthur-blank": {
+      "query": "\"Arthur Blank\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Arthur Blank - Influence Watch",
+          "url": "https://www.influencewatch.org/person/arthur-blank/"
+        }
+      ]
+    },
+    "charles-butt": {
+      "query": "\"Charles Butt\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "HEB Political Donations: PAC, Lobbying, and Vouchers - LegalClarity",
+          "url": "https://legalclarity.org/heb-political-donations-pac-lobbying-and-vouchers/"
+        },
+        {
+          "title": "September 30, 1992",
+          "url": "https://www.congress.gov/102/crecb/1992/09/30/GPO-CRECB-1992-pt20-2-3.pdf"
+        },
+        {
+          "title": "DENOUNCING CHARLES BUTT AND AFFILIATES",
+          "url": "https://dallasexpress.com/wp-content/uploads/2024/03/6601de7865115.pdf.pdf"
+        }
+      ]
+    },
+    "francesco-gaetano-caltagirone": {
+      "query": "\"Francesco Gaetano Caltagirone\" Italy political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Il patto segreto sulla scalata a Mediobanca: “Operazione facilitata dal Governo”. Il ruolo del Mef - la Repubblica",
+          "url": "https://www.repubblica.it/economia/2025/11/29/news/inchiesta_mps_mediobanca_generali_carte_accordo_segreto_caltagirone_lovaglio_milleri-425010213/amp/"
+        },
+        {
+          "title": "Mps-Mediobanca, così la Consob accettò la versione del Tesoro: cosa successe davvero nel collocamento del 15% di azioni | Corriere.it",
+          "url": "https://www.corriere.it/economia/finanza/25_dicembre_17/mps-mediobanca-cosi-la-consob-accetto-la-versione-del-tesoro-cosa-successe-davvero-nel-collocamento-del-15-di-azioni-d5efc19b-0658-4b01-a1ab-5b22b7af8xlk.shtml"
+        },
+        {
+          "title": "CALTAGIRONE SPA Azionariato - AREA PUBBLICA - CONSOB",
+          "url": "https://www.consob.it/web/area-pubblica/w/caltagirone-spa-azionariato-2"
+        },
+        {
+          "title": "Mps e le tante facce di Francesco Gaetano Caltagirone | Il Cittadino Online",
+          "url": "https://www.ilcittadinoonline.it/economia-e-politica/mps-e-le-tante-facce-di-francesco-gaetano-caltagirone/"
+        },
+        {
+          "title": "«Caltagirone disse: Unipol un sistema Consorte chiamava Massimo e Piero» - Corriere della Sera",
+          "url": "https://www.corriere.it/Primo_Piano/Cronache/2007/06_Giugno/17/caltagirone_disse_unipol_un_sistema.shtml"
+        },
+        {
+          "title": "Francesco Gaetano Caltagirone",
+          "url": "https://it.wikipedia.org/wiki/Francesco_Gaetano_Caltagirone"
+        }
+      ]
+    },
+    "thomas-schmidheiny": {
+      "query": "\"Thomas Schmidheiny\" Switzerland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Thomas Schmidheiny",
+          "url": "https://de.wikipedia.org/wiki/Thomas_Schmidheiny"
+        }
+      ]
+    }
+  }
+}

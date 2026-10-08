@@ -1,0 +1,59 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "maximilian-viessmann": {
+      "query": "\"Maximilian Viessmann\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Viessmann",
+          "url": "https://de.wikipedia.org/wiki/Viessmann"
+        }
+      ]
+    },
+    "zhang-daocai": {
+      "query": "\"Zhang Daocai\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "marc-benioff": {
+      "query": "\"Marc Benioff\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "The Gospel of Wealth According to Marc Benioff | WIRED",
+          "url": "https://www.wired.com/story/gospel-of-wealth-according-to-marc-benioff/"
+        },
+        {
+          "title": "Why Salesforce's Marc Benioff is cheerleading for Donald Trump",
+          "url": "https://www.sfchronicle.com/sf/article/salesforce-marc-benioff-trump-19953758.php"
+        },
+        {
+          "title": "Hillary Clinton and Marc Benioff: From Alliance to Trump - LegalClarity",
+          "url": "https://legalclarity.org/hillary-clinton-and-marc-benioff-from-alliance-to-trump/"
+        },
+        {
+          "title": "Why California tech leaders are friending and funding Trump - Los Angeles Times",
+          "url": "https://www.latimes.com/politics/story/2025-01-11/california-tech-leaders-trump"
+        },
+        {
+          "title": "The billionaire tech CEO caught between Trump and San Francisco - The Washington Post",
+          "url": "https://www.washingtonpost.com/technology/2025/11/16/marc-benioff-controversy-san-francisco//"
+        },
+        {
+          "title": "Proposition A - California Payee - Transparency USA",
+          "url": "https://www.transparencyusa.org/ca/payee/proposition-a?cycle=2017-to-now"
+        }
+      ]
+    },
+    "francis-choi": {
+      "query": "\"Francis Choi\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

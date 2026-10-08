@@ -1,0 +1,192 @@
+{
+  "profiles": {
+    "anthoni-salim-1": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Moderate / episode limited",
+      "period": "Suharto-era business relationships and post-1998 restructuring; studies published 2007 and 2012",
+      "summary": "Research places Anthoni, not only his father, inside the Salim Group’s historical state–business network. It also describes his efforts to reduce dependence on the Suharto relationship. This is a historical assessment, not an assertion of continuing presidential patronage.",
+      "mechanism": "Politically connected ventures and industrial-policy service ↔ protection and support",
+      "support": [
+        {
+          "text": "Dieleman and Boddewyn identify Anthony Salim in management roles in ventures with Suharto-family participants. Their case study also cites his explanation that a steel investment served a government industrialization task.",
+          "source": "Dieleman & Boddewyn: Organization Studies case study, Tables 2–3",
+          "url": "https://www.researchgate.net/publication/228217616_Using_Organization_Structure_to_Buffer_Political_Ties_in_Emerging_Markets_A_Case_Study",
+          "date": "2012",
+          "kind": "Scholarly person-level attribution",
+          "access": "Author manuscript text reviewed"
+        },
+        {
+          "text": "Dieleman’s corporate history describes continuing protected licenses and state support during Anthoni’s modernization efforts, rather than treating every benefit as confined to his father’s founding period.",
+          "source": "Marleen Dieleman: The Rhythm of Strategy, pp. 124–125",
+          "url": "https://web2-bschool.nus.edu.sg/wp-content/uploads/media_rp/publications/Q35HU1431488287.pdf",
+          "date": "2007",
+          "kind": "Scholarly historical analysis",
+          "access": "PDF text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same history describes diversification and professional management intended to reduce reliance on political relationships. New politically connected ventures were a minority of the group’s new partnerships.",
+          "source": "Dieleman: modernization and dependence limits",
+          "url": "https://web2-bschool.nus.edu.sg/wp-content/uploads/media_rp/publications/Q35HU1431488287.pdf",
+          "date": "2007",
+          "kind": "Material counterevidence",
+          "access": "PDF text reviewed"
+        },
+        {
+          "text": "The manuscript warns that its company-database entries do not necessarily describe still-operating firms or unchanged ownership. Historical board links cannot be presented as current ones.",
+          "source": "Dieleman & Boddewyn: Table 2 qualification",
+          "url": "https://www.researchgate.net/publication/228217616_Using_Organization_Structure_to_Buffer_Political_Ties_in_Emerging_Markets_A_Case_Study",
+          "date": "2012",
+          "kind": "Temporal and attribution limit",
+          "access": "Author manuscript text reviewed"
+        }
+      ],
+      "limitations": "The two works share an author and research base, not two wholly independent investigations. Anthoni is also rendered Anthony in the sources. No personal criminal finding is asserted. Group benefits are linked to his documented management role, not inherited guilt; the extent of his individual direction is less certain than the historical network."
+    },
+    "pham-nhat-vuong": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Moderate / episode limited",
+      "period": "North–South high-speed railway proposal, May–December 2025",
+      "summary": "Vuong’s newly established railway company sought unusually favorable public financing and received high-level consideration. But the proposal was withdrawn; a request for a subsidy must not be reported as an awarded or paid benefit.",
+      "mechanism": "Owner-founded infrastructure bid → requested public financing, not a completed award",
+      "support": [
+        {
+          "text": "Reuters links Vuong personally to the newly established VinSpeed and reports a government document welcoming consideration of its bid. The proposal sought state financing for 80% of costs, at zero interest over 35 years.",
+          "source": "Reuters: Khanh Vu and Francesco Guarascio",
+          "url": "https://www.marketscreener.com/quote/stock/VINGROUP-6603353/news/Vietnam-to-consider-Vinspeed-proposal-to-build-high-speed-railway-49966016/",
+          "date": "2025-05-15",
+          "kind": "Named proposal and official consideration",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Reuters reports Vingroup’s December withdrawal and concerns raised by the central bank and finance ministry about leverage, guarantees and the subsidy implications of the requested terms.",
+          "source": "Reuters: Phuong Nguyen, withdrawal report",
+          "url": "https://hk.marketscreener.com/news/vietnam-s-vingroup-to-withdraw-bid-for-67-bln-north-south-high-speed-railway-ce7e59dadf8af620",
+          "date": "2025-12-25",
+          "kind": "Documented outcome and official reservations",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Vietnam News Agency reports the company’s explanation: it wanted to concentrate resources on other assigned projects. This is its stated rationale, not independent proof of why it withdrew.",
+          "source": "Vietnam News Agency: withdrawal statement",
+          "url": "https://en.vietnamplus.vn/vingroup-withdraws-bid-for-northsouth-high-speed-railway-project-post334917.vnp",
+          "date": "2025-12-25",
+          "kind": "Subject response as reported by state news agency",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The December report documents a withdrawn bid, not a loan disbursement. Ministry objections show that initial political welcome did not remove scrutiny of the requested terms.",
+          "source": "Reuters: outcome qualification",
+          "url": "https://hk.marketscreener.com/news/vietnam-s-vingroup-to-withdraw-bid-for-67-bln-north-south-high-speed-railway-ce7e59dadf8af620",
+          "date": "2025-12-25",
+          "kind": "Material counterevidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Narrow estimate of this proposal only. A zero benefit level means the requested North–South financing was not obtained through this withdrawn bid; it says nothing about other Vingroup land, infrastructure or subsidy arrangements. Formal consideration is not proof Vuong dictated policy, and project cost is not personal income."
+    },
+    "enrique-razon-jr": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / attribution unresolved",
+      "period": "Manila Water acquisition, February 2020; revised agreement, March 2021",
+      "summary": "Razon’s Manila Water purchase occurred during intense presidential pressure on the existing owners. Reporting describes hopes that he could mediate, but explicitly stops short of establishing clear presidential ties. This review cannot turn that market expectation into a proven political favor.",
+      "mechanism": "Acquisition during a concession dispute; claimed mediation remains unverified",
+      "support": [
+        {
+          "text": "Reuters reports his infrastructure firm buying a 25% Manila Water stake while Duterte threatened the concessions. It quotes an investor’s conditional view that a good government relationship could help; that is market interpretation.",
+          "source": "Reuters: Neil Jerome Morales",
+          "url": "https://ph.investing.com/news/stock-market-news/update-2embattled-manila-water-shares-jump-after-tycoon-razon-buys-stake-127012",
+          "date": "2020-02-03",
+          "kind": "Transaction and attributed interpretation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The regulator-hosted preliminary rate-rebasing report records Manila Water’s revised agreement on 31 March 2021 and identifies Razon’s group as taking over ownership and management.",
+          "source": "MWSS Regulatory Office: preliminary rate-rebasing report",
+          "url": "https://ro.mwss.gov.ph/wp-content/uploads/2022/12/22-002.Rev2_.29Dec22.Preliminary-Rate-Rebasing-Report.pdf",
+          "date": "2022-12-29",
+          "kind": "Regulatory consultant account",
+          "access": "Indexed PDF passages reviewed; direct retrieval unavailable"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Reuters explicitly says Razon had no clear ties to Duterte in its account. It reports a premium to the preceding share price and his explanation emphasizing operating expertise and corporate synergies.",
+          "source": "Reuters: qualifications and subject response",
+          "url": "https://ph.investing.com/news/stock-market-news/update-2embattled-manila-water-shares-jump-after-tycoon-razon-buys-stake-127012",
+          "date": "2020-02-03",
+          "kind": "Counterevidence and alternative explanation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate: the reviewed record establishes investment and subsequent concession arrangements, not personal intervention, preferential terms or a reciprocal bargain. An investor’s conditional speculation is not a finding. The consultant report was accessible only through indexed passages; the contract terms and later outcomes need direct review."
+    }
+  },
+  "rubrics": {
+    "anthoni-salim-1": {
+      "levels": [
+        3,
+        3,
+        3
+      ],
+      "range": [
+        45,
+        90
+      ],
+      "rationales": [
+        "Scholarly documentation of his own roles within connected ventures.",
+        "Research identifies protective and support arrangements during the period examined.",
+        "His reported industrial-policy role links private investment and state objectives; modernization and later restructuring limit extrapolation."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    "pham-nhat-vuong": {
+      "levels": [
+        2,
+        0,
+        1
+      ],
+      "range": [
+        5,
+        60
+      ],
+      "rationales": [
+        "A personally linked proposal received documented high-level consideration.",
+        "The bid was withdrawn; proposed zero-interest financing is not an awarded benefit.",
+        "A concrete attempt to link private investment with favorable public terms, without a completed reinforcing exchange."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "rakesh-mittal": {
+      "query": "\"Rakesh Mittal\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "GOVERNMENT OF INDIA",
+          "url": "https://eparlib.sansad.in/bitstream/123456789/542989/1/4602.pdf"
+        },
+        {
+          "title": "CWG: Tax sleuths begin groundwork - India Today",
+          "url": "https://www.indiatoday.in/sports/commonwealth-games-2010/story/tax-sleuths-begin-hunt-for-games-loot-84183-2010-10-19"
+        },
+        {
+          "title": "At Rs 259 Crore, BJP Received 70% of Donations by Electoral Trusts in 2022-23: ECI Data | Association for Democratic Reforms",
+          "url": "https://adrindia.org/content/rs-259-crore-bjp-received-70-donations-electoral-trusts-2022-23-eci-data-0"
+        },
+        {
+          "title": "Pleasant Stay hotel case",
+          "url": "https://en.wikipedia.org/wiki/Pleasant_Stay_hotel_case"
+        },
+        {
+          "title": "Expect more focus on agri sector next year: CII chief Rakesh Mittal - BusinessToday",
+          "url": "https://www.businesstoday.in/opinion/interviews/story/expect-more-focus-on-agri-sector-next-year-new-cii-chief-rakesh-mittal-104919-2018-04-13"
+        },
+        {
+          "title": "CBI arrests two more persons for graft in ITPO redevelopment | Business News - The Indian Express",
+          "url": "https://indianexpress.com/article/business/business-others/cbi-arrests-two-more-persons-for-graft-in-itpo-redevelopment-4998695/"
+        }
+      ]
+    },
+    "terrence-pegula": {
+      "query": "\"Terrence Pegula\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Energy Voices PAC - Pennsylvania Committee - Transparency USA",
+          "url": "https://www.transparencyusa.org/pa/committee/energy-voices-pac-pac-20180052/contributions?cycle=2020-election-cycle"
+        },
+        {
+          "title": "D.C.-based governors' associations provide back door for corporate donors – Center for Public Integrity",
+          "url": "https://publicintegrity.org/politics/d-c-based-governors-associations-provide-back-door-for-corporate-donors/"
+        }
+      ]
+    },
+    "viktor-rashnikov": {
+      "query": "\"Viktor Rashnikov\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Рашников, Виктор Филиппович",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%2C_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%BE%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "title": "PUBLIC DOCUMENT",
+          "url": "https://downloads.regulations.gov/ITA-2021-0003-0005/attachment_1.pdf"
+        },
+        {
+          "title": "CL2014D0145EN0320010.0001.3bi_cp 1..3",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A02014D0145-20220414"
+        },
+        {
+          "title": "Services Sanctions UK Statement of Reasons: As Chairman of the Board of Directors, and a majority shareholder, there are reasonable grounds to suspect that Viktor Rashnikov owns or controls Magnitogorsk Iron & Steel Works (MMK). MMK is carrying on business in sectors of strategic significance to the Government of Russia – the extractive and transport sectors. Viktor Rashnikov is therefore involved in obtaining a benefit from or supporting the Government of Russia. The trust services sanctions were imposed on 21/03/2023. Designation Source: UK Date Designated: 15/03/2022 Last Updated: 09/05/2022 Unique Id: RUS1028 OFSI Group ID: 14965",
+          "url": "https://www.brief.com.cy/sites/default/files/2023-05/UK_Sanctions_List.pdf"
+        },
+        {
+          "title": "Mining Magnate Behind 2 Building Projects",
+          "url": "https://www.themoscowtimes.com/archive/mining-magnate-behind-2-building-projects"
+        },
+        {
+          "title": "Viktor Filippovich Rashnikov – OpenSanctions",
+          "url": "https://www.opensanctions.org/entities/Q1894128/"
+        }
+      ]
+    },
+    "zhang-xuexin": {
+      "query": "\"Zhang Xuexin\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

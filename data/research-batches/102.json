@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "david-shaw": {
+      "query": "\"David Shaw\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Opinion | THE OPINION TRADE - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/opinions/1993/10/09/the-opinion-trade/3cfbe18b-e206-45c0-bbea-81b0ee82fe83/"
+        },
+        {
+          "title": "Paper Tainted by Ties to Right Wing, Moon Church : Washington Times Fights for Its Niche - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1987-04-26-mn-1550-story.html"
+        },
+        {
+          "title": "United States v. David M. Shaw, 655 F.2d 168 (9th Cir. 1981) | HallApproved.com",
+          "url": "https://hallapproved.com/us/cases/ca9/1981/392758/"
+        },
+        {
+          "title": "David E. Shaw - Influence Watch",
+          "url": "https://www.influencewatch.org/person/david-e-and-beth-k-shaw/"
+        },
+        {
+          "title": "David E. Shaw",
+          "url": "https://en.wikipedia.org/wiki/David_E._Shaw"
+        },
+        {
+          "title": "Cyber profits add up to secretive success story – Center for Public Integrity",
+          "url": "https://publicintegrity.org/politics/cyber-profits-add-up-to-secretive-success-story/"
+        }
+      ]
+    },
+    "les-wexner": {
+      "query": "\"Les Wexner\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Les Wexner",
+          "url": "https://en.wikipedia.org/wiki/Les_Wexner"
+        },
+        {
+          "title": "Les Wexner: How the billionaire enabled Jeffrey Epstein’s rise | Corruption News | Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/2/19/les-wexner-how-the-billionaire-enabled-jeffrey-epsteins-rise"
+        },
+        {
+          "title": "Several Ohio politicians donate money given to their campaigns by Les and Abigail Wexner | WOSU Public Media",
+          "url": "https://www.wosu.org/politics-government/2026-02-16/several-ohio-politicians-donate-money-given-to-their-campaigns-by-les-and-abigail-wexner"
+        },
+        {
+          "title": "March 18, 2026  CONGRESSIONAL RECORD — SENATE  S1213",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-03-18/pdf/CREC-2026-03-18.pdf"
+        },
+        {
+          "title": "Ohio billionaire political funder Les Wexner to be deposed by members of Congress in Epstein probe • Ohio Capital Journal",
+          "url": "https://ohiocapitaljournal.com/2026/02/18/ohio-billionaire-political-funder-les-wexner-to-be-deposed-by-members-of-congress-in-epstein-probe/"
+        },
+        {
+          "title": "Les Wexner",
+          "url": "https://fr.wikipedia.org/wiki/Les_Wexner"
+        }
+      ]
+    },
+    "david-duffield": {
+      "query": "\"David Duffield\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "leo-koguan": {
+      "query": "\"Leo KoGuan\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Leo Koguan",
+          "url": "https://en.wikipedia.org/wiki/Leo_Koguan"
+        }
+      ]
+    }
+  }
+}

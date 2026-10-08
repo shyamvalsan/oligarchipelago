@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "liu-yongxing": {
+      "query": "\"Liu Yongxing\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "martin-lorentzon": {
+      "query": "\"Martin Lorentzon\" Sweden political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Kritik efter Ekots avslöjande om Cypernupplägg | Sveriges Radio",
+          "url": "https://www.sverigesradio.se/artikel/5512964"
+        },
+        {
+          "title": "Spotify | Fegt av Spotifymiljardären att gorma från läktaren",
+          "url": "https://www.aftonbladet.se/ledare/a/XMJ8Lb/fegt-av-spotifymiljardaren-att-gorma-fran-laktaren"
+        },
+        {
+          "title": "Martin Lorentzon",
+          "url": "https://en.wikipedia.org/wiki/Martin_Lorentzon"
+        },
+        {
+          "title": "Regeringen kräver svar av Lorentzon",
+          "url": "https://www.svd.se/a/c509d086-38cd-30c9-a14a-621c3ce88ef7/regeringen-kraver-svar-av-lorentzon"
+        },
+        {
+          "title": "Spotifygrundarna hotar överge Sverige | SVT Nyheter",
+          "url": "https://www.svt.se/kultur/spotifygrundarna-hotar-overge-sverige"
+        },
+        {
+          "title": "När blev våra företagsledare radikaler? - Arbetsvärlden",
+          "url": "https://www.arbetsvarlden.se/ledare/nar-blev-vara-foretagsledare-radikaler/"
+        }
+      ]
+    },
+    "john-malone": {
+      "query": "\"John Malone\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "John Malone: Flying Solo | The New Yorker",
+          "url": "https://www.newyorker.com/magazine/1994/02/07/john-malone-flying-solo"
+        },
+        {
+          "title": "Is CNN Owned by a Republican? Ownership and Political Ties - LegalClarity",
+          "url": "https://legalclarity.org/is-cnn-owned-by-a-republican-ownership-and-political-ties/"
+        },
+        {
+          "title": "HEIR TO THE FUTURE - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/lifestyle/magazine/1996/06/16/heir-to-the-future/215a9e17-ee2e-4566-8020-95e248555a8e/"
+        },
+        {
+          "title": "Pandora’s New Corporate Parents Gave Millions to Trump, GOP | KQED",
+          "url": "https://www.kqed.org/arts/13849625/pandoras-new-corporate-parents-gave-millions-to-trump-gop"
+        },
+        {
+          "title": "John C. Malone",
+          "url": "https://en.wikipedia.org/wiki/John_C._Malone"
+        }
+      ]
+    },
+    "abdulsamad-rabiu": {
+      "query": "\"Abdulsamad Rabiu\" Nigeria political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Inner ++.cdr",
+          "url": "https://www.buacement.com/documents/CCNN-2016-Annual-Report20241010095124.pdf"
+        },
+        {
+          "title": "Two Years of President Tinubu: A Business Perspective - By Abdulsamad Rabiu",
+          "url": "https://justnews.ng/two-years-of-president-tinubu-a-business-perspective-by-abdulsamad-rabiu/"
+        }
+      ]
+    }
+  }
+}

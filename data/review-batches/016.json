@@ -1,0 +1,201 @@
+{
+  "profiles": {
+    "james-dyson": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Moderate / episode limited",
+      "period": "UK ventilator initiative in March–May 2020; government explanation and BBC correction in 2021",
+      "summary": "Dyson had direct prime-ministerial access during the emergency ventilator effort. The associated staff-tax clarification was a temporary, generally applicable measure, not a personal tax waiver. This episode supports access much more strongly than private enrichment.",
+      "mechanism": "Emergency manufacturing request → direct access and staff-tax clarification",
+      "support": [
+        {
+          "text": "Downing Street confirms Dyson exchanged texts with Boris Johnson about internationally based staff returning to help make ventilators. The government subsequently announced a temporary change to the residence test.",
+          "source": "Prime Minister’s Office: chronology and policy explanation",
+          "url": "https://www.gov.uk/government/news/information-relating-to-the-ventilator-challenge-and-the-statutory-residence-test",
+          "date": "2021-04-23",
+          "kind": "Primary acknowledgment of access and policy response",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The published BBC apology, reproduced by Dyson, acknowledges that the prime minister directly requested his assistance during the ventilator emergency.",
+          "source": "BBC apology reproduced on Dyson’s website",
+          "url": "https://www.dyson.co.uk/discover/archive/2021/bbc-james-dyson-apology",
+          "date": "2021-05-12",
+          "kind": "Correction and emergency context",
+          "access": "Text of the BBC apology reviewed on the subject’s website"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The government says the change covered qualifying COVID-response workers across specified critical sectors from March to June 2020, not only Dyson staff. It did not exempt UK earnings from UK tax and went through parliamentary scrutiny.",
+          "source": "Prime Minister’s Office: scope and safeguards",
+          "url": "https://www.gov.uk/government/news/information-relating-to-the-ventilator-challenge-and-the-statutory-residence-test",
+          "date": "2021-04-23",
+          "kind": "Material policy qualification; government’s own account",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Dyson’s May statement says the new ventilators were no longer needed in the UK and that he would fund the approximately £20 million project without accepting public money. This is his account, not an independent spending audit.",
+          "source": "James Dyson: ventilator update",
+          "url": "https://www.dyson.com/discover/news/press-releases/ventilator-update1",
+          "date": "2020-05-26",
+          "kind": "Subject’s explanation and reported project outcome",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The BBC apology withdraws the characterization of Dyson as a prominent Conservative supporter: a foundation gift for a school engineering festival did not establish party affiliation.",
+          "source": "BBC apology reproduced by Dyson",
+          "url": "https://www.dyson.co.uk/discover/archive/2021/bbc-james-dyson-apology",
+          "date": "2021-05-12",
+          "kind": "Material correction to political attribution",
+          "access": "Text of the BBC apology reviewed on the subject’s website"
+        }
+      ],
+      "limitations": "A narrow pandemic-era assessment, not a judgment on all Dyson business or tax affairs. The evidence for personalized political access is stronger than the evidence for a preferential economic exchange. Government and company statements are interested-party accounts; neither proves the absence of other influence. The range reflects that uncertainty."
+    },
+    "anthony-bamford": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / attribution unresolved",
+      "period": "Lords membership 2013–2024 and declared wedding hospitality in July 2022",
+      "summary": "Bamford’s formal political role and declared support for Boris Johnson are documented. They establish political connection, not by themselves a government concession to his business or a purchased peerage. Economic reciprocity remains unresolved in this review.",
+      "mechanism": "Former parliamentary role and declared political hospitality; reciprocal benefit unresolved",
+      "support": [
+        {
+          "text": "Parliament records Bamford’s Conservative affiliation and Lords membership from 3 October 2013 to 1 March 2024.",
+          "source": "UK Parliament: parliamentary career",
+          "url": "https://members.parliament.uk/member/4305/career",
+          "date": "Accessed 2026-10-08",
+          "kind": "Primary historical political role",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Johnson’s register names Lord Anthony and Lady Carole Bamford jointly as donors of wedding-celebration services valued at £23,853 on 30 July 2022. This is a declared joint gift, not an amount attributed solely to Anthony.",
+          "source": "House of Commons: Johnson’s financial interests",
+          "url": "https://publications.parliament.uk/pa/cm/cmregmem/230530/johnson_boris.htm",
+          "date": "2023-05-30",
+          "kind": "Primary declaration of political hospitality",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The career record ends his House membership in March 2024; this review does not describe him as a sitting member in 2026.",
+          "source": "UK Parliament: end of membership",
+          "url": "https://members.parliament.uk/member/4305/career",
+          "date": "Accessed 2026-10-08",
+          "kind": "Material role update",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Other accommodation entries name Lady Carole alone. Those are not automatically Anthony’s donations, and disclosure does not establish a policy favor in return.",
+          "source": "House of Commons: donor attribution",
+          "url": "https://publications.parliament.uk/pa/cm/cmregmem/230530/johnson_boris.htm",
+          "date": "2023-05-30",
+          "kind": "Individual attribution boundary",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate: these records do not establish the preferential economic-benefit and feedback dimensions. The peerage predates the reviewed wedding gift by years; no causal claim linking that gift to the peerage is made. The Forbes family entry is retained, but the political role belongs to Anthony and jointly reported gifts remain joint. No inference of wrongdoing follows from lawful political activity."
+    },
+    "kerry-stokes": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Moderate / episode limited",
+      "period": "Australian broadcaster licence-fee rebates and holiday-contact controversy, 2010–2011",
+      "summary": "Stokes’s ministerial holiday contact preceded broadcaster relief, but he denied discussing industry issues. The evidence establishes access and sector benefit, not a private bargain.",
+      "mechanism": "Ministerial access alongside broadcaster relief; causal exchange unproven",
+      "support": [
+        {
+          "text": "ABC identifies Stokes as Seven’s chairman and majority shareholder, reporting holiday contact with minister Stephen Conroy roughly a month before fee cuts.",
+          "source": "ABC / Peter Ryan: The World Today interview",
+          "url": "https://www.abc.net.au/listen/programs/worldtoday/stokes-denies-impropriety-in-ski-slopes-meeting/339582",
+          "date": "2010-02",
+          "kind": "Contemporaneous person-level contact and company attribution",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Treasury’s 2010 Tax Expenditures Statement, item B50, records television broadcaster licence-fee rebates of 33% in 2010 and 50% in 2011. It identifies the implementing regulations.",
+          "source": "Australian Treasury: Tax Expenditures Statement 2010, B50",
+          "url": "https://treasury.gov.au/publication/tax-expenditures-statement-2010/tax-expenditures-statement-2010/chapter-3-tax-expenditures/chapter-3-tax-expenditures-6",
+          "date": "2010 statement",
+          "kind": "Primary confirmation of sector-specific economic relief",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Stokes denies discussing industry issues, describing a social encounter. ABC identifies Seven, Nine and Ten as beneficiaries, not a personal payment.",
+          "source": "ABC: Stokes’s response and breadth of relief",
+          "url": "https://www.abc.net.au/listen/programs/worldtoday/stokes-denies-impropriety-in-ski-slopes-meeting/339582",
+          "date": "2010-02",
+          "kind": "Direct denial and alternative explanation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Historical, episode-limited estimate. Timing does not establish causation, an editorial quid pro quo or corruption. The feedback inference is weak, and no current ownership or policy claim is made."
+    }
+  },
+  "rubrics": {
+    "james-dyson": {
+      "levels": [
+        3,
+        1,
+        1
+      ],
+      "range": [
+        5,
+        60
+      ],
+      "rationales": [
+        "Direct contact is acknowledged by government and contextualized in the published correction.",
+        "General staff relief is weak evidence of an exclusive private advantage.",
+        "The documented public-health purpose and reported self-funding substantially limit a private-benefit inference."
+      ],
+      "sourceRefs": [
+        [
+          0,
+          1
+        ],
+        [
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    "kerry-stokes": {
+      "levels": [
+        2,
+        2,
+        1
+      ],
+      "range": [
+        10,
+        65
+      ],
+      "rationales": [
+        "A specific ministerial encounter is documented, but its policy content is expressly denied.",
+        "Official records establish targeted industry relief, not a personal cash transfer.",
+        "Temporal proximity is circumstantial; the reviewed record does not prove a bargain."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  }
+}

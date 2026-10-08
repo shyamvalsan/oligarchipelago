@@ -1,0 +1,113 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "warren-buffett": {
+      "query": "\"Warren Buffett\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.congress.gov/107/crec/2001/03/26/CREC-2001-03-26-pt1-PgS2853.pdf"
+        },
+        {
+          "title": "Special Investigation: The Dirty Secret Behind Warren Buffett’s Billions | The Nation",
+          "url": "https://www.thenation.com/article/archive/special-investigation-the-dirty-secret-behind-warren-buffetts-billions/"
+        },
+        {
+          "title": "Full text of Financial Crisis Inquiry Commission : Documents Relating to the Financial Crisis of 2007-2009 : Transcript of Interview With Warren Buffett, May 26, 2010 | FRASER | St. Louis Fed",
+          "url": "https://fraser.stlouisfed.org/archival-collection/financial-crisis-inquiry-commission-4967/transcript-interview-warren-buffett-531018/fulltext"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.govinfo.gov/link/crec/157/S/4431"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.congress.gov/115/crec/2018/12/12/164/196/CREC-2018-12-12-pt1-PgS7458-4.pdf"
+        }
+      ]
+    },
+    "amancio-ortega": {
+      "query": "\"Amancio Ortega\" Spain political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Por qué en España se odia al rico, con millonarios solidarios como Juan Roig y Amancio Ortega",
+          "url": "https://www.elespanol.com/reportajes/20200516/espana-millonarios-solidarios-juan-roig-amancio-ortega/490201989_0.html"
+        },
+        {
+          "title": "Amancio Ortega",
+          "url": "https://es.wikipedia.org/wiki/Amancio_Ortega"
+        },
+        {
+          "title": "Las grandes familias, el Estado y los fondos a largo plazo, los más beneficiados por las acciones de lealtad",
+          "url": "https://cincodias.elpais.com/cincodias/2019/05/28/mercados/1559074867_327714.html"
+        },
+        {
+          "title": "De rey del textil a emperador del ladrillo: así se convirtió Amancio Ortega en el mayor casero del mundo",
+          "url": "https://elpais.com/economia/negocios/2026-04-25/de-rey-del-textil-a-emperador-del-ladrillo-asi-se-convirtio-amancio-ortega-en-el-mayor-casero-del-mundo.html"
+        },
+        {
+          "title": "El doctor Cavadas no tiene reparos en decir abiertamente lo que piensa de Amancio Ortega",
+          "url": "https://www.huffingtonpost.es/virales/el-doctor-cavadas-reparos-decir-abiertamente-piensa-amancio-ortega.html"
+        }
+      ]
+    },
+    "rob-walton": {
+      "query": "\"Rob Walton\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Walton family's Denver Broncos purchase makes it Colorado's most influential player - Axios Denver",
+          "url": "https://www.axios.com/local/denver/2022/08/09/walton-colorado-denver-broncos-foundation"
+        },
+        {
+          "title": "Billionaires, dark money fuel questions ahead of 2026 midterms - CBS News",
+          "url": "https://www.cbsnews.com/news/billionaires-dark-money-fuel-questions-ahead-of-2026-midterms/"
+        },
+        {
+          "title": "A political theory of the firm : why ownership matters",
+          "url": "https://escholarship.org/uc/item/9n89r27t"
+        }
+      ]
+    },
+    "jim-walton": {
+      "query": "\"Jim Walton\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Billionaires, dark money fuel questions ahead of 2026 midterms - CBS News",
+          "url": "https://www.cbsnews.com/news/billionaires-dark-money-fuel-questions-ahead-of-2026-midterms/"
+        },
+        {
+          "title": "ICYMI: DeSantis Helps Billionaires Dodge Their Taxes - Democrats",
+          "url": "https://democrats.org/news/icymi-desantis-helps-billionaires-dodge-their-taxes/"
+        },
+        {
+          "title": "Jim Walton - Texas Contributor - Transparency USA",
+          "url": "https://www.transparencyusa.org/tx/contributor/jim-walton"
+        },
+        {
+          "title": "Walmart's Political Spending - United for Respect",
+          "url": "https://united4respect.org/reports/walmart-political-spending-2024/"
+        },
+        {
+          "title": "Enemy of the People: Jim Walton – The Red Clarion",
+          "url": "https://clarion.unity-struggle-unity.org/2023-05-07-eotp-jim-walton/"
+        },
+        {
+          "title": "Jim Walton - Wikipedia",
+          "url": "https://s.veneneo.workers.dev/https/en.wikipedia.org/wiki/Jim_Walton"
+        }
+      ]
+    }
+  }
+}

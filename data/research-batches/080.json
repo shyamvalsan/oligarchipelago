@@ -1,0 +1,76 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "jimmy-haslam": {
+      "query": "\"Jimmy Haslam\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Jim Haslam",
+          "url": "https://en.wikipedia.org/wiki/Jim_Haslam"
+        },
+        {
+          "title": "Berkshire can't use bribery allegations against Haslam in Pilot truck stop chain accounting dispute",
+          "url": "https://apnews.com/article/e16d77174a0a6d1dd965471fdc8ad872"
+        },
+        {
+          "title": "Lawyer says Haslam testimony supports Berkshire's bribery allegations in Pilot truck stop chain suit",
+          "url": "https://apnews.com/article/1ccf8de7f7c7cd29f3d4ec357b7cb699"
+        }
+      ]
+    },
+    "karel-komarek": {
+      "query": "\"Karel Komarek\" Czech Republic political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "ken-langone": {
+      "query": "\"Ken Langone\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Ken Langone",
+          "url": "https://en.wikipedia.org/wiki/Ken_Langone"
+        },
+        {
+          "title": "Kenneth G. Langone - SourceWatch",
+          "url": "https://www.sourcewatch.org/index.php/Kenneth_G._Langone"
+        }
+      ]
+    },
+    "magdalena-martullo-blocher": {
+      "query": "\"Magdalena Martullo-Blocher\" Switzerland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Blocher, conflits d'intérêts au plus haut niveau - SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/fre/archive-finance/blocher-conflits-d-int%C3%A9r%C3%AAts-au-plus-haut-niveau/3682140"
+        },
+        {
+          "title": "Le double jeu de Magdalena Martullo-Blocher - Le Temps",
+          "url": "https://www.letemps.ch/suisse/suisse-alemanique/double-jeu-magdalena-martulloblocher"
+        },
+        {
+          "title": "Magdalena Martullo-Blocher, sur les traces du patriarche - SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/fre/economie/nouvelle-d%C3%A9put%C3%A9e-et-cheffe-d-entreprise_magdalena-martullo-blocher-sur-les-traces-du-patriarche/41831414"
+        },
+        {
+          "title": "«Nemmeno Donald Trump pretenderebbe tutto questo»",
+          "url": "https://www.cdt.ch/news/nemmeno-donald-trump-pretenderebbe-tutto-questo-428323"
+        },
+        {
+          "title": "Magdalena Martullo Blocher: In den Fussstapfen des (Über)vaters? - SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/wirtschaft/neo-nationalraetin-und-unternehmerin_magdalena-martullo-blocher-in-den-fussstapfen-des-ueber-vaters/41825954"
+        },
+        {
+          "title": "Magdalena Martullo-Blocher croit aux forces de la Suisse",
+          "url": "https://www.tdg.ch/magdalena-martullo-blocher-croit-aux-forces-de-la-suisse-453749837661"
+        }
+      ]
+    }
+  }
+}

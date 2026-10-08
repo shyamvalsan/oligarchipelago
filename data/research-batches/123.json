@@ -1,0 +1,77 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "peggy-cherng": {
+      "query": "\"Peggy Cherng\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Panda Restaurant Group and Its Owners Andrew and Peggy Cherng - California Committee - Transparency USA",
+          "url": "https://www.transparencyusa.org/ca/committee/panda-restaurant-group-and-its-owners-andrew-and-peggy-cherng-497580-mdi/payees"
+        }
+      ]
+    },
+    "peter-gilgan": {
+      "query": "\"Peter Gilgan\" Canada political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Mattamy Homes Canada / Brad Carr, CEO - 12-Month Lobbying Summary - - Lobbyists Registration System - Office of the Commissioner of Lobbying of Canada",
+          "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/clntSmmry?clientOrgCorpNumber=372419&sMdKy=1717884530947"
+        },
+        {
+          "title": "Industry group urges Ford to cancel $140M contract awarded to U.S. firm",
+          "url": "https://ottawa.citynews.ca/2025/08/01/industy-group-urges-ford-to-cancel-140m-contract-awarded-to-u-s-firm/"
+        }
+      ]
+    },
+    "mikhail-gutseriev": {
+      "query": "\"Mikhail Gutseriev\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Mikhail Gutseriev",
+          "url": "https://en.wikipedia.org/wiki/Mikhail_Gutseriev"
+        },
+        {
+          "title": "Russian oil tycoon offers to buy back state assets for a pittance | Business and Economy | Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2019/10/31/russian-oil-tycoon-offers-to-buy-back-state-assets-for-a-pittance"
+        },
+        {
+          "title": "Yorke, Andrew (2014) State-led coercive takeovers in Putin’s Russia: explaining the",
+          "url": "https://researchonline.lse.ac.uk/id/eprint/131978/1/Yorke_State-led_coercive_takeovers_Putins_Russia.pdf"
+        },
+        {
+          "title": "2: Diversifying the super-rich - Forbes-listed Russians from a Muslim background - Social Sci LibreTexts",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Political_Science_and_Civics/Socialism_Capitalism_and_Alternatives_%28Duncan_and_Schimpfossl%29/2%3A_Part_I_-_Capitalism_in_Action/2%3A_Diversifying_the_super-rich_-_Forbes-listed_Russians_from_a_Muslim_background"
+        },
+        {
+          "title": "Mikhail Gutseriyev – OpenSanctions",
+          "url": "https://www.opensanctions.org/entities/Q1346607/"
+        },
+        {
+          "title": "Publications Office",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL%3A2023%3A061%3AFULL"
+        }
+      ]
+    },
+    "michael-kadoorie": {
+      "query": "\"Michael Kadoorie\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Tycoon Kadoorie plans ‘US$50 million drive to promote Hong Kong worldwide’ | South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3295090/tycoon-kadoorie-plans-us50-million-drive-promote-hong-kong-worldwide"
+        },
+        {
+          "title": "THIS CIRCULAR IS IMPORTANT AND REQUIRES YOUR IMMEDIATE ATTENTION",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2019/0409/LTN20190409595.pdf"
+        }
+      ]
+    }
+  }
+}

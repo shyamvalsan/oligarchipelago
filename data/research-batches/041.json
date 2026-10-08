@@ -1,0 +1,89 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "eric-smidt": {
+      "query": "\"Eric Smidt\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Eric Smidt",
+          "url": "https://en.wikipedia.org/wiki/Eric_Smidt"
+        }
+      ]
+    },
+    "john-collison": {
+      "query": "\"John Collison\" Ireland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "John Collison has mapped a way out of the Government’s lethargy – The Irish Times",
+          "url": "https://www.irishtimes.com/opinion/2025/11/01/pat-leahy-john-collison-has-mapped-a-way-out-of-the-governments-lethargy/"
+        },
+        {
+          "title": "John Collison’s critique of Ireland’s failures stirs Coalition debate – The Irish Times",
+          "url": "https://www.irishtimes.com/politics/2025/10/27/john-collison-criticism-of-slow-irish-development-is-food-for-thought-government-admits/"
+        },
+        {
+          "title": "What Stripe's John Collison gets right - and wrong - about Ireland's infrastructure failures",
+          "url": "https://www.thejournal.ie/john-collison-responses-6858190-Oct2025/"
+        },
+        {
+          "title": "PAC resumes NAMA questioning over Project Eagle",
+          "url": "https://www.rte.ie/news/2016/1025/826715-pac-resumes-nama-questioning-over-project-eagle/"
+        },
+        {
+          "title": "John Collison",
+          "url": "https://en.wikipedia.org/wiki/John_Collison"
+        },
+        {
+          "title": "The Irish Independent’s View: Why can’t Ireland meet the basic needs of its people? | Irish Independent",
+          "url": "https://www.independent.ie/opinion/comment/the-irish-independents-view-why-cant-ireland-meet-the-basic-needs-of-its-people/a775947431.html"
+        }
+      ]
+    },
+    "patrick-collison": {
+      "query": "\"Patrick Collison\" Ireland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Paul Murphy: Warns of Collison Brothers' Threat to Democracy | Paul Murphy | VideoParliament",
+          "url": "https://videoparliament.ie/video/15128-paul-murphy-warns-of-collison-brothers-threat-to-d?t=204"
+        },
+        {
+          "title": "At least Patrick Collison is trying to help in whatever way he can – The Irish Times",
+          "url": "https://www.irishtimes.com/opinion/letters/2026/09/05/at-least-patrick-collison-is-trying-to-help-in-whatever-way-he-can/"
+        },
+        {
+          "title": "John Collison",
+          "url": "https://en.wikipedia.org/wiki/John_Collison"
+        },
+        {
+          "title": "'Abundance' is all around us - just look at all our empty buildings",
+          "url": "https://www.irishexaminer.com/opinion/commentanalysis/arid-41677730.html"
+        },
+        {
+          "title": "Building projects ‘being stifled by EU’s rulebook’",
+          "url": "https://extra.ie/2026/06/04/news/building-stifled-by-eus-rulebook"
+        },
+        {
+          "title": "Patrick Collison",
+          "url": "https://en.wikipedia.org/wiki/Patrick_Collison"
+        }
+      ]
+    },
+    "david-sun": {
+      "query": "\"David Sun\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "CONGRESSIONAL RECORD — HOUSE",
+          "url": "https://www.govinfo.gov/link/crec/164/h/5436"
+        }
+      ]
+    }
+  }
+}

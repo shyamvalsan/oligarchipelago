@@ -1,0 +1,181 @@
+{
+  "profiles": {
+    "jean-louis-van-der-velde": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / personal reciprocal influence unresolved",
+      "period": "New York settlement in February 2021 and announced Tether leadership transition in October 2023",
+      "summary": "Van der Velde’s regulatory-facing executive role is documented. The reviewed sources establish company representation and a negotiated enforcement settlement, not a preferential political bargain benefiting him personally. Other Tether executives’ relationships are not automatically his.",
+      "mechanism": "Executive regulatory relationships; personal political-economic exchange unresolved",
+      "support": [
+        {
+          "text": "Tether credits van der Velde with managing relationships with regulators internationally. This is a corporate description of his executive work, not proof that regulators granted him political favors.",
+          "source": "Tether: CEO succession announcement",
+          "url": "https://tether.io/news/tether-appoints-paolo-ardoino-as-ceo/",
+          "date": "2023-10",
+          "kind": "Primary description of individual regulatory role",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The official settlement identifies van der Velde as the director signing for the Tether entities. It requires the respondent companies to pay $18.5 million and cease trading with New York persons and entities.",
+          "source": "New York Attorney General: settlement agreement",
+          "url": "https://ag.ny.gov/sites/default/files/2021.02.17_-_settlement_agreement_-_execution_version.b-t_signed-c2_oag_signed.pdf",
+          "date": "2021-02-18",
+          "kind": "Primary personal signatory and corporate obligations",
+          "access": "Relevant PDF text reviewed, including paragraphs 5, 55–57, 79 and signature page"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The agreement says the companies neither admit nor deny the OAG findings. Its obligations and agency findings are not an individual criminal conviction of van der Velde.",
+          "source": "New York Attorney General: settlement scope",
+          "url": "https://ag.ny.gov/sites/default/files/2021.02.17_-_settlement_agreement_-_execution_version.b-t_signed-c2_oag_signed.pdf",
+          "date": "2021-02-18",
+          "kind": "Material legal and attribution distinction",
+          "access": "Relevant PDF text reviewed, including paragraphs 5, 55–57, 79 and signature page"
+        },
+        {
+          "text": "The 2023 announcement says Ardoino would take over as Tether CEO in December, with van der Velde becoming an adviser while retaining the Bitfinex CEO role. The two companies and roles are distinct.",
+          "source": "Tether: announced role change",
+          "url": "https://tether.io/news/tether-appoints-paolo-ardoino-as-ceo/",
+          "date": "2023-10",
+          "kind": "Material historical role update",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate: regulatory contact and settlement participation do not establish the preferential-benefit or feedback dimensions. This is not a comprehensive review of his investments, informal access or later activities. The 2023 announcement is a dated role update, not verification of every position held in 2026. Neither enforcement nor a change of title proves the absence of influence."
+    },
+    "stuart-hoegner": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / personal reciprocal influence unresolved",
+      "period": "Public legal defense in 2020, company settlement in 2021 and reported retirement in January 2025",
+      "summary": "Hoegner publicly defended Tether as its lawyer. That establishes personal involvement in legal advocacy, not control of government policy. The company enforcement outcome and his later retirement must be distinguished from a personal political-benefit mechanism.",
+      "mechanism": "Legal advocacy and regulatory exposure; political reciprocity not established",
+      "support": [
+        {
+          "text": "Tether’s June 2020 statement identifies Hoegner as general counsel and quotes his rejection of market-manipulation claims in private litigation. These are counsel’s denials, not court findings.",
+          "source": "Tether: response to amended class-action complaint",
+          "url": "https://tether.io/news/tether-and-bitfinex-denounce-baseless-lawsuit-designed-to-undermine-the-cryptocurrency-community/",
+          "date": "2020-06-04",
+          "kind": "Primary person-level legal advocacy",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The New York Attorney General’s separate 2021 announcement describes corporate reserve-disclosure findings and a settlement requiring $18.5 million, reporting and restrictions on New York trading. It is not a finding that Hoegner bought political protection.",
+          "source": "New York Attorney General: company settlement announcement",
+          "url": "https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal",
+          "date": "2021-02-23",
+          "kind": "Primary enforcement context; separate proceeding",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Tether’s settlement response disputes the attorney general’s characterization and emphasizes no admission of wrongdoing. This is the company’s response, not independent exoneration or the resolution of every private lawsuit.",
+          "source": "Tether and Bitfinex: settlement response",
+          "url": "https://tether.io/news/tether-and-bitfinex-reach-settlement-with-new-york-attorney-generals-office/",
+          "date": "2021-02-23",
+          "kind": "Subject response and proceeding boundary",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Block reports the companies announcing Hoegner’s retirement and Michael Hilliard taking charge of legal affairs in January 2025. Earlier counsel responsibilities should not be presented as unchanged current duties.",
+          "source": "The Block / RT Watson: legal leadership transition",
+          "url": "https://www.theblock.co/news/markets/2025-01-02-tethers-general-counsel-retires-in-wake-of-mica-stablecoin-regulations-coming-into-effect-332986",
+          "date": "2025-01-02",
+          "kind": "Material role update",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate. Representing a regulated business, contesting allegations and helping it navigate rules do not establish preferential governmental treatment. This review does not adjudicate the private litigation or infer a personal conviction from corporate findings. No colleagues’ political relationships or later corporate policy partnerships are transferred to Hoegner."
+    },
+    "colin-huang": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / personal reciprocal influence unresolved",
+      "period": "Tax treatment described for 2018–2021 and founder leadership transition in 2020–2021",
+      "summary": "Pinduoduo disclosed preferential corporate tax treatment, but the reviewed filing ties it to enterprise and location-based programs rather than a demonstrated personal favor to Huang. His departure and changed voting rights also limit attribution of later company conduct.",
+      "mechanism": "Company-level tax incentives; founder-level policy influence unresolved",
+      "support": [
+        {
+          "text": "The 2021 annual report describes 15% corporate rates for specified operating entities, compared with a general 25% rate. It identifies high-technology status and qualifying Qianhai industries as the bases. These are historical company disclosures, not Huang’s personal tax rate.",
+          "source": "Pinduoduo: 2021 Form 20-F, income-tax note 17",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465922049283/pdd-20211231x20f.htm",
+          "date": "2022-04-25",
+          "kind": "Primary company-level economic benefit",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The March 2021 announcement records Huang leaving the board after previously handing over the CEO role in July 2020. It links the founder personally to the company while dating the end of those responsibilities.",
+          "source": "Pinduoduo: leadership transition announcement",
+          "url": "https://investor.pddholdings.com/static-files/9f447dfc-af0a-4f30-a023-21710fd23673",
+          "date": "2021-03-17",
+          "kind": "Primary founder role and chronology",
+          "access": "Relevant PDF text reviewed, exhibits 99.2 and 99.3"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The filing describes eligibility-based programs and possible withdrawal of preferential treatment. Eligibility and government discretion do not establish that Huang personally secured an exception.",
+          "source": "Pinduoduo: tax eligibility and risk disclosure",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465922049283/pdd-20211231x20f.htm",
+          "date": "2022-04-25",
+          "kind": "Alternative program-based explanation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The announcement says Huang’s ten-vote shares would lose their special voting rights and that he entrusted voting to the board. It attributes his departure to new research interests and leadership succession, not a stated finding of political coercion.",
+          "source": "Pinduoduo: announcement and Huang’s shareholder letter",
+          "url": "https://investor.pddholdings.com/static-files/9f447dfc-af0a-4f30-a023-21710fd23673",
+          "date": "2021-03-17",
+          "kind": "Control change and founder’s explanation",
+          "access": "Relevant PDF text reviewed, exhibits 99.2 and 99.3"
+        }
+      ],
+      "limitations": "No numerical estimate: a documented corporate benefit is not enough to fill the missing personal-leverage and exchange dimensions. These records do not prove that all informal influence ended, that every later incentive was ordinary, or that the disclosed historical rates still apply. The company’s explanation is not independent verification of his motives."
+    },
+    "eduardo-saverin": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / personal reciprocal influence unresolved",
+      "period": "US political response to citizenship renunciation before Facebook’s May 2012 IPO",
+      "summary": "Saverin’s citizenship decision drew political criticism and proposed legislation. That controversy is not evidence that he controlled the tax rules or received a private exemption. His explanation and the distinction between a proposal and an adjudicated violation are essential.",
+      "mechanism": "Citizenship and tax controversy; preferential rule-making not established",
+      "support": [
+        {
+          "text": "Reuters reports senators Schumer and Casey accusing Saverin of renouncing citizenship to avoid tax. Those are attributed political accusations, not a tax authority’s determination or a court finding.",
+          "source": "Reuters / Kevin Drawbaugh, Portuguese edition republished by UOL",
+          "url": "https://www.uol.com.br/tilt/noticias/reuters/2012/05/17/senadores-dos-eua-acusam-saverindo-facebook-de-evitar-impostos.htm",
+          "date": "2012-05-17",
+          "kind": "Contemporaneous attributed political criticism",
+          "access": "Portuguese article passages reviewed"
+        },
+        {
+          "text": "GovInfo preserves S.3205 of the 112th Congress as introduced on May 17, 2012 and referred to the Finance Committee. The document is proposed legislation, not an order assessing Saverin’s tax or barring him from entry.",
+          "source": "US Government Publishing Office: introduced Ex-PATRIOT bill",
+          "url": "https://www.govinfo.gov/app/details/BILLS-112s3205is",
+          "date": "2012-05-17",
+          "kind": "Primary legislative record and document type",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Saverin told Reuters through a spokesman that he would pay hundreds of millions in US taxes and that living and working in Singapore motivated the decision. These are his stated reasons and commitments, not independently verified tax-payment records.",
+          "source": "Reuters / UOL: Saverin’s response",
+          "url": "https://www.uol.com.br/tilt/noticias/reuters/2012/05/17/senadores-dos-eua-acusam-saverindo-facebook-de-evitar-impostos.htm",
+          "date": "2012-05-17",
+          "kind": "Direct subject response",
+          "access": "Portuguese article passages reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate. Choosing a jurisdiction or being criticized by lawmakers does not establish influence over them. The reviewed record does not show him obtaining a bespoke tax concession or purchasing a legislative outcome. No current tax advice, verified tax liability, criminal finding or present-day travel status is inferred from this historical controversy."
+    }
+  },
+  "rubrics": {}
+}

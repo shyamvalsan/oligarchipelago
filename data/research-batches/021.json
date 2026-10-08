@@ -1,0 +1,96 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "vagit-alekperov": {
+      "query": "\"Vagit Alekperov\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "francois-pinault": {
+      "query": "\"François Pinault\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Argent public, fortunes privées, par Olivier Toscer (Le Monde diplomatique, décembre 2003)",
+          "url": "https://www.monde-diplomatique.fr/2003/12/TOSCER/10865"
+        },
+        {
+          "title": "François Pinault",
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Pinault"
+        },
+        {
+          "title": "Les instituts de sondages, tous pro-Macron ? Pourquoi c’est inexact",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2017/04/06/les-sondeurs-tous-pro-macron-pourquoi-c-est-inexact_5106766_4355770.html"
+        },
+        {
+          "title": "Les « réseaux » de M. Balladur dans les grandes entreprises",
+          "url": "https://www.lemonde.fr/archives/article/1995/05/11/les-reseaux-de-m-balladur-dans-les-grandes-entreprises_3868909_1819218.html"
+        },
+        {
+          "title": "François Pinault a pris 5% de Vinci",
+          "url": "https://www.latribune.fr/archives/2007/ID12DDE9C7D31F605CC1257267005AE535/francois-pinault-a-pris-5-de-vinci.html"
+        },
+        {
+          "title": "François Pinault milliardaire : les secrets d'une incroyable fortune, par Serge Halimi (Le Monde diplomatique, octobre 1999)",
+          "url": "https://www.monde-diplomatique.fr/1999/10/HALIMI/3352"
+        }
+      ]
+    },
+    "jack-ma": {
+      "query": "\"Jack Ma\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Opinion | China’s Jack Ma has penetrated the Trump administration — and he knows what he wants - The Washington Post",
+          "url": "https://www.washingtonpost.com/news/josh-rogin/wp/2017/07/19/chinas-jack-ma-has-penetrated-the-trump-administration-and-he-knows-what-he-wants//"
+        },
+        {
+          "title": "Why is Jack Ma a member of the Communist Party of China? - BBC News",
+          "url": "https://feeds.bbci.co.uk/news/business-46353767"
+        },
+        {
+          "title": "Why the Chinese government turned on Jack Ma’s ‘Harvard for China’ - Rest of World",
+          "url": "https://restofworld.org/2021/why-the-chinese-government-turned-on-jack-mas-harvard-for-china/"
+        },
+        {
+          "title": "Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma"
+        },
+        {
+          "title": "Where Is Alibaba Founder Jack Ma? What the Saga of One of the World's Richest Men Reveals About China Under Xi Jinping",
+          "url": "https://time.com/5926062/jack-ma/"
+        },
+        {
+          "title": "China's Xi promises policy stability at meeting with business leaders, including Alibaba's Jack Ma",
+          "url": "https://apnews.com/article/7898eb671dc6f7cb817cc6238328ea1b"
+        }
+      ]
+    },
+    "prajogo-pangestu": {
+      "query": "\"Prajogo Pangestu\" Indonesia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Analysis: Cronyism reawakens as Prabowo caves in to top tycoons - Academia - The Jakarta Post",
+          "url": "https://www.thejakartapost.com/opinion/2025/03/17/analysis-cronyism-reawakens-as-prabowo-caves-in-to-top-tycoons"
+        },
+        {
+          "title": "(PDF) PATRONAGE POLITICS AND NATURAL RESOURCES: A HISTORICAL CASE STUDY OF SOUTHEAST ASIA AND INDONESIA",
+          "url": "https://www.researchgate.net/publication/257201103_PATRONAGE_POLITICS_AND_NATURAL_RESOURCES_A_HISTORICAL_CASE_STUDY_OF_SOUTHEAST_ASIA_AND_INDONESIA"
+        },
+        {
+          "title": "Our Resources, Our Rules",
+          "url": "https://openresearch-repository.anu.edu.au/bitstreams/173311be-f7a1-4a98-97b1-8de6b451af11/download"
+        },
+        {
+          "title": "Vol. 8, No 2, Trissia WIJAYA | CSEAS Journal, Southeast Asian Studies",
+          "url": "https://englishkyoto-seas.org/2019/08/vol-8-no-2-trissia-wijaya/"
+        }
+      ]
+    }
+  }
+}

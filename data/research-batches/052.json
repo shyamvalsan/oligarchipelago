@@ -1,0 +1,72 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "robert-kuok": {
+      "query": "\"Robert Kuok\" Malaysia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Robert Kuok pernah beri sumbangan besar kepada Umno, MCA | The Malaysian Insight",
+          "url": "https://www.themalaysianinsight.com/bahasa/s/40036/?parent_id=8893"
+        },
+        {
+          "title": "Under-fire Robert Kuok gave large donations to Umno, MCA | The Malaysian Insight",
+          "url": "https://www.themalaysianinsight.com/s/40034"
+        },
+        {
+          "title": "The private life of Robert Kuok - Euromoney",
+          "url": "https://www.euromoney.com/article/27bjsstsqxhkmh11im3xm/the-private-life-of-robert-kuok/"
+        },
+        {
+          "title": "Robert Kuok",
+          "url": "https://en.wikipedia.org/wiki/Robert_Kuok"
+        },
+        {
+          "title": "How MCA barons financed Umno in Malaya | Malaysiakini",
+          "url": "https://www.malaysiakini.com/news/193589"
+        },
+        {
+          "title": "Why Umno leaders targeted Robert Kuok | Malaysiakini",
+          "url": "https://www.malaysiakini.com/news/413910"
+        }
+      ]
+    },
+    "barry-lam": {
+      "query": "\"Barry Lam\" Taiwan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "sunil-mittal-1": {
+      "query": "\"Sunil Mittal\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Radia tapes controversy",
+          "url": "https://en.wikipedia.org/wiki/Radia_tapes_controversy"
+        }
+      ]
+    },
+    "ralph-lauren": {
+      "query": "\"Ralph Lauren\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Office of Public Affairs | Ralph Lauren Corporation Resolves Foreign Corrupt Practices Act Investigation and Agrees to Pay $882,000 Monetary Penalty | United States Department of Justice",
+          "url": "https://www.justice.gov/archives/opa/pr/ralph-lauren-corporation-resolves-foreign-corrupt-practices-act-investigation-and-agrees-pay"
+        },
+        {
+          "title": "Ralph Lauren — Political Donations, Lobbying & CEO Pay Score | NOligarchy",
+          "url": "https://noligarchy.com/retailers/ralph-lauren"
+        },
+        {
+          "title": "Ralph Lauren",
+          "url": "https://en.wikipedia.org/wiki/Ralph_Lauren"
+        }
+      ]
+    }
+  }
+}

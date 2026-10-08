@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "odd-reitan": {
+      "query": "\"Odd Reitan\" Norway political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Odd Reitan fikk ut 119 millioner med «kunstig oppblåst» leieavtale | DN",
+          "url": "https://www.dn.no/jus/odd-reitan/odd-reitan-private-holding/reitangruppen/odd-reitan-fikk-ut-119-millioner-med-kunstig-oppblast-leieavtale/2-1-727173?zephr_sso_ott=q0Ir8S"
+        },
+        {
+          "title": "Odd Reitan i brev til ansatte: – Passer fint å sette kjøpmannen i et dårlig lys – E24",
+          "url": "https://e24.no/naeringsliv/i/dRyzgj/odd-reitan-i-brev-til-ansatte-passer-fint-aa-sette-kjoepmannen-i-et-daarlig-lys"
+        },
+        {
+          "title": "Odd Reitan synes tilsynet overdrev innkjøpsforskjellene – E24",
+          "url": "https://e24.no/naeringsliv/i/Al2eXr/odd-reitan-synes-tilsynet-overdrev-innkjoepsforskjellene"
+        },
+        {
+          "title": "- Rema-Reitan snøt Trondheim for milliongave",
+          "url": "https://www.nettavisen.no/okonomi/rema-reitan-snot-trondheim-for-milliongave/s/12-95-147304"
+        },
+        {
+          "title": "NORGES HØYESTERETT",
+          "url": "https://asp.bibliotekservice.no/pdf/rettsinfo/pdf7353.pdf"
+        },
+        {
+          "title": "Reitan får størst gebyrkutt i nytt varsel fra Konkurransetilsynet",
+          "url": "https://www.aftenposten.no/okonomi/i/769rxB/reitan-faar-stoerst-gebyrkutt-i-nytt-varsel-fra-konkurransetilsynet"
+        }
+      ]
+    },
+    "alexandra-schoerghuber": {
+      "query": "\"Alexandra Schoerghuber\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Alexandra Schörghuber",
+          "url": "https://de.wikipedia.org/wiki/Alexandra_Sch%C3%B6rghuber"
+        }
+      ]
+    },
+    "pavel-tykac": {
+      "query": "\"Pavel Tykac\" Czech Republic political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Policie řešila, jestli lidé pracující pro Tykače nabízeli peníze senátorům — Deník N",
+          "url": "https://denikn.cz/2126897/policie-resila-jestli-lide-pracujici-pro-tykace-nabizeli-penize-senatorum"
+        },
+        {
+          "title": "Pavel Tykač",
+          "url": "https://en.wikipedia.org/wiki/Pavel_Tyka%C4%8D"
+        },
+        {
+          "title": "„Jen pár nás věřilo, že to dokážeme.“ Jak Pavel Tykač prohrál boj o limity",
+          "url": "https://denikreferendum.cz/clanek/32901-jen-par-nas-verilo-ze-to-dokazeme-jak-pavel-tykac-prohral-boj-o-limity"
+        },
+        {
+          "title": "Cesta Pavla Tykače: od divokých devadesátek až k akciím ČEZ — Deník N",
+          "url": "https://denikn.cz/2074513/cesta-pavla-tykace-od-divokych-devadesatek-az-k-akciim-cez/"
+        },
+        {
+          "title": "Konec života v ústraní. Miliardář Pavel Tykač začíná prosazovat své zájmy - Seznam Zprávy",
+          "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-tykac-se-snazi-oddalit-konec-sveta-ktery-mu-vydelava-rika-vaclav-dolejsi-263207"
+        },
+        {
+          "title": "Uhlobaron Tykač už také mluví do politiky. Ale jinak než Babiš - Seznam Zprávy",
+          "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-uhlobaron-tykac-uz-take-mluvi-do-politiky-ale-jinak-nez-babis-263114"
+        }
+      ]
+    },
+    "nathan-blecharczyk": {
+      "query": "\"Nathan Blecharczyk\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

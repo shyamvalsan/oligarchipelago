@@ -1,0 +1,79 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "graeme-hart": {
+      "query": "\"Graeme Hart\" New Zealand political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Democracy Briefing: The 2025 NBR Rich List once again shows who runs this country",
+          "url": "https://www.democracyproject.org.nz/p/integrity-briefing-the-2025-nbr-rich"
+        },
+        {
+          "title": "2023 New Zealand general election",
+          "url": "https://en.wikipedia.org/wiki/2023_New_Zealand_general_election"
+        },
+        {
+          "title": "Rank Group - by Bryce Edwards - The Democracy Project",
+          "url": "https://www.democracyproject.org.nz/p/rank-group"
+        },
+        {
+          "title": "Graeme Hart: the undercover billionaire - NZ Herald",
+          "url": "https://www.nzherald.co.nz/business/personal-finance/investment/graeme-hart-the-undercover-billionaire/MV3NA346OQI7JGSNJ5LIFHCWLY/"
+        },
+        {
+          "title": "Graeme Hart",
+          "url": "https://en.wikipedia.org/wiki/Graeme_Hart"
+        },
+        {
+          "title": "Lobbying · New Zealand election 2026",
+          "url": "https://nzpol.nz/mates/"
+        }
+      ]
+    },
+    "jim-kennedy": {
+      "query": "\"Jim Kennedy\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "daniel-kretinsky": {
+      "query": "\"Daniel Kretinsky\" Czech Republic political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Wer ist Thyssenkrupp-Investor Daniel Kretinsky? | tagesschau.de",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/thyssenkrupp-portrait-kretinsky-100.html"
+        },
+        {
+          "title": "Žebříček vlivu v Praze 2016: Číslo 6 – Neovlivní – investigativní deník o vlivu a lidech",
+          "url": "https://neovlivni.cz/zebricek-vlivu-v-praze-2016-cislo-6/"
+        },
+        {
+          "title": "The Unstoppable Rise of Czech Oligarchs - Aspen Institute Central Europe",
+          "url": "https://www.aspeninstitutece.org/article/2019/unstoppable-rise-czech-oligarchs/"
+        },
+        {
+          "title": "Pourquoi Daniel Kretinsky s'intéresse autant au groupe informatique Atos",
+          "url": "https://www.lemonde.fr/economie/article/2024/05/23/pourquoi-daniel-kretinsky-s-interesse-autant-a-atos_6234927_3234.html"
+        },
+        {
+          "title": "Denis Olivennes, le carnet d'adresses de Daniel Kretinsky",
+          "url": "https://www.lemonde.fr/economie/article/2025/01/16/denis-olivennes-le-carnet-d-adresses-de-daniel-kretinsky_6501625_3234.html"
+        },
+        {
+          "title": "ThyssenKrupp : Daniel Kretinsky s'empare de la division acier du mythe industriel allemand",
+          "url": "https://www.lemonde.fr/economie/article/2024/04/29/thyssenkrupp-daniel-kretinsky-s-empare-de-la-division-acier-du-mythe-industriel-allemand_6230553_3234.html"
+        }
+      ]
+    },
+    "li-ping-1": {
+      "query": "\"Li Ping\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

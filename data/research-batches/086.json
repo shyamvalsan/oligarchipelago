@@ -1,0 +1,104 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "anthony-bamford": {
+      "query": "\"Anthony Bamford\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Anthony Bamford",
+          "url": "https://en.wikipedia.org/wiki/Anthony_Bamford"
+        },
+        {
+          "title": "Who is Anthony Bamford, the billionaire ‘super-donor’? | Party funding | The Guardian",
+          "url": "https://www.theguardian.com/politics/2023/sep/27/who-is-anthony-bamford-the-billionaire-super-donor"
+        },
+        {
+          "title": "Cash before honours: the Tory donors made peers who barely speak in Lords | House of Lords | The Guardian",
+          "url": "https://www.theguardian.com/politics/2025/mar/09/cash-before-honours-tory-donors-made-peers-who-barely-speak-in-lords"
+        },
+        {
+          "title": "Tory donors from JCB empire could face £500m bill to settle tax inquiry | Party funding | The Guardian",
+          "url": "https://www.theguardian.com/politics/2023/oct/22/tory-donors-anthony-mark-bamford-jcb-empire-could-face-500m-bill-to-settle-tax-inquiry"
+        },
+        {
+          "title": "Who is the Brexit-supporting Lord Bamford of JCB fame? | JCB | The Guardian",
+          "url": "https://www.theguardian.com/business/2019/jan/25/brexit-supporting-lord-bamford-of-jcb-fame-boris-johnson-david-davis"
+        },
+        {
+          "title": "Tory former energy secretary facing conflict of interest claim over JCB owner links | Conservatives | The Guardian",
+          "url": "https://www.theguardian.com/politics/2024/nov/09/tory-energy-secretary-claire-coutinho-lord-bamford-donations-jcb-green-grants"
+        }
+      ]
+    },
+    "josh-harris": {
+      "query": "\"Josh Harris\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "jeffery-hildebrand": {
+      "query": "\"Jeffery Hildebrand\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Trump EPA Methane Rule Rollback to Benefit Billionaire Jeffery Hildebrand — ProPublica",
+          "url": "https://www.propublica.org/article/trump-epa-methane-jeffery-hildebrand-hilcorp-oil-regulations"
+        },
+        {
+          "title": "Time to Wake Up 302: Bought and Paid For - Senator Sheldon Whitehouse",
+          "url": "https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-302-bought-and-paid-for/"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.govinfo.gov/link/crec/171/s/7741"
+        },
+        {
+          "title": "Meet the Trump administration’s 12 billionaires - Washington Post",
+          "url": "https://www.washingtonpost.com/politics/interactive/2025/trump-white-house-billionaires-musk/"
+        },
+        {
+          "title": "Why oil tycoon Harold Hamm is raising millions to elect Trump in 2024 - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2024/08/13/oil-donors-trump-pac-harold-hamm-election/?itid=mc_magnet-donald-trump_inline_collection_5"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.govinfo.gov/link/crec/171/s/6687"
+        }
+      ]
+    },
+    "luis-carlos-sarmiento": {
+      "query": "\"Luis Carlos Sarmiento\" Colombia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Luis Carlos Sarmiento",
+          "url": "https://es.wikipedia.org/wiki/Luis_Carlos_Sarmiento"
+        },
+        {
+          "title": "En 2022 Sarmiento Angulo duplicó sus aportes a partidos tradicionales - La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/en-2022-sarmiento-angulo-duplico-sus-aportes-a-partidos-tradicionales/"
+        },
+        {
+          "title": "Los multimillonarios de Colombia depositan su confianza en De la Espriella con inmensas donaciones tras el terremoto",
+          "url": "https://elpais.com/america-colombia/2026-08-21/los-multimillonarios-de-colombia-depositan-su-confianza-en-de-la-espriella-con-inmensas-donaciones-tras-el-terremoto.html"
+        },
+        {
+          "title": "El 'déjà vu' de la política colombiana",
+          "url": "https://elpais.com/america-colombia/2023-08-20/el-deja-vu-de-la-politica-colombiana.html"
+        },
+        {
+          "title": "De La Espriella incomoda a los gremios mientras se acerca a los billonarios",
+          "url": "https://elpais.com/america-colombia/2026-08-30/de-la-espriella-incomoda-a-los-gremios-mientras-se-acerca-a-los-billonarios.html"
+        },
+        {
+          "title": "La imputación a Zuluaga, otro juicio que Álvaro Uribe verá desde la barrera",
+          "url": "https://elpais.com/america-colombia/2023-07-10/la-imputacion-a-zuluaga-otro-juicio-que-alvaro-uribe-vera-desde-la-barrera.html"
+        }
+      ]
+    }
+  }
+}

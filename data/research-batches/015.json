@@ -1,0 +1,79 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "alexey-mordashov": {
+      "query": "\"Alexey Mordashov\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Alexei Mordashov",
+          "url": "https://en.wikipedia.org/wiki/Alexei_Mordashov"
+        },
+        {
+          "title": "German journalist dubbed the ‘Putin connoisseur’ had secret book deal with Russian oligarch - ICIJ",
+          "url": "https://www.icij.org/investigations/cyprus-confidential/german-journalist-putin-documentary-cyprus-secret-payments/"
+        },
+        {
+          "title": "How Western Sanctions Will Alter Ties Between Russian Big Business and the Kremlin | Carnegie Endowment for International Peace",
+          "url": "https://carnegieendowment.org/posts/2018/04/how-western-sanctions-will-alter-ties-between-russian-big-business-and-the-kremlin"
+        },
+        {
+          "title": "Alexei Alexandrowitsch Mordaschow",
+          "url": "https://de.wikipedia.org/wiki/Alexei_Alexandrowitsch_Mordaschow"
+        },
+        {
+          "title": "Publications Office",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023D1767"
+        },
+        {
+          "title": "A Kremlin-Linked Firm Invested Millions in Kentucky. Were They After More Than Money?",
+          "url": "https://time.com/5651345/rusal-investment-braidy-kentucky/"
+        }
+      ]
+    },
+    "colin-huang": {
+      "query": "\"Colin Huang\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "eduardo-saverin": {
+      "query": "\"Eduardo Saverin\" Brazil political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "eric-schmidt": {
+      "query": "\"Eric Schmidt\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "President Trump’s advisory council members gave more than their two-cents to influence the government - CREW | Citizens for Responsibility and Ethics in Washington",
+          "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/president-trumps-advisory-council-members-gave-two-cents-influence-government/"
+        },
+        {
+          "title": "TTP Report: Eric Schmidt Pushed the CHIPS Act, Now Stands to Benefit from It | Campaign for Accountability",
+          "url": "https://campaignforaccountability.org/eric-schmidt-chips-act/"
+        },
+        {
+          "title": "Eric Schmidt’s Expanding Influence Apparatus | Tech Transparency Project",
+          "url": "https://old.techtransparencyproject.org/articles/eric-schmidts-expanding-influence-apparatus"
+        },
+        {
+          "title": "Ex-Google chief built 'oligarch-style empire' to influence AI, Biden White House and public policy: report | Fox News",
+          "url": "https://www.foxnews.com/politics/ex-google-chief-built-oligarch-style-empire-influence-ai-biden-white-house-public-policy-report"
+        },
+        {
+          "title": "Google’s Eric Schmidt expounds on his Senate testimony - The Washington Post",
+          "url": "https://www.washingtonpost.com/national/on-leadership/googles-eric-schmidt-expounds-on-his-senate-testimony/2011/09/30/gIQAPyVgCL_story.html"
+        },
+        {
+          "title": "Eric Schmidt",
+          "url": "https://en.wikipedia.org/wiki/Eric_Schmidt"
+        }
+      ]
+    }
+  }
+}

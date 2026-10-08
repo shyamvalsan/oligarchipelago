@@ -1,0 +1,385 @@
+{
+  "profiles": {
+    "gennady-timchenko": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of the stated episode; not independently reviewed",
+      "confidence": "Moderate",
+      "period": "Historical Gunvor relationships, attributed in 2014",
+      "summary": "US authorities specifically attributed a business relationship with Putin, not merely operation in Russia. That supports a substantial historical patronage inference, while the underlying claims were expressly denied.",
+      "mechanism": "Attributed presidential relationship ↔ energy-trading interests",
+      "support": [
+        {
+          "text": "Treasury linked Timchenko’s energy activities to Putin and attributed investments and possible access to Gunvor funds to Putin. These are US government allegations, not a criminal judgment.",
+          "source": "US Treasury",
+          "url": "https://home.treasury.gov/news/press-releases/jl23331",
+          "date": "2014-03-20",
+          "kind": "Official attribution",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Reuters reported Timchenko denying that Putin helped build his business and saying contracts were won competitively. Gunvor denied Putin’s involvement.",
+          "source": "Reuters",
+          "url": "https://finance.yahoo.com/news/gunvor-pins-future-swedish-ceo-040459133.html",
+          "date": "2014-03-24",
+          "kind": "Subject response",
+          "access": "Indexed article passage reviewed; direct retrieval unavailable"
+        },
+        {
+          "text": "Gunvor says Timchenko sold his stake in March 2014 and is no longer affiliated with the company. Historical attribution must not imply current ownership.",
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/4664b2a87135b8960dedf0ad463ee4f5",
+          "date": "2025-11",
+          "kind": "Historical scope",
+          "access": "Indexed article passage reviewed"
+        }
+      ],
+      "limitations": "The assessment concerns attributed historical relationships. The US announcement does not publish underlying proof of every claim. It does not establish present Gunvor ownership or guilt in a criminal case."
+    },
+    "vagit-alekperov": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of the stated episode; not independently reviewed",
+      "confidence": "Moderate",
+      "period": "Lukoil formation and 2010 tax-policy episode; role update in 2022",
+      "summary": "The reviewed history links government office, privatization leadership and later company-specific policy advocacy. It is stronger than a nationality or sanctions inference, but not proof that every tax concession was improper.",
+      "mechanism": "Former public office → privatized oil ownership → tax-policy access",
+      "support": [
+        {
+          "text": "Reuters described Alekperov moving from deputy energy minister to leading Lukoil after organizing its privatization. It also reported Lukoil lobbying for Caspian export-duty relief and Alekperov announcing a government decision.",
+          "source": "Reuters / The Moscow Times",
+          "url": "https://www.themoscowtimes.com/archive/lukoil-to-get-caspian-tax-breaks",
+          "date": "2010-09-01",
+          "kind": "Reported evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same report says competing projects already had relief and cites difficult project economics. Equalizing investment incentives is an alternative to personalized patronage.",
+          "source": "Reuters: policy context",
+          "url": "https://www.themoscowtimes.com/archive/lukoil-to-get-caspian-tax-breaks",
+          "date": "2010-09-01",
+          "kind": "Alternative explanation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Alekperov resigned as president and board member in April 2022. A sanctions record retaining an old title is not evidence of his current executive role.",
+          "source": "S&P Global, reporting Lukoil statement",
+          "url": "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/042122-lukoil-president-vagit-alekperov-resigns",
+          "date": "2022-04-21",
+          "kind": "Role update",
+          "access": "Indexed article passage reviewed"
+        }
+      ],
+      "limitations": "Historical estimate only. Privatization leadership is not itself proof of asset theft. The source reports an announced tax decision rather than a complete audit of realized benefits. No present executive role is assumed."
+    },
+    "leonid-mikhelson": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of the stated episode; not independently reviewed",
+      "confidence": "Moderate",
+      "period": "Yamal LNG tax proposals and financing, 2010–2016",
+      "summary": "Novatek’s Yamal project received identifiable state financing after high-level industrial-policy engagement. This supports a business–state relationship, not automatic proof that Mikhelson bought favoritism.",
+      "mechanism": "Strategic gas investment ↔ targeted state support",
+      "support": [
+        {
+          "text": "Reporting described Mikhelson’s Yamal project and Putin directing ministries to develop tax relief for the region. The 2010 measure was a proposal, not yet a realized award.",
+          "source": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2010/12/05/27bln-yamal-lng-plan-may-earn-tax-break-a3523",
+          "date": "2010-12-05",
+          "kind": "Reported evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Novatek’s financial statements record government approval of 150 billion roubles of National Wealth Fund financing through interest-bearing Yamal LNG bonds.",
+          "source": "Novatek: 2015 interim financial statements",
+          "url": "https://www.novatek.ru/common/upload/doc/NOVATEK_FS_6m2015_%28eng%29.pdf",
+          "date": "2015",
+          "kind": "Company financial disclosure",
+          "access": "Indexed financial-statement passage reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The disclosure describes interest-bearing financing, not a personal gift. The project had other investors; public industrial-development goals are an alternative explanation for support.",
+          "source": "Novatek: financing terms",
+          "url": "https://www.novatek.ru/common/upload/doc/NOVATEK_FS_6m2015_%28eng%29.pdf",
+          "date": "2015",
+          "kind": "Terms and attribution limit",
+          "access": "Indexed financial-statement passage reviewed"
+        }
+      ],
+      "limitations": "The estimate covers Mikhelson’s project leadership, not every family member. Financing is not treated as a grant; prospective tax relief is not counted as realized. This is not a finding of bribery or a current sanctions opinion."
+    },
+    "michael-bloomberg": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of the stated episode; not independently reviewed",
+      "confidence": "Moderate",
+      "period": "Mayoral and presidential-campaign relationships discussed in 2020",
+      "summary": "His wealth clearly financed political reach. The reviewed analysis links philanthropy to political support, but shows less about political power generating private commercial returns.",
+      "mechanism": "Personal wealth and philanthropy → political influence; commercial return unresolved",
+      "support": [
+        {
+          "text": "Brookings scholar Vanessa Williamson argued that Bloomberg’s philanthropic funding gave leverage over institutions and potential political supporters. This is attributed political analysis, not an adjudicated finding that grants bought endorsements.",
+          "source": "Brookings: Vanessa Williamson commentary",
+          "url": "https://www.brookings.edu/articles/the-political-force-of-michael-bloombergs-tactical-charity/",
+          "date": "2020-02-13",
+          "kind": "Scholarly commentary",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Bloomberg ended his presidential campaign after failing to secure a path to nomination despite extensive spending. Wealth did not guarantee electoral control.",
+          "source": "Spectrum News NY1",
+          "url": "https://ny1.com/nyc/all-boroughs/news/2020/03/04/mike-bloomberg-drops-out-of-2020-presidential-race",
+          "date": "2020-03-04",
+          "kind": "Counterevidence",
+          "access": "Indexed report passage reviewed"
+        }
+      ],
+      "limitations": "This assessment does not equate charitable giving or running for office with corruption. It is limited to political influence discussed in the reviewed record, not a full examination of Bloomberg LP contracts."
+    },
+    "warren-buffett": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of the stated episode; not independently reviewed",
+      "confidence": "Low to moderate",
+      "period": "Berkshire political spending and federal tax change, 2017–2019",
+      "summary": "Berkshire’s regulated businesses have political-access interests, and broad tax policy materially affected its value. The reviewed record does not establish a personalized bargain engineered by Buffett.",
+      "mechanism": "Regulated-company access and broad policy gains; personal exchange not established",
+      "support": [
+        {
+          "text": "At the 2019 meeting, Buffett distinguished his personal politics from Berkshire’s and acknowledged some subsidiaries make political contributions to maintain access comparable to competitors.",
+          "source": "Berkshire annual-meeting transcript, CNBC",
+          "url": "https://buffett.cnbc.com/video/2019/05/06/morning-session---2019-berkshire-hathaway-annual-meeting.html",
+          "date": "2019-05-04",
+          "kind": "Subject statement",
+          "access": "Indexed transcript passage reviewed; direct retrieval unavailable"
+        },
+        {
+          "text": "Berkshire’s annual report attributed part of its 2017 increase in net worth to the federal tax-law change. This was general legislation, not evidence of a bespoke reward.",
+          "source": "Berkshire Hathaway annual report",
+          "url": "https://www.berkshirehathaway.com/2017ar/2017ar.pdf",
+          "date": "2018-02",
+          "kind": "Company disclosure",
+          "access": "Indexed report passage reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Buffett said the parent company did not contribute to presidential candidates and stressed that he speaks for himself on politics. Subsidiary political activity is not automatically a personal quid pro quo.",
+          "source": "Berkshire annual-meeting transcript, CNBC",
+          "url": "https://buffett.cnbc.com/video/2019/05/06/morning-session---2019-berkshire-hathaway-annual-meeting.html",
+          "date": "2019-05-04",
+          "kind": "Subject response / attribution limit",
+          "access": "Indexed transcript passage reviewed; direct retrieval unavailable"
+        }
+      ],
+      "limitations": "Company activity is not automatically Buffett’s personal conduct. General tax gains do not establish favoritism. This is a limited historical review, not a clean bill of health."
+    },
+    "bill-gates": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of the stated episode; not independently reviewed",
+      "confidence": "Low / scope limited",
+      "period": "Global-health foundation governance, reviewed 2025–2026",
+      "summary": "Research documents considerable influence over global-health priorities. The reviewed philanthropy sources do not establish that this influence replenishes Gates’s personal wealth; influence alone is not enough for our definition.",
+      "mechanism": "Philanthropic funding → health-policy influence; private-return mechanism unestablished",
+      "support": [
+        {
+          "text": "Researchers describe the foundation’s donor networks as a means of shaping global-health priorities. This establishes agenda influence, not Gates’s personal financial gain.",
+          "source": "Globalization and Health",
+          "url": "https://link.springer.com/article/10.1186/s12992-025-01112-9",
+          "date": "2025-04-24",
+          "kind": "Academic research",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The foundation says Gates receives neither salary nor profit from its charitable work, and investment returns fund its mission. Its private-company funding carries public-access requirements. This is the foundation’s account, not an independent financial audit.",
+          "source": "Gates Foundation FAQ",
+          "url": "https://www.gatesfoundation.org/about/foundation-faq",
+          "date": "Undated; reviewed 2026-10-08",
+          "kind": "Subject explanation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "A foundation’s mission and legal constraints do not prove absence of all indirect benefit. Neither academic criticism of agenda-setting nor the foundation’s self-description establishes all three dimensions. Microsoft history and personal investments need a separate, broader review before assigning a person-wide score."
+    },
+    "steve-ballmer": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of the stated episode; not independently reviewed",
+      "confidence": "Low / scope limited",
+      "period": "USAFacts civic-data work, reviewed October 2026",
+      "summary": "The reviewed civic-data initiative engages lawmakers, but does not demonstrate a preferential commercial benefit to Ballmer. That limited observation is not an assessment of all his business or political relationships.",
+      "mechanism": "Civic information funding → policymaker access; wealth-return link unestablished",
+      "support": [
+        {
+          "text": "USAFacts identifies Ballmer as its founder and funder and describes briefings, advice and training for Congress. It says it is nonpartisan and offers public access without fees.",
+          "source": "USAFacts: about and funding FAQ",
+          "url": "https://usafacts.org/about-usafacts/",
+          "date": "Undated; reviewed 2026-10-08",
+          "kind": "Organization statement",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "TIME describes the project as a nonprofit, nonpartisan effort to make government data accessible. The reporting does not establish that the project secures a private business advantage.",
+          "source": "TIME: Democracy Defenders",
+          "url": "https://time.com/collections/democracy-defenders/7017132/steve-ballmer-democracy-defenders/",
+          "date": "2024",
+          "kind": "Scope limitation",
+          "access": "Indexed article passage reviewed"
+        }
+      ],
+      "limitations": "USAFacts is not Ballmer’s entire financial or political life. Microsoft-era conduct, sports-arena public policy and other philanthropy require broader review; a civic project cannot be used to infer a low person-wide score."
+    }
+  },
+  "rubrics": {
+    "gennady-timchenko": {
+      "levels": [
+        3,
+        3,
+        3
+      ],
+      "range": [
+        45,
+        95
+      ],
+      "rationales": [
+        "A specific presidential relationship is attributed.",
+        "Authorities describe a material business connection.",
+        "Attributed financial links support feedback, but are denied rather than adjudicated."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ]
+    },
+    "vagit-alekperov": {
+      "levels": [
+        3,
+        3,
+        2
+      ],
+      "range": [
+        35,
+        85
+      ],
+      "rationales": [
+        "Office-to-ownership trajectory and direct policy engagement.",
+        "A specific tax-relief decision was reported.",
+        "A wealth–policy relationship is visible; favoritism rather than industrial policy remains uncertain."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ]
+    },
+    "leonid-mikhelson": {
+      "levels": [
+        2,
+        3,
+        2
+      ],
+      "range": [
+        25,
+        80
+      ],
+      "rationales": [
+        "Project-specific high-level policy engagement.",
+        "Targeted state financing is documented.",
+        "Commercial and state objectives reinforce each other; a personal patronage bargain is not established."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    "michael-bloomberg": {
+      "levels": [
+        4,
+        1,
+        1
+      ],
+      "range": [
+        15,
+        75
+      ],
+      "rationales": [
+        "Public office and substantial personally financed political activity.",
+        "Reviewed analysis is clearer on political advantage than private business reward.",
+        "One direction of the wealth–power relationship is stronger than reciprocal commercial benefit."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ]
+    },
+    "warren-buffett": {
+      "levels": [
+        2,
+        1,
+        1
+      ],
+      "range": [
+        5,
+        65
+      ],
+      "rationales": [
+        "Access-oriented subsidiary activity is acknowledged.",
+        "General tax-law benefit, not a demonstrated personal favor.",
+        "Corporate political participation and benefit coexist without an established causal bargain."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  }
+}

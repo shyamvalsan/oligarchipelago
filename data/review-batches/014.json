@@ -1,0 +1,256 @@
+{
+  "profiles": {
+    "stefan-quandt": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Moderate / episode limited",
+      "period": "October 2013 donation and emissions negotiations; February 2014 legislative outcome",
+      "summary": "Stefan Quandt personally made a disclosed CDU donation. This review examines it alongside a favorable industry-policy outcome, while retaining the denial of a connection. The evidence supports a limited influence assessment, not a finding that policy was bought.",
+      "mechanism": "Personal party funding alongside industry-wide regulatory relief; causal exchange unproved",
+      "support": [
+        {
+          "text": "The Bundestag identifies Stefan Quandt individually as donating €230,000 to the CDU on 9 October 2013. The €690,000 total covered three separate donors, not this person alone.",
+          "source": "German Bundestag: donation disclosure",
+          "url": "https://www.bundestag.de/webarchiv/presse/hib/2013_10/02-260006",
+          "date": "2013-10-24",
+          "kind": "Primary person-level political finance record",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Reuters links BMW’s shareholder donations with Germany’s successful intervention to postpone an emissions deal affecting premium carmakers.",
+          "source": "Reuters: donation and policy chronology",
+          "url": "https://www.voanews.com/a/reu-bmw-family-donation-to-merkel-party-stokes-lobbying-row/1770441.html",
+          "date": "2013-10-15",
+          "kind": "Contemporaneous reporting; not a causal finding",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "BMW’s report on 2013 identifies Stefan Quandt as an existing supervisory-board member proposed for reelection. The company relationship is not inferred merely from a surname.",
+          "source": "BMW: 2013 results and board statement",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0171788EN/bmw-group-remains-firmly-on-track-in-2013",
+          "date": "2014",
+          "kind": "Primary corporate-role attribution",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The CDU denied a policy connection. The family’s spokesman said the gifts were decided in January and transferred after the election to avoid campaign involvement.",
+          "source": "Reuters: party denial and family response",
+          "url": "https://www.voanews.com/a/reu-bmw-family-donation-to-merkel-party-stokes-lobbying-row/1770441.html",
+          "date": "2013-10-15",
+          "kind": "Material response and alternative chronology",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Commission records Parliament endorsing a 95g CO₂/km fleet target for 2021 in February 2014. The delay was not permanent abolition of emissions regulation or a BMW-only exemption.",
+          "source": "European Commission: subsequent legislative outcome",
+          "url": "https://climate.ec.europa.eu/news-other-reads/news/ende-gut-alles-gut-commissioner-hedegaard-welcomes-agreement-car-emissions-target-2014-02-25_en",
+          "date": "2014-02-25",
+          "kind": "Primary outcome qualification",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Narrow historical estimate, not a present-day corruption allegation. A lawful donation is not itself evidence of improper conduct. The company could benefit from industry-wide relief; individual monetary gains and a donation-for-policy bargain are not established. Other relatives’ conduct and ancestral wrongdoing are not transferred to this donor."
+    },
+    "susanne-klatten": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Moderate / episode limited",
+      "period": "October 2013 donation and emissions negotiations; February 2014 legislative outcome",
+      "summary": "Susanne Klatten personally made a disclosed CDU donation. This review examines it alongside a favorable industry-policy outcome, while retaining the denial of a connection. The evidence supports a limited influence assessment, not a finding that policy was bought.",
+      "mechanism": "Personal party funding alongside industry-wide regulatory relief; causal exchange unproved",
+      "support": [
+        {
+          "text": "The Bundestag identifies Susanne Klatten individually as donating €230,000 to the CDU on 9 October 2013. The €690,000 total covered three separate donors, not this person alone.",
+          "source": "German Bundestag: donation disclosure",
+          "url": "https://www.bundestag.de/webarchiv/presse/hib/2013_10/02-260006",
+          "date": "2013-10-24",
+          "kind": "Primary person-level political finance record",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Reuters links BMW’s shareholder donations with Germany’s successful intervention to postpone an emissions deal affecting premium carmakers.",
+          "source": "Reuters: donation and policy chronology",
+          "url": "https://www.voanews.com/a/reu-bmw-family-donation-to-merkel-party-stokes-lobbying-row/1770441.html",
+          "date": "2013-10-15",
+          "kind": "Contemporaneous reporting; not a causal finding",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "BMW’s report on 2013 identifies Susanne Klatten as an existing supervisory-board member proposed for reelection. The company relationship is not inferred merely from a surname.",
+          "source": "BMW: 2013 results and board statement",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0171788EN/bmw-group-remains-firmly-on-track-in-2013",
+          "date": "2014",
+          "kind": "Primary corporate-role attribution",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The CDU denied a policy connection. The family’s spokesman said the gifts were decided in January and transferred after the election to avoid campaign involvement.",
+          "source": "Reuters: party denial and family response",
+          "url": "https://www.voanews.com/a/reu-bmw-family-donation-to-merkel-party-stokes-lobbying-row/1770441.html",
+          "date": "2013-10-15",
+          "kind": "Material response and alternative chronology",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Commission records Parliament endorsing a 95g CO₂/km fleet target for 2021 in February 2014. The delay was not permanent abolition of emissions regulation or a BMW-only exemption.",
+          "source": "European Commission: subsequent legislative outcome",
+          "url": "https://climate.ec.europa.eu/news-other-reads/news/ende-gut-alles-gut-commissioner-hedegaard-welcomes-agreement-car-emissions-target-2014-02-25_en",
+          "date": "2014-02-25",
+          "kind": "Primary outcome qualification",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Narrow historical estimate, not a present-day corruption allegation. A lawful donation is not itself evidence of improper conduct. The company could benefit from industry-wide relief; individual monetary gains and a donation-for-policy bargain are not established. Other relatives’ conduct and ancestral wrongdoing are not transferred to this donor."
+    },
+    "mark-mateschitz": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / attribution unresolved",
+      "period": "Red Bull succession in November 2022; Austrian media ownership research in 2025",
+      "summary": "Mateschitz holds a major ownership interest behind an Austrian broadcaster, a potential channel of influence. But the reviewed ownership and succession records do not establish his personal political interventions or a preferential state benefit. His father’s actions cannot simply become his score.",
+      "mechanism": "Inherited media ownership; personal political direction and reciprocal benefit unresolved",
+      "support": [
+        {
+          "text": "The Euromedia Ownership Monitor identifies Mark Mateschitz’s 49% interest behind Red Bull Media and Servus TV. It also warns that complex ownership structures make practical decision-making influence difficult to infer.",
+          "source": "Euromedia Ownership Monitor: Austria, 2025 edition",
+          "url": "https://media-ownership.eu/2025-edition/country-reports/austria/",
+          "date": "2025",
+          "kind": "Research-based ownership mapping",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Trend reports Mark announcing Red Bull’s three-person management team and choosing a shareholder role rather than an operational management job in November 2022.",
+          "source": "Trend / Bernhard Ecker: succession report",
+          "url": "https://www.trend.at/unternehmen/dietrich-mateschitz-red-bull-nachfolge",
+          "date": "2022-11-04",
+          "kind": "Personal statement and governance context",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The succession report distinguishes Dietrich’s unusual operational authority from the rights passed to Mark, and records the other ownership bloc’s approval of the new leadership.",
+          "source": "Trend: limits of inherited control",
+          "url": "https://www.trend.at/unternehmen/dietrich-mateschitz-red-bull-nachfolge",
+          "date": "2022-11-04",
+          "kind": "Material attribution limit",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The media monitor describes opaque ownership and difficulty verifying political ties. That is a research limitation, not evidence that Mark ordered particular coverage or received government favors.",
+          "source": "Euromedia Ownership Monitor: transparency limits",
+          "url": "https://media-ownership.eu/2025-edition/country-reports/austria/",
+          "date": "2025",
+          "kind": "Evidence-quality qualification",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate: substantial media ownership is not equivalent to demonstrated policy capture. The succession account is historical, not a verified complete 2026 ownership register. No claim about his father’s political views, other shareholders’ relatives or broadcaster employees is treated as Mark’s own conduct."
+    },
+    "william-ding": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / attribution unresolved",
+      "period": "CPPCC proposals in March 2021, licensing freeze in 2021–2022 and delegate-list change in January 2023",
+      "summary": "Ding had a documented national political-advisory role and made industry-related proposals. That demonstrates access, not that his proposals became law or secured special treatment for NetEase. His absence from the next delegate list and the company’s exposure to licensing restrictions qualify stronger claims.",
+      "mechanism": "Political-advisory participation and industry proposals; preferential reward unresolved",
+      "support": [
+        {
+          "text": "China Daily’s report, republished by ECNS, identifies Ding Lei as NetEase CEO and a 13th CPPCC National Committee member. It describes proposals concerning digital culture, music and vehicle-battery standards.",
+          "source": "China Daily / ECNS: two-sessions proposals",
+          "url": "https://www.ecns.cn/m/news/politics/2021-03-06/detail-ihaihrwe3348059.shtml",
+          "date": "2021-03-06",
+          "kind": "State-media report of personal advisory activity",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "SCMP reports William Ding Lei absent from the newly announced 14th CPPCC delegate list. This prevents presenting the earlier membership as an unchanged current role.",
+          "source": "South China Morning Post / Coco Feng: delegate-list change",
+          "url": "https://www.scmp.com/tech/big-tech/article/3207284/big-tech-cppcc-baidus-robin-li-neteases-ding-lei-no-longer-delegates-chinas-top-political-advisory",
+          "date": "2023-01-18",
+          "kind": "Dated role update",
+          "access": "Indexed article passages reviewed; direct page retrieval failed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Reuters reports that the nine-month game-approval freeze heavily affected NetEase as well as Tencent. The April 2022 resumption covered a list of other publishers; this account does not establish preferential protection for Ding.",
+          "source": "Reuters: Josh Ye and Brenda Goh, licensing freeze",
+          "url": "https://www.marketscreener.com/quote/stock/37-INTERACTIVE-ENTERTAINM-11367211/news/China-ends-gaming-approval-freeze-grants-first-licenses-since-July-last-year-40022642/",
+          "date": "2022-04-11",
+          "kind": "Material constraint on claims of regulatory protection",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate: advisory membership and a proposal are not a granted concession or proof of personal policy control. The review identifies William Ding with Ding Lei, but does not generalize from all Chinese technology companies. Being subject to regulation is not proof of no influence; subsequent offices, proposal adoption and person-linked benefits require further evidence."
+    }
+  },
+  "rubrics": {
+    "stefan-quandt": {
+      "levels": [
+        2,
+        2,
+        1
+      ],
+      "range": [
+        10,
+        65
+      ],
+      "rationales": [
+        "An individually documented large party contribution, not proof of control over government.",
+        "Concrete industry relief plausibly benefits the linked company, without an exclusive concession.",
+        "Temporal association supports scrutiny, but the reviewed evidence does not establish causation."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    "susanne-klatten": {
+      "levels": [
+        2,
+        2,
+        1
+      ],
+      "range": [
+        10,
+        65
+      ],
+      "rationales": [
+        "An individually documented large party contribution, not proof of control over government.",
+        "Concrete industry relief plausibly benefits the linked company, without an exclusive concession.",
+        "Temporal association supports scrutiny, but the reviewed evidence does not establish causation."
+      ],
+      "sourceRefs": [
+        [
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  }
+}

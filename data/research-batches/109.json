@@ -1,0 +1,97 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "thomas-kirk-kristiansen": {
+      "query": "\"Thomas Kirk Kristiansen\" Denmark political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Lego-arving politianmeldt for spionage i milliardbyggeri-sag - Avisen.dk",
+          "url": "https://www.avisen.dk/lego-arving-politianmeldt-for-spionage-i-milliardbyg_469114.aspx"
+        },
+        {
+          "title": "The LEGO Group: 23 meetings with 17 MEPs – EU lobbying record",
+          "url": "https://www.mepoftheweek.com/org/the-lego-group/"
+        },
+        {
+          "title": "Chefredaktør: Lego-magtskifte er mere symbolsk end reelt - Avisen.dk",
+          "url": "https://www.avisen.dk/chefredaktoer-lego-magtskifte-er-mere-symbolsk-end-r_383780.aspx"
+        },
+        {
+          "title": "Danmarks 10 rigeste 2024 - Se oversigt - Lex",
+          "url": "https://lex.dk/Danmarks_10_rigeste_2024"
+        },
+        {
+          "title": "LEGO Fonden – Lex",
+          "url": "https://lex.dk/LEGO_Fonden"
+        },
+        {
+          "title": "Thomas Kirk Kristiansen",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Kirk_Kristiansen"
+        }
+      ]
+    },
+    "alexei-kuzmichev": {
+      "query": "\"Alexei Kuzmichev\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Alexey Viktorovich Kuzmichev – OpenSanctions",
+          "url": "https://www.opensanctions.org/entities/Q1774254/"
+        },
+        {
+          "title": "Alexey Kuzmichev",
+          "url": "https://en.wikipedia.org/wiki/Alexey_Kuzmichev"
+        },
+        {
+          "title": "Alexeï Kouzmitchev",
+          "url": "https://fr.wikipedia.org/wiki/Alexe%C3%AF_Kouzmitchev"
+        },
+        {
+          "title": "Alfa Tycoons as Victims? Come On",
+          "url": "https://www.themoscowtimes.com/2023/03/10/alfa-tycoons-as-victims-come-on-a80446/pdf"
+        },
+        {
+          "title": "Viktor Vekselberg",
+          "url": "https://en.wikipedia.org/wiki/Viktor_Vekselberg"
+        },
+        {
+          "title": "OUTINGFINAL",
+          "url": "https://goodtimesweb.org/industrial-policy/2013/IFG_OTO_report.pdf"
+        }
+      ]
+    },
+    "steven-rales": {
+      "query": "\"Steven Rales\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "D.C.'S RICH, UNASSUMING RALES BROTHERS - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/business/1988/06/20/dcs-rich-unassuming-rales-brothers/ee9a3792-10a7-45bd-bfc6-7eb5395524c8/"
+        },
+        {
+          "title": "Blasband on Behalf of Danaher Corp. v. Rales, 772 F. Supp. 850, 1991 U.S. Dist. LEXIS 12535, 1991 WL 177984 (1991) — Counsel Stack",
+          "url": "https://law.counselstack.com/opinion/blasband-on-behalf-of-danaher-corp-v-rales-ded-1991"
+        }
+      ]
+    },
+    "leonard-stern": {
+      "query": "\"Leonard Stern\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Village Voice Sold - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/lifestyle/1985/06/21/village-voice-sold/ee56b91a-56a0-42de-99c7-9b6eecc08d3c/"
+        },
+        {
+          "title": "Leonard N. Stern",
+          "url": "https://en.wikipedia.org/wiki/Leonard_N._Stern"
+        }
+      ]
+    }
+  }
+}

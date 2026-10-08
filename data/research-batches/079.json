@@ -1,0 +1,89 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "douglas-leone": {
+      "query": "\"Douglas Leone\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Douglas Leone",
+          "url": "https://en.wikipedia.org/wiki/Douglas_Leone"
+        },
+        {
+          "title": "Reporte Indigo Cinco Días",
+          "url": "https://www.iecm.mx/www/ut/ucs/INFORMA/agosto23m/INFOM020823/MUJERES2.pdf"
+        }
+      ]
+    },
+    "fredrik-lundberg": {
+      "query": "\"Fredrik Lundberg\" Sweden political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Fredrik Lundberg riskerar att hamna utanför | Birgitta Forsberg",
+          "url": "https://www.svd.se/a/0EX80A/fredrik-lundberg-riskerar-att-hamna-utanfor"
+        },
+        {
+          "title": "”En kupp av Pär Boman och Fredrik Lundberg” | SVT Nyheter",
+          "url": "https://www.svt.se/nyheter/inrikes/en-kupp-av-par-boman-och-fredrik-lundberg"
+        },
+        {
+          "title": "Lundberg utmanar i finanstoppen | Sveriges Radio",
+          "url": "https://www.sverigesradio.se/artikel/396751"
+        },
+        {
+          "title": "Spelet bakom Nyréns avgång",
+          "url": "https://www.svd.se/a/762c63d8-200d-36a1-b159-acc53207c7d2/spelet-bakom-nyrens-avgang"
+        },
+        {
+          "title": "Anders Borg misstänks för mutbrott | SVT Nyheter",
+          "url": "https://www.svt.se/nyheter/inrikes/anders-borg-kopplas-till-mututredning?mobilmeny=1"
+        },
+        {
+          "title": "”Därför köper vi mer aktier”",
+          "url": "https://www.affarsvarlden.se/artikel/darfor-koper-vi-mer-aktier-6795142"
+        }
+      ]
+    },
+    "theo-mueller": {
+      "query": "\"Theo Mueller\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Theo Müller (Unternehmer)",
+          "url": "https://de.wikipedia.org/wiki/Theo_M%C3%BCller_%28Unternehmer%29"
+        },
+        {
+          "title": "Theo Müller",
+          "url": "https://en.wikipedia.org/wiki/Theo_M%C3%BCller"
+        }
+      ]
+    },
+    "leonid-fedun": {
+      "query": "\"Leonid Fedun\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Putin Finding Power in The Pump - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/politics/2004/08/11/putin-finding-power-in-the-pump/a526e3ea-657c-4348-859f-c6b1a43d81ab/"
+        },
+        {
+          "title": "Leonid Fedun",
+          "url": "https://en.wikipedia.org/wiki/Leonid_Fedun"
+        },
+        {
+          "title": "Regional Business",
+          "url": "https://archive.kyivpost.com/wp-content/uploads/issue_pdf_178c6030d7e0f98b26c4487075adb87562b7dfd5/2001-02-08_06_32.pdf"
+        },
+        {
+          "title": "Leonid Fedun",
+          "url": "https://it.wikipedia.org/wiki/Leonid_Fedun"
+        }
+      ]
+    }
+  }
+}

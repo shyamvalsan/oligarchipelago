@@ -1,0 +1,96 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "maria-asuncion-aramburuzabala": {
+      "query": "\"Maria Asuncion Aramburuzabala\" Mexico political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Aramburuzabala: La mujer más rica de México acusó de extorsión mientras negociaba | Economía | EL PAÍS",
+          "url": "https://elpais.com/economia/2015/09/05/actualidad/1441406426_472149.html"
+        },
+        {
+          "title": "A la sombra | María Asunción Aramburuzabala - El Sol de México",
+          "url": "https://oem.com.mx/elsoldemexico/analisis/a-la-sombra-maria-asuncion-aramburuzabala-16737017"
+        },
+        {
+          "title": "Rosalba Mancinas Chávez",
+          "url": "https://idus.us.es/server/api/core/bitstreams/2ac38d38-5b24-4908-bd45-22e14eb93832/content"
+        },
+        {
+          "title": "María Asunción Aramburuzabala",
+          "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Asunci%C3%B3n_Aramburuzabala"
+        },
+        {
+          "title": "Quién es María Asunción Aramburuzabala, la mujer más rica de México | Teletica",
+          "url": "https://www.teletica.com/bbc-news-mundo/quien-es-maria-asuncion-aramburuzabala-la-mujer-mas-rica-de-mexico_320580"
+        },
+        {
+          "title": "Aramburuzabala, la mujer más poderosa",
+          "url": "https://expansion.mx/expansion/2009/04/22/1-maria-asuncion-aramburuzabala"
+        }
+      ]
+    },
+    "todd-boehly": {
+      "query": "\"Todd Boehly\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Schmidt rejects link between donations, regulatory delay | Kansas City Star",
+          "url": "https://www.kansascity.com/news/politics-government/article315861316.html"
+        },
+        {
+          "title": "Golden Globes sale was a 'sham,' Hollywood Foreign Press alleges in $150-million suit against Penske, others - Los Angeles Times",
+          "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-28/golden-globes-lawsuit-hfpa-penske"
+        },
+        {
+          "title": "How L.A. sports team owners contributed to 2020 election - Los Angeles Times",
+          "url": "https://www.latimes.com/sports/story/2020-11-02/sports-team-owners-contributions-2020-election-trump-biden"
+        },
+        {
+          "title": "Todd Boehly",
+          "url": "https://en.wikipedia.org/wiki/Todd_Boehly"
+        }
+      ]
+    },
+    "david-geffen": {
+      "query": "\"David Geffen\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "DONORS PAY AND STAY AT WHITE HOUSE - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/politics/1996/12/15/donors-pay-and-stay-at-white-house/5e0cad1f-5e9c-42c5-8fae-a549508f8388/"
+        },
+        {
+          "title": "David Geffen",
+          "url": "https://en.wikipedia.org/wiki/David_Geffen"
+        },
+        {
+          "title": "Donor Enjoyed Broad Access to White House - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1996-11-28-mn-3722-story.html"
+        },
+        {
+          "title": "Famous allies were often at odds - Los Angeles Times",
+          "url": "https://www.latimes.com/la-na-geffen4mar04-story.html"
+        },
+        {
+          "title": "Hollywood Plays a Starring Role in Financing Politics - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1996-08-25-mn-37601-story.html"
+        },
+        {
+          "title": "COVER STORY : David Geffen... - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1993-03-07-ca-7919-story.html"
+        }
+      ]
+    },
+    "rajan-mittal": {
+      "query": "\"Rajan Mittal\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

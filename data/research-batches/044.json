@@ -1,0 +1,92 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "anders-holch-povlsen": {
+      "query": "\"Anders Holch Povlsen\" Denmark political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Anders Holch Povlsen - Erhvervsmand - Karriere - Lex",
+          "url": "https://lex.dk/Anders_Holch_Povlsen"
+        },
+        {
+          "title": "Anders Holch Povlsen guadagna 917 milioni di corone danesi in jet di lusso ai vertici del governo - Centro Studi sulla Storia dell'Europa Orientale",
+          "url": "https://www.csseo.org/1282623/"
+        },
+        {
+          "title": "Milliardær overtager styringen i Nemlig.com - Fagbladet3f",
+          "url": "https://fagbladet3f.dk/a44f0d48f3024ed8ba78d304bf65cc18-20150422-milliardaer-overtager-styringen-i-nemligcom/"
+        }
+      ]
+    },
+    "wang-wei": {
+      "query": "\"Wang Wei\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "mikhail-fridman": {
+      "query": "\"Mikhail Fridman\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Uber hired oligarch-linked Russian lobbyist despite bribery fears | Uber | The Guardian",
+          "url": "https://www.theguardian.com/news/2022/jul/11/uber-hired-oligarch-linked-lobbyist-russia-bribery-fears"
+        },
+        {
+          "title": "Mikhail Fridman",
+          "url": "https://en.wikipedia.org/wiki/Mikhail_Fridman"
+        },
+        {
+          "title": "MACRO-ADVISORY",
+          "url": "https://d39raawggeifpx.cloudfront.net/articlefiles/WEAFER%20sanctions%20report%20M_A_Russian_Business_Government_Relations_October_2023.pdf"
+        },
+        {
+          "title": "Fridman v. Orbis Bus. Intelligence Ltd. (Fridman v. Orbis Bus. Intelligence Ltd., 229 A.3d 494 (D.C. 2020)) - vLex United States",
+          "url": "https://case-law.vlex.com/vid/fridman-v-orbis-bus-894865580"
+        },
+        {
+          "title": "History of the Russian Federation",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_Russian_Federation"
+        },
+        {
+          "title": "Russian oligarch Mikhail Fridman claims €14.5 billion from Luxembourg",
+          "url": "https://www.lemonde.fr/en/international/article/2024/08/22/russian-oligarch-mikhail-fridman-claims-14-5-billion-from-luxembourg_6719631_4.html"
+        }
+      ]
+    },
+    "enrique-razon-jr": {
+      "query": "\"Enrique Razon Jr.\" Philippines political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "G.R. No. 101202",
+          "url": "https://lawphil.net/judjuris/juri1993/mar1993/gr_101202_1993.html"
+        },
+        {
+          "title": "When business and politics mix: Enrique Razon's empire",
+          "url": "https://www.rappler.com/business/enrique-razon-empire/"
+        },
+        {
+          "title": "Tycoons Swoop in on the Clean Energy Boom, Raising Prices for Consumers: A story in 6 parts - PCIJ.org",
+          "url": "https://pcij.org/2026/06/23/tycoons-swoop-in-clean-energy-boom/"
+        },
+        {
+          "title": "Manila Bulletin - Water deal renegotiations to push through despite Razon buying stake in concessionaire",
+          "url": "https://mb.com.ph/article/369204/Philippines/water-deal-renegotiations-to-push-through-despite-razon-buying-stake-in-concessionaire"
+        },
+        {
+          "title": "De Venecia: FG, Razon financed my ouster - Philstar.com",
+          "url": "https://www.philstar.com/headlines/2008/02/06/42931/de-venecia-fg-razon-financed-my-ouster/amp"
+        },
+        {
+          "title": "(PDF) Expanding the Executive: The Civilian and Military Infrastructure of a \"Populist\" Presidency",
+          "url": "https://www.researchgate.net/publication/374581764_Expanding_the_Executive_The_Civilian_and_Military_Infrastructure_of_a_Populist_Presidency"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "yi-zheng": {
+      "query": "\"Yi Zheng\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Office of Public Affairs | Chinese National and Two U.S. Citizens Charged with Conspiring to Smuggle Artificial Intelligence Technology to China | United States Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/chinese-national-and-two-us-citizens-charged-conspiring-smuggle-artificial-intelligence"
+        }
+      ]
+    },
+    "zeng-fangqin": {
+      "query": "\"Zeng Fangqin\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "mong-koo-chung": {
+      "query": "\"Mong-Koo Chung\" South Korea political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Chung Mong-koo",
+          "url": "https://en.wikipedia.org/wiki/Chung_Mong-koo"
+        }
+      ]
+    },
+    "iskander-makhmudov": {
+      "query": "\"Iskander Makhmudov\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Махмудов, Искандар Кахрамонович",
+          "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%85%D0%BC%D1%83%D0%B4%D0%BE%D0%B2%2C_%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9A%D0%B0%D1%85%D1%80%D0%B0%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "title": "Benalla et les contrats russes: qui sont les deux oligarques au cœur de l’enquête | Mediapart",
+          "url": "https://www.mediapart.fr/journal/france/150219/benalla-et-les-contrats-russes-qui-sont-les-deux-oligarques-au-coeur-de-l-enquete?onglet=full"
+        },
+        {
+          "title": "In addition, the lobbying of the Russian MIC in the government has been expanded: Rostec regularly reports on its needs and seeks various preferences, such as tax benefits, initiatives to simplify procurement, advance payments, support for the diversification of plants, etc. 483",
+          "url": "https://dspace.cuni.cz/bitstream/handle/20.500.11956/201275/130420360.pdf?sequence=1"
+        },
+        {
+          "title": "Russian link to key figure in Macron security advisor scandal | Mediapart",
+          "url": "https://www.mediapart.fr/en/journal/france/181218/russian-link-key-figure-macron-security-advisor-scandal"
+        },
+        {
+          "title": "Kremlin hotline: Hungary colluded with Russia to delist sanctioned oligarchs, companies and banks — The Insider",
+          "url": "https://theins.org/en/inv/290911"
+        },
+        {
+          "title": "SOCIALISM, CAPITALISM",
+          "url": "https://publications.aston.ac.uk/id/eprint/40467/1/Socialism_Capitalism_and_Alternatives.pdf"
+        }
+      ]
+    }
+  }
+}

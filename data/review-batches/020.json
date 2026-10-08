@@ -1,0 +1,210 @@
+{
+  "profiles": {
+    "mikhail-prokhorov": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Moderate / historical episode",
+      "period": "Norilsk acquisition during 1990s privatization; scholarly reassessments in 2010 and personal responses in 2012",
+      "summary": "Prokhorov’s role in the bank-led acquisition of Norilsk links his historical wealth formation to a politically structured privatization process. The reviewed scholarship supports that mechanism while disputing simplistic claims about asset values and economic damage. Potanin’s separate political role is not automatically Prokhorov’s.",
+      "mechanism": "Bank participation in state financing → acquisition of privatized industrial equity",
+      "support": [
+        {
+          "text": "Szelényi identifies Prokhorov as the bank’s board chairman and describes him working with Potanin to acquire Norilsk Nickel through it. The account also credits his subsequent management and restructuring.",
+          "source": "Iván Szelényi / UNU-WIDER, Working Paper 2010/63",
+          "url": "https://www.wider.unu.edu/sites/default/files/wp2010-63.pdf",
+          "date": "2010-05",
+          "kind": "Scholarly person-level acquisition account",
+          "access": "PDF printed page 21 reviewed directly"
+        },
+        {
+          "text": "Treisman describes state share tranches pledged for budget loans, followed by sales after non-repayment, often to the creditors themselves. He finds that auction competition was restricted; Norilsk is among the transactions studied.",
+          "source": "Daniel Treisman / NBER, Working Paper 15819",
+          "url": "https://www.nber.org/papers/w15819.pdf",
+          "date": "2010-03",
+          "kind": "Scholarly account of the financing and allocation mechanism",
+          "access": "PDF abstract and printed pages 2 and 8 reviewed directly"
+        },
+        {
+          "text": "The New Yorker’s interview-based profile identifies both partners as beneficiaries of the Norilsk transaction. Prokhorov describes a division of labor: he favored technical operations, while Potanin handled politics and lobbying.",
+          "source": "Julia Ioffe / The New Yorker: The Master and Mikhail",
+          "url": "https://www.newyorker.com/magazine/2012/02/27/the-master-and-mikhail",
+          "date": "2012-02",
+          "kind": "Individual participation and subject’s attribution boundary",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Treisman challenges the scale of supposed underpricing and later economic damage, despite criticizing execution. His Norilsk discount estimates depend on contemporaneous market valuations; a later company valuation is not the price of the original stake.",
+          "source": "Daniel Treisman / NBER: valuation and performance qualifications",
+          "url": "https://www.nber.org/papers/w15819.pdf",
+          "date": "2010-03",
+          "kind": "Material competing economic interpretation",
+          "access": "PDF abstract and printed pages 2 and 8 reviewed directly"
+        },
+        {
+          "text": "In a Reuters interview during his presidential campaign, Prokhorov denied being a Kremlin instrument and called for democratic reform. These are his stated positions, not independent proof of either political control or independence.",
+          "source": "Reuters, republished by The Moscow Times",
+          "url": "https://www.themoscowtimes.com/archive/candidate-prokhorov-says-putin-must-change",
+          "date": "2012-01-18",
+          "kind": "Direct subject response and later political context",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Historical editorial assessment, not an allegation of a present-day crime or a comprehensive 2026 political profile. Bank-level participation and personal benefit are documented more clearly than his individual design of the rules. The later campaign is not evidence that the earlier acquisition was an election payment. The score does not treat all privatization, later growth, or Potanin’s conduct as Prokhorov’s misconduct."
+    },
+    "vladimir-lisin": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / personal direction uncertain",
+      "period": "NLMK’s 2019 co-investment agreement and European steel-import policy in 2022–2023",
+      "summary": "Lisin’s NLMK had a public co-investor and benefited from a phased steel-import restriction. The evidence supports a limited corporate economic-influence interpretation, not proof that Lisin personally bought an exemption or that his absence from a particular sanctions list was a favor.",
+      "mechanism": "Public co-investment and employment interests → support for a steel-import transition",
+      "support": [
+        {
+          "text": "Reuters identifies Lisin as NLMK’s chairman and main shareholder in March 2022. That connects him to the company but does not identify him as the author of every lobbying decision.",
+          "source": "Reuters / Euronews: Lisin’s employee letter",
+          "url": "https://www.euronews.com/2022/03/08/uk-ukraine-crisis-russia-nlmk",
+          "date": "2022-03-08",
+          "kind": "Individual company role",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "NLMK’s 2019 announcement records 49% stakes for both NLMK and SOGEPA in Belgium Holdings, with each agreeing to invest €100 million over 2019–2021 and provide financing guarantees on equal terms.",
+          "source": "NLMK Group: joint development agreement",
+          "url": "https://nlmk.com/en/media-center/press-releases/nlmk-group-and-belgian-sogepa-sign-agreement-on-joint-execution-of-nlmk-belgium-holdings-development/",
+          "date": "2019-10-10",
+          "kind": "Primary public-private corporate arrangement",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Disclose reports NLMK warning European governments about job losses from sanctions, and its Walloon public investor later advocating protection of European operations. These are company-level interventions, not documented personal instructions from Lisin.",
+          "source": "Disclose / Antoine Harari and Clément Fayol",
+          "url": "https://disclose.ngo/en/article/how-an-oligarch-with-links-to-the-russian-weapons-industry-is-shielded-from-eu-sanctions",
+          "date": "2022-12-13",
+          "kind": "Reported corporate advocacy and public-investor alignment",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Belga reports the Walloon economy minister explaining that a two-year transition would protect NLMK activity temporarily and that the government would discuss its situation with the Commission.",
+          "source": "The Brussels Times with Belga",
+          "url": "https://www.brusselstimes.com/belgium/308584/sanctions-will-not-hurt-walloon-branches-of-russian-company-nlmk-for-now/",
+          "date": "2022-10-18",
+          "kind": "Contemporaneous government explanation of policy benefit",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "In December 2023, NLMK Belgium Holdings welcomed extension of the slab-import transition to September 2028, with progressively reduced volumes. This is the company’s dated account of policy relief, not a personal cash payment.",
+          "source": "NLMK Belgium Holdings: slab quota statement",
+          "url": "https://eu.nlmk.com/en/media-center/news-groups/nlmk-belgium-holdings-slab-quota-decision-creates-a-platform-for-transformation/",
+          "date": "2023-12-18",
+          "kind": "Primary company acknowledgment of economic benefit",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The 2019 agreement requires matching private investment and guarantees. Public equity participation is not the same as an unconditional grant to Lisin.",
+          "source": "NLMK Group: matching obligations",
+          "url": "https://nlmk.com/en/media-center/press-releases/nlmk-group-and-belgian-sogepa-sign-agreement-on-joint-execution-of-nlmk-belgium-holdings-development/",
+          "date": "2019-10-10",
+          "kind": "Material financing distinction",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The minister defended local employment and industrial activity while supporting European sanctions. These public objectives can explain a transition without a corrupt bargain.",
+          "source": "The Brussels Times with Belga: public-purpose rationale",
+          "url": "https://www.brusselstimes.com/belgium/308584/sanctions-will-not-hurt-walloon-branches-of-russian-company-nlmk-for-now/",
+          "date": "2022-10-18",
+          "kind": "Material alternative explanation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Disclose explicitly says it could not establish which states had proposed or opposed personal sanctions against Lisin, or whether that question was raised. A steel-product transition does not prove political protection from personal designation.",
+          "source": "Disclose: limit on personal-sanctions inference",
+          "url": "https://disclose.ngo/en/article/how-an-oligarch-with-links-to-the-russian-weapons-industry-is-shielded-from-eu-sanctions",
+          "date": "2022-12-13",
+          "kind": "Explicit evidential boundary",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The company describes the extra time as enabling alternative supply and industrial transformation, with declining import allowances. Its claimed job and investment benefits are not an independent outcome audit.",
+          "source": "NLMK Belgium Holdings: stated transition rationale",
+          "url": "https://eu.nlmk.com/en/media-center/news-groups/nlmk-belgium-holdings-slab-quota-decision-creates-a-platform-for-transformation/",
+          "date": "2023-12-18",
+          "kind": "Company response and limits of claimed public benefit",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "A narrow corporate-policy assessment, not a sanctions-compliance opinion or complete review of his Russian business history. The evidence of Lisin’s personal direction remains limited; the feedback dimension is therefore weak. The 2023 statement is not verification of the rules applicable to any trade in 2026. No conclusion about disputed military end use or shipping conduct is drawn, and nationality, public ownership or a sanctions label alone does not determine the score."
+    }
+  },
+  "rubrics": {
+    "mikhail-prokhorov": {
+      "levels": [
+        2,
+        3,
+        3
+      ],
+      "range": [
+        40,
+        85
+      ],
+      "rationales": [
+        "His senior bank role places him inside the transaction; the reviewed interview assigns political lobbying more directly to his partner.",
+        "The literature links his acquisition to a restricted state-asset allocation process, while valuation and performance interpretations differ.",
+        "The loan-and-equity mechanism directly connects private finance, a government decision and personal industrial ownership; it is not proof of an individual criminal bargain."
+      ],
+      "sourceRefs": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    "vladimir-lisin": {
+      "levels": [
+        2,
+        2,
+        1
+      ],
+      "range": [
+        10,
+        65
+      ],
+      "rationales": [
+        "The company and public co-investor advocated a policy affecting their operations; personal direction is less clear than corporate alignment.",
+        "A phased import restriction preserves company supply temporarily, with declining volumes and a stated transition purpose.",
+        "Public and private industrial interests align, but the record does not establish Lisin personally securing an exchange or a personal-sanctions waiver."
+      ],
+      "sourceRefs": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ]
+    }
+  }
+}

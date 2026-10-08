@@ -1,0 +1,88 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "ramzi-musallam": {
+      "query": "\"Ramzi Musallam\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "carl-bennet": {
+      "query": "\"Carl Bennet\" Sweden political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Bennets läxa: Betalade 1,6 miljarder - insynspersonerna köpte för en bråkdel",
+          "url": "https://www.affarsvarlden.se/artikel/bennets-laxa-betalade-miljardbelopp-insynspersonerna-kopte-for-38-miljoner"
+        },
+        {
+          "title": "Tung duo skjuter Rosengren i sank",
+          "url": "https://www.aftonbladet.se/nyheter/kolumnister/a/KvzXQM/tung-duo-skjuter-rosengren-i-sank"
+        },
+        {
+          "title": "Politisk rensning i Telias styrelse",
+          "url": "https://www.svd.se/a/392a1431-e8db-3d60-b99b-8097feb3fae2/politisk-rensning-i-telias-styrelse"
+        },
+        {
+          "title": "Debatt om miljardärsskatten: ”Man tar inte in skatter för att det är roligt” – Åkessons skarpa gräns för L: ”Tio dagar” | SVT Nyheter",
+          "url": "https://www.svt.se/nyheter/inrikes/akessons-skarpa-grans-for-l-tio-dagar?inlagg=777287b2097b6cd363ecceca08309457"
+        },
+        {
+          "title": "Miljardären som sponsrade kritiska rapporten: \"Jag har lärt av Northvolt\"",
+          "url": "https://www.affarsvarlden.se/intervju/miljardaren-som-sponsrade-kritiska-rapporten-jag-har-lart-av-northvolt"
+        },
+        {
+          "title": "Vill att staten lånar 600 miljarder: \"Vi har råd\"",
+          "url": "https://www.svd.se/a/n14oVx/carl-bennet-miljardaren-som-tycker-sverige-ska-lana-600-miljarder"
+        }
+      ]
+    },
+    "tobi-lutke": {
+      "query": "\"Tobi Lutke\" Canada political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "‘One person, one vote’? It’s still an open debate in Canada - The Hub",
+          "url": "https://thehub.ca/2026/08/04/one-person-one-vote-its-still-an-open-debate-in-canada/"
+        },
+        {
+          "title": "Nearly half of Canadian tax filers get back more than they pay in—that’s a political problem - The Hub",
+          "url": "https://thehub.ca/2026/08/04/nearly-half-of-canadian-tax-filers-get-back-more-than-they-pay-in-thats-a-political-problem/"
+        },
+        {
+          "title": "Shopify flexes its political muscle with Canadian lobbying blitz - The Logic",
+          "url": "https://thelogic.co/news/shopify-lobbying-ottawa-michel-liboiron/"
+        },
+        {
+          "title": "Shopify CEO appears to endorse giving more votes to wealthy Canadians - Tobi Lütke's support of proposal made by retired TD Bank executive has drawn ire on social media",
+          "url": "https://www.reddit.com/r/canada/comments/1v98mb5/shopify_ceo_appears_to_endorse_giving_more_votes/"
+        },
+        {
+          "title": "Tobi Lutke’s voting idea an attack on ideals of democracy",
+          "url": "https://www.reddit.com/r/canada/comments/1vfeztt/tobi_lutkes_voting_idea_an_attack_on_ideals_of/"
+        }
+      ]
+    },
+    "german-khan": {
+      "query": "\"German Khan\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Publications Office",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/OJ_L_75I_of_2023_-_EN_English.pdf"
+        },
+        {
+          "title": "German Khan",
+          "url": "https://en.wikipedia.org/wiki/German_Khan"
+        },
+        {
+          "title": "German Khan – OpenSanctions",
+          "url": "https://www.opensanctions.org/entities/Q557317/"
+        }
+      ]
+    }
+  }
+}

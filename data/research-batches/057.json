@@ -1,0 +1,92 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "joseph-tsai": {
+      "query": "\"Joseph Tsai\" Canada political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "ken-fisher": {
+      "query": "\"Ken Fisher\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "2 wealthy donors pour cash into state Republican races",
+          "url": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/CommitteeMeetingDocument/159517"
+        },
+        {
+          "title": "Ken Fisher backlash: Michigan pulls $600 million of its pension fund from Fisher Investment after sexist remarks - The Washington Post",
+          "url": "https://www.washingtonpost.com/business/2019/10/11/investor-who-made-offensive-sexual-comments-summit-loses-million-contract-backlash/"
+        },
+        {
+          "title": "Kenneth Fisher",
+          "url": "https://en.wikipedia.org/wiki/Kenneth_Fisher"
+        }
+      ]
+    },
+    "sandra-ortega-mera": {
+      "query": "\"Sandra Ortega Mera\" Spain political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Rosalía Mera",
+          "url": "https://es.wikipedia.org/wiki/Rosal%C3%ADa_Mera"
+        },
+        {
+          "title": "Archivada la querella de Sandra Ortega contra su exgestor, al que acusó de apropiarse de tres millones",
+          "url": "https://www.lavozdegalicia.es/amp/noticia/economia/2023/04/05/archivada-querella-sandra-ortega-contra-exgestor-acuso-apropiarse-tres-millones/00031680718229840291154.htm"
+        },
+        {
+          "title": "Sandra Ortega, una millonaria de perfil bajo | Estilo | EL PAÍS",
+          "url": "https://elpais.com/elpais/2014/10/16/estilo/1413482136_177275.html?outputType=amp"
+        },
+        {
+          "title": "Sandra, la hija mayor de Amancio Ortega, ya no quiere que la representen: entra en el consejo de administración de la farmacéutica PharmaMar | Vanity Fair",
+          "url": "https://www.revistavanityfair.es/poder/articulos/sandra-hija-amancio-ortega-consejo-administracion-pharmamar/47998"
+        },
+        {
+          "title": "La súbita caída del que fuera administrador de la mujer más rica de España",
+          "url": "https://as.com/diarioas/2021/08/09/actualidad/1628528186_701847.html"
+        },
+        {
+          "title": "Sandra Ortega compra la sede de Telefónica en Alemania",
+          "url": "https://cincodias.elpais.com/companias/2025-06-17/sandra-ortega-compra-la-sede-de-telefonica-en-alemania.html"
+        }
+      ]
+    },
+    "alexander-karp": {
+      "query": "\"Alexander Karp\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Million-Dollar Donors Flooded Trump’s Second Inauguration | Brennan Center for Justice",
+          "url": "https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration"
+        },
+        {
+          "title": "New Analysis: Palantir CEO Could Have Personally Saved Up to $86 Million from Trump Tax Law - Americans For Tax Fairness",
+          "url": "https://americansfortaxfairness.org/new-analysis-palantir-ceo-personally-saved-86-million-trump-tax-law/"
+        },
+        {
+          "title": "ICE-Cold Cash: Members of Congress Took More than $1.7 Million from ICE Contractors",
+          "url": "https://www.rsn.org/001/icecold-cash-members-of-congress-took-more-than-17-million-from-ice-contractors.html?print=1"
+        },
+        {
+          "title": "ICE Contractor CEOs Saved Up To $88M From Trump Tax Law - Americans For Tax Fairness",
+          "url": "https://americansfortaxfairness.org/ice-contractor-ceos-saved-88m-trump-tax-law/"
+        },
+        {
+          "title": "The Palantir Guide to Saving America’s Soul | The New Yorker",
+          "url": "https://www.newyorker.com/books/under-review/the-palantir-guide-to-saving-americas-soul"
+        },
+        {
+          "title": "Alex Karp",
+          "url": "https://en.wikipedia.org/wiki/Alex_Karp"
+        }
+      ]
+    }
+  }
+}

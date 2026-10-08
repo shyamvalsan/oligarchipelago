@@ -1,0 +1,69 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "lu-weiding": {
+      "query": "\"Lu Weiding\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "INVESTIGATING CHINA’S ECONOMIC COERCION: THE REACH AND ROLE OF CHINESE CORPORATE ENTITIES",
+          "url": "https://www.atlanticcouncil.org/wp-content/uploads/2023/11/Role-and-Reach-of-Chinese-Econ-Statecraft-1.pdf"
+        }
+      ]
+    },
+    "samir-mehta": {
+      "query": "\"Samir Mehta\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Samir Mehta vs Union Of India on 13 November, 2017",
+          "url": "https://indiankanoon.org/doc/178052422/"
+        }
+      ]
+    },
+    "sudhir-mehta": {
+      "query": "\"Sudhir Mehta\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Sudhir Mehta's Torrent Group bought electoral bonds worth Rs 185 cr",
+          "url": "https://www.thenewsminute.com/amp/story/news/close-to-modi-exempt-from-taxes-torrent-group-bought-electoral-bonds-worth-rs-185-cr"
+        }
+      ]
+    },
+    "kerry-stokes": {
+      "query": "\"Kerry Stokes\" Australia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "What did Rupert Murdoch and Kerry Stokes have to do with the Liberal leadership spill? - ABC News",
+          "url": "https://www.abc.net.au/news/2018-09-19/liberal-leadership-spill-rupert-murdoch-kerry-stokes-influence/10262552"
+        },
+        {
+          "title": "First, there was an internal process within government that culminated in an announcement by Prime Minister Morrison on 1 November 2018 that his government had committed $498.7 million to the project. The project had progressed outside the normal competitive Budget process: funding arrangements were nailed down secretively, helped by lobbying from then director Nelson and War Memorial Council chairman Kerry Stokes.",
+          "url": "https://honesthistory.net.au/wp/wp-content/uploads/MWest24Mar.pdf"
+        },
+        {
+          "title": "Bitter brawl between billionaires Andrew Forrest and Kerry Stokes boils over, with communications minister asked to intervene - ABC News",
+          "url": "https://www.abc.net.au/news/2023-02-17/twiggy-forrest-kerry-stokes-michelle-rowland-spat-media/101990722"
+        },
+        {
+          "title": "Kerry Stokes media interests | ACMA",
+          "url": "https://www.acma.gov.au/publications/2019-11/infographic/kerry-stokes-media-interests"
+        },
+        {
+          "title": "Hansard - Senate 23/11/2021 Parliament of Australia",
+          "url": "https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F25183%2F&sid=0122"
+        },
+        {
+          "title": "Investigation into control - Mr Brian Powers, Mr Kerry Packer and Mr James Packer/John Fairfax Holdings Ltd",
+          "url": "https://www.acma.gov.au/sites/default/files/2019-11/Investigation%20into%20control%20-%20Mr%20Brian%20Powers%20Mr%20Kerry%20Packer%20and%20Mr%20James%20Packer%20John%20Fairfax%20Holdings%20Limited%20March%201999.pdf"
+        }
+      ]
+    }
+  }
+}

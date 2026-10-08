@@ -1,0 +1,105 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "henry-samueli": {
+      "query": "\"Henry Samueli\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Henry Samueli",
+          "url": "https://en.wikipedia.org/wiki/Henry_Samueli"
+        },
+        {
+          "title": "USA v. Henry Samueli",
+          "url": "https://cases.justia.com/federal/appellate-courts/ca9/08-50417/920090924/0.pdf"
+        },
+        {
+          "title": "2013] PLEA BARGAINING’S INNOCENCE PROBLEM 25",
+          "url": "https://www.govinfo.gov/content/pkg/CHRG-113hhrg85566/pdf/CHRG-113hhrg85566.pdf"
+        },
+        {
+          "title": "Dr. Nicholas and Mr. Hyde | Vanity Fair",
+          "url": "https://www.vanityfair.com/news/2008/11/nicholas200811"
+        }
+      ]
+    },
+    "melinda-french-gates": {
+      "query": "\"Melinda French Gates\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Melinda French Gates - Council on Foreign Relations",
+          "url": "https://www.gatesfoundation.org/ideas/speeches/2008/06/melinda-french-gates-council-on-foreign-relations"
+        },
+        {
+          "title": "Melinda French Gates on investing in the political power of women - The Washington Post",
+          "url": "https://www.washingtonpost.com/washington-post-live/2023/07/27/melinda-french-gates-investing-political-power-women/"
+        },
+        {
+          "title": "Melinda French Gates Is Going It Alone",
+          "url": "https://time.com/6989402/melinda-french-gates-interview-2024/"
+        },
+        {
+          "title": "‘Have you ever been around someone you just know is evil?’ Melinda French Gates on meeting Jeffrey Epstein, giving away billions, and her post-divorce peace | Philanthropy | The Guardian",
+          "url": "https://www.theguardian.com/society/2026/jun/13/melinda-french-gates-interview-jeffrey-epstein-fighting-for-womens-health"
+        },
+        {
+          "title": "Melinda French Gates Embraces a New Era and Gets Political—Even When It’s Uncomfortable | Vanity Fair",
+          "url": "https://www.vanityfair.com/style/story/melinda-gates-interview-politics"
+        },
+        {
+          "title": "Melinda French Gates to donate $1 billion over next 2 years in support of women's rights",
+          "url": "https://apnews.com/article/ab3512903cac247960d1fe03eabaeb89"
+        }
+      ]
+    },
+    "stefan-quandt": {
+      "query": "\"Stefan Quandt\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Stefan Quandt",
+          "url": "https://de.wikipedia.org/wiki/Stefan_Quandt"
+        },
+        {
+          "title": "Stefan Quandt",
+          "url": "https://fr.wikipedia.org/wiki/Stefan_Quandt"
+        },
+        {
+          "title": "Stefan Quandt",
+          "url": "https://en.wikipedia.org/wiki/Stefan_Quandt"
+        },
+        {
+          "title": "Spenden: FDP erhielt 360.000 Euro - Deutscher Bundestag",
+          "url": "https://www.bundestag.de/webarchiv/presse/hib/2013_11/04-260162"
+        },
+        {
+          "title": "Quandt (Familie)",
+          "url": "https://de.wikipedia.org/wiki/Quandt_%28Familie%29"
+        },
+        {
+          "title": "Parteienfinanzierung: Stückeln, bündeln, tarnen: Die Tricks mit den Parteispenden | abgeordnetenwatch",
+          "url": "https://www.abgeordnetenwatch.de/recherchen/lobbyismus/stueckeln-buendeln-tarnen-die-tricks-mit-den-parteispenden"
+        }
+      ]
+    },
+    "reinhold-wuerth": {
+      "query": "\"Reinhold Wuerth\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Reinhold Würth",
+          "url": "https://de.wikipedia.org/wiki/Reinhold_W%C3%BCrth"
+        },
+        {
+          "title": "Unternehmer Würth: AfD greift Grundgesetz an",
+          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/unternehmer-wuerth-afd-rechtsruck-europa-100.html"
+        }
+      ]
+    }
+  }
+}

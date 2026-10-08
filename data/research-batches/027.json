@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "huang-shilin": {
+      "query": "\"Huang Shilin\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "christy-walton": {
+      "query": "\"Christy Walton\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Christy Walton - Influence Watch",
+          "url": "https://www.influencewatch.org/person/christy-walton/"
+        },
+        {
+          "title": "Christy Walton",
+          "url": "https://en.wikipedia.org/wiki/Christy_Walton"
+        },
+        {
+          "title": "Walmart Heiress Christy Walton Is The Only Billionaire Still Donating To The Lincoln Project",
+          "url": "https://www.forbes.com/sites/michelatindera/2021/12/16/walmart-billionaire-christy-walton-is-still-donating-to-the-lincoln-project/"
+        },
+        {
+          "title": "Christy Walton - Arizona Contributor - Transparency USA",
+          "url": "https://www.transparencyusa.org/az/contributor/christy-walton"
+        }
+      ]
+    },
+    "stefan-persson": {
+      "query": "\"Stefan Persson\" Sweden political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "H&M:s ägare gör skatteklipp | Göteborgs-Posten",
+          "url": "https://www.gp.se/ekonomi/hms-agare-gor-skatteklipp.5f4830b9-572d-4864-8da7-8fd49844e017"
+        },
+        {
+          "title": "Sweden, a 'paradise' for the ultra-rich, debates billionaire tax ahead of elections",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/03/sweden-a-paradise-for-the-ultra-rich-debates-billionaire-tax-ahead-of-elections_6757109_19.html"
+        },
+        {
+          "title": "Familjen H&M dumpar Sandvik till förmån för Epiroc",
+          "url": "https://omni.se/a/wrEOKA"
+        }
+      ]
+    },
+    "gennady-timchenko": {
+      "query": "\"Gennady Timchenko\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "'Five Kings': Putin Insiders Reign In Government Contract Ranking",
+          "url": "https://www.rferl.org/a/putin-insiders-state-contracts-forbes-ranking/27576535.html"
+        },
+        {
+          "title": "How Putin’s alleged ‘business associate’ made $400m from a major Russian gas deal | Gas | The Guardian",
+          "url": "https://www.theguardian.com/business/2022/dec/17/how-putins-alleged-business-associate-made-400m-from-a-major-russian-gas-deal"
+        },
+        {
+          "title": "How Ozon Was Bought for Putin",
+          "url": "https://fbk.info/en/news/putin-ozon"
+        },
+        {
+          "title": "Timchenko Lobbies for U.S. Funding",
+          "url": "https://www.themoscowtimes.com/2013/08/05/timchenko-lobbies-for-us-funding-a26469"
+        },
+        {
+          "title": "Putin’s secret bankrollers. How the president’s re-election campaign relies on contributions from sponsors tied to Gennady Timchenko and Moscow’s governor — Meduza",
+          "url": "https://meduza.io/en/feature/2018/03/13/putin-s-secret-bankrollers"
+        },
+        {
+          "title": "Russian gas company hires D.C. lobbyists – Center for Public Integrity",
+          "url": "https://publicintegrity.org/national-security/russian-gas-company-hires-d-c-lobbyists/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "idan-ofer": {
+      "query": "\"Idan Ofer\" Israel political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Examples of Efficient Management tools for Parliamentary Proceedings-Abstract and Background",
+          "url": "https://main.knesset.gov.il/EN/activity/mmm/DescriptionandAnalysisConcentrationLaw.pdf"
+        },
+        {
+          "title": "Organisation for Economic Co-operation and Development",
+          "url": "https://www.gov.il/BlobFolder/reports/annualreport2018/en/englishsite_Annual%20report%202018.pdf"
+        },
+        {
+          "title": "Israeli tycoon hired Black Cube to smear Yair Lapid in 2014 -- report | The Times of Israel",
+          "url": "https://www.timesofisrael.com/israeli-tycoon-hired-black-cube-to-smear-yair-lapid-in-2014-report/"
+        },
+        {
+          "title": "\"Globes\" Man of the Year: Idan Ofer - Globes",
+          "url": "https://en.globes.co.il/en/article-1000284945"
+        },
+        {
+          "title": "Israel Corporation - Annual Report 2025 | FinancialFilings",
+          "url": "https://financialfilings.com/filings/israel-corporation/annual-report/2026/33041998/"
+        },
+        {
+          "title": "Idan Ofer",
+          "url": "https://en.wikipedia.org/wiki/Idan_Ofer"
+        }
+      ]
+    },
+    "eyal-ofer": {
+      "query": "\"Eyal Ofer\" Israel political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "האימפריה מכה שנית: כך הגיעו איל ועידן עופר לצמרת עשירי העולם - Forbes Israel",
+          "url": "https://forbes.co.il/eyal-idan-ofer-billionaires/"
+        },
+        {
+          "title": "Israel's Anti-Concentration Law",
+          "url": "https://en.wikipedia.org/wiki/Israel%27s_Anti-Concentration_Law"
+        },
+        {
+          "title": "Vast sums flowed from Zim to the Ofers - Globes",
+          "url": "https://en.globes.co.il/en/article-vast-sums-flowed-from-zim-to-the-ofers-1000914141"
+        },
+        {
+          "title": "Idan Ofer",
+          "url": "https://de.wikipedia.org/wiki/Idan_Ofer"
+        },
+        {
+          "title": "במסגרת כנס סביבה 2050, אארח מחר בפאנל לפחות חלק מהגורמים שאחראים על הבטחת עתידנו- סמנכלית חברת נמלי ישראל, ששומרת על שרשרת האספקה החיונית למדינה, סמנכ\"ל התעשייה האווירית שעושה המון למען בטחונינו… | Eyal Ofer",
+          "url": "https://www.linkedin.com/posts/eyal-ofer-a4a07815_%D7%91%D7%9E%D7%A1%D7%92%D7%A8%D7%AA-%D7%9B%D7%A0%D7%A1-%D7%A1%D7%91%D7%99%D7%91%D7%94-2050-%D7%90%D7%90%D7%A8%D7%97-%D7%9E%D7%97%D7%A8-%D7%91%D7%A4%D7%90%D7%A0%D7%9C-%D7%9C%D7%A4%D7%97%D7%95%D7%AA-activity-7185599817006411777-WAhh"
+        },
+        {
+          "title": "RAMBAMHCC | 2016 ANNUAL REPORT",
+          "url": "https://www.rambam.org.il/en/files/Rambam_EN/publications/AR/AR2016.pdf"
+        }
+      ]
+    },
+    "he-xiangjian": {
+      "query": "\"He Xiangjian\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "abigail-johnson": {
+      "query": "\"Abigail Johnson\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Fidelity's Johnson Clan Meets With Regulators - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-2005-jun-29-fi-wrap29.1-story.html"
+        },
+        {
+          "title": "Abigail Johnson",
+          "url": "https://en.wikipedia.org/wiki/Abigail_Johnson"
+        }
+      ]
+    }
+  }
+}

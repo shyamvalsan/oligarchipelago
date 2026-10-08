@@ -1,0 +1,75 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "milane-frantz": {
+      "query": "\"Milane Frantz\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "tom-gores": {
+      "query": "\"Tom Gores\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Tom Gores",
+          "url": "https://en.wikipedia.org/wiki/Tom_Gores"
+        },
+        {
+          "title": "Tom Gores leaves LACMA board over prison phone investment - Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2020-10-09/gores-lacma-platinum-equity-securus-prison-phones"
+        },
+        {
+          "title": "Tom Gores under fire for buying prison phone firm Securus amid mass-incarceration debate - Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2019-09-05/la-fi-tom-gores-securus-prison-phone-mass-incarceration"
+        },
+        {
+          "title": "Tom Gores",
+          "url": "https://es.wikipedia.org/wiki/Tom_Gores"
+        },
+        {
+          "title": "Sam Gores",
+          "url": "https://en.wikipedia.org/wiki/Sam_Gores"
+        }
+      ]
+    },
+    "juan-roig": {
+      "query": "\"Juan Roig\" Spain political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Juan Roig, el gran poder fàctic valencià - El Temps",
+          "url": "https://www.eltemps.cat/article/22511/el-gran-poder-factic-valencia"
+        },
+        {
+          "title": "El PP acusa al Gobierno \"señalar\" a jueces, periodistas y ahora a \"empresarios\" como Juan Roig",
+          "url": "https://www.europapress.es/nacional/noticia-pp-acusa-gobierno-senalar-jueces-periodistas-ahora-empresarios-juan-roig-20230123124335.html"
+        },
+        {
+          "title": "El 'lobby' de Boluda y Juan Roig invita a Jordi Sevilla en plena campaña de su plan alternativo para el PSOE",
+          "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-02-12/ave-juan-roig-boluda-jordi-sevilla-sanchez_4302093/"
+        },
+        {
+          "title": "Juan Roig, Mercadona y la ultraderecha: lo que los hechos permiten decir (y lo que no) - Tercera Información",
+          "url": "https://www.tercerainformacion.es/opinion/31/08/2026/juan-roig-mercadona-y-la-ultraderecha-lo-que-los-hechos-permiten-decir-y-lo-que-no/"
+        },
+        {
+          "title": "El lobby de Juan Roig rectifica a su presidente Boluda: No quieren cupo catalán",
+          "url": "https://www.economiadigital.es/valencia/empresas/juan-roig-boluda-cupo-catalan.html"
+        },
+        {
+          "title": "Díaz critica a Juan Roig, a Feijóo y a Garamendi por pedir siempre rebajas fiscales como receta para todo",
+          "url": "https://www.europapress.es/economia/laboral-00346/noticia-diaz-critica-juan-roig-feijoo-garamendi-pedir-siempre-rebajas-fiscales-receta-todo-20260310144025.html"
+        }
+      ]
+    },
+    "you-xiaoping": {
+      "query": "\"You Xiaoping\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

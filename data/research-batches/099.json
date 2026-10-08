@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "chen-dongsheng": {
+      "query": "\"Chen Dongsheng\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "laurent-dassault": {
+      "query": "\"Laurent Dassault\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Les justiciables milliardaires",
+          "url": "https://www.lemonde.fr/m-actu/article/2014/10/08/les-justiciables-milliardaires_4374307_4497186.html"
+        },
+        {
+          "title": "The Dassault family, a succession of ill feelings",
+          "url": "https://www.lemonde.fr/en/summer-reads/article/2024/08/18/the-dassault-family-a-succession-of-ill-feelings_6717957_183.html"
+        },
+        {
+          "title": "Les grands patrons et l'extrême droite. Enquête | Sismique",
+          "url": "https://www.sismique.fr/episodes/159-1-les-grands-patrons-et-l-extreme-droite-enquete-laurent-mauduit"
+        },
+        {
+          "title": "LE MONDE / MARDI 27 AVRIL 1999 — ENTREPRISES",
+          "url": "https://scholar.lib.vt.edu/InterNews/LeMonde/issues/1999/lm990427.pdf"
+        },
+        {
+          "title": "Au « Figaro », Alexis Brézet cabre une nouvelle fois la rédaction",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2024/07/03/au-figaro-alexis-brezet-cabre-une-nouvelle-fois-la-redaction_6246199_3236.html?M_BT=46709384160081&lmd_campaign=trf_newsletters_lmfr&lmd_creation=a_la_une&lmd_email_link=a-la-une-autres-titres-titre_titre_3&lmd_medium=email&lmd_send_date=20240703"
+        },
+        {
+          "title": "Laurent Dassault",
+          "url": "https://fr.wikipedia.org/wiki/Laurent_Dassault"
+        }
+      ]
+    },
+    "thierry-dassault": {
+      "query": "\"Thierry Dassault\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Serge Dassault",
+          "url": "https://fr.wikipedia.org/wiki/Serge_Dassault"
+        },
+        {
+          "title": "The Dassault family, a succession of ill feelings",
+          "url": "https://www.lemonde.fr/en/summer-reads/article/2024/08/18/the-dassault-family-a-succession-of-ill-feelings_6717957_183.html"
+        },
+        {
+          "title": "• Thierry Dassault représentant permanent de la société TDH – Membre du conseil de surveillance, de nationalité française, 61 ans.",
+          "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/04/FCACT042441_20180427.pdf"
+        },
+        {
+          "title": "Au « Figaro », Alexis Brézet cabre une nouvelle fois la rédaction",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2024/07/03/au-figaro-alexis-brezet-cabre-une-nouvelle-fois-la-redaction_6246199_3236.html?M_BT=46709384160081&lmd_campaign=trf_newsletters_lmfr&lmd_creation=a_la_une&lmd_email_link=a-la-une-autres-titres-titre_titre_3&lmd_medium=email&lmd_send_date=20240703"
+        },
+        {
+          "title": "Thierry Dassault",
+          "url": "https://fr.wikipedia.org/wiki/Thierry_Dassault"
+        },
+        {
+          "title": "Serge Dassault",
+          "url": "https://en.wikipedia.org/wiki/Serge_Dassault"
+        }
+      ]
+    },
+    "elisabeth-deluca": {
+      "query": "\"Elisabeth DeLuca\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Esta heredera venderá Subway y se llevará miles de millones - Forbes Colombia",
+          "url": "https://forbes.co/las-mujeres-facturan/esta-heredera-vendera-subway-y-se-llevara-miles-de-millones"
+        }
+      ]
+    }
+  }
+}

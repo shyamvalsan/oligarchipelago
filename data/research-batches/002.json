@@ -1,0 +1,81 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "mark-zuckerberg": {
+      "query": "\"Mark Zuckerberg\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "ICYMI: WSJ – Inside Big Tech's Multi-Million-Dollar Bid to Buy Trump's Favor - Tech Oversight Project",
+          "url": "https://www.techoversight.org/2026/07/31/icymi-wsj-inside-big-techs-multi-million-dollar-bid-to-buy-trumps-favor/"
+        }
+      ]
+    },
+    "larry-ellison": {
+      "query": "\"Larry Ellison\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Larry Ellison Is a ‘Shadow President’ in Donald Trump’s America | WIRED",
+          "url": "https://www.wired.com/story/larry-ellison-is-a-shadow-president-in-donald-trumps-america/"
+        },
+        {
+          "title": "Oracle’s Larry Ellison joined Nov. 2020 call about contesting Trump’s loss - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2022/05/20/larry-ellison-oracle-trump-election-challenges/"
+        },
+        {
+          "title": "Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison"
+        }
+      ]
+    },
+    "bernard-arnault": {
+      "query": "\"Bernard Arnault\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Bernard Arnault et les politiques, la puissance d’un groupe au cœur de la République",
+          "url": "https://www.lemonde.fr/politique/article/2023/08/08/bernard-arnault-et-les-politiques-la-puissance-d-un-groupe-au-c-ur-de-la-republique_6184752_823448.html"
+        },
+        {
+          "title": "Uber Files: When the company courted French billionaires, hoping for VIP lobbyists",
+          "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/07/10/uber-files-when-the-company-courted-french-billionaires-hoping-for-vip-lobbyists_5989666_8.html"
+        },
+        {
+          "title": "Bernard Arnault, un « libéral » qui murmure à l’oreille de tous les présidents",
+          "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/20/bernard-arnault-un-liberal-qui-murmure-a-l-oreille-de-tous-les-presidents_6727329_3451060.html"
+        },
+        {
+          "title": "Bernard Arnault",
+          "url": "https://fr.wikipedia.org/wiki/Bernard_Arnault"
+        },
+        {
+          "title": "Au Sénat, Bernard Arnault se dépeint en bienfaiteur de la presse",
+          "url": "https://www.lemonde.fr/economie/article/2022/01/20/au-senat-bernard-arnault-se-depeint-en-bienfaiteur-de-la-presse_6110313_3234.html"
+        },
+        {
+          "title": "Bernard Arnault, a 'free-marketeer' who whispers in the ear of every president",
+          "url": "https://www.lemonde.fr/en/summer-reads/article/2026/07/21/bernard-arnault-a-free-marketeer-who-whispers-in-the-ear-of-every-president_6755675_183.html"
+        }
+      ]
+    },
+    "jensen-huang": {
+      "query": "\"Jensen Huang\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Why is Nvidia's CEO lobbying Republicans on AI chip sales to China? - Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2025-12-04/why-is-nvidias-ceo-lobbying-republicans-on-ai-chip-sales-to-china"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang visits Republicans as debate over intensifying AI race rages",
+          "url": "https://apnews.com/article/691556d07fc35364903eab25e428a285"
+        }
+      ]
+    }
+  }
+}

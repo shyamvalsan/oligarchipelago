@@ -1,0 +1,67 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "elizabeth-johnson": {
+      "query": "\"Elizabeth Johnson\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "zhu-yi": {
+      "query": "\"Zhu Yi\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Zhu Yi (Liang dynasty)",
+          "url": "https://en.wikipedia.org/wiki/Zhu_Yi_%28Liang_dynasty%29"
+        },
+        {
+          "title": "‘I have to do it’: Why one of the world’s most brilliant AI scientists left the US for China | China | The Guardian",
+          "url": "https://www.theguardian.com/news/ng-interactive/2025/sep/16/song-chun-zhu-why-one-of-the-worlds-most-brilliant-ai-scientists-left-the-us-for-china"
+        },
+        {
+          "title": "Why Winter Olympic Athletes Like Eileen Gu Are Getting Caught Up in U.S.-China Tensions",
+          "url": "https://time.com/6145687/winter-olympics-athletes-us-china-gu-politics/"
+        }
+      ]
+    },
+    "sherry-brydson": {
+      "query": "\"Sherry Brydson\" Canada political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "henry-kravis": {
+      "query": "\"Henry Kravis\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Henry Kravis",
+          "url": "https://en.wikipedia.org/wiki/Henry_Kravis"
+        },
+        {
+          "title": "Big Campaign Donors Admit Violating Limits : Politics: Group of 10 wealthy Americans will pay fines totaling $64,000. The action stems from FEC, Times inquiries. - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1993-03-18-mn-12355-story.html"
+        },
+        {
+          "title": "Executive Excess 2008",
+          "url": "https://www.sbilanciamoci.info/content/download/458/3415/file/ExecutiveExcess2008.pdf"
+        },
+        {
+          "title": "Henry Kravis — sourced record | Dialog Tracker",
+          "url": "https://dialogtracker.com/entity/henry-kravis"
+        },
+        {
+          "title": "Federal Stimulus Spending Is Giving the Lobbying Industry a Giant Windfall. This Firm Has Benefited the Most",
+          "url": "https://time.com/5830821/federal-stimulus-spending-lobbying-brownstein/"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — HOUSE",
+          "url": "https://www.congress.gov/110/crec/2008/07/15/CREC-2008-07-15-pt1-PgH6553-4.pdf"
+        }
+      ]
+    }
+  }
+}

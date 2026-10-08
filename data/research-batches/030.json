@@ -1,0 +1,105 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "wang-chuanfu": {
+      "query": "\"Wang Chuanfu\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "How Do Political and Nonpolitical Ties Affect Corporate Regulatory Participation? A Regulatory Capture Perspective - Jun Xia, Fiona Kun Yao, Xiaoli Yin, Xinran Wang, Zhouyu Lin, 2024",
+          "url": "https://journals.sagepub.com/doi/10.1177/00076503231219687"
+        },
+        {
+          "title": "Wang Chuanfu",
+          "url": "https://en.wikipedia.org/wiki/Wang_Chuanfu"
+        },
+        {
+          "title": "How Do Political and Nonpolitical Ties Affect Corporate Regulatory Participation? A Regulatory Capture Perspective",
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/00076503231219687"
+        },
+        {
+          "title": "Wang Chuanfu",
+          "url": "https://fr.wikipedia.org/wiki/Wang_Chuanfu"
+        }
+      ]
+    },
+    "john-fredriksen": {
+      "query": "\"John Fredriksen\" Cyprus political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "John Fredriksen",
+          "url": "https://en.wikipedia.org/wiki/John_Fredriksen"
+        },
+        {
+          "title": "John Fredriksen: Βλέπει την Κύπρο ως πιθανό... λιμάνι για τις εταιρείες του ο «βασιλιάς των τάνκερ»",
+          "url": "https://inbusinessnews.reporter.com.cy/article/414677/john-fredriksen-blepei-tin-kypro-os-pithano-limani-ga-tis-etaireies-toy-o-basilias-ton-tanker"
+        },
+        {
+          "title": "The super-rich who have made Cyprus their home | Cyprus | The Guardian",
+          "url": "https://www.theguardian.com/world/2013/mar/18/super-rich-made-cyprus-home"
+        },
+        {
+          "title": "John Fredriksen",
+          "url": "https://de.wikipedia.org/wiki/John_Fredriksen"
+        },
+        {
+          "title": "Decisive Donald, Greedy Big Bad Wolf, and Cowardly Jonas – Document News",
+          "url": "https://www.document.news/editorials/2026/04/decisive-donald-greedy-big-bad-wolf-and-cowardly-jonas"
+        },
+        {
+          "title": "Norwegian tycoon becomes a Cypriot, but not for island air - Taipei Times",
+          "url": "https://www.taipeitimes.com/News/bizfocus/archives/2006/05/21/2003309343"
+        }
+      ]
+    },
+    "kumar-birla": {
+      "query": "\"Kumar Birla\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Coal scam: CBI files FIR against Hindalco's Kumar Birla, ex coal-secy PC Parakh - The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/coal-scam-cbi-files-fir-against-hindalcos-kumar-birla-ex-coal-secy-pc-parakh/articleshow/24182436.cms"
+        },
+        {
+          "title": "Did Not Influence Anyone to Give Coal Block to Birla: Manmohan Singh",
+          "url": "https://www.ndtv.com/india-news/did-not-influence-anyone-to-give-coal-block-to-birla-manmohan-singh-1225378"
+        },
+        {
+          "title": "A murky tale of media, big business and politics - the Purie, Birla, Bahl and Congress tango",
+          "url": "https://hindupost.in/media/a-murky-tale-of-media-big-business-and-politics-the-purie-birla-bahl-and-congress-tango/"
+        },
+        {
+          "title": "Exclusive: Why Radhakrishan, Birla, rejected impeachment notice against CEC Kumar | India News",
+          "url": "https://www.hindustantimes.com/india-news/exclusive-why-radhakrishan-birla-rejected-impeachment-notice-against-cec-kumar-101775560669983-amp.html"
+        },
+        {
+          "title": "Kumar Mangalam Birla Biography: The Heir Who Outbuilt His Legacy | CapitalVia",
+          "url": "https://www.capitalvia.com/stories/kumar-mangalam-birla-biography-life-story/"
+        },
+        {
+          "title": "Microsoft Word - 140_22_03121986.doc",
+          "url": "https://www.rsdebate.nic.in/bitstream/123456789/320885/1/PD_140_03121986_22_p206_p346_21.pdf"
+        }
+      ]
+    },
+    "michael-platt": {
+      "query": "\"Michael Platt\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Michael Platt Jr.",
+          "url": "https://en.wikipedia.org/wiki/Michael_Platt_Jr."
+        },
+        {
+          "title": "From Jim Ratcliffe to the Ballot Box: How offshore billionaires still shape British politics - Left Foot Forward: Leading the UK's progressive debate",
+          "url": "https://leftfootforward.org/2026/02/from-jim-ratcliffe-to-the-ballot-box-how-offshore-billionaires-still-shape-british-politics/"
+        }
+      ]
+    }
+  }
+}

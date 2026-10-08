@@ -1,0 +1,101 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "radhakishan-damani-1": {
+      "query": "\"Radhakishan Damani\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Raamdeo Agrawal, Radhakishan Damani, Motilal Oswal, Dolly Khanna: The superstar investors sitting out the NSE IPO - The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/raamdeo-agrawal-radhakishan-damani-motilal-oswal-dolly-khanna-the-superstar-investors-sitting-out-the-nse-ipo/articleshow/131821575.cms"
+        },
+        {
+          "title": "NSE IPO: Every Rs 10 move in shares could swing Radhakishan Damani’s wealth by nearly Rs 40 crore - The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-every-rs-10-move-in-shares-could-swing-radhakishan-damanis-wealth-by-nearly-rs-40-crore/articleshow/134284452.cms"
+        },
+        {
+          "title": "राधाकिशन दमानी ने जब सिगरेट कंपनी VST को जबरन खरीदने की कोशिश की लेकिन... - radhakishan damani of d-mart founder-making a hostile bid for cigarette maker vst-itc-bat | Moneycontrol Hindi",
+          "url": "https://hindi.moneycontrol.com/news/company/radhakishan-damani-of-d-mart-founder-making-a-hostile-bid-for-cigarette-maker-vst-itc-bat-249818.html/amp"
+        },
+        {
+          "title": "Radhakishan Damani",
+          "url": "https://en.wikipedia.org/wiki/Radhakishan_Damani"
+        },
+        {
+          "title": "Radhakishan Damani Biography: The Silent Man Behind DMart | CapitalVia",
+          "url": "https://www.capitalvia.com/stories/radhakishan-damani-biography-life-story/"
+        },
+        {
+          "title": "DAMANI RADHAKISHAN · block.deal",
+          "url": "https://block.deal/entities/damani-radhakishan/"
+        }
+      ]
+    },
+    "friedhelm-loh": {
+      "query": "\"Friedhelm Loh\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Kuka-Großaktionär Friedhelm Loh: „Ich bin kein Spekulant“",
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/kuka-grossaktionaer-friedhelm-loh-ich-bin-kein-spekulant/13760302.html"
+        },
+        {
+          "title": "Friedhelm Loh",
+          "url": "https://de.wikipedia.org/wiki/Friedhelm_Loh"
+        },
+        {
+          "title": "Friedhelm Loh: „Der Abschwung wird länger dauern als nach der Finanzkrise“",
+          "url": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/friedhelm-loh-der-abschwung-wird-laenger-dauern-als-nach-der-finanzkrise-01/100118677.html"
+        }
+      ]
+    },
+    "peter-woo": {
+      "query": "\"Peter Woo\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "OFFICIAL RECORD OF PROCEEDINGS",
+          "url": "https://www.legco.gov.hk/yr96-97/english/lc_sitg/hansard/961211fe.pdf"
+        },
+        {
+          "title": "1996 Hong Kong Chief Executive election",
+          "url": "https://en.wikipedia.org/wiki/1996_Hong_Kong_Chief_Executive_election"
+        },
+        {
+          "title": "OFFICIAL RECORD OF PROCEEDINGS",
+          "url": "https://www.legco.gov.hk/yr96-97/english/lc_sitg/hansard/961016fe.pdf"
+        },
+        {
+          "title": "Heavyweight Beijing adviser urges Hong Kong to reject negative ways | South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/2100454/heavyweight-beijing-adviser-urges-hong-kong-reject-negative"
+        }
+      ]
+    },
+    "ray-dalio": {
+      "query": "\"Ray Dalio\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "2024 Is a Pivotal Year on the Brink",
+          "url": "https://time.com/6556257/2024-pivotal-year-on-the-brink-ray-dalio/"
+        },
+        {
+          "title": "Billionaire Ray Dalio joins push to fund Trump Accounts, pledging $75 million to Connecticut kids",
+          "url": "https://apnews.com/article/086e4ec76806711d88c6499961c37e71"
+        },
+        {
+          "title": "Billionaire Ray Dalio Warns: Trump Is Turning the U.S. Into an Autocracy",
+          "url": "https://www.thedailybeast.com/billionaire-ray-dalio-warns-donald-trump-is-turning-the-us-into-autocracy/"
+        },
+        {
+          "title": "How America's Elites Lost Their Grip",
+          "url": "https://time.com/5735384/capitalism-reckoning-elitism-in-america-2019/"
+        }
+      ]
+    }
+  }
+}

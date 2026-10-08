@@ -1,0 +1,79 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "charles-koch": {
+      "query": "\"Charles Koch\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "How Koch network guided effort to overturn Chevron at Supreme Court - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2024/12/08/supreme-court-koch-chevron-ruling-administrative-state/"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.congress.gov/114/crec/2016/09/12/162/137/CREC-2016-09-12-pt1-PgS5489-2.pdf"
+        },
+        {
+          "title": "They snubbed Trump. But the Koch network has still exerted a surprising influence over the White House - Los Angeles Times",
+          "url": "https://www.latimes.com/politics/la-na-pol-koch-trump-201708-story.html"
+        },
+        {
+          "title": "Charles Koch: Political System 'Rigged' But Not by Me - ABC News",
+          "url": "https://abcnews.com/Politics/charles-koch-political-system-rigged/story?id=38624305"
+        },
+        {
+          "title": "Koch's web of influence – Center for Public Integrity",
+          "url": "https://publicintegrity.org/politics/kochs-web-of-influence/"
+        },
+        {
+          "title": "Charles Koch, in op-ed, says his political engagement began only in the last decade – PolitiFact",
+          "url": "https://politifact.com/factchecks/2014/apr/03/charles-koch/charles-koch-op-ed-says-his-political-engagement-b/"
+        }
+      ]
+    },
+    "zhang-yiming": {
+      "query": "\"Zhang Yiming\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "zhong-shanshan": {
+      "query": "\"Zhong Shanshan\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "jeff-yass": {
+      "query": "\"Jeff Yass\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Billionaire Jeff Yass is on a quest to remake American education - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2025/12/05/jeff-yass-school-choice-trump/"
+        },
+        {
+          "title": "Jeff Yass",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Yass"
+        },
+        {
+          "title": "Jeff Yass | Tech Influence Watch",
+          "url": "https://influence.citationneeded.news/2026/individuals/jeff-yass"
+        },
+        {
+          "title": "Inside the Strange, Strained Courtship of Donald Trump and Mega-Donor Jeff Yass | Vanity Fair",
+          "url": "https://www.vanityfair.com/news/story/donald-trump-jeff-yass"
+        },
+        {
+          "title": "Jeff Yass - Person | PurchasingPolicy.org",
+          "url": "https://www.purchasingpolicy.org/entity/9ea107cf-574f-47c1-8874-2e6d94e42f08"
+        },
+        {
+          "title": "Pennsylvania's Democratic governor, a rising political star, crosses partisan school choice divide",
+          "url": "https://apnews.com/article/2e4f893b76efa1c5919c7fe482f950d0"
+        }
+      ]
+    }
+  }
+}

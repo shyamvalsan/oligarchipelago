@@ -1,0 +1,54 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "rodolphe-saade": {
+      "query": "\"Rodolphe Saadé\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Entre Rodolphe Saadé, le patron de CMA CGM, et Emmanuel Macron, les intérêts bien compris de deux ambitieux",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/11/entre-le-patron-de-cma-cgm-rodolphe-saade-et-emmanuel-macron-les-interets-bien-compris-de-deux-ambitieux_6687942_3234.html"
+        },
+        {
+          "title": "Les Saadé, orfèvres des affaires en famille",
+          "url": "https://www.lemonde.fr/series-d-ete/article/2024/08/20/les-saade-orfevres-des-affaires-en-famille_6288151_3451060.html"
+        },
+        {
+          "title": "Comment Rodolphe Saadé, inconnu dans le monde de la presse, a conquis « La Provence »",
+          "url": "https://www.lemonde.fr/economie/article/2022/09/27/comment-rodolphe-saade-a-conquis-la-provence_6143339_3234.html"
+        },
+        {
+          "title": "Avec CMA Média, Rodolphe Saadé bâtit un empire médiatique, ASO et M6 en ligne de mire",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/14/avec-cma-media-rodolphe-saade-batit-un-empire-mediatique-aso-et-m6-en-ligne-de-mire_6688993_3234.html"
+        },
+        {
+          "title": "Aides publiques aux entreprises : audition de Rodolphe Saadé",
+          "url": "https://www.publicsenat.fr/emission/100-senat/aides-publiques-aux-entreprises-audition-de-rodolphe-saade-e228"
+        },
+        {
+          "title": "Rodolphe Saadé",
+          "url": "https://fr.wikipedia.org/wiki/Rodolphe_Saad%C3%A9"
+        }
+      ]
+    },
+    "tanya-saade-zeenny": {
+      "query": "\"Tanya Saadé Zeenny\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "ling-tang": {
+      "query": "\"Ling Tang\" Canada political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "richard-tsai": {
+      "query": "\"Richard Tsai\" Taiwan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

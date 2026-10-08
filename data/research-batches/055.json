@@ -1,0 +1,85 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "igor-bukhman": {
+      "query": "\"Igor Bukhman\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Sunday Times Rich List 2025",
+          "url": "https://en.wikipedia.org/wiki/Sunday_Times_Rich_List_2025"
+        },
+        {
+          "title": "Charity registration number 1205571 (England and Wales)",
+          "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId=A18254681&_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName=%2Ffull-print&_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber=5221871&p_p_cacheability=cacheLevelPage&p_p_id=uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=%2Faccounts-resource&p_p_state=maximized"
+        },
+        {
+          "title": "Igor Bukhman",
+          "url": "https://en.wikipedia.org/wiki/Igor_Bukhman"
+        }
+      ]
+    },
+    "edward-johnson-iv": {
+      "query": "\"Edward Johnson, IV.\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Case Explained: JACQUELYN B. N’JAI v. THE PITTSBURGH BOARD PUBLIC EDUCATION, PPS; PUBLIC SCHOOL EMPLOYEES RETIREMENT SYSTEM, PSERS; NEW YORK CITY DEPARTMENT OF EDUCATION, NYCDOE; TEACHERS RETIREMENT SYSTEM, TRS; EDWARD JOHNS\\ON III ESTATE, President of Fidelity, Dogger Trustee; EDWARD JOHNSON IV; ABIGAIL JOHNSON, a self appointed power of attorney; MICHAEL PALOMBO Associate and Investor of Meyers, Darragh, Buckler, Bebenek & Eck, LLC (Shareholder); CAMPBELL, DURRANT, BETTY, PALOMBO & MILLER – Do It For The Caselaw",
+          "url": "https://doitforthecaselaw.com/case-explained-third-circuit-25-2468/"
+        },
+        {
+          "title": "Edward JOHNSON IV personal appointments - Find and update company information - GOV.UK",
+          "url": "https://find-and-update.company-information.service.gov.uk/officers/0mUIYZocxybGfzuDfrAp7XpXYs0/appointments"
+        }
+      ]
+    },
+    "cao-renxian": {
+      "query": "\"Cao Renxian\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "2. Incumbents overview",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-06-08/1225358186.PDF"
+        },
+        {
+          "title": "PDF",
+          "url": "https://static.cninfo.com.cn/finalpage/enpage/300274_2.pdf"
+        }
+      ]
+    },
+    "hamdi-ulukaya": {
+      "query": "\"Hamdi Ulukaya\" Turkey political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Hamdi Ulukaya kimdir, Hamdi Ulukaya ne iş yapar, Hamdi Ulukaya'nın başarı hikayesi - Forbes Türkiye",
+          "url": "https://www.forbes.com.tr/haberleri/hamdi-ulukaya"
+        },
+        {
+          "title": "Hamdi Ulukaya",
+          "url": "https://en.wikipedia.org/wiki/Hamdi_Ulukaya"
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Hamdi Ulukaya'yı kabul etti - Ekonomim",
+          "url": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogan-hamdi-ulukayayi-kabul-etti-haberi-889531"
+        },
+        {
+          "title": "Ulukaya",
+          "url": "https://en.wikipedia.org/wiki/Ulukaya"
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Chobani CEO’su Ulukaya’yı kabul etti: Tarihi sponsorluk sonrası dikkat çeken ziyaret - Dünya Gazetesi",
+          "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-chobani-ceosu-ulukayayi-kabul-etti-tarihi-sponsorluk-sonrasi-dikkat-ceken-ziyaret-haberi-787429"
+        },
+        {
+          "title": "Hamdi Ulukaya: Creating the Right Environment | Stanford Graduate School of Business",
+          "url": "https://www.gsb.stanford.edu/insights/hamdi-ulukaya-creating-right-environment"
+        }
+      ]
+    }
+  }
+}

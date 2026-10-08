@@ -1,0 +1,105 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "liang-wenfeng": {
+      "query": "\"Liang Wenfeng\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "DeepSeek gave Beijing the only outside vote - by CIW Team",
+          "url": "https://www.ciw.news/p/deepseek-cap-table"
+        },
+        {
+          "title": "Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng | South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng?pgtype=topic"
+        },
+        {
+          "title": "Liang Wenfeng",
+          "url": "https://en.wikipedia.org/wiki/Liang_Wenfeng"
+        },
+        {
+          "title": "PRC companies and leaders appear aware of this vulnerability. DeepSeek Founder Liang Wenfeng has indicated compute remains a significant bottleneck.27 Leaders of several Chinese AI companies have warned that a lack of access to compute risked ceding the United States the advantage.28 Chinese AI companies like Zhipu have seen shares fall more than 20 percent due to limited compute access.29",
+          "url": "https://docs.house.gov/meetings/HM/HM08/20260317/118982/HHRG-119-HM08-Wstate-DoshiPhDR-20260317.pdf"
+        },
+        {
+          "title": "China's innovation paradox - Engelsberg ideas",
+          "url": "https://engelsbergideas.com/notebook/chinas-innovation-paradox/"
+        }
+      ]
+    },
+    "wang-laisheng": {
+      "query": "\"Wang Laisheng\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/1227/2024122701028.pdf"
+        },
+        {
+          "title": "1729.HK TIME INTERCON - Company Information - Shareholding Changes Overview - etnet",
+          "url": "https://stocks.etnet.com.hk/www/eng/stocks/realtime/quote_ca_sdi.php?code=1729"
+        },
+        {
+          "title": "Cowell e Holdings Inc. - Annual Report 2024 | FinancialReports.eu",
+          "url": "https://financialreports.eu/filings/cowell-e-holdings-inc/annual-report/2025/27261423/"
+        },
+        {
+          "title": "List of Hong Kong people by net worth",
+          "url": "https://en.wikipedia.org/wiki/List_of_Hong_Kong_people_by_net_worth"
+        }
+      ]
+    },
+    "dan-friedkin": {
+      "query": "\"Dan Friedkin\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "HBO’s ‘The Dark Money Game’ spotlights FirstEnergy’s corruption as Trump revives federal coal plant bailout the utility once lobbied for  - Energy and Policy Institute",
+          "url": "https://energyandpolicy.org/hbo-the-dark-money-game-firstenergy/"
+        },
+        {
+          "title": "The Rise and Influence of the Dan Friedkin Family — Networth News",
+          "url": "https://mail53.mkt.econeteditora.com.br/article/the-rise-and-influence-of-the-dan-friedkin-family"
+        },
+        {
+          "title": "30West",
+          "url": "https://en.wikipedia.org/wiki/30West"
+        }
+      ]
+    },
+    "charlie-mills": {
+      "query": "\"Charlie Mills\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "June 9, 2011  CONGRESSIONAL RECORD — DAILY DIGEST  D619",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2011-06-09/pdf/CREC-2011-06-09.pdf"
+        },
+        {
+          "title": "January 23, 1992",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-4-1.pdf"
+        },
+        {
+          "title": "Thomas Wentworth Higginson, Harvard Memorial Biographies, 1860.",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2001.05.0229%3Achapter%3D27&force=y"
+        },
+        {
+          "title": "Charlie Mills",
+          "url": "https://www.forbes.com/profile/charlie-mills/"
+        },
+        {
+          "title": "Technological Disobedience | Charlie Mills",
+          "url": "https://www.charlie-mills.com/writing/technological-disobedience/"
+        },
+        {
+          "title": "Charles N. Mills",
+          "url": "https://en.wikipedia.org/wiki/Charles_N._Mills"
+        }
+      ]
+    }
+  }
+}

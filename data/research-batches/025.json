@@ -1,0 +1,68 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "rick-cohen": {
+      "query": "\"Rick Cohen\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Opinion | Giving That's All About Getting - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/opinions/2004/06/06/giving-thats-all-about-getting/3d05a42f-5fd4-4da2-a873-3aba22c0d624/"
+        },
+        {
+          "title": "Abramoff: Well-Connected to the Well-Heeled of the Right - NCRP",
+          "url": "https://ncrp.org/resources/abramoff-well-connected-to-the-well-heeled-of-the-right/"
+        }
+      ]
+    },
+    "israel-englander": {
+      "query": "\"Israel Englander\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "suleiman-kerimov-family": {
+      "query": "\"Suleiman Kerimov\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Suleyman Kerimov",
+          "url": "https://en.wikipedia.org/wiki/Suleyman_Kerimov"
+        },
+        {
+          "title": "need only show “a substantial connection between the property and the offense.” 18 U.S.C. § 983(c)(3).",
+          "url": "https://www.justice.gov/archives/opa/press-release/file/1498641/dl?inline="
+        },
+        {
+          "title": "DAGESTAN: FUTURE LEADERSHIP PERMUTATIONS AND OLIGARCH SULEIMAN KERIMOV",
+          "url": "https://www.cacianalyst.org/publications/analytical-articles/item/12206-analytical-articles-caci-analyst-2011-1-19-art-12206.html"
+        },
+        {
+          "title": "US blocks company worth over $1bn linked to Russian oligarch | US foreign policy | The Guardian",
+          "url": "https://www.theguardian.com/us-news/2022/jun/30/us-russian-oligarch-sanctions-suleiman-kerimov"
+        },
+        {
+          "title": "Un juge d'instruction parisien reprend l'enquête sur l'oligarque russe Souleïman Kerimov",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2023/10/30/un-juge-d-instruction-parisien-reprend-l-enquete-sur-l-oligarque-russe-souleiman-kerimov_6197305_4355770.html"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.congress.gov/117/crec/2022/09/29/168/158/CREC-2022-09-29-pt1-PgS5903.pdf"
+        }
+      ]
+    },
+    "dilip-shanghvi": {
+      "query": "\"Dilip Shanghvi\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Dilip Shanghvi",
+          "url": "https://en.wikipedia.org/wiki/Dilip_Shanghvi"
+        }
+      ]
+    }
+  }
+}

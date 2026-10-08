@@ -1,0 +1,105 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "sami-mnaymneh": {
+      "query": "\"Sami Mnaymneh\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "United States Senate",
+          "url": "https://www.warren.senate.gov/imo/media/doc/Wellpath%20Oversight%20Letters.pdf"
+        },
+        {
+          "title": "FCC Public Notice re Transfer of Control Application, inmate calling services, 2016 | Prison Phone Justice",
+          "url": "https://www.prisonphonejustice.org/news/briefs/fcc-public-notice-re-transfer-control-application-inmate-calling-services-2016/"
+        },
+        {
+          "title": "Mnaymneh Family Charitable Foundation Inc - Nonprofit Explorer - ProPublica",
+          "url": "https://projects.propublica.org/nonprofits/organizations/814740575"
+        },
+        {
+          "title": "Not Motion in Dailane Investments Limited vs Sami Mnaymneh et al| Trellis.Law",
+          "url": "https://trellis.law/doc/279567011/complaint"
+        },
+        {
+          "title": "H.I.G. Capital",
+          "url": "https://en.wikipedia.org/wiki/H.I.G._Capital"
+        },
+        {
+          "title": "BEFORE THE PUBLIC UTILITIES COMMISSION OF THE",
+          "url": "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M166/K460/166460838.PDF"
+        }
+      ]
+    },
+    "guillaume-pousaz": {
+      "query": "\"Guillaume Pousaz\" Switzerland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Guillaume Pousaz",
+          "url": "https://fr.wikipedia.org/wiki/Guillaume_Pousaz"
+        },
+        {
+          "title": "Aujourd'hui en Suisse - SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/fre/archive-cinquieme-suisse/aujourd-hui-en-suisse/48022962"
+        },
+        {
+          "title": "Guillaume Pousaz",
+          "url": "https://en.wikipedia.org/wiki/Guillaume_Pousaz"
+        },
+        {
+          "title": "Vom Surfer zum reichsten Unternehmer der Schweiz - SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/wirtschaft/guillaume-pousaz_vom-surfer-zum-reichsten-unternehmer-der-schweiz/48043576"
+        },
+        {
+          "title": "INVESTMENTS",
+          "url": "https://www.kmu.admin.ch/dam/kmu/fr/dokumente/Publications/VC%20Report%202024%20UPDATE.pdf.download.pdf/VC%20Report%202024%20UPDATE.pdf"
+        },
+        {
+          "title": "Sur fond de réforme fiscale, le milliardaire suisse Guillaume Pousaz quitte le Royaume-Uni pour Monaco - Le Temps",
+          "url": "https://www.letemps.ch/economie/sur-fond-de-reforme-fiscale-le-milliardaire-suisse-guillaume-pousaz-quitte-le-royaume-uni-pour-monaco"
+        }
+      ]
+    },
+    "tony-tamer": {
+      "query": "\"Tony Tamer\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Tony Tamer - Phone, Address & Background Report | Open Data USA",
+          "url": "https://opendatausa.com/tony-tamer"
+        },
+        {
+          "title": "United States Senate",
+          "url": "https://www.warren.senate.gov/imo/media/doc/Wellpath%20Oversight%20Letters.pdf"
+        },
+        {
+          "title": "\"Romney Family Investment Ties To Voting Machine Company\" | Common Dreams",
+          "url": "https://www.commondreams.org/newswire/2012/11/02/romney-family-investment-ties-voting-machine-company"
+        },
+        {
+          "title": "H.I.G. Capital",
+          "url": "https://en.wikipedia.org/wiki/H.I.G._Capital"
+        }
+      ]
+    },
+    "tse-ping": {
+      "query": "\"Tse Ping\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Historical Documents - Office of the Historian",
+          "url": "https://history.state.gov/historicaldocuments/frus1977-80v13/d69"
+        },
+        {
+          "title": "china square 1989 or something",
+          "url": "https://www.reddit.com/r/hearthstonecirclejerk/comments/qexijw"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "george-kaiser": {
+      "query": "\"George Kaiser\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "- SOLYNDRA AND THE DOE LOAN GUARANTEE PROGRAM",
+          "url": "https://www.govinfo.gov/content/pkg/CHRG-112hhrg74404/html/CHRG-112hhrg74404.htm"
+        },
+        {
+          "title": "Top Obama donor George Kaiser says he didn’t play politics to win government loan - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/solyndra-closure-affects-foundation-linked-to-obama-donor/2011/09/02/gIQAkjF4wJ_story.html"
+        },
+        {
+          "title": "Solyndra: Politics infused Obama energy programs - The Washington Post",
+          "url": "https://www.washingtonpost.com/solyndra-politics-infused-obama-energy-programs/2011/12/14/gIQA4HllHP_story.html"
+        },
+        {
+          "title": "White House: Meetings With Obama Fundraiser Were About Charity, Not $535M Solyndra Loan - ABC News",
+          "url": "https://abcnews.com/Blotter/white-house-meetings-obama-fundraiser-charity-535m-solyndra/story?id=14529609"
+        },
+        {
+          "title": "George Kaiser",
+          "url": "https://en.wikipedia.org/wiki/George_Kaiser"
+        },
+        {
+          "title": "Skipping safeguards, officials rushed benefit to a politically-connected energy company – Center for Public Integrity",
+          "url": "https://publicintegrity.org/politics/skipping-safeguards-officials-rushed-benefit-to-a-politically-connected-energy-company/"
+        }
+      ]
+    },
+    "charles-ergen": {
+      "query": "\"Charles Ergen\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Putting McCain to the Ethics Test | TIME",
+          "url": "https://time.com/archive/6684196/putting-mccain-to-the-ethics-test/"
+        },
+        {
+          "title": "MEMORANDUM OPINION granting 44 46 47 49 54 56 57 Defendants' Motions to Dismiss; and denying 59 Defendants DISH Network Corporation and Charles Ergen's Motion for Sanctions for SGCI HOLDINGS III LLC et al v. FEDERAL COMMUNICATIONS COMMISSION et al :: Justia Dockets & Filings",
+          "url": "https://docs.justia.com/cases/federal/district-courts/district-of-columbia/dcdce/1%3A2024cv01204/267713/75"
+        },
+        {
+          "title": "Cable TV provider who donated $40,000 to Colorado AG Phil Weiser was treated differently in probes - Colorado Politics",
+          "url": "https://www.coloradopolitics.com/2022/10/27/cable-tv-provider-who-donated-40000-to-colorado-ag-phil-weiser-was-treated-differently-in-probes-517478d6-1673-5b02-9c78-c88277b5387b/"
+        },
+        {
+          "title": "Lobbyists Boost McCain Campaign - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/politics/1999/04/28/lobbyists-boost-mccain-campaign/8777967c-0a30-430f-8914-0f2b831e1b06/"
+        },
+        {
+          "title": "EchoStar Corporation",
+          "url": "https://www.sec.gov/Archives/edgar/data/1415404/000110465926108960/sats-20261030xdef14a.htm"
+        }
+      ]
+    },
+    "peter-mallouk": {
+      "query": "\"Peter Mallouk\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "johann-rupert": {
+      "query": "\"Johann Rupert\" South Africa political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Is Rupert's place in US delegation double standards or just good for business?",
+          "url": "https://www.citizen.co.za/news/south-africa/politics/double-standards-or-good-for-business-questions-over-ruperts-place-in-sas-us-delegation/"
+        },
+        {
+          "title": "RP12 – MO",
+          "url": "https://www.wcpp.gov.za/sites/default/files/hansarddocs/Hansard%2022.05.2025%20revised%20edited.pdf"
+        },
+        {
+          "title": "Ramaphosa Was Set up To Fail With Trump",
+          "url": "https://time.com/7287731/ramaphosa-fail-with-trump/"
+        }
+      ]
+    }
+  }
+}

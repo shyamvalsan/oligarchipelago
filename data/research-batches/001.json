@@ -1,0 +1,59 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "elon-musk": {
+      "query": "\"Elon Musk\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Reed & Whitehouse Seek to Hold Elon Musk Accountable for Alleged Abuse of White House Position for Personal Gain - Senator Sheldon Whitehouse",
+          "url": "https://www.whitehouse.senate.gov/news/release/reed-whitehouse-seek-to-hold-elon-musk-accountable-for-alleged-abuse-of-white-house-position-for-personal-gain/"
+        },
+        {
+          "title": "America PAC - FactCheck.org",
+          "url": "https://www.factcheck.org/2026/09/america-pac-2/"
+        },
+        {
+          "title": "Uncovering Conflicts of Interest and Self-Dealing in the Executive Branch | Brennan Center for Justice",
+          "url": "https://www.brennancenter.org/our-work/research-reports/uncovering-conflicts-interest-and-self-dealing-executive-branch"
+        },
+        {
+          "title": "Political activities of Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Political_activities_of_Elon_Musk"
+        },
+        {
+          "title": "Why Did Elon Musk Donate Starlink Service to Trump White House? — ProPublica",
+          "url": "https://www.propublica.org/article/elon-musk-starlink-trump-white-house-spacex-microsoft"
+        },
+        {
+          "title": "NEWS: Sens. Schiff, Duckworth Demand Answers in Letter to NASA, FAA Over Conflict of Interest in Federal Contract Awards to Musk’s Private Companies",
+          "url": "https://www.schiff.senate.gov/news/press-releases/news-sens-schiff-duckworth-demand-answers-in-letter-to-nasa-faa-over-conflict-of-interest-in-federal-contract-awards-to-musks-private-companies/"
+        }
+      ]
+    },
+    "larry-page": {
+      "query": "\"Larry Page\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "sergey-brin": {
+      "query": "\"Sergey Brin\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Google Is A Tourist In D.C., Brin Finds - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/business/2006/06/07/google-is-a-tourist-in-dc-brin-finds/2ce2f66c-a394-4292-9222-e8a353b7a27a/"
+        }
+      ]
+    },
+    "jeff-bezos": {
+      "query": "\"Jeff Bezos\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

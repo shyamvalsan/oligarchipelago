@@ -1,0 +1,88 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "zhou-chaonan": {
+      "query": "\"Zhou Chaonan\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "vinod-khosla": {
+      "query": "\"Vinod Khosla\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Vinod Khosla | Tech Influence Watch",
+          "url": "https://influence.citationneeded.news/2026/individuals/vinod-khosla"
+        },
+        {
+          "title": "An Emerging Lobby: An Analysis of Campaign Contributions from Indian-Americans, 1998-2022 – Joyojeet Pal",
+          "url": "https://joyojeet.people.si.umich.edu/?p=1489"
+        },
+        {
+          "title": "Senatorial Campaign Committees Chip Away at Debts – Roll Call",
+          "url": "https://rollcall.com/2013/07/20/senatorial-campaign-committees-chip-away-at-debts/"
+        },
+        {
+          "title": "A Biofuel Dream Gone Bad | Fortune",
+          "url": "https://fortune.com/longform/kior-vinod-khosla-clean-tech/"
+        },
+        {
+          "title": "AN EMERGING LOBBY: AN ANALYSIS OF CAMPAIGN",
+          "url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/199733/Campaign_Contributions_from_Indian_Americans.pdf?sequence=1"
+        },
+        {
+          "title": "Vinod Khosla",
+          "url": "https://en.wikipedia.org/wiki/Vinod_Khosla"
+        }
+      ]
+    },
+    "alexander-gerko": {
+      "query": "\"Alexander Gerko\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Alexander GERKO personal appointments - Find and update company information - GOV.UK",
+          "url": "https://find-and-update.company-information.service.gov.uk/officers/8DB__mXGzC8OekOL55OyfNrkphk/appointments"
+        },
+        {
+          "title": "When Alex Gerko of XTX was the man to know if you wanted to get paid",
+          "url": "https://www.efinancialcareers.co.uk/news/alex-gerko-xtx-tax"
+        }
+      ]
+    },
+    "viatcheslav-kantor": {
+      "query": "\"Viatcheslav Kantor\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Viatcheslav Kantor",
+          "url": "https://en.wikipedia.org/wiki/Viatcheslav_Kantor"
+        },
+        {
+          "title": "Кантор, Вячеслав Владимирович",
+          "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80%2C_%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "title": "Viatcheslav Moshe Kantor",
+          "url": "https://fr.wikipedia.org/wiki/Viatcheslav_Moshe_Kantor"
+        },
+        {
+          "title": "Grupa Azoty SA (via Public) / Grupa Azoty announcement in connection with sanctions imposed on Viatcheslav Kantor and his related parties",
+          "url": "https://www.publicnow.com/view/02A3847E94E92E5C330B78916F2C96FD35B97DFC"
+        },
+        {
+          "title": "Hotline to the Kremlin: How Hungary Colluded With Russia to Weaken EU Sanctions | OCCRP",
+          "url": "https://www.occrp.org/en/scoop/hotline-to-the-kremlin-how-hungary-colluded-with-russia-to-weaken-eu-sanctions"
+        },
+        {
+          "title": "Publications Office",
+          "url": "https://uslugi.tpprf.ru/CELEX_32022D0582_EN_TXT.pdf"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "kelcy-warren": {
+      "query": "\"Kelcy Warren\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "October 28, 2020",
+          "url": "https://www.warren.senate.gov/imo/media/doc/2020.10.28%20Letter%20to%20Rick%20Perry%20on%20Perry%27s%20rejoining%20Energy%20Transfer%27s%20board%20of%20directors.pdf"
+        },
+        {
+          "title": "Warren Calls on Former Energy Secretary Rick Perry to Resign from Board of Energy Transfer, a Fossil Fuel Company Whose Board He Rejoined Weeks After Leaving Office",
+          "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-calls-on-former-energy-secretary-rick-perry-to-resign-from-board-of-energy-transfer-a-fossil-fuel-company-whose-board-he-rejoined-weeks-after-leaving-office/"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.govinfo.gov/link/crec/171/s/7741"
+        },
+        {
+          "title": "Rick Perry’s Energy Industry Connections — in the U.S. and Abroad - American Oversight",
+          "url": "https://americanoversight.org/investigation/rick-perrys-energy-industry-connections-in-the-u-s-and-abroad/"
+        },
+        {
+          "title": "Kelcy Warren",
+          "url": "https://en.wikipedia.org/wiki/Kelcy_Warren"
+        },
+        {
+          "title": "Uncovering Conflicts of Interest and Self-Dealing in the Executive Branch | Brennan Center for Justice",
+          "url": "https://www.brennancenter.org/our-work/research-reports/uncovering-conflicts-interest-and-self-dealing-executive-branch"
+        }
+      ]
+    },
+    "dennis-washington": {
+      "query": "\"Dennis Washington\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "rahel-blocher": {
+      "query": "\"Rahel Blocher\" Switzerland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Famille Blocher: si ce n’est pas le père, c’est la fille - SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/fre/societe/famille-blocher-si-ce-n-est-pas-le-p%C3%A8re-c-est-la-fille/31777720"
+        },
+        {
+          "title": "Keeping it in the family, Blocher style - SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/eng/archive-banking-fintech/keeping-it-in-the-family-blocher-style/31781018"
+        }
+      ]
+    },
+    "andrew-cherng-1": {
+      "query": "\"Andrew Cherng\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

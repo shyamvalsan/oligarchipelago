@@ -1,0 +1,93 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "jean-salata": {
+      "query": "\"Jean Salata\" Chile political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "La trampa del “progresismo” del Partido Comunista y el Frente Amplio - CIR",
+          "url": "https://cir-internacional.org/es/la-trampa-del-progresismo-del-partido-comunista-y-el-frente-amplio/"
+        },
+        {
+          "title": "INTERIOR.indd",
+          "url": "https://www.scielo.cl/pdf/atenea/n527/0718-0462-atenea-527-237.pdf"
+        },
+        {
+          "title": "MergedFile",
+          "url": "https://static.emol.cl/emol50/documentos/archivos/2021/11/16/file_20211116095139.pdf"
+        }
+      ]
+    },
+    "euisun-chung": {
+      "query": "\"Euisun Chung\" South Korea political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Chung Eui-sun",
+          "url": "https://en.wikipedia.org/wiki/Chung_Eui-sun"
+        },
+        {
+          "title": "Korean business leaders' presence in Washington plays crucial role in tariff deal success",
+          "url": "https://v.daum.net/v/buEyu56FlY"
+        }
+      ]
+    },
+    "rekha-jhunjhunwala": {
+      "query": "\"Rekha Jhunjhunwala\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "We are India’s",
+          "url": "https://stockdiscovery.s3.amazonaws.com/rmix/india/217400/AR-21.pdf"
+        },
+        {
+          "title": "Stock in Focus: इंफ्रास्ट्रक्चर कंपनी को ₹1076 करोड़ का ऑर्डर, पेयजल की सप्लाई करेगी; रेखा झुनझुनवाला का भी है निवेश - ncc secures 1076 crore rupees drinking water supply order from andhra pradesh government as rekha jhunjhunwala holds 12 48 percent stake | Moneycontrol Hindi",
+          "url": "https://hindi.moneycontrol.com/news/markets/ncc-secures-1076-crore-rupees-drinking-water-supply-order-from-andhra-pradesh-government-as-rekha-jhunjhunwala-holds-12-48-percent-stake-2443718.html/amp"
+        },
+        {
+          "title": "Rekha Jhunjhunwala के पोर्टफोलियो वाले स्टॉक में तेज़ी, कंपनी को बिहार सरकार से मिला ₹2,090 करोड़ का ऑर्डर, DII भी बुलिश - ncc share price 2090 crore rs order from bihar government rekha jhunjhunwala stock dii bullish - - The Economic Times Hindi",
+          "url": "https://hindi.economictimes.com/markets/share-bazaar/ncc-share-price-2090-crore-rs-order-from-bihar-government-rekha-jhunjhunwala-stock-dii-bullish/amp_articleshow/123914728.cms"
+        },
+        {
+          "title": "Shareholding Pattern : Quarter ending : March 2025",
+          "url": "https://www.primeinfobase.in/ir_download/PPN_Corp_Announcements/IHCL_SHP_Q4_Mar_FY-2024-25.pdf"
+        },
+        {
+          "title": "परदेशातून बंपर कंत्राट! रेखा झुनझुनवाला यांच्या पोर्टफोलिओतील शेअरमध्ये तुफान... 5 वर्षांत 500 टक्के रिटर्न - Marathi News | VA Tech Wabag company got bumper contract from abroad A stock in Rekha Jhunjhunwala portfolio sees a massive surge 500 percent returns in 5 years | TV9 Marathi",
+          "url": "https://www.tv9marathi.com/business/va-tech-wabag-company-got-bumper-contract-from-abroad-a-stock-in-rekha-jhunjhunwala-portfolio-sees-a-massive-surge-500-percent-returns-in-5-years-1701919.html"
+        },
+        {
+          "title": "Shareholding Pattern as on  30-09-2025.xlsx",
+          "url": "https://ncclimited.com/Shareholding_Pattern/2025-26/SHP-30-09-2025.pdf"
+        }
+      ]
+    },
+    "sofie-kirk-kristiansen": {
+      "query": "\"Sofie Kirk Kristiansen\" Denmark political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Lego-arving køber fire landbrug med 460 hektar: Udlægges til | Maskinbladet",
+          "url": "https://www.maskinbladet.dk/artikel/82645-lego-arving-kober-fire-landbrug-med-460-hektar-udlagges-til-natur"
+        },
+        {
+          "title": "Sofie Kirk Kristiansen - roller i dansk erhvervsliv - Grundviden",
+          "url": "https://grundviden.dk/person/4000543165-sofie-kirk-kristiansen"
+        },
+        {
+          "title": "Stedfortrædere efter folketingsvalget 2026 - Folkevalgte.dk",
+          "url": "https://folkevalgte.dk/folketingsvalget-2026/stedfortraedere/"
+        },
+        {
+          "title": "Sofie Kirk Kristiansen",
+          "url": "https://en.wikipedia.org/wiki/Sofie_Kirk_Kristiansen"
+        }
+      ]
+    }
+  }
+}

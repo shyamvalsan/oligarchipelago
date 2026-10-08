@@ -1,0 +1,96 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "philip-anschutz": {
+      "query": "\"Philip Anschutz\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Philip Anschutz",
+          "url": "https://en.wikipedia.org/wiki/Philip_Anschutz"
+        },
+        {
+          "title": "Philip Anschutz",
+          "url": "https://de.wikipedia.org/wiki/Philip_Anschutz"
+        },
+        {
+          "title": "A Denver Billionaire's Invisible Hand - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-2006-jul-23-me-anschutz23-story.html"
+        },
+        {
+          "title": "April 5, 2017                                 CONGRESSIONAL RECORD — SENATE                                 S2301",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2017-04-04/pdf/CREC-2017-04-04-pt2-PgS2257-2.pdf"
+        },
+        {
+          "title": "House of Commons - Standards and Privileges - Thirteenth Report",
+          "url": "https://publications.parliament.uk/pa/cm200506/cmselect/cmstnprv/1553/155304.htm"
+        },
+        {
+          "title": "Blair vetoes new inquiry into Prescott's US trip | The Independent | The Independent",
+          "url": "https://www.independent.co.uk/news/uk/politics/blair-vetoes-new-inquiry-into-prescott-s-us-trip-6094774.html"
+        }
+      ]
+    },
+    "john-menard-jr": {
+      "query": "\"John Menard, Jr.\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "An inside look at how politicians beg for big checks - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/an-inside-look-at-how-politicians-beg-for-big-checks/2016/09/19/c0308e24-7c1b-11e6-bd86-b7bbd53d2b5d_story.html"
+        },
+        {
+          "title": "Big Money Bulletin",
+          "url": "https://www.wisdc.org/images/files/bmb_imported/bmb100jun16.pdf"
+        },
+        {
+          "title": "John Menard Jr.",
+          "url": "https://en.wikipedia.org/wiki/John_Menard_Jr."
+        },
+        {
+          "title": "201609191545 copy",
+          "url": "https://www.ssc.wisc.edu/soc/wiscidea/wp-content/uploads/2017/08/Recommended_Mayer_DarkMoney.pdf"
+        }
+      ]
+    },
+    "chen-jianhua": {
+      "query": "\"Chen Jianhua\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "donald-bren": {
+      "query": "\"Donald Bren\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "UC Irvine gave Bren a say in dean selection - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-2007-nov-09-me-uci9-story.html"
+        },
+        {
+          "title": "Donald Bren",
+          "url": "https://en.wikipedia.org/wiki/Donald_Bren"
+        },
+        {
+          "title": "Irvine Fight Basis for Anti-Mobil Ads - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/business/1977/05/07/irvine-fight-basis-for-anti-mobil-ads/c1bda12f-207d-4754-b4d1-2f2328ba80a8/"
+        },
+        {
+          "title": "What The $78 Million Will Buy : This Time, Donald Bren Treated as Hero - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1990-10-09-me-2208-story.html"
+        },
+        {
+          "title": "Mayor Moonbeam, Meet Donald Bren – OC Weekly",
+          "url": "https://www.ocweekly.com/mayor-moonbeam-meet-donald-bren-6387257/"
+        },
+        {
+          "title": "Observers Say Irvine Co. Could Land Direct Line to Wilson : Politics: Some see too many personal and political ties between the company and the candidate to dismiss the significance of a Wilson gubernatorial victory. - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1990-11-03-me-3424-story.html"
+        }
+      ]
+    }
+  }
+}

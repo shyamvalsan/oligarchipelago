@@ -1,0 +1,63 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "jim-pattison": {
+      "query": "\"Jim Pattison\" Canada political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Jim Pattison Entertainment Ltd. / Robert Rosenfeld, Consultant - Registration - Consultant - - Lobbyists Registration System - Office of the Commissioner of Lobbying of Canada",
+          "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/vwRg?cno=305665&regId=725368"
+        },
+        {
+          "title": "Who Lobbies for Pattison Outdoor, A Division of Jim Pattison Industries Ltd.? Federal Lobbying Registrations · Ottawasted",
+          "url": "https://ottawasted.ca/lobbying/client/pattison-outdoor-a-division-of-jim-pattison-industries"
+        },
+        {
+          "title": "Jim Pattison",
+          "url": "https://en.wikipedia.org/wiki/Jim_Pattison"
+        },
+        {
+          "title": "Broadcasting Decision CRTC 2021-382 | CRTC",
+          "url": "https://crtc.gc.ca/eng/archive/2021/2021-382.htm"
+        },
+        {
+          "title": "FRPC",
+          "url": "https://contributions.electionsbc.gov.bc.ca/pcs/SA1SearchResults.aspx?Contributor=Jim+Pattison&DateFrom=&DateTo=&ED=%28ALL%29&EDSK=0&Filer=0&FilerName=%28ALL%29&FilerSK=0&FilerType=%28ALL%29&FilerTypeSK=0&Party=%28ALL%29&PartySK=0&class_name=%28ALL%29&class_sk=0&elctrldstrct_sk=0&event_name=%28ALL%29"
+        },
+        {
+          "title": "NDP critic says interference drove out Hydro CEO | The Hook, A Tyee blog.",
+          "url": "https://www.thetyee.ca/Blogs/TheHook/BC-Politics/2011/10/19/HydroInterference/"
+        }
+      ]
+    },
+    "andreas-struengmann": {
+      "query": "\"Andreas Struengmann\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "thomas-struengmann": {
+      "query": "\"Thomas Struengmann\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "ravi-jaipuria": {
+      "query": "\"Ravi Jaipuria\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Ravi Jaipuria",
+          "url": "https://en.wikipedia.org/wiki/Ravi_Jaipuria"
+        },
+        {
+          "title": "Notes to the Consolidated Financial Statements",
+          "url": "https://stockdiscovery.s3.amazonaws.com/insight/india/45725/Annual%20Report/AR-24.pdf"
+        }
+      ]
+    }
+  }
+}

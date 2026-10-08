@@ -1,0 +1,85 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "mackenzie-scott": {
+      "query": "\"MacKenzie Scott\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Philanthropist MacKenzie Scott gave $7.1 billion to nonprofits in 2025, a major increase",
+          "url": "https://apnews.com/article/d7a1d58500696446406b1157058ae402"
+        }
+      ]
+    },
+    "aliko-dangote": {
+      "query": "\"Aliko Dangote\" Nigeria political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "How oil mafia fought hard to stop my refinery — Aliko Dangote",
+          "url": "https://www.premiumtimesng.com/business/business-news/879674-how-oil-mafia-fought-hard-to-stop-my-refinery-aliko-dangote.html"
+        },
+        {
+          "title": "Aliko Dangote",
+          "url": "https://en.wikipedia.org/wiki/Aliko_Dangote"
+        },
+        {
+          "title": "NIGERIA ALIKO DANGOTE",
+          "url": "https://graphics.thomsonreuters.com/12/09/NigeriaDangote.pdf"
+        },
+        {
+          "title": "Exploitation, monopoly and illusion of national growth: A critical look at Dangote Group’s impact on Nigerian workers and economy - Dateline Nigeria",
+          "url": "https://dateline.ng/exploitation-monopoly-and-illusion-of-national-growth-a-critical-look-at-dangote-groups-impact-on-nigerian-workers-and-economy/"
+        },
+        {
+          "title": "How NNPC Rejected Dangote's $750m Offer To Manage Nigeria's Refineries — Obasanjo",
+          "url": "https://www.channelstv.com/2025/01/02/video-how-nnpc-rejected-dangotes-750m-offer-to-manage-nigerias-refineries-obasanjo/"
+        },
+        {
+          "title": "The Successful and Failed Policy Choices of Becoming Africa’s Largest Economy | APRI – Africa Policy Research Institute",
+          "url": "https://afripoli.org/the-successful-and-failed-policy-choices-of-becoming-africas-largest-economy"
+        }
+      ]
+    },
+    "peter-thiel": {
+      "query": "\"Peter Thiel\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Inside the powerful Peter Thiel tech network that launched JD Vance - The Washington Post",
+          "url": "https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/"
+        },
+        {
+          "title": "The Reinvention of J.D. Vance",
+          "url": "https://time.com/7024414/jd-vance-2024-interview/"
+        },
+        {
+          "title": "What the Broligarchs Want From Trump",
+          "url": "https://www.theatlantic.com/politics/archive/2024/11/broligarchy-elon-musk-trump/680788/?utm_source=apple_news"
+        }
+      ]
+    },
+    "emmanuel-besnier": {
+      "query": "\"Emmanuel Besnier\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "CE Aides publiques aux entreprises : compte rendu de la semaine du 16 juin 2025",
+          "url": "https://www.senat.fr/compte-rendu-commissions/20250616/ce_aides_publiques.html"
+        },
+        {
+          "title": "Emmanuel Besnier, le PDG invisible de Lactalis aux méthodes commando",
+          "url": "https://www.lemonde.fr/entreprises/article/2016/08/30/emmanuel-besnier-le-pdg-invisible-aux-methodes-commando_4989813_1656994.html"
+        },
+        {
+          "title": "Ces gros contribuables qui négocient leurs redressements fiscaux avec l'Etat",
+          "url": "https://www.lemonde.fr/politique/article/2025/06/18/quand-les-gros-contribuables-negocient-leurs-redressements-fiscaux_6614218_823448.html"
+        }
+      ]
+    }
+  }
+}

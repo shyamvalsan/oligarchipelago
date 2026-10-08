@@ -1,0 +1,96 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "pang-kang": {
+      "query": "\"Pang Kang\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "UNITED STATES",
+          "url": "https://media-dev.hardingloevner.com/fileadmin/pdf/HLF/HLF-Proxy-Voting-Report.pdf"
+        },
+        {
+          "title": "Abstimmungsverhalten 2022",
+          "url": "https://www.acatis.de/fileadmin/user_upload/Mitwirkungsbericht_nach__134b_Abs._3_AktG_2022_NEU.pdf"
+        },
+        {
+          "title": "The London School of Economics and",
+          "url": "https://etheses.lse.ac.uk/4253/1/Xiao__Essays-on-political-economy.pdf"
+        },
+        {
+          "title": "Will China's next premier be a moderating influence on Xi?",
+          "url": "https://apnews.com/article/7a9fbbe92d161e96b44fac93a7eb72a5"
+        }
+      ]
+    },
+    "ronda-stryker": {
+      "query": "\"Ronda Stryker\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "There’s a new super PAC for Bernie Sanders. It wants billionaire donors. - The Washington Post",
+          "url": "https://www.washingtonpost.com/news/powerpost/wp/2015/07/15/theres-a-new-super-pac-for-bernie-sanders-it-wants-billionaire-donors/"
+        },
+        {
+          "title": "Gretchen Whitmer - Michigan Candidate - Transparency USA",
+          "url": "https://www.transparencyusa.org/mi/candidate/gretchen-whitmer?cycle=2022-election-cycle"
+        },
+        {
+          "title": "Spelman College gets $100 million gift, an HBCU record - The Washington Post",
+          "url": "https://www.washingtonpost.com/education/2024/01/21/spelman-college-100-million-record-hbcu-donation/"
+        },
+        {
+          "title": "Colorado’s Big Blue Political Machine: The Gang of Four -Capital Research Center",
+          "url": "https://capitalresearch.org/article/colorados-big-blue-political-machine-part-2/"
+        },
+        {
+          "title": "$400 million donation to fund Kalamazoo government projects Kalamazoo Ford Pfizer Email Assets | The Independent",
+          "url": "https://www.the-independent.com/news/400-million-donation-to-fund-kalamazoo-government-projects-kalamazoo-art-deco-assets-pfizer-ford-b1893807.html"
+        },
+        {
+          "title": "Ronda Stryker",
+          "url": "https://www.forbes.com/profile/ronda-stryker/"
+        }
+      ]
+    },
+    "justin-sun": {
+      "query": "\"Justin Sun\" St. Kitts and Nevis political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Hiltzik: Is Justin Sun still happy with his deal with Trump? No. - Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2026-04-28/a-crypto-moguls-case-against-a-trump-crypto-firm-shows-the-peril-of-investing-with-trump"
+        },
+        {
+          "title": "Money in Politics Roundup — February 2026 | Brennan Center for Justice",
+          "url": "https://www.brennancenter.org/our-work/research-reports/money-politics-roundup-february-2026"
+        },
+        {
+          "title": "AUTHENTICATED",
+          "url": "https://www.congress.gov/119/chrg/CHRG-119shrg61175/CHRG-119shrg61175.pdf"
+        },
+        {
+          "title": "Justin Sun",
+          "url": "https://en.wikipedia.org/wiki/Justin_Sun"
+        },
+        {
+          "title": "[2026-03-30] Blumenthal Demands Answers from SEC Chairman over...",
+          "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sec-chairman-over-preferential-treatment-of-trump-crypto-backers"
+        },
+        {
+          "title": "Page 1",
+          "url": "https://filedn.com/lzK0OxsrswdzDJncHHMr7MX/ePaper%20%28Public%29/2022/Sep%202022/The%20New%20Today-September%2009%2C%202022.pdf"
+        }
+      ]
+    },
+    "denise-york": {
+      "query": "\"Denise York\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

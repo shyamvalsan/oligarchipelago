@@ -1,0 +1,101 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "nadia-thiele": {
+      "query": "\"Nadia Thiele\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Thiele-Witwe hält nur 10 Prozent: Lufthansa-Großaktionär stieß Anteile ab - n-tv.de",
+          "url": "https://www.n-tv.de/wirtschaft/Lufthansa-Grossaktionaer-stiess-Anteile-ab-article22454614.html"
+        },
+        {
+          "title": "Milliardenerbe für das Finanzamt - Wirtschaft - SZ.de",
+          "url": "https://www.sueddeutsche.de/wirtschaft/thiele-erbe-knorr-bremse-finanzamt-li.3273903"
+        },
+        {
+          "title": "Knorr-Bremse: Das Testament des Zeus - Wirtschaft - SZ.de",
+          "url": "https://www.sueddeutsche.de/wirtschaft/knorr-bremse-thiele-bruehmueller-erbe-1.5792577"
+        }
+      ]
+    },
+    "rafael-del-pino-1": {
+      "query": "\"Rafael Del Pino\" Spain political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "La Moncloa apunta al \"interés personal\" de Del Pino como motivo del traslado de Ferrovial | Política | Actualidad | Cadena SER",
+          "url": "https://cadenaser.com/nacional/2023/03/02/la-moncloa-apunta-al-interes-personal-de-del-pino-como-motivo-del-traslado-de-ferrovial-cadena-ser/"
+        },
+        {
+          "title": "Los Del Pino ficharon a excargos de Competencia mientras Ferrovial manipulaba miles de licitaciones",
+          "url": "https://www.eldiario.es/economia/pino-ficharon-excargos-competencia-ferrovial-manipulaba-miles-licitaciones_1_10008902.html"
+        },
+        {
+          "title": "Las claves del acuerdo de Ferrovial y Sánchez: Un contrato que cierra la 'guerra' de la familia Del Pino con el Gobierno | El Cierre Digital",
+          "url": "https://elcierredigital.com/investigacion/claves-acuerdo-ferrovial-sanchez-cierra-guerra-familia-del-pino-con-gobierno"
+        },
+        {
+          "title": "El presidente de Ferrovial, el tercer español más rico, entre los subvencionados con dinero público",
+          "url": "https://www.infolibre.es/politica/presidente-ferrovial-tercer-espanol-rico-figura-subvencionados-dinero-publico_1_1446626.html"
+        },
+        {
+          "title": "Contra los codiciosos: la corrupción viene de lejos",
+          "url": "https://elpais.com/ideas/2025-06-22/contra-los-codiciosos-la-corrupcion-viene-de-lejos.html"
+        },
+        {
+          "title": "Homenaje a la Corporación Puig",
+          "url": "https://elpais.com/diario/1998/10/09/catalunya/907895254_850215.html"
+        }
+      ]
+    },
+    "christopher-hohn": {
+      "query": "\"Christopher Hohn\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Chris Hohn",
+          "url": "https://en.wikipedia.org/wiki/Chris_Hohn"
+        },
+        {
+          "title": "Americans for Public Trust | New Report Exposes How British Billionaire Christopher Hohn Uses Foreign Dark Money to Bankroll Radical Climate Policy and Liberal Advocacy Campaigns in America",
+          "url": "https://americansforpublictrust.org/news/new-report-exposes-how-british-billionaire-christopher-hohn-uses-foreign-dark-money-to-bankroll-radical-climate-policy-and-liberal-advocacy-campaigns-in-america/"
+        },
+        {
+          "title": "Microsoft Word - 2026 Walter Ways & Means Written Testimony",
+          "url": "https://waysandmeans.house.gov/wp-content/uploads/2026/02/2026-Walter-Ways-Means-Written-Testimony.pdf"
+        }
+      ]
+    },
+    "pierre-omidyar": {
+      "query": "\"Pierre Omidyar\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Arabella Advisors",
+          "url": "https://en.wikipedia.org/wiki/Arabella_Advisors"
+        },
+        {
+          "title": "Omidyar in Hawaii: The Billionaire in the Corner - Honolulu Civil Beat",
+          "url": "https://www.civilbeat.org/2015/02/omidyar-in-hawaii-the-billionaire-in-the-corner/"
+        },
+        {
+          "title": "D.C. Power List: Most Influential Philanthropists Shaping U.S. Policy | Inside Philanthropy",
+          "url": "https://www.insidephilanthropy.com/home/2023-5-10-the-most-powerful-philanthropists-in-washington"
+        },
+        {
+          "title": "Pierre Omidyar - Influence Watch",
+          "url": "https://www.influencewatch.org/person/pierre-omidyar/"
+        },
+        {
+          "title": "A civil rights lawyer will lead the billionaire eBay founder's philanthropy for more inclusive AI",
+          "url": "https://apnews.com/article/20d20c10e43201fddff4dd05a8813e57"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "rafaela-aponte-diamant": {
+      "query": "\"Rafaela Aponte-Diamant\" Switzerland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "ATLANTIC FORWARDING (UK) LIMITED persons with significant control - Find and update company information - GOV.UK",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/06689192/persons-with-significant-control"
+        }
+      ]
+    },
+    "andrea-pignataro": {
+      "query": "\"Andrea Pignataro\" Italy political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Andrea Pignataro",
+          "url": "https://it.wikipedia.org/wiki/Andrea_Pignataro"
+        },
+        {
+          "title": "Uso e abuso del golden power - La Stampa",
+          "url": "https://www.lastampa.it/editoriali/lettere-e-idee/2025/12/09/news/uso_e_abuso_del_golden_power-15427989/"
+        },
+        {
+          "title": "Andrea Pignataro e l’inchiesta per evasione: chi è il re delle acquisizioni da 34 miliardi e cosa cerca la Procura | Corriere.it",
+          "url": "https://www.corriere.it/economia/finanza/25_aprile_10/andrea-pignataro-e-l-inchiesta-per-evasione-chi-e-il-re-delle-acquisizioni-da-34-miliardi-e-cosa-cerca-la-procura-f2df07fc-e8c5-41b2-a59a-434a5c8a8xlk.shtml?intcmp=Leggi_anche_nd_270526_corriere_ss_nd"
+        },
+        {
+          "title": "Andrea Pignataro",
+          "url": "https://en.wikipedia.org/wiki/Andrea_Pignataro"
+        },
+        {
+          "title": "Andrea Pignataro, il «mister nessuno» al centro di tanti giochi di potere",
+          "url": "https://www.panorama.it/attualita/economia/andrea-pignataro-giochi-potere"
+        },
+        {
+          "title": "Chi è Andrea Pignataro, la seconda persona più ricca d'Italia, e come investe la sua Ion | Wired Italia",
+          "url": "https://www.wired.it/article/andrea-pignataro-ion-uomo-ricco-italia-investimenti/"
+        }
+      ]
+    },
+    "klaus-michael-kuehne": {
+      "query": "\"Klaus-Michael Kuehne\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Klaus-Michael Kühne",
+          "url": "https://de.wikipedia.org/wiki/Klaus-Michael_K%C3%BChne"
+        },
+        {
+          "title": "Klaus-Michael Kühne",
+          "url": "https://en.wikipedia.org/wiki/Klaus-Michael_K%C3%BChne"
+        },
+        {
+          "title": "DeWiki > Klaus-Michael Kühne",
+          "url": "https://dewiki.de/Lexikon/Klaus-Michael_K%C3%BChne"
+        },
+        {
+          "title": "Kühne + Nagel",
+          "url": "https://de.wikipedia.org/wiki/K%C3%BChne_%2B_Nagel"
+        },
+        {
+          "title": "untitled",
+          "url": "https://assets.kuehne-nagel.com/f/331466/x/8019d50e65/company-investor-relations-annual-report-2007-english.pdf"
+        },
+        {
+          "title": "Sustainability — Kuehne Foundations: Interview with Prof. Dr. h. c. Klaus-Michael Kuehne, Chairman of the Board of Trustees 43",
+          "url": "https://assets.kuehne-nagel.com/f/331466/x/80400536ab/2012-annual-report-en.pdf"
+        }
+      ]
+    },
+    "thomas-frist-jr": {
+      "query": "\"Thomas Frist, Jr.\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Ethics Complaint Cites Frist's Work On Medical Malpractice Legislation - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/politics/2004/04/07/ethics-complaint-cites-frists-work-on-medical-malpractice-legislation/fe6dc9a4-a127-4fb0-ac67-d308e5448d77/"
+        },
+        {
+          "title": "Documents Detail Frist Stock Shares - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/politics/2005/10/12/documents-detail-frist-stock-shares/89e56c96-44a4-4f0b-ba58-a1f6f52a691d/"
+        },
+        {
+          "title": "Frist's Health Care Votes Reflect Roots - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/politics/2003/01/26/frists-health-care-votes-reflect-roots/2acc0992-b96c-4636-81a8-4e3f49a0cec6/"
+        },
+        {
+          "title": "Frist's Possible Conflicts Seen as No Problem Under Senate Rules - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-2002-dec-22-na-frist22-story.html"
+        },
+        {
+          "title": "Timing may have worked against Frist in stock sale",
+          "url": "https://consumerwatchdog.org/privacy/timing-may-have-worked-against-frist-stock-sale/"
+        },
+        {
+          "title": "Thomas F. Frist Jr.",
+          "url": "https://en.wikipedia.org/wiki/Thomas_F._Frist_Jr."
+        }
+      ]
+    }
+  }
+}

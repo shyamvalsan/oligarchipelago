@@ -1,0 +1,54 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "vincent-bollore": {
+      "query": "\"Vincent Bolloré\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Bolloré",
+          "url": "https://fr.wikipedia.org/wiki/Bollor%C3%A9"
+        },
+        {
+          "title": "Le jeu politique de Vincent Bolloré",
+          "url": "https://www.lemonde.fr/a-la-une/article/2007/05/11/le-jeu-politique-de-vincent-bollore_908907_3208.html"
+        },
+        {
+          "title": "Vincent Bolloré, parrain d'une alliance entre la droite et l'extrême droite",
+          "url": "https://www.lemonde.fr/politique/article/2023/12/20/vincent-bollore-parrain-d-une-alliance-entre-droite-et-extreme-droite_6206950_823448.html"
+        },
+        {
+          "title": "Vincent Bolloré et son groupe visés par une plainte panafricaine les accusant d’être au cœur d’un « système de corruption »",
+          "url": "https://www.lemonde.fr/societe/article/2025/03/19/vincent-bollore-et-son-groupe-vises-par-une-plainte-panafricaine-l-accusant-d-etre-au-c-ur-d-un-systeme-de-corruption_6583461_3224.html"
+        },
+        {
+          "title": "Vincent Bolloré",
+          "url": "https://fr.wikipedia.org/wiki/Vincent_Bollor%C3%A9"
+        },
+        {
+          "title": "« Quasiment la famille » : Vincent Bolloré, le plus fervent soutien de Nicolas Sarkozy",
+          "url": "https://www.lemonde.fr/politique/article/2025/10/05/quasiment-la-famille-vincent-bollore-le-plus-fervent-soutien-de-nicolas-sarkozy_6644511_823448.html"
+        }
+      ]
+    },
+    "david-cheriton": {
+      "query": "\"David Cheriton\" Canada political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "scott-duncan": {
+      "query": "\"Scott Duncan\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "lee-boo-jin": {
+      "query": "\"Lee Boo-jin\" South Korea political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

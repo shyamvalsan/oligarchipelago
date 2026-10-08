@@ -1,0 +1,89 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "michael-kim": {
+      "query": "\"Michael Kim\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Booz Allen Hamilton",
+          "url": "https://en.wikipedia.org/wiki/Booz_Allen_Hamilton"
+        },
+        {
+          "title": "Received by NSD/FARA RegisJjatoiMfl^/e^?.0!? 07:07:55 PM",
+          "url": "https://efile.fara.gov/docs/6604-Short-Form-20220705-68.pdf"
+        },
+        {
+          "title": "Michael Kim (trial lawyer)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Kim_%28trial_lawyer%29"
+        },
+        {
+          "title": "Michael Kim (businessman)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Kim_%28businessman%29"
+        },
+        {
+          "title": "YOUNG IMMIGRANTS COME OF AGE - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/local/1995/06/21/young-immigrants-come-of-age/7f444fd3-693f-4d49-8012-d493a20ed60d/"
+        },
+        {
+          "title": "Tip Not Included: SCOTUS Strips Gratuities From the Scope of 18 U.S.C. § 666 in Snyder v. United States | Enforcement Edge | Blogs | Arnold & Porter",
+          "url": "https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2024/07/scotus-opinion-snyder-v-united-states"
+        }
+      ]
+    },
+    "fernando-roberto-moreira-salles": {
+      "query": "\"Fernando Roberto Moreira Salles\" Brazil political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "UNIVERSIDADE FEDERAL DE SERGIPE",
+          "url": "https://ri.ufs.br/bitstream/riufs/18808/2/MAKSANDRO_JOSE_SOUZA.pdf"
+        },
+        {
+          "title": "Lista das pessoas mais ricas do Brasil",
+          "url": "https://pt.wikipedia.org/wiki/Lista_das_pessoas_mais_ricas_do_Brasil"
+        },
+        {
+          "title": "Fernando Moreira Salles",
+          "url": "https://pt.wikipedia.org/wiki/Fernando_Moreira_Salles"
+        },
+        {
+          "title": "Manual Assembleia ING Final 19042010 stock options",
+          "url": "https://www.itau.com.br/download-file/v2/d/42787847-4cf6-4461-94a5-40ed237dca33/9b3a8c3b-c96b-43cc-802a-05be6c029bf7%3Forigin%3D1"
+        },
+        {
+          "title": "Lista das famílias mais ricas do Brasil",
+          "url": "https://pt.wikipedia.org/wiki/Lista_das_fam%C3%ADlias_mais_ricas_do_Brasil"
+        },
+        {
+          "title": "EX-99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1132597/000119312519284133/d827050dex991.htm"
+        }
+      ]
+    },
+    "seo-jung-jin": {
+      "query": "\"Seo Jung-jin\" South Korea political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "MEAG Proxy Voting Report 2023",
+          "url": "https://www.meag.com/de/esg/medien/MEAG%20Proxy%20Voting%20Report%202023.pdf"
+        }
+      ]
+    },
+    "harry-stine": {
+      "query": "\"Harry Stine\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Halfway to Anywhere: Achieving America's Destiny in Space by G. Harry Stine",
+          "url": "https://fee.org/articles/halfway-to-anywhere-achieving-americas-destiny-in-space-by-g-harry-stine/"
+        }
+      ]
+    }
+  }
+}

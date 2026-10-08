@@ -1,0 +1,93 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "ron-baron": {
+      "query": "\"Ron Baron\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Letter from Ron | Q2 2025 | Baron Funds",
+          "url": "https://www.baroncapitalgroup.com/article/letter-ron-q2-2025"
+        }
+      ]
+    },
+    "gayle-benson": {
+      "query": "\"Gayle Benson\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Page 4  Feb. 10, 2025",
+          "url": "https://www.struggle-la-lucha.org/wp-content/uploads/2025/02/03SLL10Feb2025.pdf"
+        },
+        {
+          "title": "Gayle Benson",
+          "url": "https://en.wikipedia.org/wiki/Gayle_Benson"
+        }
+      ]
+    },
+    "alain-bouchard": {
+      "query": "\"Alain Bouchard\" Canada political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "«Un foutoir extraordinaire»: Alain Bouchard s’en prend aux gouvernements | TVA Nouvelles",
+          "url": "https://www.tvanouvelles.ca/2026/10/02/des-centaines-dentrepreneurs-prennent-la-parole-a-trois-jours-du-vote"
+        },
+        {
+          "title": "«Nous sommes sur le BS du fédéral», dit Alain Bouchard | JDQ",
+          "url": "https://www.journaldequebec.com/2014/05/28/alain-bouchard-critique-la-gestion-des-finances-publiques"
+        },
+        {
+          "title": "Alimentation Couche -Tard : Rejet d’un achat important d’actions par le gouvernement québécois",
+          "url": "https://www.rcinet.ca/fr/2016/04/21/alimentation-couche-tard-rejet-dun-achat-important-dactions-par-le-gouvernement-quebecois/"
+        },
+        {
+          "title": "SHOWDOWN FOR SEPARATISM - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/politics/1998/09/28/showdown-for-separatism/a304007e-d27e-4436-8c46-b002d2d6e28f/"
+        },
+        {
+          "title": "Le gouvernement prêt à aider Couche-Tard | TVA Nouvelles",
+          "url": "https://www.tvanouvelles.ca/2016/04/20/le-gouvernement-pret-a-aider-couche-tard"
+        },
+        {
+          "title": "Couche-Tard ou l’audace de réussir et Jean-Guy Desjardins, le phénix de la finance - L’Action nationale",
+          "url": "https://action-nationale.qc.ca/couche-tard-ou-l-audace-de-reussir-et-jean-guy-desjardins-le-phenix-de-la-finance/"
+        }
+      ]
+    },
+    "piero-ferrari": {
+      "query": "\"Piero Ferrari\" Italy political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "DIRECTORS PIERO FERRARI AND STEFANO DOMENICALI RESIGN",
+          "url": "https://www.ferrettigroup.com/Upload/EI_IPO_IT/20260514081039_PR%20Ferretti%20140526%282157681.1%29.pdf"
+        },
+        {
+          "title": "Piero Ferrari",
+          "url": "https://it.wikipedia.org/wiki/Piero_Ferrari"
+        },
+        {
+          "title": "Assemblea Ferretti, Komarek attacca Weichai e chiede il rinvio. Piero Ferrari si dimette: “Non voglio associare il mio nome a questa azienda”",
+          "url": "https://www.ilrestodelcarlino.it/forli/economia/ferretti-komarek-weichai-piero-ferrari-dimissioni-oxlbwx69"
+        },
+        {
+          "title": "printmgr file",
+          "url": "https://cdn.ferrari.com/cms/network/media/pdf/12_prospectus_ferrari_n_v_eu_20160103.pdf"
+        },
+        {
+          "title": "Piero Ferrari",
+          "url": "https://en.wikipedia.org/wiki/Piero_Ferrari"
+        },
+        {
+          "title": "Ferrari N.V.",
+          "url": "https://it.wikipedia.org/wiki/Ferrari_N.V."
+        }
+      ]
+    }
+  }
+}

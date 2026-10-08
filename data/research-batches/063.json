@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "victoria-mars": {
+      "query": "\"Victoria Mars\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "francine-von-finck": {
+      "query": "\"Francine von Finck\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "August von Finck junior",
+          "url": "https://de.wikipedia.org/wiki/August_von_Finck_junior"
+        },
+        {
+          "title": "August François von Finck",
+          "url": "https://de.wikipedia.org/wiki/August_Fran%C3%A7ois_von_Finck"
+        },
+        {
+          "title": "DeWiki > August von Finck junior",
+          "url": "https://dewiki.de/Lexikon/August_von_Finck_junior"
+        },
+        {
+          "title": "August von Finck Jr.",
+          "url": "https://en.wikipedia.org/wiki/August_von_Finck_Jr."
+        }
+      ]
+    },
+    "leon-black": {
+      "query": "\"Leon Black\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Leon Black Political Affiliation: Donations, Epstein, and Apollo - LegalClarity",
+          "url": "https://legalclarity.org/leon-black-political-affiliation-donations-epstein-and-apollo/"
+        },
+        {
+          "title": "Lawmakers subpoena billionaire Leon Black after contentious interview on Epstein payments - The Washington Post",
+          "url": "https://www.washingtonpost.com/business/2026/06/26/epstein-investor-leon-black-payments-house-deposition/62c1a4a8-7157-11f1-8730-e7fd0e2a6404_story.html"
+        },
+        {
+          "title": "[2023-07-25] Wyden Unveils Ongoing Investigation Into Private Equity Billionaire Leon Black’s Tax Planning and Financial Ties with Jeffrey Epstein | The United States Senate Committee on Finance",
+          "url": "https://www.finance.senate.gov/chairmans-news/wyden-unveils-ongoing-investigation-into-private-equity-billionaire-leon-blacks-tax-planning-and-financial-ties-with-jeffrey-epstein"
+        },
+        {
+          "title": "Trump appointee leading $205bn US agency had personal ties to Epstein, emails show | Trump administration | The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jun/03/ben-black-investment-trump-epstein"
+        },
+        {
+          "title": "March 20, 2026",
+          "url": "https://www.finance.senate.gov/imo/media/doc/senator_wyden_letter_to_leon_black_redacted.pdf"
+        },
+        {
+          "title": "[2026-03-23] Continuing Epstein Investigation, Wyden Questions Leon Black over New Revelations in Epstein Files, Appearance of “Hush Money” Payments and Surveillance of Women | The United States Senate Committee on Finance",
+          "url": "https://www.finance.senate.gov/ranking-members-news/continuing-epstein-investigation-wyden-questions-leon-black-over-new-revelations-in-epstein-files-appearance-of-hush-money-payments-and-surveillance-of-women"
+        }
+      ]
+    },
+    "charoen-sirivadhanabhakdi": {
+      "query": "\"Charoen Sirivadhanabhakdi\" Thailand political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Charoen Sirivadhanabhakdi",
+          "url": "https://en.wikipedia.org/wiki/Charoen_Sirivadhanabhakdi"
+        },
+        {
+          "title": "Thaksin_book.fm",
+          "url": "https://thaipolitics.leeds.ac.uk/wp-content/uploads/sites/87/2024/08/Thaksinization-2005.pdf"
+        },
+        {
+          "title": "เจริญ สิริวัฒนภักดี | Hmong.in.th",
+          "url": "https://hmong.in.th/wiki/Charoen_Sirivadhanabhakdi"
+        }
+      ]
+    }
+  }
+}

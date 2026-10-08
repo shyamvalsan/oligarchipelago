@@ -1,0 +1,158 @@
+{
+  "profiles": {
+    "lakshmi-mittal": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Moderate / historical scope",
+      "period": "Sidex acquisition and Blair letter, 2001; parliamentary scrutiny, February–March 2002",
+      "summary": "Blair acknowledged signing a supportive letter concerning Mittal’s company amid controversy over a Labour donation and the Sidex acquisition. The political-business overlap is documented; the government disputed both a donation-driven motive and the letter’s effect on the award.",
+      "mechanism": "Party donation and diplomatic endorsement ↔ disputed influence on privatization",
+      "support": [
+        {
+          "text": "The March 2002 opposition motion recorded a £125,000 Labour donation and challenged the government’s support for the Sidex transaction. Its accusations were political arguments, not court findings.",
+          "source": "UK Parliament: Sidex debate and prime-ministerial response",
+          "url": "https://publications.parliament.uk/pa/cm200102/cmhansrd/vo020305/debtext/20305-06.htm",
+          "date": "2002-03-05",
+          "kind": "Parliamentary debate",
+          "access": "Indexed Hansard passages reviewed"
+        },
+        {
+          "text": "The minister confirmed that both the letter and donation had been public for months, while rejecting a causal link. This independently establishes the overlap without adopting the opposition’s conclusion.",
+          "source": "Hansard: Don Touhig’s response",
+          "url": "https://publications.parliament.uk/pa/cm200102/cmhansrd/vo020305/debtext/20305-21.htm",
+          "date": "2002-03-05",
+          "kind": "Government acknowledgment and response",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Blair said knowing of Mittal’s party support would not have changed his decision. He described the letter as justified by embassy advice and economic reform.",
+          "source": "Hansard: Prime Minister",
+          "url": "https://hansard.parliament.uk/Commons/2002-02-13/debates/e55e4cc5-f23a-47c2-b515-dcbc201dc943/PrimeMinister",
+          "date": "2002-02-13",
+          "kind": "Subject response",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Touhig cited Romania’s prime minister saying the evaluation and award decision preceded the letter. He also argued that privatization would reduce subsidies disadvantaging UK producers. These are attributed government explanations, not independent causal verification.",
+          "source": "Hansard: government defense",
+          "url": "https://publications.parliament.uk/pa/cm200102/cmhansrd/vo020305/debtext/20305-21.htm",
+          "date": "2002-03-05",
+          "kind": "Alternative explanation / disputed chronology",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Historical estimate only, not a claim of present conduct or a purchased contract. Hansard records what speakers asserted; it does not adjudicate those assertions. The underlying Romanian procurement file was not independently audited, and an endorsement is not proof that it changed the winner."
+    },
+    "rinat-akhmetov": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Moderate / historical scope",
+      "period": "Kryvorizhstal sale, 2004–2005; ECHR ruling, 2018; media-exit statement, 2022",
+      "summary": "Akhmetov’s participation in the politically connected 2004 steel privatization provides a specific historical wealth–power case. The transaction was reversed, but later European human-rights findings against the reversal process prevent treating it as a simple, unqualified vindication of every accusation.",
+      "mechanism": "Ruling-party connections ↔ contested state-asset acquisition",
+      "support": [
+        {
+          "text": "Reuters identifies Akhmetov and Pinchuk as buyers in the $800 million 2004 sale, subsequently reversed before an open tender fetched approximately $4.8 billion. It identifies Akhmetov as a key Yanukovich backer.",
+          "source": "Reuters: steel-mill litigation report",
+          "url": "https://www.business-standard.com/article/reuters/ukrainian-court-revives-case-over-arcelormittal-steel-mill-113060600926_1.html",
+          "date": "2013-06-06",
+          "kind": "Historical transaction and political relationship",
+          "access": "Indexed Reuters article passages reviewed"
+        },
+        {
+          "text": "The ECHR’s case-law note describes the acquiring consortium’s owners as linked to the ruling party and presidency. It records the original favorable court decisions, later reopening, return of the purchase money, and resale.",
+          "source": "European Court of Human Rights: Information Note 219, pp. 8–10",
+          "url": "https://ks.echr.coe.int/documents/d/echr-ks/clin_june_2018_eng",
+          "date": "2018-06",
+          "kind": "Official judicial case summary",
+          "access": "PDF text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The ECHR found a fair-hearing violation in the reopening and reversal proceedings, but no property-rights violation, and rejected the pecuniary-damage claim. The findings concern the consortium’s rights, not a criminal conviction of Akhmetov.",
+          "source": "ECHR: case 10640/05 disposition",
+          "url": "https://ks.echr.coe.int/documents/d/echr-ks/clin_june_2018_eng",
+          "date": "2018-06-26",
+          "kind": "Material later legal outcome",
+          "access": "PDF text reviewed"
+        },
+        {
+          "text": "In July 2022, Akhmetov announced his group’s exit from media and surrender of licenses in response to the anti-oligarch law, and rejected the oligarch label. The announcement concerns licenses, not transfer of the entire business to the state.",
+          "source": "Reuters: Tom Balmforth, via Euronews",
+          "url": "https://www.euronews.com/2022/07/12/us-urkaine-crisis-akhmetov",
+          "date": "2022-07-12",
+          "kind": "Subject response / later constraint",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "The score concerns a historical acquisition, not ongoing possession of the steel mill, a criminal finding, or membership of a current legal register. A later auction’s price is not an exact measure of the earlier discount. The fair-hearing violation and his response are integral to the assessment; present wartime business conditions need separate review."
+    }
+  },
+  "rubrics": {
+    "lakshmi-mittal": {
+      "levels": [
+        3,
+        2,
+        2
+      ],
+      "range": [
+        20,
+        80
+      ],
+      "rationales": [
+        "Prime-ministerial endorsement of the company is acknowledged.",
+        "A specific privatization interest coincided with political support; causal advantage is disputed.",
+        "The donation–endorsement–business sequence is concrete, but a reciprocal bargain is not established."
+      ],
+      "sourceRefs": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    "rinat-akhmetov": {
+      "levels": [
+        3,
+        3,
+        2
+      ],
+      "range": [
+        35,
+        85
+      ],
+      "rationales": [
+        "Specific ruling-party connections, rather than nationality or wealth alone.",
+        "A named contested state-asset acquisition is documented, though later reversed and refunded.",
+        "Political connections and acquisition terms support a historical inference; procedural findings and the absence of an adjudicated personal bargain limit certainty."
+      ],
+      "sourceRefs": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  }
+}

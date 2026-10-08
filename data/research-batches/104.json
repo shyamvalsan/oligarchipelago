@@ -1,0 +1,76 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "sri-prakash-lohia": {
+      "query": "\"Sri Prakash Lohia\" Indonesia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Profil Sri Prakash Lohia, Konglomerat Pemilik Indorama (INDR) Buat Pabrik di AS - Bursa Katadata.co.id",
+          "url": "https://katadata.co.id/amp/finansial/bursa/68252106e377a/profil-sri-prakash-lohia-konglomerat-pemilik-indorama-indr-buat-pabrik-di-as"
+        },
+        {
+          "title": "Orang Terkaya, 2019 Guyur Siapa? – PinterPolitik.com",
+          "url": "https://www.pinterpolitik.com/in-depth/orang-terkaya-2019-dukung-siapa/amp/"
+        },
+        {
+          "title": "Sri Prakash Lohia | Tatler Asia",
+          "url": "https://www.tatlerasia.com/people/sri-prakash-lohia"
+        }
+      ]
+    },
+    "wang-yusuo": {
+      "query": "\"Wang Yusuo\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "john-brown": {
+      "query": "\"John Brown\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Opinion | How John Brown’s Harpers Ferry raid helped Lincoln become president - The Washington Post",
+          "url": "https://www.washingtonpost.com/opinions/2026/08/05/how-john-browns-harpers-ferry-raid-helped-lincoln-become-president/"
+        },
+        {
+          "title": "To Secede or Not To Secede: John Brown and the Election of 1860 (U.S. National Park Service)",
+          "url": "https://www.nps.gov/articles/000/john-brown-1860-election.htm"
+        },
+        {
+          "title": "John Brown (abolitionist)",
+          "url": "https://en.wikipedia.org/wiki/John_Brown_%28abolitionist%29"
+        },
+        {
+          "title": "A Look Back at John Brown | National Archives",
+          "url": "https://www.archives.gov/publications/prologue/2011/spring/brown.html"
+        },
+        {
+          "title": "1699CONGRESSIONAL RECORD—HOUSE1910.NOMINATIONS.Mr. BROWN.  Mr. President, I was not hesitating to express",
+          "url": "https://www.congress.gov/61/crecb/1910/02/10/GPO-CRECB-1910-pt2-v45-14-2.pdf"
+        },
+        {
+          "title": "American Experience . John Brown's Holy War . Paul Finkelman, historian, on politics of the day | PBS",
+          "url": "https://cgi.pbs.org/wgbh/amex/brown/filmmore/reference/interview/finkelman01.html"
+        }
+      ]
+    },
+    "michael-dorrell": {
+      "query": "\"Michael Dorrell\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Four Deals Put the President's Family Beside Federal Money in One Week. Almost None of It Is Illegal. | AskWhy.News",
+          "url": "https://askwhy.news/corruption/presidential-family-self-dealing-defense-contracts/"
+        },
+        {
+          "title": "Michael Dorrell",
+          "url": "https://en.wikipedia.org/wiki/Michael_Dorrell"
+        }
+      ]
+    }
+  }
+}

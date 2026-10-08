@@ -1,0 +1,76 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "wei-jianjun": {
+      "query": "\"Wei Jianjun\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "riley-bechtel": {
+      "query": "\"Riley Bechtel\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Statement of Bechtel National, Inc",
+          "url": "https://www.dpc.senate.gov/hearings/hearing6/bechtel_rev.pdf"
+        },
+        {
+          "title": "Bechtel Group, Inc. - SourceWatch",
+          "url": "https://www.sourcewatch.org/index.php?title=Bechtel"
+        },
+        {
+          "title": "Bechtel's Political Clout Helps Iraq Bid",
+          "url": "https://www.beaumontenterprise.com/news/article/Bechtel-s-Political-Clout-Helps-Iraq-Bid-757629.php"
+        },
+        {
+          "title": "Bechtel",
+          "url": "https://en.wikipedia.org/wiki/Bechtel"
+        },
+        {
+          "title": "Bechtel awarded Iraq contract: War profits and the US “military-industrial complex” - World Socialist Web Site",
+          "url": "https://www.wsws.org/en/articles/2003/04/bech-a29.html"
+        },
+        {
+          "title": "Has Bechtel shot its bolt in Britain? | Business | The Guardian",
+          "url": "https://www.theguardian.com/business/2005/sep/11/theobserver.observerbusiness9"
+        }
+      ]
+    },
+    "andrei-guryev-family": {
+      "query": "\"Andrei Guryev\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Individuals",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2022-08-08/pdf/FR-2022-08-08.pdf"
+        },
+        {
+          "title": "Andrey Guryev",
+          "url": "https://en.wikipedia.org/wiki/Andrey_Guryev"
+        },
+        {
+          "title": "Andrey Guryev Jr.",
+          "url": "https://en.wikipedia.org/wiki/Andrey_Guryev_Jr."
+        }
+      ]
+    },
+    "liang-wengen": {
+      "query": "\"Liang Wengen\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Articles by He Qinglian (何清涟): Liang Wengen: a phenomenon",
+          "url": "https://hqlenglish.blogspot.com/2012/12/liang-wengen-phenomenon.html"
+        },
+        {
+          "title": "Political connections and access to IPO markets in China - ScienceDirect",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1043951X15000206"
+        }
+      ]
+    }
+  }
+}

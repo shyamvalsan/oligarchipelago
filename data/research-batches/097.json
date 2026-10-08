@@ -1,0 +1,92 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "mat-ishbia": {
+      "query": "\"Mat Ishbia\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Mat Ishbia agrees to buy Phoenix Suns, ending Robert Sarver’s tenure - The Washington Post",
+          "url": "https://www.washingtonpost.com/sports/2022/12/20/mat-ishbia-buys-phoenix-suns/"
+        },
+        {
+          "title": "Powering Intelligence: Meeting AI’s energy needs in a changing electricity landscape",
+          "url": "https://cei.org/wp-content/uploads/2025/07/Corporate-Social-Irresponsibility.pdf"
+        },
+        {
+          "title": "Chi sono i miliardari finanziatori dietro il super PAC di Trump per le elezioni di medio termine | Forbes Italia",
+          "url": "https://forbes.it/2026/05/04/chi-sono-i-miliardari-finanziatori-dietro-il-super-pac-di-trump-per-le-elezioni-di-medio-termine"
+        },
+        {
+          "title": "Billionaire mortgage battle: Inside the owner rivalry of Cavs' Dan Gilbert and Suns' Mat Ishbia - ESPN",
+          "url": "https://www.espn.com.sg/nba/story/_/id/39854533/nba-billionaire-mortgage-battle-owner-rivalry-cavs-dan-gilbert-suns-mat-ishbia"
+        },
+        {
+          "title": "Mat Ishbia",
+          "url": "https://en.wikipedia.org/wiki/Mat_Ishbia"
+        },
+        {
+          "title": "FOIA Friday: Contracts with MSU boosters revealed",
+          "url": "https://www.axios.com/local/detroit/2023/01/06/michigan-state-university-donations-mat-ishbia"
+        }
+      ]
+    },
+    "nathan-kirsh": {
+      "query": "\"Nathan Kirsh\" Eswatini (Swaziland) political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Nathan Kirsh",
+          "url": "https://en.wikipedia.org/wiki/Nathan_Kirsh"
+        },
+        {
+          "title": "Eswatini Observer June 7 2026 edition - Flipbook by sandileb2019 | FlipHTML5",
+          "url": "https://fliphtml5.com/xoczu/Eswatini-Observer-June-7-2026-edition/"
+        },
+        {
+          "title": "Exposed: DA-Agang mystery funder",
+          "url": "https://iol.co.za/news/politics/2014-02-09-exposed-da-agang-mystery-funder/"
+        }
+      ]
+    },
+    "liu-debing": {
+      "query": "\"Liu Debing\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "pedro-moreira-salles": {
+      "query": "\"Pedro Moreira Salles\" Brazil political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Moreira Salles nega favorecimento com FCVS - Notícias - Portal da Câmara dos Deputados",
+          "url": "https://www.camara.leg.br/noticias/13678-moreira-salles-nega-favorecimento-com-fcvs"
+        },
+        {
+          "title": "Quem É Pedro Moreira Salles, 6º Mais Rico do Brasil e Copresidente do Itaú",
+          "url": "https://forbes.com.br/forbes-money/2026/09/pedro-moreira-salles-o-herdeiro-que-atravessou-a-politica-o-banco-e-a-sucessao-de-uma-dinastiapedro-moreira-salles-quem-e-fortuna-itau-unibanco/"
+        },
+        {
+          "title": "A saída de Pedro Moreira Salles da Febraban e o fogo que ardia na entidade | Lauro Jardim - O Globo",
+          "url": "https://blogs.oglobo.globo.com/lauro-jardim/post/amp/saida-de-pedro-moreira-salles-da-febraban-e-o-fogo-que-ardia-na-entidade.html"
+        },
+        {
+          "title": "Lista das pessoas mais ricas do Brasil",
+          "url": "https://pt.wikipedia.org/wiki/Lista_das_pessoas_mais_ricas_do_Brasil"
+        },
+        {
+          "title": "Pedro Moreira Salles",
+          "url": "https://pt.wikipedia.org/wiki/Pedro_Moreira_Salles"
+        },
+        {
+          "title": "0001104659-23-068307",
+          "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001276671/5e9d0eba-2f45-4d01-9d50-af200e547108.pdf"
+        }
+      ]
+    }
+  }
+}

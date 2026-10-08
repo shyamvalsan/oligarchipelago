@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "zhang-hejun": {
+      "query": "\"Zhang Hejun\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "brian-armstrong": {
+      "query": "\"Brian Armstrong\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Jared Kushner’s Dollar Diplomacy | The New Yorker",
+          "url": "https://www.newyorker.com/magazine/2026/09/21/jared-kushners-dollar-diplomacy"
+        },
+        {
+          "title": "Crypto skeptics rebuff industry’s public lobbying push - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2022/09/16/crypto-skeptics-rebuff-industrys-public-lobbying-push/"
+        },
+        {
+          "title": "How Coinbase Went From DC ‘Kids Table’ to Political Power Seat",
+          "url": "https://news.bloomberglaw.com/crypto/how-coinbase-went-from-dc-kids-table-to-political-power-seat"
+        },
+        {
+          "title": "Profile of Crypto Billionaire Brian Armstrong—Coinbase CEO - Americans for Financial Reform",
+          "url": "https://ourfinancialsecurity.org/resources/crypto-billionaire-brian-armstrong/"
+        },
+        {
+          "title": "Fairshake",
+          "url": "https://en.wikipedia.org/wiki/Fairshake"
+        },
+        {
+          "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
+          "url": "https://apnews.com/article/e3caf262dc138147941787299e5f0a66"
+        }
+      ]
+    },
+    "stephen-bisciotti": {
+      "query": "\"Stephen Bisciotti\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Rival Super Bowl team owners allies on political field – Center for Public Integrity",
+          "url": "https://publicintegrity.org/politics/rival-super-bowl-team-owners-allies-on-political-field/"
+        },
+        {
+          "title": "The Ravens Owner Who Hands Off Celebrity - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/local/2001/09/13/the-ravens-owner-who-hands-off-celebrity/ae9979e1-8029-411e-80b5-d244bec930cd/"
+        },
+        {
+          "title": "The NFL’s Political Donors",
+          "url": "https://www.si.com/nfl/2020/11/03/nfl-owners-players-coaches-commissioner-political-donations"
+        }
+      ]
+    },
+    "neil-bluhm": {
+      "query": "\"Neil Bluhm\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Neil Bluhm",
+          "url": "https://en.wikipedia.org/wiki/Neil_Bluhm"
+        },
+        {
+          "title": "Neil G. Bluhm - Person | PurchasingPolicy.org",
+          "url": "https://www.purchasingpolicy.org/entity/01abe092-0227-48b6-9c2c-f9db18a7c79d"
+        },
+        {
+          "title": "Chicago casino magnate bets big on Beacon Hill with lobbying push | Yogonet International",
+          "url": "https://www.yogonet.com/international/news/2019/02/08/48990-chicago-casino-magnate-bets-big-on-beacon-hill-with-lobbying-push"
+        },
+        {
+          "title": "Opinion | On Gaza, Is Biden Choosing Donors Over Voters? | Common Dreams",
+          "url": "https://www.commondreams.org/opinion/gaza-biden-donors-voters"
+        }
+      ]
+    }
+  }
+}

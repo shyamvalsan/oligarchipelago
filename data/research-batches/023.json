@@ -1,0 +1,81 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "leonid-mikhelson": {
+      "query": "\"Leonid Mikhelson\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "How Putin’s alleged ‘business associate’ made $400m from a major Russian gas deal | Gas | The Guardian",
+          "url": "https://www.theguardian.com/business/2022/dec/17/how-putins-alleged-business-associate-made-400m-from-a-major-russian-gas-deal"
+        },
+        {
+          "title": "Commerce Secretary Wilbur Ross benefits from business ties to Putin’s inner circle | OCCRP",
+          "url": "https://www.occrp.org/en/project/paradise-papers/commerce-secretary-wilbur-ross-benefits-from-business-ties-to-putins-inner-circle"
+        },
+        {
+          "title": "'Five Kings': Putin Insiders Reign In Government Contract Ranking",
+          "url": "https://www.rferl.org/a/putin-insiders-state-contracts-forbes-ranking/27576535.html"
+        },
+        {
+          "title": "Russian Gas Tycoon Hires Putin's Daughter's Beau For Murmansk LNG Project",
+          "url": "https://www.rferl.org/a/putin-relative-nagorny-novatek-murmansk-lng-mikhelson/32950259.html"
+        },
+        {
+          "title": "Offshore Gurus Help Rich Avoid Taxes on Jets and Yachts | OCCRP",
+          "url": "https://www.occrp.org/en/project/paradise-papers/offshore-gurus-help-rich-avoid-taxes-on-jets-and-yachts"
+        },
+        {
+          "title": "Russian Federation: Mikhelson is buying Sibur | OSW Centre for Eastern Studies",
+          "url": "https://www.osw.waw.pl/en/publikacje/analyses/2010-12-29/russian-federation-mikhelson-buying-sibur?page=1"
+        }
+      ]
+    },
+    "daniel-gilbert": {
+      "query": "\"Daniel Gilbert\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Dan Gilbert - Influence Watch",
+          "url": "https://www.influencewatch.org/person/dan-gilbert/"
+        },
+        {
+          "title": "Daniel A. Gilbert",
+          "url": "https://en.wikipedia.org/wiki/Daniel_A._Gilbert"
+        }
+      ]
+    },
+    "lei-jun": {
+      "query": "\"Lei Jun\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Lei Jun",
+          "url": "https://en.wikipedia.org/wiki/Lei_Jun"
+        },
+        {
+          "title": "Lei Jun Wants to Be China's Answer to Steve Jobs. But Trump's Trade War Is Getting In His Way",
+          "url": "https://time.com/5336633/lei-jun-xiaomi-trade-war/"
+        }
+      ]
+    },
+    "andreas-von-bechtolsheim": {
+      "query": "\"Andreas von Bechtolsheim\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Andreas von Bechtolsheim",
+          "url": "https://de.wikipedia.org/wiki/Andreas_von_Bechtolsheim"
+        },
+        {
+          "title": "Superreiche ohne Protz: Das Leben der Milliardäre in Deutschland",
+          "url": "https://www.tagesspiegel.de/politik/das-leben-der-milliardare-in-deutschland-3580177.html"
+        }
+      ]
+    }
+  }
+}

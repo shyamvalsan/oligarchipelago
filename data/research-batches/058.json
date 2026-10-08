@@ -1,0 +1,101 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "j-christopher-reyes": {
+      "query": "\"J. Christopher Reyes\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "1.pmd",
+          "url": "https://www.thesouthasianinsider.com/images/20720257585SAI-18july2025.pdf"
+        }
+      ]
+    },
+    "jude-reyes": {
+      "query": "\"Jude Reyes\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Trump Tariff Exemptions Benefit Politically Connected Firms — ProPublica",
+          "url": "https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy"
+        },
+        {
+          "title": "James Comer (R) · Kentucky 1st District · Bankrolled",
+          "url": "https://www.bankrolled.org/2026/candidates/james-comer"
+        },
+        {
+          "title": "1.pmd",
+          "url": "https://www.thesouthasianinsider.com/images/20720257585SAI-18july2025.pdf"
+        },
+        {
+          "title": "M. Jude Reyes - Person | PurchasingPolicy.org",
+          "url": "https://www.purchasingpolicy.org/entity/27cdea31-eee3-4ad6-9805-386f8477f3d4"
+        }
+      ]
+    },
+    "anthoni-salim-1": {
+      "query": "\"Anthoni Salim\" Indonesia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Anthoni Salim | S1 | Terakreditasi | Universitas STEKOM Semarang",
+          "url": "https://p2k.stekom.ac.id/ensiklopedia/Anthoni_Salim"
+        },
+        {
+          "title": "Anthoni Salim Suntik Dana Rp 40 Miliar ke KFC, untuk Apa?",
+          "url": "https://money.kompas.com/read/2025/06/13/110000826/anthoni-salim-suntik-dana-rp-40-miliar-ke-kfc-untuk-apa-"
+        },
+        {
+          "title": "Salim_PeatReport_04102018",
+          "url": "https://d3n8a8pro7vhmx.cloudfront.net/rainforestactionnetwork/pages/19548/attachments/original/1523412132/Salim_Peat_Report_04102018.pdf?1523412132="
+        },
+        {
+          "title": "FullDraft_Mar2020_Final.odt",
+          "url": "https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/45019f23-f097-5629-a4fc-abae55523a73/content"
+        },
+        {
+          "title": "The Rhythm of Strategy",
+          "url": "https://uplopen.com/books/1232/files/d537312f-c343-4909-81a6-e79599f04d34.pdf"
+        },
+        {
+          "title": "Anthony Salim",
+          "url": "https://en.wikipedia.org/wiki/Anthony_Salim"
+        }
+      ]
+    },
+    "richard-kinder": {
+      "query": "\"Richard Kinder\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Oil bets big to hold GOP Congress, sits out Trump-Clinton brawl - E&E News by POLITICO",
+          "url": "https://www.eenews.net/articles/oil-bets-big-to-hold-gop-congress-sits-out-trump-clinton-brawl/"
+        },
+        {
+          "title": "Richard Kinder",
+          "url": "https://en.wikipedia.org/wiki/Richard_Kinder"
+        },
+        {
+          "title": "20150706-5066 FERC PDF (Unofficial) 7/6/2015 5:47:21 AM",
+          "url": "https://www.nhsec.nh.gov/projects/2015-08_tgpc_ned/public-comments/2015-08_2015-07-06_ltr_p_huard.pdf"
+        },
+        {
+          "title": "Richard Kinder — Climate Criminals",
+          "url": "https://www.climatecriminals.org/richard-kinder"
+        },
+        {
+          "title": "Unnatural Alliances: Former Democratic Politicians Do the Fossil Fuel Industry's Bidding - Public Citizen",
+          "url": "https://www.citizen.org/article/unnatural-alliances-former-democratic-politicians-do-the-fossil-fuel-industrys-bidding/"
+        },
+        {
+          "title": "Documented | Oil Execs on Trump’s “Opening the Country Council” Lost…",
+          "url": "https://documented.org/reporting/oil-execs-on-trumps-opening-the-country-council-lost-millions-for-shareholders-spent-millions-on-politics-and-lobbying"
+        }
+      ]
+    }
+  }
+}

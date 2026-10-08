@@ -1,0 +1,60 @@
+{
+  "version": "0.1-research-pilot",
+  "reviewedAt": "2026-10-08",
+  "method": "Four binary documented signals, 25 points each. Missing dimensions remain unknown. The displayed total is an evidence floor, not a completed rating, and must not be used as an ordinal ranking of actual political power. Sources describe events at their own dates; this is not a simultaneous 2026 political snapshot.",
+  "profiles": {
+    "elon-musk": {
+      "signals": {
+        "publicRole": {"status":"documented","text":"Musk held a temporary US government advisory role in 2025; AP reported his departure in May. This records a historical role, not a claim of current office.","source":"AP · 28 May 2025","url":"https://apnews.com/article/aa2bc70b0ebdb219b5dd3e9f8fae03af","date":"2025-05-28"},
+        "stateBusiness": {"status":"documented","text":"NASA awarded SpaceX a $2.89 billion lunar-lander contract in 2021. A public contract establishes a state-business relationship, not improper favoritism or dependence of all revenue on government.","source":"NASA · contract announcement","url":"https://www.nasa.gov/news-release/as-artemis-moves-forward-nasa-picks-spacex-to-land-next-americans-on-moon/","date":"2021-04-16"},
+        "information": {"status":"documented","text":"AP reported Musk's acquisition of Twitter and its subsequent transfer into his xAI company in March 2025. This is a documented historical information-platform ownership signal.","source":"AP · X / xAI transaction","url":"https://apnews.com/article/b245f463076ac9b72c41f92160dc77eb","date":"2025-03-28"}
+      }
+    },
+    "jeff-bezos": {
+      "signals": {
+        "stateBusiness": {"status":"documented","text":"NASA selected Bezos-founded Blue Origin for a $3.4 billion lunar-lander contract. Corporate exposure is attributed through the founder; this does not measure Bezos's personal income or political favors.","source":"NASA · 19 May 2023","url":"https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider/","date":"2023-05-19"},
+        "information": {"status":"documented","text":"The Washington Post's corporate history records its 2013 sale to Jeff Bezos. Media ownership is an influence channel, not proof of editorial interference.","source":"The Washington Post · corporate history","url":"https://corporate.washingtonpost.com/about","date":"2013"}
+      }
+    },
+    "michael-bloomberg": {
+      "signals": {
+        "publicRole": {"status":"documented","text":"Bloomberg's official biography records three terms as mayor of New York City. The signal includes former public office, not only current office.","source":"Bloomberg Philanthropies · biography","url":"https://citylab.bloomberg.org/people/michael-r-bloomberg/","date":"2002–2013"},
+        "information": {"status":"documented","text":"Bloomberg identifies Michael Bloomberg as its majority owner; Bloomberg News is part of the company.","source":"Bloomberg · founder disclosure","url":"https://bloomberg.com/authors/ABXALLzMJaQ/michael-r-bloomberg","date":"Undated disclosure"}
+      }
+    },
+    "larry-page": {
+      "signals": {
+        "stateBusiness": {"status":"documented","text":"The US Defense Department selected Google as a JWCC cloud vendor in 2022. Page is a co-controlling Alphabet founder, not the direct individual recipient of the contract.","source":"US Department of Defense · JWCC vendors","url":"https://www.defense.gov/News/News-Stories/Article/Article/3243483/","date":"2022-12-08","ownershipUrl":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"},
+        "information": {"status":"documented","text":"Alphabet's annual report describes Page and Brin's combined voting control. We interpret control of Google's search and YouTube distribution as an information-platform signal, not ownership of all content on those platforms.","source":"Alphabet · 2025 annual report","url":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm","date":"2025-12-31"},
+        "market": {"status":"documented","text":"The DOJ reports a 2024 district-court monopoly finding against Google and subsequent remedies. This is a company-level court finding, not a personal finding against Page; it is not represented as an unappealable final judgment.","source":"US DOJ · Google remedies","url":"https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google","date":"2025-09-02","ownershipUrl":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"}
+      }
+    },
+    "sergey-brin": {
+      "signals": {
+        "stateBusiness": {"status":"documented","text":"Google was selected for the Defense Department's JWCC procurement. Brin's connection is through Alphabet's founders' combined voting control, not a personal contract.","source":"US Department of Defense · JWCC vendors","url":"https://www.defense.gov/News/News-Stories/Article/Article/3243483/","date":"2022-12-08","ownershipUrl":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"},
+        "information": {"status":"documented","text":"Alphabet's report describes joint founder voting control. The project treats Google search and YouTube distribution as an information channel; this is an explicit editorial interpretation.","source":"Alphabet · 2025 annual report","url":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm","date":"2025-12-31"},
+        "market": {"status":"documented","text":"Google was the subject of a district-court monopoly finding and remedies reported by the DOJ. Attribution to Brin reflects corporate control, not personal legal liability; appeal finality is not assumed.","source":"US DOJ · Google remedies","url":"https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google","date":"2025-09-02","ownershipUrl":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"}
+      }
+    },
+    "mark-zuckerberg": {
+      "signals": {
+        "information": {"status":"documented","text":"Meta's 2025 proxy reports Zuckerberg holding 61% of voting power. The project interprets control of Meta's social platforms as an information-distribution channel, not a claim about specific political conduct.","source":"Meta · 2025 proxy statement","url":"https://www.sec.gov/Archives/edgar/data/1326801/000132680125000040/meta-20250417.htm","date":"2025-04-17"}
+      }
+    },
+    "larry-ellison": {
+      "signals": {
+        "stateBusiness": {"status":"documented","text":"Oracle, whose cofounder and chairman is Ellison, was selected as a JWCC cloud vendor. This is a documented government-business connection, not evidence of wrongdoing or a measure of revenue dependence.","source":"US Department of Defense · JWCC vendors","url":"https://www.defense.gov/News/News-Stories/Article/Article/3243483/","date":"2022-12-08"}
+      }
+    },
+    "mukesh-ambani": {
+      "signals": {
+        "information": {"status":"documented","text":"Ambani-led Reliance announced completion of its Disney media joint venture in November 2024. The project attributes this media-company connection through his leadership, not personal ownership of every joint-venture asset.","source":"Reliance · joint-venture completion","url":"https://www.ril.com/news-media/press-releases/reliance-and-disney-announce-completion-transaction-form-joint-venture","date":"2024-11-14"}
+      }
+    },
+    "gautam-adani-1": {
+      "signals": {
+        "information": {"status":"documented","text":"NDTV's annual-report timeline records Adani Group's acquisition of a 64.71% majority stake. Corporate media control is attributed through Adani's group leadership, not treated as proof of political interference.","source":"NDTV · annual-report timeline","url":"https://connect.adani.com/annual_report/2025/ndtv/journey.html","date":"2022-12"}
+      }
+    }
+  }
+}

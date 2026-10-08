@@ -1,0 +1,97 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "michael-dell": {
+      "query": "\"Michael Dell\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Dell inks $9.7 billion Pentagon contract after Trump acquires stock, praises company - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/05/28/dell-inks-97-billion-pentagon-contract-after-trump-acquires-stock-praises-company//"
+        },
+        {
+          "title": "Trump’s billionaire backers dress influence as generosity | Business | The Guardian",
+          "url": "https://www.theguardian.com/business/2025/dec/05/trump-billionaires-dell-investment-accounts"
+        },
+        {
+          "title": "Dell",
+          "url": "https://en.wikipedia.org/wiki/Dell"
+        },
+        {
+          "title": "Michael and Susan Dell donate $6.25 billion to encourage families to claim 'Trump Accounts'",
+          "url": "https://apnews.com/article/7e2615d50a3fc0563109ed0eeb4c41e1"
+        },
+        {
+          "title": "Trump's Dell Investment Sets Off 'Alarm Bells' After Pentagon Deal",
+          "url": "https://www.thedailybeast.com/trump-triggers-alarm-bells-with-jaw-dropping-97b-deal/"
+        }
+      ]
+    },
+    "alice-walton": {
+      "query": "\"Alice Walton\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Alice Walton",
+          "url": "https://en.wikipedia.org/wiki/Alice_Walton"
+        },
+        {
+          "title": "At Wal-Mart, Clinton didn't upset any carts - Los Angeles Times",
+          "url": "https://www.latimes.com/la-na-clintonwalmart19-2007may19-story.html"
+        }
+      ]
+    },
+    "steve-ballmer": {
+      "query": "\"Steve Ballmer\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Steve Ballmer still thinks facts matter to voters",
+          "url": "https://www.axios.com/2022/11/04/steve-ballmer-usa-facts-elections"
+        },
+        {
+          "title": "Steve Ballmer",
+          "url": "https://time.com/7017132/steve-ballmer-democracy-defenders/"
+        },
+        {
+          "title": "Steve Ballmer: 5 Facts About the U.S. Government That Blew My Mind",
+          "url": "https://time.com/4853270/steve-ballmer-usa-facts/"
+        }
+      ]
+    },
+    "carlos-slim-helu": {
+      "query": "\"Carlos Slim Helu\" Mexico political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Carlos Slim: Los mil contratos con la 4T y la 'dependencia' a Telmex",
+          "url": "https://elceo.com/investigaciones-especiales/carlos-slim-los-mil-contratos-con-la-4t-y-la-dependencia-digital-a-telmex/"
+        },
+        {
+          "title": "(PDF) Toward a New Political Patronage? Democracy and the Electoral Participation of Large Business in Mexico",
+          "url": "https://www.researchgate.net/publication/283826799_Toward_a_New_Political_Patronage_Democracy_and_the_Electoral_Participation_of_Large_Business_in_Mexico"
+        },
+        {
+          "title": "La Jornada: Roberto Hernández ofreció 5 mdd para frenar a López Obrador en 2018",
+          "url": "https://www.jornada.com.mx/2024/02/11/politica/003n2pol"
+        },
+        {
+          "title": "La carta de Slim por el NAIM",
+          "url": "https://www.eluniversal.com.mx/columna/roberto-rock-l/nacion/la-carta-de-slim-por-el-naim/"
+        },
+        {
+          "title": "Carlos Slim se desmarca de la 4T pese a casi 100,000 mdp en contratos",
+          "url": "https://elceo.com/negocios/carlos-slim-desmarca-4t-contratos-4t-ni-amlo-nos-autorizo-tv-de-paga/"
+        },
+        {
+          "title": "Debate Rages Over Carlos Slim, the Wealthiest Man in Latin America : Profile: The Mexican entrepreneur behind Telmex and many other business triumphs is lauded for his risk-taking and vision. But critics see a man who benefited greatly from government connections. - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1999-sep-05-fi-7066-story.html"
+        }
+      ]
+    }
+  }
+}

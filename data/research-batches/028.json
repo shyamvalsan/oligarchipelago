@@ -1,0 +1,100 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "david-tepper": {
+      "query": "\"David Tepper\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "harry-triguboff": {
+      "query": "\"Harry Triguboff\" Australia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Who has been making the biggest political donations? - ABC News",
+          "url": "https://www.abc.net.au/news/2022-02-02/who-has-been-making-the-biggest-political-donations/13738200"
+        },
+        {
+          "title": "Harry Triguboff",
+          "url": "https://en.wikipedia.org/wiki/Harry_Triguboff"
+        },
+        {
+          "title": "Relentless: How Harry Triguboff built his $25 billion empire",
+          "url": "https://www.forbes.com.au/covers/billionaires/the-relentless-harry-triguboff-inside-his-25-billion-journey/"
+        },
+        {
+          "title": "The party donors ICAC doesn't see | The Saturday Paper",
+          "url": "https://www.thesaturdaypaper.com.au/news/politics/2014/05/10/the-party-donors-icac-doesnt-see/1399644000447"
+        },
+        {
+          "title": "Select Committee on a National Integrity Commission",
+          "url": "https://www.aph.gov.au/DocumentStore.ashx?id=048815d7-31e9-4d5d-b0ae-e1cd1a24bcb9&subId=510314"
+        },
+        {
+          "title": "Property sector's donations to political parties",
+          "url": "https://www.commercialrealestate.com.au/news/property-sectors-donations-to-political-parties-926653/"
+        }
+      ]
+    },
+    "steve-cohen": {
+      "query": "\"Steve Cohen\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Government Reform | Congressman Steve Cohen",
+          "url": "https://cohen.house.gov/issues/government-reform"
+        },
+        {
+          "title": "Steve Cohen (politician)",
+          "url": "https://en.wikipedia.org/wiki/Steve_Cohen_%28politician%29"
+        },
+        {
+          "title": "Steve Cohen: campaign funding and donors | Money Behind the Ballot",
+          "url": "https://moneybehindtheballot.org/members/steve-cohen"
+        },
+        {
+          "title": "Steve Cohen — Voting Record & Stock Trades | Now You Know",
+          "url": "https://nowyouknow.vote/scorecard_C001068"
+        },
+        {
+          "title": "The Honorable Steve Cohen, Chair",
+          "url": "https://www.congress.gov/116/meeting/house/110456/documents/HHRG-116-JU10-20200206-SD003.pdf"
+        }
+      ]
+    },
+    "rupert-murdoch": {
+      "query": "\"Rupert Murdoch\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Power and scandal: how Murdoch drove the UK, US and Australia to the right | Rupert Murdoch | The Guardian",
+          "url": "https://www.theguardian.com/media/2023/sep/21/power-and-scandal-how-murdoch-drove-the-uk-us-and-australia-to-the-right"
+        },
+        {
+          "title": "The other way Rupert Murdoch tried to tip the scales for Trump - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2023/02/28/trump-fox-news-rupert-murdoch-biden/"
+        },
+        {
+          "title": "Murdoch's had his way with U.S. politicians also - CBS News",
+          "url": "https://www.cbsnews.com/news/murdochs-had-his-way-with-us-politicians-also/"
+        },
+        {
+          "title": "Trump Insists U.S. Version of TikTok Won't Favor MAGA Over Liberals as He Paves Way for Deal",
+          "url": "https://time.com/7320651/tiktok-deal-trump-china/"
+        },
+        {
+          "title": "Court records show political pressure behind Fox programming",
+          "url": "https://apnews.com/article/ceea1c77d165414ca415464dbe0265d7"
+        },
+        {
+          "title": "Editorial Roundup: United States",
+          "url": "https://apnews.com/article/0574c0bcf36881d7e1d8b39654b51c03"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "michael-hartono": {
+      "query": "\"Michael Hartono\" Indonesia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Keluarga Hartono Mulai Diversifikasi Kekayaan ke Luar Negeri di Tengah Kekhawatiran Ekonomi Indonesia",
+          "url": "https://www.indopremier.com/module/newsDetail.php?group_news=IPOTNEWS&halaman=1&jdl=Keluarga_Hartono_Mulai_Diversifikasi_Kekayaan_ke_Luar_Negeri_di_Tengah_Kekhawatiran_Ekonomi_Indonesia&name=&news_id=239281&q=Keluarga+Hartono%2Ckonglomerasi+Indonesia&search=y_general&taging_subtype=ECONOMICS"
+        },
+        {
+          "title": "Michael Bambang Hartono",
+          "url": "https://en.wikipedia.org/wiki/Michael_Bambang_Hartono"
+        },
+        {
+          "title": "Michael Bambang Hartono, tobacco tycoon and Indonesia's richest man, dies at 86",
+          "url": "https://apnews.com/article/efd8de76a0b811edacd93c219cee77e8"
+        }
+      ]
+    },
+    "nik-storonsky": {
+      "query": "\"Nik Storonsky\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Revolut CEO ‘could get multibillion-dollar windfall if its value passes $150bn’ | Revolut | The Guardian",
+          "url": "https://www.theguardian.com/business/2025/jun/23/revolut-ceo-bonus-value-nik-storonsky"
+        },
+        {
+          "title": "Nik Storonsky",
+          "url": "https://en.wikipedia.org/wiki/Nik_Storonsky"
+        },
+        {
+          "title": "Revolut in new spat with regulators over Storonsky's residency",
+          "url": "https://www.cityam.com/revolut-in-new-spat-with-regulators-over-storonskys-residency/"
+        },
+        {
+          "title": "A €17.5m broker fee, a family office, and a ChatGPT search · The Family Office Almanac",
+          "url": "https://foalmanac.com/blog/2026-storonsky-yacht-broker-commission-defence"
+        },
+        {
+          "title": "Reform UK donor behind Farage £5m gift named one of Britain’s richest people | The Standard",
+          "url": "https://www.standard.co.uk/business/business-news/nigel-farage-britain-nik-storonsky-reform-uk-james-b1282408.html"
+        },
+        {
+          "title": "El fundador de Revolut, demandado por no pagar una comisión de 17,5 millones en la compra de un superyate | Mercados Financieros | Cinco Días",
+          "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-04/el-fundador-de-revolut-demandado-por-no-pagar-una-comision-de-175-millones-en-la-compra-de-un-superyate.html"
+        }
+      ]
+    },
+    "eric-li": {
+      "query": "\"Eric Li\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "LEGISLATIVE COUNCIL ─ 23 June 1999",
+          "url": "https://www.legco.gov.hk/yr98-99/english/counmtg/hansard/990623fe.pdf"
+        },
+        {
+          "title": "Officials accused of arrogance and failing to remain neutral | South China Morning Post",
+          "url": "https://www.scmp.com/article/259816/officials-accused-arrogance-and-failing-remain-neutral"
+        },
+        {
+          "title": "Eric X. Li",
+          "url": "https://en.wikipedia.org/wiki/Eric_X._Li"
+        },
+        {
+          "title": "Eric Li on the CCP’s Capacity for Renewal",
+          "url": "https://foreignpolicy.com/2021/07/02/ccp-reinvention-anniversary-youth-popularity/"
+        },
+        {
+          "title": "Eric Li",
+          "url": "https://en.wikipedia.org/wiki/Eric_Li"
+        },
+        {
+          "title": "Chinese Governance Beyond Liberalism | PDF | Mikhail Gorbachev | Soviet Union",
+          "url": "https://www.scribd.com/document/973824401/Party-Life-Eric-Li"
+        }
+      ]
+    },
+    "zhong-huijuan": {
+      "query": "\"Zhong Huijuan\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "zong-fuli": {
+      "query": "\"Zong Fuli\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Leaked Files Offer Many Clues To Offshore Dealings by Top Chinese - ICIJ",
+          "url": "https://www.icij.org/investigations/panama-papers/20160406-china-red-nobility-offshore-dealings/"
+        },
+        {
+          "title": "Cover Story: Succession, Scandal and Bottled Water — the Real Battle at the Heart of Wahaha Court Case - Caixin Global",
+          "url": "https://www.caixinglobal.com/2025-07-28/cover-story-succession-scandal-and-bottled-water-the-real-battle-at-the-heart-of-wahaha-court-case-102345784.html"
+        },
+        {
+          "title": "Thursday, February 29, 2024",
+          "url": "https://efile.fara.gov/docs/3457-Informational-Materials-20240304-400.pdf"
+        },
+        {
+          "title": "Zong Fuli made an offer to acquire China Candy Holdings Limited from Xu Jinpei , Kwok Shun Tim and other shareholders’ for approximately HKD 570 million. | MarketScreener",
+          "url": "https://www.marketscreener.com/quote/stock/CHINA-CANDY-HOLDINGS-LIMI-24857688/news/Zong-Fuli-made-an-offer-to-acquire-China-Candy-Holdings-Limited-from-Xu-Jinpei-Kwok-Shun-Tim-and-o-35098475/"
+        },
+        {
+          "title": "Wahaha Joint Venture Company",
+          "url": "https://en.wikipedia.org/wiki/Wahaha_Joint_Venture_Company"
+        }
+      ]
+    },
+    "maria-fernanda-amorim": {
+      "query": "\"Maria Fernanda Amorim\" Portugal political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Shareholder structure and holdings | Corticeira Amorim",
+          "url": "https://www.amorim.com/en/investors/corticeira-amorim-share/shareholder-stucture/"
+        },
+        {
+          "title": "subvencoes publicas do turismo de portugal",
+          "url": "https://www.turismodeportugal.pt/SiteCollectionDocuments/gestao/Subvencoes/subvencoes-publicas-turismo-portugal-2021.pdf"
+        },
+        {
+          "title": "Diário da República, 2.ª série — N.º 195 — 7 de Outubro de 2010",
+          "url": "https://files.diariodarepublica.pt/2s/2010/10/195000000/4958349604.pdf"
+        },
+        {
+          "title": "Galp",
+          "url": "https://es.wikipedia.org/wiki/Galp"
+        },
+        {
+          "title": "Lista das pessoas mais ricas de Portugal",
+          "url": "https://pt.wikipedia.org/wiki/Lista_das_pessoas_mais_ricas_de_Portugal"
+        }
+      ]
+    },
+    "juergen-blickle": {
+      "query": "\"Juergen Blickle\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "hasmukh-chudgar": {
+      "query": "\"Hasmukh Chudgar\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Shri Hasmukh K Chudgar vs State Of Himachal Pradesh And Anr on 21 July, 2026",
+          "url": "https://indiankanoon.org/doc/24415041/"
+        },
+        {
+          "title": "HASMUKH K CHUDGAR v. STATE OF HP AND ANR | Himachal Pradesh High Court | Judgment | Law | CaseMine",
+          "url": "https://www.casemine.com/judgement/in/6a7164215727c173ea83d66b"
+        },
+        {
+          "title": "DRAFT RED HERRING PROSPECTUS",
+          "url": "https://www.morganstanley.com/content/dam/msdotcom/en/indiaofferdocuments/pdfs/Intas-Pharmaceuticals-Ltd-DRHP.pdf"
+        },
+        {
+          "title": "`DRAFT RED HERRING PROSPECTUS",
+          "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1371534868962.pdf"
+        },
+        {
+          "title": "Intas Pharmaceuticals",
+          "url": "https://en.wikipedia.org/wiki/Intas_Pharmaceuticals"
+        },
+        {
+          "title": "NIMISH HASMUKH CHUDGAR vs STATE OF GUJARAT - 2025 Supreme(Online)(Guj) 8136",
+          "url": "https://supremetoday.ai/doc/judgement/INDGUJ00000150290"
+        }
+      ]
+    }
+  }
+}

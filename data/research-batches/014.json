@@ -1,0 +1,64 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "paolo-ardoino": {
+      "query": "\"Paolo Ardoino\" Italy political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "jean-louis-van-der-velde": {
+      "query": "\"Jean-Louis van der Velde\" Netherlands political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Americans for Job Security",
+          "url": "https://en.wikipedia.org/wiki/Americans_for_Job_Security"
+        }
+      ]
+    },
+    "william-ding": {
+      "query": "\"William Ding\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "INVESTIGATION: Stanford Receives Chinese State-linked Donations",
+          "url": "https://stanfordreview.org/investigation-stanford-receives-chinese-state-linked-donations-2/"
+        }
+      ]
+    },
+    "miriam-adelson": {
+      "query": "\"Miriam Adelson\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "The $593M Couple: How the Adelsons Bought a Foreign Policy | GoodVote",
+          "url": "https://www.goodvote.org/blog/the-593m-couple-adelsons-foreign-policy"
+        },
+        {
+          "title": "Sheldon Adelson's billions shape US politics as many question his influence | Super Pacs | The Guardian",
+          "url": "https://www.theguardian.com/world/2012/nov/01/sheldon-adelson-billions-politics-influence"
+        },
+        {
+          "title": "Las Vegas Sands",
+          "url": "https://en.wikipedia.org/wiki/Las_Vegas_Sands"
+        },
+        {
+          "title": "Miriam Adelson",
+          "url": "https://en.wikipedia.org/wiki/Miriam_Adelson"
+        },
+        {
+          "title": "Preserve America PAC",
+          "url": "https://en.wikipedia.org/wiki/Preserve_America_PAC"
+        },
+        {
+          "title": "Meet Dr Miriam Adelson: the record-breaking Republican donor driving Trump's Israel policy | US news | The Guardian",
+          "url": "https://www.theguardian.com/us-news/2019/jan/07/meet-dr-miriam-adelson-the-record-breaking-republican-donor-driving-trumps-israel-policy"
+        }
+      ]
+    }
+  }
+}

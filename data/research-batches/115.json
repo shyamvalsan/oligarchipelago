@@ -1,0 +1,81 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "andreas-halvorsen": {
+      "query": "\"Andreas Halvorsen\" Norway political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Zero Hedge - Tiger Management - RSSing.com",
+          "url": "https://white-paneled4.rssing.com/chan-3948940/all_p1.html"
+        }
+      ]
+    },
+    "igor-olenicoff": {
+      "query": "\"Igor Olenicoff\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Igor Olenicoff",
+          "url": "https://en.wikipedia.org/wiki/Igor_Olenicoff"
+        },
+        {
+          "title": "Case 1:10-cr-00334-DC   Document 11   Filed 09/16/10   Page 1 of 17",
+          "url": "https://www.uniset.ca/fatca2/hernandez_sent-memo.pdf"
+        },
+        {
+          "title": "Case 8:07-cr-00227-CJC   Document 17   Filed 04/16/08   Page 1 of 5   Page ID #:41",
+          "url": "https://www.uniset.ca/fatca2/olenicoff_jgmt.pdf"
+        },
+        {
+          "title": "Олейников, Игорь Михайлович",
+          "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%2C_%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+        }
+      ]
+    },
+    "john-overdeck": {
+      "query": "\"John Overdeck\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "John Overdeck",
+          "url": "https://en.wikipedia.org/wiki/John_Overdeck"
+        }
+      ]
+    },
+    "david-siegel-1": {
+      "query": "\"David Siegel\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "David A. Siegel",
+          "url": "https://en.wikipedia.org/wiki/David_A._Siegel"
+        },
+        {
+          "title": "2000 United States presidential election",
+          "url": "https://en.wikipedia.org/wiki/2000_United_States_presidential_election"
+        },
+        {
+          "title": "David Siegel",
+          "url": "https://es.wikipedia.org/wiki/David_Siegel"
+        },
+        {
+          "title": "World Socialist Web Site",
+          "url": "https://www.wsws.org/en/articles/2002/08/air-a13.pdf"
+        },
+        {
+          "title": "April 25, 2007  CONGRESSIONAL RECORD — HOUSE  H4069",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2007-04-25/pdf/CREC-2007-04-25-pt1-PgH4068.pdf"
+        },
+        {
+          "title": "Neighborhood Chance and Neighborhood Change",
+          "url": "https://arxiv.org/abs/0801.0719"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "dustin-moskovitz": {
+      "query": "\"Dustin Moskovitz\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Effective Altruism is Buying Political Staff — Effort",
+          "url": "https://www.effort.news/aisi"
+        },
+        {
+          "title": "Deleting Tech Enforcement - Public Citizen",
+          "url": "https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/"
+        },
+        {
+          "title": "Dustin Moskovitz",
+          "url": "https://en.wikipedia.org/wiki/Dustin_Moskovitz"
+        },
+        {
+          "title": "Facebook co-founder jumps into politics for first time — with $20 million to help Hillary Clinton and Democrats - The Washington Post",
+          "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/09/09/facebook-co-founder-jumps-into-politics-for-first-time-with-20-million-to-help-hillary-clinton-and-democratic-candidates/"
+        },
+        {
+          "title": "Fifteen Years Later, Citizens United Defined the 2024 Election | Brennan Center for Justice",
+          "url": "https://www.brennancenter.org/index.php/our-work/research-reports/fifteen-years-later-citizens-united-defined-2024-election"
+        },
+        {
+          "title": "Dustin Moskovitz - Influence Watch",
+          "url": "https://www.influencewatch.org/person/dustin-moskovitz/"
+        }
+      ]
+    },
+    "blair-parry-okeden": {
+      "query": "\"Blair Parry-Okeden\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Independent Biography | Blair Parry-Okeden",
+          "url": "https://blairparrykokeden.com/biography"
+        },
+        {
+          "title": "Blair Parry-Okeden",
+          "url": "https://en.wikipedia.org/wiki/Blair_Parry-Okeden"
+        }
+      ]
+    },
+    "sulaiman-al-habib": {
+      "query": "\"Sulaiman Al Habib\" Saudi Arabia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "SULAIMAN ALHABIB - Disclosures",
+          "url": "https://www.argaam.com/en/article/entityarticles/sectionid/204/entityid/4/4433/pageno/1"
+        },
+        {
+          "title": "Meeting Details Report",
+          "url": "https://www.eastspring.com/docs/librariesprovider2/responsible-investments/2026/ei_2025_proxy_voting_record.pdf?sfvrsn=8a171d7f_1"
+        }
+      ]
+    },
+    "ernest-garcia-iii": {
+      "query": "\"Ernest Garcia III\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "SNB Capital North America Index Fund - USTEF.PDF",
+          "url": "https://www.saudiexchange.sa/Resources/pdfs/350_2022-04-01-04-30-15_MFAnn1.pdf"
+        },
+        {
+          "title": "ANNUAL REPORT",
+          "url": "https://bullfincher.io/sec-proxy?url=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1690820%2F000169082026000025%2Fcvna2025annualreport.pdf"
+        },
+        {
+          "title": "This case arises from a direct offering made by Carvana Co. (“Carvana” or the “Company”) in late March 2020. Controlling stockholders Ernest Garcia II and Ernest Garcia III (the “Garcias”) participated in the direct offering. Later in 2020, Garcia II sold over $1 billion of his Carvana shares. The plaintiff-stockholders assert derivative claims against the Garcias for breach of fiduciary duty, alleging that the Garcias enriched themselves through the offering by acquiring shares at a depressed price.",
+          "url": "https://courts.delaware.gov/Opinions/Download.aspx?id=362010"
+        }
+      ]
+    }
+  }
+}

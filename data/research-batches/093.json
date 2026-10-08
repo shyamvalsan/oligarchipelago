@@ -1,0 +1,59 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "xu-gaoming": {
+      "query": "\"Xu Gaoming\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "law-kar-po": {
+      "query": "\"Law Kar Po\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Report of the Directors",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2005/0801/00600/f108.pdf"
+        }
+      ]
+    },
+    "otto-toto-sugiri": {
+      "query": "\"Otto Toto Sugiri\" Indonesia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "roman-abramovich": {
+      "query": "\"Roman Abramovich\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Who is Russian oligarch Roman Abramovich? - The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2022/04/01/roman-abramovich-chelsea-russia-ukraine/"
+        },
+        {
+          "title": "Abramovich Owned Stake in Company that Won U.S. Gov’t Contracts | OCCRP",
+          "url": "https://www.occrp.org/en/news/abramovich-owned-stake-in-company-that-won-us-govt-contracts"
+        },
+        {
+          "title": "Uber hired oligarch-linked Russian lobbyist despite bribery fears | Uber | The Guardian",
+          "url": "https://www.theguardian.com/news/2022/jul/11/uber-hired-oligarch-linked-lobbyist-russia-bribery-fears"
+        },
+        {
+          "title": "Roman Abramovich",
+          "url": "https://en.wikipedia.org/wiki/Roman_Abramovich"
+        },
+        {
+          "title": "Russian oligarch Roman Abramovich's peace effort founders even as it shields him from sanctions - The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2022/05/05/roman-abramovich-ukraine-russia-oligarchs/"
+        },
+        {
+          "title": "Is Abramovich at last paying the price for being too close to Putin? | Roman Abramovich | The Guardian",
+          "url": "https://www.theguardian.com/world/2018/may/21/is-abramovich-paying-price-for-being-too-close-to-putin"
+        }
+      ]
+    }
+  }
+}

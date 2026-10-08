@@ -1,0 +1,89 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "lu-xiangyang": {
+      "query": "\"Lu Xiangyang\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Lu Xiangyang",
+          "url": "https://en.wikipedia.org/wiki/Lu_Xiangyang"
+        }
+      ]
+    },
+    "stephen-ross": {
+      "query": "\"Stephen Ross\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Who is Stephen Ross, the billionaire criticized for his high-end Trump fundraiser? - The Washington Post",
+          "url": "https://www.washingtonpost.com/business/2019/08/09/who-is-stephen-ross-billionaire-criticized-his-high-end-trump-fundraiser/"
+        },
+        {
+          "title": "Robbin’ HUD | Facing South",
+          "url": "https://www.facingsouth.org/1992/08/robbin-hud"
+        },
+        {
+          "title": "Dolphins owner Stephen Ross: Trump represents ‘a lot of good’ and ‘a lot of bad’ - The Washington Post",
+          "url": "https://www.washingtonpost.com/sports/2020/08/28/dolphins-stephen-ross-trump/"
+        },
+        {
+          "title": "Stephen M. Ross",
+          "url": "https://en.wikipedia.org/wiki/Stephen_M._Ross"
+        },
+        {
+          "title": "Dolphins owner Steve Ross gives county mayor Super Bowl tix | Miami Herald",
+          "url": "https://www.miamiherald.com/sports/nfl/super-bowl/article239853208.html"
+        },
+        {
+          "title": "Miami Dolphins owner cut back on political donations this year — and changed who he gave to",
+          "url": "https://www.yahoo.com/news/miami-dolphins-owner-cut-back-100736029.html"
+        }
+      ]
+    },
+    "arthur-dantchik": {
+      "query": "\"Arthur Dantchik\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Behind Netanyahu’s judicial overhaul, the secretive Kohelet Policy Forum - The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2023/03/24/israel-kohelet-judicial-reform-netanyahu/"
+        },
+        {
+          "title": "Claws Foundation - Influence Watch",
+          "url": "https://www.influencewatch.org/non-profit/claws-foundation/"
+        },
+        {
+          "title": "Investors to Watch in the TikTok-Trump War — The Information",
+          "url": "https://www.theinformation.com/articles/investors-to-watch-in-the-tiktok-trump-war/"
+        },
+        {
+          "title": "Arthur Dantchik",
+          "url": "https://en.wikipedia.org/wiki/Arthur_Dantchik"
+        },
+        {
+          "title": "Jeff Yass",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Yass"
+        }
+      ]
+    },
+    "li-shuirong": {
+      "query": "\"Li Shuirong\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Li Shuirong",
+          "url": "https://en.wikipedia.org/wiki/Li_Shuirong"
+        },
+        {
+          "title": "Full text of 2022 Annual Report",
+          "url": "https://static.cninfo.com.cn/finalpage/2023-05-17/1216829614.PDF"
+        }
+      ]
+    }
+  }
+}

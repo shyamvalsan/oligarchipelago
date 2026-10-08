@@ -1,0 +1,179 @@
+{
+  "profiles": {
+    "terry-gou": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of stated episodes; broader coverage still limited",
+      "confidence": "Moderate",
+      "period": "Wisconsin investment agreement, 2017; revised terms in 2021",
+      "summary": "Foxconn’s Wisconsin negotiation is a specific example of political access linked to a large, company-specific incentive offer. Actual benefits were conditional and later sharply reduced, so the headline offer must not be treated as money personally received.",
+      "mechanism": "Investment and jobs promise ↔ negotiated public incentives",
+      "support": [
+        {
+          "text": "WEDC’s annual report identifies Governor Walker and Terry Gou finalizing Foxconn’s Wisconsin commitment and records a 15-year incentive agreement.",
+          "source": "Wisconsin Economic Development Corporation annual report",
+          "url": "https://wedc.org/wp-content/uploads/2024/04/FY18-WEDC-Annual-Report-0419-Update.pdf",
+          "date": "2018",
+          "kind": "Official program record",
+          "access": "Indexed source passage reviewed"
+        },
+        {
+          "text": "TIME describes Gou’s Wisconsin investment pledge and Trump’s promotion of the agreement. It concerns access and a proposed incentive package, not an adjudicated improper exchange.",
+          "source": "TIME: Gou interview",
+          "url": "https://time.com/5624253/terry-gou-foxconn-taiwan-election-interview/",
+          "date": "2019",
+          "kind": "Interview / policy context",
+          "access": "Indexed source passage reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Wisconsin’s Legislative Audit Bureau reported a revised $80 million contract in 2021 and $28.8 million in credits awarded for qualifying 2020 activity. Conditions and reductions materially limit the original promise.",
+          "source": "Wisconsin Legislative Audit Bureau announcement",
+          "url": "https://www.wispolitics.com/2022/legislative-audit-bureau-announces-the-release-of-electronics-and-information-technology-manufacturing-zone-program/",
+          "date": "2022",
+          "kind": "Official audit summary",
+          "access": "Indexed source passage reviewed"
+        }
+      ],
+      "limitations": "Company incentives are not personal payments to Gou. Public job creation is an alternative rationale; enforcement of conditions shows limits on influence. Scope is the Wisconsin episode, not all Taiwanese or Chinese political activity."
+    },
+    "li-ka-shing": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of stated episodes; broader coverage still limited",
+      "confidence": "Low / scope limited",
+      "period": "CK Hutchison port-sale controversy, 2025–2026",
+      "summary": "The reviewed port-sale episode shows a family-controlled business exposed to political pressure and contested concessions. Neither exposure to state pressure nor a company-level concession dispute establishes Li’s personal control over government.",
+      "mechanism": "Strategic infrastructure ↔ state pressure; individual preferential exchange unresolved",
+      "support": [
+        {
+          "text": "Reuters reported official Chinese criticism of CK Hutchison’s proposed ports sale. The company said its business operated independently from China.",
+          "source": "Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/ck-hutchisons-shares-drop-after-china-posts-critical-commentary-on-port-sale-to-us-interests-3928691",
+          "date": "2025-03-14",
+          "kind": "Reported evidence",
+          "access": "Indexed source passage reviewed"
+        },
+        {
+          "text": "AP reported Panama’s court finding the port concession unconstitutional. This is a company/concession-level ruling, not a finding of personal wrongdoing by Li.",
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/b5fe3cdcc1fce45dbf1b0843a620830a",
+          "date": "2026-01",
+          "kind": "Legal update",
+          "access": "Indexed source passage reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Reuters account describes political constraints on the transaction and the company’s independence claim. Being constrained by a government is not the same as having captured it.",
+          "source": "Reuters: response and scope",
+          "url": "https://www.investing.com/news/stock-market-news/ck-hutchisons-shares-drop-after-china-posts-critical-commentary-on-port-sale-to-us-interests-3928691",
+          "date": "2025-03-14",
+          "kind": "Alternative interpretation",
+          "access": "Indexed source passage reviewed"
+        }
+      ],
+      "limitations": "The personal role, original concession terms, other markets and later court developments require broader review. Ownership and corporate litigation cannot fill missing person-specific evidence; no score is assigned."
+    },
+    "zhang-yiming": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of stated episodes; broader coverage still limited",
+      "confidence": "Low / scope limited",
+      "period": "ByteDance governance controversy, 2023–2025",
+      "summary": "Reviewed sources disagree about state control of ByteDance-related entities. That is important governance context, but it does not by itself show Zhang obtaining private favors through personal political leverage.",
+      "mechanism": "Platform ownership and state oversight; personal reciprocal benefit unresolved",
+      "support": [
+        {
+          "text": "A French Senate inquiry argued that a state-linked stake in a Chinese subsidiary gives authorities influence over technology on which TikTok depends. This is the inquiry’s assessment, not a judgment of Zhang’s personal misconduct.",
+          "source": "French Senate inquiry summary",
+          "url": "https://www.senat.fr/fileadmin/cru-1774270947/Structures_temporaires/commissions_d_enquete/CE_Tiktok/ESSENTIEL_Tiktok_EN_en_ligne.pdf",
+          "date": "2023",
+          "kind": "Parliamentary inquiry",
+          "access": "Indexed source passage reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "TikTok disputes the claim that China holds a golden share in ByteDance Ltd and distinguishes a domestic subsidiary’s licensing arrangement from the global parent.",
+          "source": "TikTok newsroom: company response",
+          "url": "https://newsroom.tiktok.com/the-truth-about-tiktok?lang=en-AU",
+          "date": "2023",
+          "kind": "Subject response",
+          "access": "Indexed source passage reviewed"
+        }
+      ],
+      "limitations": "State coercion, a subsidiary stake and a founder’s wealth are not interchangeable with personal political leverage. The reviewed governance dispute does not establish all rubric dimensions or the subsequent 2026 ownership position; broader individual review is required."
+    },
+    "savitri-jindal": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of stated episodes; broader coverage still limited",
+      "confidence": "Low / scope limited",
+      "period": "Haryana election and political support, October 2024",
+      "summary": "An official election record establishes Savitri Jindal’s own political role. A family fortune and elected office are grounds to examine conflicts, not enough to conclude that she obtained preferential business benefits.",
+      "mechanism": "Public office alongside family business wealth; specific benefit not established",
+      "support": [
+        {
+          "text": "The official Haryana election gazette lists Savitri Jindal as the independently elected member for Hisar.",
+          "source": "Haryana government gazette",
+          "url": "https://www.haryanaassembly.gov.in/wp-content/uploads/2024/10/Haryana-Assembly-Members-Details-English.pdf",
+          "date": "2024-10-09",
+          "kind": "Official election record",
+          "access": "Indexed source passage reviewed"
+        },
+        {
+          "text": "India’s public broadcaster reported her support for the BJP after winning as an independent.",
+          "source": "Akashvani News",
+          "url": "https://newsonair.gov.in/haryana-assembly-polls-independent-candidates-extend-support-to-bjp/",
+          "date": "2024-10-09",
+          "kind": "Political affiliation context",
+          "access": "Indexed source passage reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The official record establishes elected office, not a commercial concession, personal corruption finding or bargain. It cannot attribute other Jindal family members’ actions to her.",
+          "source": "Haryana gazette: evidentiary limit",
+          "url": "https://www.haryanaassembly.gov.in/wp-content/uploads/2024/10/Haryana-Assembly-Members-Details-English.pdf",
+          "date": "2024-10-09",
+          "kind": "Scope limitation",
+          "access": "Indexed source passage reviewed"
+        }
+      ],
+      "limitations": "Forbes groups a family fortune under this entry. Separate business ownership, decision-making and conduct of relatives require individual attribution. No score follows from an office, surname or family wealth alone."
+    }
+  },
+  "rubrics": {
+    "terry-gou": {
+      "levels": [
+        3,
+        2,
+        2
+      ],
+      "range": [
+        25,
+        80
+      ],
+      "rationales": [
+        "Direct negotiation with senior officials.",
+        "A bespoke but conditional company incentive package.",
+        "Investment and political promotion were linked; public-purpose explanations and later reductions weaken patronage inference."
+      ],
+      "sourceRefs": [
+        [
+          0,
+          1
+        ],
+        [
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  }
+}

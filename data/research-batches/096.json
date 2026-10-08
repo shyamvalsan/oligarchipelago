@@ -1,0 +1,105 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "massimiliana-landini-aleotti": {
+      "query": "\"Massimiliana Landini Aleotti\" Italy political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Firenze, altri colpi di scena sull'inchiesta Open: annullato sequestro dei documenti agli Aleotti - la Repubblica",
+          "url": "https://firenze.repubblica.it/cronaca/2020/09/24/news/firenze_altri_colpo_di_scena_sull_inchiesta_open_annullato_sequestro_dei_documenti_agli_aleotti-268375565/"
+        },
+        {
+          "title": "Condannata a dieci anni la presidente di Menarini - La Stampa",
+          "url": "https://www.lastampa.it/cronaca/2016/09/12/news/condannata-a-dieci-anni-la-presidente-di-menarini-1.34801768/"
+        },
+        {
+          "title": "Sulla prepagata di Open passati 200.000 euro — La Verità",
+          "url": "https://www.laverita.info/le-firme/sulla-prepagata-di-open-passati-200-000-euro"
+        },
+        {
+          "title": "Massimiliana Landini Aleotti",
+          "url": "https://it.wikipedia.org/wiki/Massimiliana_Landini_Aleotti"
+        },
+        {
+          "title": "Massimiliana Landini Aleotti",
+          "url": "https://en.wikipedia.org/wiki/Massimiliana_Landini_Aleotti"
+        },
+        {
+          "title": "Persone più ricche d'Italia secondo Forbes",
+          "url": "https://it.wikipedia.org/wiki/Persone_pi%C3%B9_ricche_d%27Italia_secondo_Forbes"
+        }
+      ]
+    },
+    "lin-li": {
+      "query": "\"Lin Li\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Bill Ackman",
+          "url": "https://en.wikipedia.org/wiki/Bill_Ackman"
+        },
+        {
+          "title": "Ackman Dwarfed By Herbalife Spending In Lobbying Battle - Direct Selling Facts, Figures and News",
+          "url": "https://www.businessforhome.org/2014/03/ackman-dwarfed-by-herbalife-spending-in-lobbying-battle/"
+        },
+        {
+          "title": "Poisonous Pandas: Chinese Cigarette Manufacturing in Critical Historical Perspectives 1503602060, 9781503602069 - DOKUMEN.PUB",
+          "url": "https://dokumen.pub/poisonous-pandas-chinese-cigarette-manufacturing-in-critical-historical-perspectives-1503602060-9781503602069.html"
+        },
+        {
+          "title": "China uses trade to influence Taiwan election | Khaleej Times",
+          "url": "https://www.khaleejtimes.com/world/china-uses-trade-to-influence-taiwan-election"
+        },
+        {
+          "title": "Lin Li-chan",
+          "url": "https://en.wikipedia.org/wiki/Lin_Li-chan"
+        }
+      ]
+    },
+    "william-ackman": {
+      "query": "\"William Ackman\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "‘Journalism for rent’: Inside the secretive firm behind the Trump dossier - The Washington Post",
+          "url": "https://www.washingtonpost.com/investigations/journalism-for-rent-inside-the-secretive-firm-behind-the-trump-dossier/2017/12/11/8d5428d4-bd89-11e7-af84-d3e2ee4b2af1_story.html"
+        },
+        {
+          "title": "Ackman hedge fund pulls out all lobbying stops in Herbalife short - The Boston Globe",
+          "url": "https://www.bostonglobe.com/business/2014/03/10/ackman-hedge-fund-pulls-out-all-lobbying-stops-herbalife-short/EVfoFGv0GiPiWCvhfaR7fI/story.html"
+        },
+        {
+          "title": "Bill Ackman",
+          "url": "https://en.wikipedia.org/wiki/Bill_Ackman"
+        },
+        {
+          "title": "lobbyists, strategists, and public relations firms across the country (Lipton 2014). In addition,",
+          "url": "https://www.brookings.edu/wp-content/uploads/2023/04/Using-non-market-actors-as-strategic-weapons-to-increase-firm-performance-FINAL.pdf"
+        },
+        {
+          "title": "William Ackman — sourced record | Dialog Tracker",
+          "url": "https://dialogtracker.com/entity/william-ackman"
+        },
+        {
+          "title": "Bill Ackman - Influence Watch",
+          "url": "https://www.influencewatch.org/person/bill-ackman/"
+        }
+      ]
+    },
+    "cho-jung-ho": {
+      "query": "\"Cho Jung-ho\" South Korea political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Cho Jung-ho",
+          "url": "https://en.wikipedia.org/wiki/Cho_Jung-ho"
+        }
+      ]
+    }
+  }
+}

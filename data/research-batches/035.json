@@ -1,0 +1,93 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "john-doerr": {
+      "query": "\"John Doerr\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Microsoft Antitrust Case: The Truth, the Whole Truth, and Nothing but the Truth | WIRED",
+          "url": "https://www.wired.com/2000/11/microsoft-7/"
+        },
+        {
+          "title": "John Doerr - Influence Watch",
+          "url": "https://www.influencewatch.org/person/john-doerr/"
+        },
+        {
+          "title": "How Fundraising Helped Shape Obama's Green Agenda",
+          "url": "https://time.com/archive/6596921/how-fundraising-helped-shape-obamas-green-agenda/"
+        },
+        {
+          "title": "5 Lobbyists, as Friends, Help Gore's Rise - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-2000-feb-20-mn-877-story.html"
+        },
+        {
+          "title": "Obama Jobs Council Stacked With Democratic Donors - ABC News",
+          "url": "https://abcnews.com/blogs/politics/2011/10/obama-jobs-council-stacked-with-democratic-donors"
+        },
+        {
+          "title": "- UNNECESSARY BUSINESS SUBSIDIES",
+          "url": "https://www.govinfo.gov/content/pkg/CHRG-106hhrg57748/html/CHRG-106hhrg57748.htm"
+        }
+      ]
+    },
+    "jorge-paulo-lemann": {
+      "query": "\"Jorge Paulo Lemann\" Brazil political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Supremo Tribunal Federal STF - AG.REG. NA PETIÇÃO: Pet 10001 DF | Jurisprudência",
+          "url": "https://www.jusbrasil.com.br/jurisprudencia/stf/1791967101/inteiro-teor-1791967107"
+        },
+        {
+          "title": "Jorge Paulo Lemann",
+          "url": "https://pt.wikipedia.org/wiki/Jorge_Paulo_Lemann"
+        },
+        {
+          "title": "Lobbying Uncovered",
+          "url": "https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/Lobbying_Uncovered-Corruption_Democracy_Public_Policy_in_Brazil.pdf"
+        }
+      ]
+    },
+    "r-budi-hartono": {
+      "query": "\"R. Budi Hartono\" Indonesia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Robert Budi Hartono",
+          "url": "https://en.wikipedia.org/wiki/Robert_Budi_Hartono"
+        }
+      ]
+    },
+    "alejandro-bailleres-gual": {
+      "query": "\"Alejandro Baillères Gual\" Mexico political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Alberto Baillères también dice que apoyará el Gobierno de AMLO y lo felicita | SinEmbargo MX",
+          "url": "https://www.sinembargo.mx/3437853/bailleres-a-quien-pan-y-pri-le-dieron-16-8-mil-millones-sin-licitar-dobla-la-rodilla-a-amlo/"
+        },
+        {
+          "title": "La factura que mece la cuna. Estos son los contratistas del gobierno que alertan contra el populismo",
+          "url": "https://www.vice.com/es/article/la-factura-que-mece-la-cuna-estos-son-los-contratistas-del-gobierno-que-alertan-contra-el-populismo/"
+        },
+        {
+          "title": "Baillères fue inseparable de PRI y PAN. Y de esas ligas sacó todo tipo de concesiones | SinEmbargo MX",
+          "url": "https://www.sinembargo.mx/4117088/bailleres-fue-inseparable-de-pri-y-pan-y-de-esas-ligas-saco-todo-tipo-de-concesiones/"
+        },
+        {
+          "title": "Alejandro Baillères",
+          "url": "https://es.wikipedia.org/wiki/Alejandro_Baill%C3%A8res"
+        },
+        {
+          "title": "Los choques en la élite empresarial se intensifican ante la renovación de la dirigencia del CCE",
+          "url": "https://elpais.com/mexico/2025-12-10/el-plan-de-inversiones-emergente-de-sheinbaum-se-agrieta-ante-la-ruptura-interna-de-la-elite-empresarial.html"
+        }
+      ]
+    }
+  }
+}

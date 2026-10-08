@@ -1,0 +1,63 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "rinat-akhmetov": {
+      "query": "\"Rinat Akhmetov\" Ukraine political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Ukraine’s new government: compromise between the main Donetsk groups | OSW Centre for Eastern Studies",
+          "url": "https://www.osw.waw.pl/en/publikacje/analyses/2013-01-09/ukraines-new-government-compromise-between-main-donetsk-groups"
+        },
+        {
+          "title": "Viktor Yanukovych's future may depend on oligarchs as much as protesters | Ukraine | The Guardian",
+          "url": "https://www.theguardian.com/world/2014/jan/27/viktor-yanukovych-ukraine-oligarchs-protest-rinat-akhmetov"
+        },
+        {
+          "title": "Who did Paul Manafort and Rick Gates work for in Ukraine and Russia? - The Washington Post",
+          "url": "https://www.washingtonpost.com/news/worldviews/wp/2017/10/30/who-did-manafort-and-gates-work-for-in-ukraine-and-russia/"
+        },
+        {
+          "title": "Ukraine’s Donbas Don: Who is Rinat Akhmetov? | Eurasianet",
+          "url": "https://eurasianet.org/ukraines-donbas-don-who-is-rinat-akhmetov"
+        },
+        {
+          "title": "Friends And Foes In Akhmetov's Orbit",
+          "url": "https://www.rferl.org/a/ukraine/25329182.html"
+        },
+        {
+          "title": "Rinat Akhmetov",
+          "url": "https://en.wikipedia.org/wiki/Rinat_Akhmetov"
+        }
+      ]
+    },
+    "stanley-druckenmiller": {
+      "query": "\"Stanley Druckenmiller\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Stanley Druckenmiller",
+          "url": "https://en.wikipedia.org/wiki/Stanley_Druckenmiller"
+        },
+        {
+          "title": "Banking Committee Minority Staff Release New Report Analyzing Kevin Warsh's Financial Disclosures | United States Committee on Banking, Housing, and Urban Affairs",
+          "url": "https://www.banking.senate.gov/newsroom/minority/banking-committee-minority-staff-release-new-report-analyzing-kevin-warshs-financial-disclosures"
+        }
+      ]
+    },
+    "judy-faulkner": {
+      "query": "\"Judy Faulkner\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "vyacheslav-kim": {
+      "query": "\"Vyacheslav Kim\" Kazakhstan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

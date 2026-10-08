@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "morris-chang": {
+      "query": "\"Morris Chang\" Taiwan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Morris Chang",
+          "url": "https://en.wikipedia.org/wiki/Morris_Chang"
+        },
+        {
+          "title": "TSMC",
+          "url": "https://en.wikipedia.org/wiki/TSMC"
+        },
+        {
+          "title": "Morris Chang: Foundry Father - IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/morris-chang-foundry-father"
+        },
+        {
+          "title": "Department of International Politics",
+          "url": "https://citeseerx.ist.psu.edu/document?doi=38da390e70bdeb142e3c0bca76913a45df1b2ec7&repid=rep1&type=pdf"
+        },
+        {
+          "title": "How Taiwan's TSMC became the world's top chip company",
+          "url": "https://moneyweek.com/investments/tech-stocks/how-taiwans-tsmc-became-the-worlds-top-chip-company"
+        },
+        {
+          "title": "TSMC swats away rumors that Jensen Huang visited to pressure company into revenue-sharing plan with Trump administration",
+          "url": "https://www.tomshardware.com/tech-industry/tsmc-swats-away-rumors-that-jensen-huang-visited-to-pressure-company-into-revenue-sharing-plan-with-trump-administration"
+        }
+      ]
+    },
+    "jay-chaudhry": {
+      "query": "\"Jay Chaudhry\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "patrick-drahi": {
+      "query": "\"Patrick Drahi\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Patrick Drahi",
+          "url": "https://fr.wikipedia.org/wiki/Patrick_Drahi"
+        },
+        {
+          "title": "« Evidemment qu’on se “frite”, on n’est jamais d’accord, on s’engueule » : un an de négociations à couteaux tirés pour racheter et dépecer SFR",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/07/evidemment-qu-on-se-frite-on-n-est-jamais-d-accord-on-s-engueule-un-an-de-negociation-a-couteaux-tires-pour-racheter-et-depecer-sfr_6698785_3234.html"
+        },
+        {
+          "title": "Les médias de Patrick Drahi, Jacques Attali et Gérald Darmanin | Observatoire du journalisme (OJIM)",
+          "url": "https://www.ojim.fr/les-medias-de-patrick-drahi-jacques-attali-et-gerald-darmanin/"
+        },
+        {
+          "title": "Les médias de Patrick Drahi roulent-ils pour Emmanuel Macron ?",
+          "url": "https://www.lejdd.fr/Politique/Les-medias-de-Patrick-Drahi-roulent-ils-pour-Emmanuel-Macron-856613"
+        },
+        {
+          "title": "Emmanuel Macron et les médias : l’amour parfait | Observatoire du journalisme (OJIM)",
+          "url": "https://www.ojim.fr/dossier-emmanuel-macron-et-les-medias-lamour-parfait/"
+        },
+        {
+          "title": "Patrick Drahi bâtit un groupe de médias au nom de la convergence - La revue européenne des médias et du numérique",
+          "url": "https://www.la-rem.eu/economie/patrick-drahi-batit-un-groupe-de-medias-au-nom-de-la-convergence/"
+        }
+      ]
+    },
+    "j-joe-ricketts": {
+      "query": "\"J. Joe Ricketts\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Joe Ricketts - Influence Watch",
+          "url": "https://www.influencewatch.org/person/joe-ricketts/"
+        }
+      ]
+    }
+  }
+}

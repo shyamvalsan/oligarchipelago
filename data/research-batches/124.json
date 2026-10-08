@@ -1,0 +1,76 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "min-kao": {
+      "query": "\"Min Kao\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "jim-kavanaugh": {
+      "query": "\"Jim Kavanaugh\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Jim Kavanaugh",
+          "url": "https://en.wikipedia.org/wiki/Jim_Kavanaugh"
+        }
+      ]
+    },
+    "frederik-paulsen": {
+      "query": "\"Frederik Paulsen\" Sweden political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Frederik Paulsen Sr",
+          "url": "https://en.wikipedia.org/wiki/Frederik_Paulsen_Sr"
+        },
+        {
+          "title": "ProxyVotingReportIssuerName",
+          "url": "https://www.osc.ny.gov/files/common-retirement-fund/corporate-governance/pdf/proxy-voting-report-2015.pdf"
+        },
+        {
+          "title": "Paradise Papers: Wheeling and Dealing",
+          "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/wheeling-and-dealing-e665709/"
+        },
+        {
+          "title": "Frederik Paulsen Jr",
+          "url": "https://en.wikipedia.org/wiki/Frederik_Paulsen_Jr"
+        }
+      ]
+    },
+    "kjell-inge-rokke": {
+      "query": "\"Kjell Inge Rokke\" Norway political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Sak nr. 1 - stortinget.no",
+          "url": "https://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090618/1/"
+        },
+        {
+          "title": "Proxy Vote Disclosure Report Jan. 1-June 30, 2025",
+          "url": "https://www.nystrs.org/getmedia/b2ab3aa5-45cc-4ef9-b0de-7fd38a6f699d/vote_disclosure_6-30-25.pdf"
+        },
+        {
+          "title": "Norska staten bromsar Rökke",
+          "url": "https://www.aftonbladet.se/senastenytt/ttnyheter/utrikes/a/rL8893/norska-staten-bromsar-rokke"
+        },
+        {
+          "title": "submission - complete",
+          "url": "https://files.nettsteder.regjeringen.no/wpuploads01/sites/263/2025/06/1-Complainants-First-submission-23.11.2023.pdf"
+        },
+        {
+          "title": "Aker BP-sjefen sier Stortinget gjorde oljepakken dyrere – E24",
+          "url": "https://e24.no/energi-og-klima/i/zGd47O/aker-bp-sjefen-sier-stortinget-gjorde-oljepakken-dyrere"
+        },
+        {
+          "title": "Forlik mellom Røkke og Folketrygdfondet",
+          "url": "https://www.nettavisen.no/forlik-mellom-rokke-og-folketrygdfondet/s/12-95-1876406"
+        }
+      ]
+    }
+  }
+}

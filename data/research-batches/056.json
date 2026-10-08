@@ -1,0 +1,104 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "ivan-glasenberg": {
+      "query": "\"Ivan Glasenberg\" Switzerland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "D’«irréductibles» Zurichois disent «non» à Glencore - SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/fre/politique/d-irr%C3%A9ductibles-zurichois-disent-non-%C3%A0-glencore/37497206"
+        },
+        {
+          "title": "\"Unbeugsame\" Zürcher sagen \"Nein\" zu Glencore - SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/politik/unbeugsame-zuercher-sagen-nein-zu-glencore/37497386"
+        },
+        {
+          "title": "Lutte d’influence à Berne autour des matières premières - Le Temps",
+          "url": "https://www.letemps.ch/suisse/lutte-dinfluence-berne-autour-matieres-premieres"
+        },
+        {
+          "title": "Schweiz - Geld aus Afrika – Schweizer Profiteure der Glencore-Millionen - News - SRF",
+          "url": "https://www.srf.ch/news/schweiz/schweiz-geld-aus-afrika-schweizer-profiteure-der-glencore-millionen"
+        },
+        {
+          "title": "Ivan Glasenberg",
+          "url": "https://de.wikipedia.org/wiki/Ivan_Glasenberg"
+        },
+        {
+          "title": "Ivan Glasenberg, un homme de fer au charbon",
+          "url": "https://www.lemonde.fr/economie/article/2012/10/01/un-homme-de-fer-au-charbon_1768134_3234.html"
+        }
+      ]
+    },
+    "wang-weixiu": {
+      "query": "\"Wang Weixiu\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "david-reuben": {
+      "query": "\"David Reuben\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "HMRC to relocate to Newcastle office owned by Tory donors via tax haven | HMRC | The Guardian",
+          "url": "https://www.theguardian.com/politics/2021/nov/25/hmrc-to-relocate-to-newcastle-office-owned-by-tory-donors-via-tax-haven"
+        },
+        {
+          "title": "Tory donors own UK properties via more than 150 offshore firms | Conservatives | The Guardian",
+          "url": "https://www.theguardian.com/politics/2023/jan/27/tory-donors-own-uk-properties-via-more-than-150-offshore-firms"
+        },
+        {
+          "title": "‘I reside in Monaco’: billionaire said to have quit UK over potential wealth tax had already left | The super-rich | The Guardian",
+          "url": "https://www.theguardian.com/news/2026/oct/07/billionaire-quit-uk-wealth-tax-resident-monaco-super-rich-exodus"
+        },
+        {
+          "title": "Zac Goldsmith received £46,000 linked to luxury flat developers | Zac Goldsmith | The Guardian",
+          "url": "https://www.theguardian.com/politics/2016/may/03/luxury-flat-developers-reuben-linked-to-46000-of-donations-to-zac-goldsmith"
+        },
+        {
+          "title": "Michael Hintze: Liam Fox backer who helped to bankroll foreign trips | Liam Fox | The Guardian",
+          "url": "https://www.theguardian.com/politics/2011/oct/11/michael-hintze-liam-fox-backer"
+        },
+        {
+          "title": "Microsoft Word - Full document.doc",
+          "url": "https://publications.parliament.uk/pa/cm/cmregmem/100324/100324.pdf"
+        }
+      ]
+    },
+    "simon-reuben": {
+      "query": "\"Simon Reuben\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "HMRC to relocate to Newcastle office owned by Tory donors via tax haven | HMRC | The Guardian",
+          "url": "https://www.theguardian.com/politics/2021/nov/25/hmrc-to-relocate-to-newcastle-office-owned-by-tory-donors-via-tax-haven"
+        },
+        {
+          "title": "Tory donors own UK properties via more than 150 offshore firms | Conservatives | The Guardian",
+          "url": "https://www.theguardian.com/politics/2023/jan/27/tory-donors-own-uk-properties-via-more-than-150-offshore-firms"
+        },
+        {
+          "title": "Who Are Johnson’s 22 Big Money Backers? And Did They Influence the No Confidence Vote? – Byline Times",
+          "url": "https://bylinetimes.com/2022/06/09/who-are-the-23-big-donors-that-tried-to-influence-the-no-confidence-vote/"
+        },
+        {
+          "title": "‘I reside in Monaco’: billionaire said to have quit UK over potential wealth tax had already left | The super-rich | The Guardian",
+          "url": "https://www.theguardian.com/news/2026/oct/07/billionaire-quit-uk-wealth-tax-resident-monaco-super-rich-exodus"
+        },
+        {
+          "title": "Zac Goldsmith received £46,000 linked to luxury flat developers | Zac Goldsmith | The Guardian",
+          "url": "https://www.theguardian.com/politics/2016/may/03/luxury-flat-developers-reuben-linked-to-46000-of-donations-to-zac-goldsmith"
+        },
+        {
+          "title": "Michael Hintze: Liam Fox backer who helped to bankroll foreign trips | Liam Fox | The Guardian",
+          "url": "https://www.theguardian.com/politics/2011/oct/11/michael-hintze-liam-fox-backer"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "pham-nhat-vuong": {
+      "query": "\"Pham Nhat Vuong\" Vietnam political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Phạm Nhật Vượng lũng đoạn chính sách như thế nào qua công văn gửi Thủ tướng? – Tiếng Việt",
+          "url": "https://www.rfa.org/vietnamese/thoi-su/2025/05/17/duong-sat-cao-pham-nhat-vuong-vin/"
+        },
+        {
+          "title": "Phạm Nhật Vượng",
+          "url": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Nh%E1%BA%ADt_V%C6%B0%E1%BB%A3ng"
+        },
+        {
+          "title": "Vietnam's Richest Man Is Launching an Ambitious-and Controversial-Gambit to Sell Americans Electric Cars",
+          "url": "https://time.com/6199776/vinfast-expansion-vietnam-us-electric-cars/"
+        }
+      ]
+    },
+    "vicky-safra": {
+      "query": "\"Vicky Safra\" Greece political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Safra v. SNBNY Holdings Ltd. | Index No. 650710/2023 | N.Y. Sup. Ct. | Judgment | Law | CaseMine",
+          "url": "https://www.casemine.com/judgement/us/6610d13a98c8641582fe795b"
+        }
+      ]
+    },
+    "jay-y-lee": {
+      "query": "\"Jay Y. Lee\" South Korea political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Mixing of politics and business plunges South Korea into scandal – The Irish Times",
+          "url": "https://www.irishtimes.com/news/world/asia-pacific/mixing-of-politics-and-business-plunges-south-korea-into-scandal-1.2924436"
+        },
+        {
+          "title": "S Korea’s court to rule on Samsung heir Jay Y Lee | Science and Technology | Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2019/8/29/s-koreas-court-to-rule-on-samsung-heir-jay-y-lee"
+        },
+        {
+          "title": "Samsung's Lee in crosshairs as tycoons grilled over scandal - The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/samsungs-lee-crosshairs-tycoons-grilled-over-scandal"
+        },
+        {
+          "title": "South Korea court refuses to issue arrest warrant for Samsung boss - JURIST - News",
+          "url": "https://www.jurist.org/news/2017/01/south-korea-court-refuse-to-issue-arrest-warrant-for-samsung-boss/"
+        },
+        {
+          "title": "Wake-up call for Samsung, South Korea - CNA",
+          "url": "https://www.channelnewsasia.com/today/voices/wake-up-call-samsung-south-korea-5563201"
+        },
+        {
+          "title": "Lee Jae-yong",
+          "url": "https://en.wikipedia.org/wiki/Lee_Jae-yong"
+        }
+      ]
+    },
+    "cyrus-poonawalla": {
+      "query": "\"Cyrus Poonawalla\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "The Legend of the Poonawallas",
+          "url": "https://openthemagazine.com/feature/the-legend-of-the-poonawallas"
+        },
+        {
+          "title": "Cyrus Poonawalla Biography: The Vaccine King's Life Story | CapitalVia",
+          "url": "https://www.capitalvia.com/stories/cyrus-poonawalla-biography-life-story/"
+        },
+        {
+          "title": "Panama Papers: ED attaches properties of Poonawalla kin | India News - Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/panama-papers-ed-attaches-properties-of-poonawalla-kin/articleshow/100085404.cms"
+        },
+        {
+          "title": "750 करोड़ का घर खरीदा, मोदी सरकार घुसने नहीं दे रही तो भड़के बिज़नेसमैन पूनावाला | The Lallantop",
+          "url": "https://www.thelallantop.com/amp/news/post/why-billionaire-cyrus-poonawalla-blocked-entering-750-crore-lincoln-house-mumbai-modi-govt"
+        },
+        {
+          "title": "Rating Rationale",
+          "url": "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PoonawallaFincorpLimited_September%2009_%202026_RR_402953.html"
+        },
+        {
+          "title": "The World's Largest Vaccine Manufacturer Stumbled in 2021. Its CEO Bets He Can Still Help End COVID-19",
+          "url": "https://time.com/6132402/serum-institue-of-india-covid-19-vaccine/"
+        }
+      ]
+    }
+  }
+}

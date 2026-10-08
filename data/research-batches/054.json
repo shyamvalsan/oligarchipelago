@@ -1,0 +1,79 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "dan-cathy": {
+      "query": "\"Dan Cathy\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Scott Pruitt enlisted an EPA aide to help his wife find a job — with Chick-fil-A - The Washington Post",
+          "url": "https://www.washingtonpost.com/national/health-science/scott-pruitt-enlisted-an-epa-aide-to-help-his-wife-find-a-job--at-chick-fil-a/2018/06/05/b798e4e4-5eac-11e8-9ee3-49d6d4814c4c_story.html?itid=lk_inline_manual_23"
+        },
+        {
+          "title": "Policymaker Responses to CEO Activism | Organization Science",
+          "url": "https://pubsonline.informs.org/doi/10.1287/orsc.2023.18282"
+        },
+        {
+          "title": "Scott Pruitt",
+          "url": "https://en.wikipedia.org/wiki/Scott_Pruitt"
+        },
+        {
+          "title": "Denver Corruptocrats' Chick-fil-A Smokescreen | Articles | VDARE.com",
+          "url": "https://vdare.com/articles/denver-corruptocrats-chick-fil-a-smokescreen"
+        },
+        {
+          "title": "Enjoy Our Annual Greek Food & Wine Special Issue!  |",
+          "url": "https://cdnth.thenationalherald.com/wp-content/uploads/2019/11/1154_22_11187.pdf"
+        },
+        {
+          "title": "Chick-fil-A and LGBTQ people",
+          "url": "https://en.wikipedia.org/wiki/Chick-fil-A_and_LGBTQ_people"
+        }
+      ]
+    },
+    "trudy-cathy-white": {
+      "query": "\"Trudy Cathy White\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "laurene-powell-jobs": {
+      "query": "\"Laurene Powell Jobs\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "First Friend: Kamala Harris’ alliance with Laurene Powell Jobs | Semafor",
+          "url": "https://www.semafor.com/article/08/22/2024/first-friend-kamala-harriss-alliance-with-laurene-powell-jobs"
+        },
+        {
+          "title": "Laurene Powell Jobs",
+          "url": "https://en.wikipedia.org/wiki/Laurene_Powell_Jobs"
+        },
+        {
+          "title": "Inside Laurene Powell Jobs' Empire - Puck",
+          "url": "https://puck.news/newsletter_content/inside-laurene-powell-jobs-empire/"
+        },
+        {
+          "title": "Laurene Powell Jobs | Council on Foreign Relations",
+          "url": "https://www.cfr.org/bios/laurene-powell-jobs"
+        },
+        {
+          "title": "Laurene Powell Jobs - Influence Watch",
+          "url": "https://www.influencewatch.org/person/laurene-powell-jobs/"
+        },
+        {
+          "title": "Microsoft Word - ~2779118.docx",
+          "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_13-cv-04190/pdf/USCOURTS-cand-4_13-cv-04190-0.pdf"
+        }
+      ]
+    },
+    "dmitri-bukhman": {
+      "query": "\"Dmitri Bukhman\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

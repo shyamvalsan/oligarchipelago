@@ -1,0 +1,88 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "uday-kotak": {
+      "query": "\"Uday Kotak\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Uday Kotak’s call for investing at home lays bare Indian companies' short-termism | Mint",
+          "url": "https://www.livemint.com/opinion/online-views/uday-kotak-india-inc-profits-capex-investments-business-families-nehruvian-socialism-11779359230668.html"
+        },
+        {
+          "title": "Kotak firm’s Rs 60 crore donation to BJP coincided with crucial RBI decisions on Kotak Mahindra Bank",
+          "url": "https://scroll.in/article/1065878/"
+        },
+        {
+          "title": "BJP Got Nearly Rs 600 Crore In 6 Years From DLF, Bharti-Backed Trust | Association for Democratic Reforms",
+          "url": "https://adrindia.org/content/bjp-got-nearly-rs-600-crore-6-years-dlf-bharti-backed-trust"
+        },
+        {
+          "title": "Uday Kotak",
+          "url": "https://en.wikipedia.org/wiki/Uday_Kotak"
+        },
+        {
+          "title": "Uday Kotak: The &#8216;nationalist' banker",
+          "url": "https://www.livemint.com/Companies/yrSPxnwgkNIANk5eetQhNK/Uday-Kotak-The-nationalist-banker.html"
+        },
+        {
+          "title": "India Inc breaks unwritten rule, lends voice to campaign - The Times of India",
+          "url": "https://timesofindia.indiatimes.com/elections/news/india-inc-breaks-an-unwritten-rule/articleshow/68948182.cms"
+        }
+      ]
+    },
+    "jack-dangermond": {
+      "query": "\"Jack Dangermond\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Lewis–Lowery lobbying controversy",
+          "url": "https://en.wikipedia.org/wiki/Lewis%E2%80%93Lowery_lobbying_controversy"
+        },
+        {
+          "title": "Jack Dangermond - Person | PurchasingPolicy.org",
+          "url": "https://www.purchasingpolicy.org/entity/cffe0055-cc2c-45a0-9266-df3813342784"
+        }
+      ]
+    },
+    "joseph-lau": {
+      "query": "\"Joseph Lau\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "LEGISLATIVE COUNCIL ─ 28 October 2010",
+          "url": "https://www.legco.gov.hk/yr10-11/english/counmtg/hansard/cm1028-translate-e.pdf"
+        },
+        {
+          "title": "REPORT OF THE",
+          "url": "https://www.info.gov.hk/idt/english/doc/Report-Chinese%20Estates.pdf"
+        },
+        {
+          "title": "Hearing on legal costs of \"Chinese Estates\" Inquiry concluded",
+          "url": "https://www.info.gov.hk/gia/general/199906/29/0629169.htm"
+        },
+        {
+          "title": "China debt: Evergrande’s magnate Hui Ka-yan and Chinese Estates’ founder Joseph Lau through the years | South China Morning Post",
+          "url": "https://www.scmp.com/business/companies/article/3149484/china-debt-evergrandes-magnate-hui-ka-yan-and-chinese-estates?module=inline&pgtype=article"
+        },
+        {
+          "title": "From Minimum Wage to Standard Work Hour: HKSAR Labour Politics in Regime Change - Lawrence K. K. Ho, Ming K. Chan, 2013",
+          "url": "https://journals.sagepub.com/doi/10.1177/186810261304200304"
+        },
+        {
+          "title": "2019 Hong Kong extradition bill",
+          "url": "https://en.wikipedia.org/wiki/2019_Hong_Kong_extradition_bill"
+        }
+      ]
+    },
+    "jason-chang": {
+      "query": "\"Jason Chang\" Singapore political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

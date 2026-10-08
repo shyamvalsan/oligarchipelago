@@ -1,0 +1,73 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "yuri-milner": {
+      "query": "\"Yuri Milner\" Israel political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Yuri Milner",
+          "url": "https://en.wikipedia.org/wiki/Yuri_Milner"
+        },
+        {
+          "title": "October 11, 2023",
+          "url": "https://jewishmiami.org/JFNA_10-11.pdf"
+        }
+      ]
+    },
+    "azim-premji": {
+      "query": "\"Azim Premji\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Curbing crony capitalism in India - Azim Premji University",
+          "url": "https://azimpremjiuniversity.edu.in/publications/2017/working-paper-series/curbing-crony-capitalism-in-india"
+        },
+        {
+          "title": "ISSN 2455-5886 | Azim Premji University, Working PaperAzim Premji",
+          "url": "https://publications.azimpremjiuniversity.edu.in/16/1/APU%20170752%20Working%20Paper%20Series%205.pdf"
+        },
+        {
+          "title": "The Rich Have Peers, the Poor Have Patrons: Engaging the State in a South Indian City - Azim Premji University",
+          "url": "https://azimpremjiuniversity.edu.in/publications/2023/article/the-rich-have-peers-the-poor-have-patrons-engaging-the-state-in-a-south-indian-city"
+        },
+        {
+          "title": "Corporate leaders like Azim Premji, Deepak Parekh write to government, suggest reforms to curb graft - The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/corporate-leaders-like-azim-premji-deepak-parekh-write-to-government-suggest-reforms-to-curb-graft/articleshow/10307179.cms"
+        },
+        {
+          "title": "Philanthropic Foundations and the Government: Challenges in the Relationship - Azim Premji University",
+          "url": "https://azimpremjiuniversity.edu.in/notes-on-strategy-series/philanthropic-foundations-and-the-government-challenges-in-the-relationship"
+        },
+        {
+          "title": "20-F",
+          "url": "https://www.sec.gov/Archives/edgar/data/1123799/000119312526253514/wit-20260331.htm"
+        }
+      ]
+    },
+    "lynsi-snyder": {
+      "query": "\"Lynsi Snyder\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Lynsi Snyder",
+          "url": "https://en.wikipedia.org/wiki/Lynsi_Snyder"
+        }
+      ]
+    },
+    "tamara-gustavson": {
+      "query": "\"Tamara Gustavson\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Tamara Gustavson — Donor Intelligence — Hammerhead",
+          "url": "https://hammerheadintelligence.com/elections/donor/tamara-gustavson/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "carrie-perrodo": {
+      "query": "\"Carrie Perrodo\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Carrie Perrodo",
+          "url": "https://fr.wikipedia.org/wiki/Carrie_Perrodo"
+        },
+        {
+          "title": "Les affaires troublantes du groupe pétrolier Perenco en Afrique, entre cadences infernales et soupçons de corruption",
+          "url": "https://www.lemonde.fr/planete/article/2025/05/21/les-affaires-troublantes-du-groupe-petrolier-perenco-en-afrique-entre-cadences-infernales-et-soupcons-de-corruption_6607447_3244.html"
+        }
+      ]
+    },
+    "viktor-vekselberg": {
+      "query": "\"Viktor Vekselberg\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "US firm that gave cash to Michael Cohen helped secure millions for Putin-linked oligarch | Trump-Russia investigation | The Guardian",
+          "url": "https://www.theguardian.com/us-news/2018/may/23/columbus-nova-michael-cohen-viktor-vekselberg-bank"
+        },
+        {
+          "title": "Viktor Vekselberg",
+          "url": "https://en.wikipedia.org/wiki/Viktor_Vekselberg"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.congress.gov/115/crec/2018/04/25/CREC-2018-04-25-pt1-PgS2400-2.pdf"
+        },
+        {
+          "title": "Försvarsmakten köpte reservdelar till ubåtar – av oligarkägt bolag | SVT Nyheter",
+          "url": "https://www.svt.se/nyheter/inrikes/forsvarsmakten-kopte-reservdelar-till-ubatar-av-oligarkagt-bolag"
+        },
+        {
+          "title": "History of the Russian Federation",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_Russian_Federation"
+        },
+        {
+          "title": "Putin’s ‘American’ Oligarch Bleeds Billions After Trump Boasts",
+          "url": "https://www.themoscowtimes.com/2018/12/07/putins-american-oligarch-bleeds-billions-after-trump-boasts-a63746"
+        }
+      ]
+    },
+    "randa-duncan-williams": {
+      "query": "\"Randa Duncan Williams\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "micky-arison": {
+      "query": "\"Micky Arison\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "were also connected to Miami-Dade’s elite community. But by the time Micky Arison approached public officials for arena subsidies the formal and informal power systems were changing in Miami-Dade. The switch from at-large to district-based county elections diversified representation on the commission and brought in new players. Changes in the demographic design of the region ushered in a new generation of leaders led by Hispanic business and civic actors that diluted the traditional white non-Hispanic elite influence in local politics.",
+          "url": "https://digitalcommons.fiu.edu/record/11921/files/FI15101423.pdf"
+        },
+        {
+          "title": "The Deep Blue Greed | Miami New Times",
+          "url": "https://www.miaminewtimes.com/news/the-deep-blue-greed-6356944/"
+        },
+        {
+          "title": "Spurs owner brings the heat in political money game – Center for Public Integrity",
+          "url": "https://publicintegrity.org/politics/spurs-owner-brings-the-heat-in-political-money-game/"
+        },
+        {
+          "title": "Election 2020: What motivates billionaire sports owners to donate to political campaigns? - ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/30198394/election-2020-motivates-billionaire-sports-owners-donate-political-campaigns"
+        },
+        {
+          "title": "Micky Arison Is a Greedy Corporate Pig . . . and Other Observations About Backroom Politics and Big-Time Sports | Miami New Times",
+          "url": "https://www.miaminewtimes.com/news/micky-arison-is-a-greedy-corporate-pig-and-other-observations-about-backroom-politics-and-big-time-sports-6361693/"
+        },
+        {
+          "title": "Carnival hires D.C. lobbying firm to seek 'relief' from Trump regime for past environmental crimes - Florida Bulldog",
+          "url": "https://www.floridabulldog.org/2025/12/carnival-hires-d-c-lobbying-firm-seek-relief-trump-regime-past-environmental-crimes/"
+        }
+      ]
+    }
+  }
+}

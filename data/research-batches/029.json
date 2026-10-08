@@ -1,0 +1,81 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "diane-hendricks": {
+      "query": "\"Diane Hendricks\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Diane Hendricks",
+          "url": "https://en.wikipedia.org/wiki/Diane_Hendricks"
+        },
+        {
+          "title": "Uncovering Conflicts of Interest and Self-Dealing in the Executive Branch | Brennan Center for Justice",
+          "url": "https://www.brennancenter.org/our-work/research-reports/uncovering-conflicts-interest-and-self-dealing-executive-branch"
+        },
+        {
+          "title": "How Club For Growth and Trump's partnership turned into a grudge match - The Washington Post",
+          "url": "https://www.washingtonpost.com/nation/2022/05/16/club-for-growth-trump-barnette-oz/"
+        },
+        {
+          "title": "Influence Peddler of the Month - Diane Hendricks - Wisconsin Democracy Campaign",
+          "url": "https://www.wisdc.org/follow-the-money/46-influence-peddler/5300-influence-peddler-of-the-month-diane-hendricks"
+        },
+        {
+          "title": "Senators Press Wheeler on Questionable Payment to Pruitt Legal Defense Fund - Minority News - U.S. Senate Committee on Environment and Public Works",
+          "url": "https://www.epw.senate.gov/public/index.cfm/2019/1/senators-press-wheeler-on-questionable-payment-to-pruitt-legal-defense-fund"
+        },
+        {
+          "title": "Meet the self-made billionaire in Pruitt's corner - E&E News by POLITICO",
+          "url": "https://www.eenews.net/articles/meet-the-self-made-billionaire-in-pruitts-corner/"
+        }
+      ]
+    },
+    "stanley-kroenke": {
+      "query": "\"Stanley Kroenke\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Sheldon Adelson, corporate interests boost Trump inaugural fundraising to record levels - The Washington Post",
+          "url": "https://www.washingtonpost.com/news/post-politics/wp/2017/04/19/sheldon-adelson-corporate-interests-boost-trump-inaugural-fundraising-to-record-levels/"
+        }
+      ]
+    },
+    "todd-graves": {
+      "query": "\"Todd Graves\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "OIG Special Report: An Investigation into the Removal of Nine U.S. Attorneys in 2006",
+          "url": "https://oig.justice.gov/sites/default/files/archive/special/s0809a/chapter4.htm"
+        },
+        {
+          "title": "How Political Warfare in Missouri Led to Prosecutor's Firing - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/national/2008/10/03/how-political-warfare-in-missouri-led-to-prosecutors-firing/e2871c75-7974-40b0-b402-5cdcd01499db/"
+        },
+        {
+          "title": "Testimony of Lisa Graves",
+          "url": "https://www.whitehouse.senate.gov/download/courts-subcommittee-hearing_-graves-testimony"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — HOUSE",
+          "url": "https://www.govinfo.gov/link/crec/154/H/5088"
+        }
+      ]
+    },
+    "ernest-garcia-ii": {
+      "query": "\"Ernest Garcia, II.\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "This case arises from a direct offering made by Carvana Co. (“Carvana” or the “Company”) in late March 2020. Controlling stockholders Ernest Garcia II and Ernest Garcia III (the “Garcias”) participated in the direct offering. Later in 2020, Garcia II sold over $1 billion of his Carvana shares. The plaintiff-stockholders assert derivative claims against the Garcias for breach of fiduciary duty, alleging that the Garcias enriched themselves through the offering by acquiring shares at a depressed price.",
+          "url": "https://courts.delaware.gov/Opinions/Download.aspx?id=362010"
+        }
+      ]
+    }
+  }
+}

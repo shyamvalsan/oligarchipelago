@@ -1,0 +1,2174 @@
+{
+  "sourceUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
+  "publisher": "UK FCDO",
+  "reportDate": "Report Date: 08-Oct-2026",
+  "retrievedAt": "2026-10-08T16:06:36.796892+00:00",
+  "sourceSha256": "a3936bbac61585160b6f9d72c7c3ce204b378109a9185305912adb4181f21c13",
+  "license": "UK Open Government Licence v3.0; Crown copyright acknowledged.",
+  "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "screenedCount": 500,
+  "method": "Exact normalized surname and first name, with the explicit transliteration aliases in scripts/screen-uk-list.py. All 500 checked. This is a narrow name-screen, not comprehensive due diligence, identity verification, or an oligarchy assessment. No name match does not mean no designation or no oligarchic conduct. Designation alone never sets an editorial verdict.",
+  "profiles": {
+    "elon-musk": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "larry-page": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sergey-brin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jeff-bezos": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mark-zuckerberg": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "larry-ellison": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "bernard-arnault": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jensen-huang": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "warren-buffett": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "amancio-ortega": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rob-walton": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jim-walton": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-dell": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alice-walton": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "steve-ballmer": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "carlos-slim-helu": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "changpeng-zhao": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-bloomberg": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "bill-gates": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "francoise-bettencourt-meyers": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mukesh-ambani": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "giancarlo-devasini": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "thomas-peterffy": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "julia-koch": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "charles-koch": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhang-yiming": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhong-shanshan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jeff-yass": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dieter-schwarz": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "german-larrea-mota-velasco": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "gautam-adani-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tadashi-yanai": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ma-huateng": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "robin-zeng": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "iris-fontbona": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "masayoshi-son": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ken-griffin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jacqueline-mars": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-mars": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lukas-walton": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "giovanni-ferrero": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "li-ka-shing": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mark-mateschitz": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "gianluigi-aponte": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rafaela-aponte-diamant": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "andrea-pignataro": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "klaus-michael-kuehne": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "thomas-frist-jr": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alain-wertheimer": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "gerard-wertheimer-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "savitri-jindal": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "stephen-schwarzman": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "paolo-ardoino": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jean-louis-van-der-velde": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "william-ding": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "miriam-adelson": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alexey-mordashov": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "colin-huang": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "eduardo-saverin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "eric-schmidt": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "idan-ofer": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "eyal-ofer": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "he-xiangjian": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "abigail-johnson": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zheng-shuliang": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "marilyn-simons": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "robert-pera": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "phil-knight": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michal-strnad": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lakshmi-mittal": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "elaine-marshall": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "shiv-nadar": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "henry-samueli": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "melinda-french-gates": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "stefan-quandt": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "reinhold-wuerth": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lyndal-stephens-greth": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "len-blavatnik": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "susanne-klatten": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "vladimir-potanin": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS1466",
+          "name": "Vladimir Olegovich    POTANIN",
+          "reason": " Vladimir Olegovich POTANIN is an 'involved person' under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: (1) POTANIN is or has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling, directly or indirectly, Interros, an entity carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian financial services and extractives sectors; (2) POTANIN is or has been involved in obtaining a benefit from or supporting the Government of Russia by holding the right, directly or indirectly, to nominate at least one director (whether executive or non-executive) of PJSC Rosbank, an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector; (3) POTANIN is or has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director (whether executive of non-executive) or equivalent or other manager of PJSC Norilsk Nickel, an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian extractives sector. The trust services sanctions were imposed on 21/03/2023. ",
+          "designationDate": "29/06/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS1466/Individual"
+        }
+      ]
+    },
+    "vagit-alekperov": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS1334",
+          "name": "Vagit Yusufovich    ALEKPEROV",
+          "reason": " Vagit Yusufovich ALEKPEROV is President and CEO and an executive member of the Board of Directors of Lukoil, Russia’s second largest oil producer. Through his directorship of Lukoil, ALEKPEROV continues to obtain a benefit from and/or continues to support the Government of Russia by working as a director (whether executive or non-executive), trustee, or equivalent, of entities carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian energy sector. The trust services sanctions were imposed on 21/03/2023.",
+          "designationDate": "13/04/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS1334/Individual"
+        }
+      ]
+    },
+    "francois-pinault": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jack-ma": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "prajogo-pangestu": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mackenzie-scott": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "aliko-dangote": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "peter-thiel": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "emmanuel-besnier": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "leonid-mikhelson": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS1126",
+          "name": "Leonid Viktorovich    MIKHELSON",
+          "reason": " Leonid Viktorovich MIKHELSON is a prominent businessman whose significant business interests in the Russian energy and chemical sectors make him currently one of Russia’s richest men. Through his directorships and major shareholdings in the companies Novatek PJSC and PAO Sibur, MIKHELSON continues to obtain a benefit from and/or continues to support the Government of Russia by working as a director (whether executive or non-executive), trustee, or equivalent, of entities carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian energy and chemicals sectors.  The trust services sanctions were imposed on 21/03/2023.",
+          "designationDate": "06/04/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS1126/Individual"
+        }
+      ]
+    },
+    "daniel-gilbert": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lei-jun": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "andreas-von-bechtolsheim": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pham-nhat-vuong": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "vicky-safra": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jay-y-lee": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "cyrus-poonawalla": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rick-cohen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "israel-englander": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "suleiman-kerimov-family": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS1039",
+          "name": "Suleyman Abusaidovich    KERIMOV",
+          "reason": " Member of the Federation Council of Russia who voted in favour of and/or expressed support for Federal Law No. 75577-8 'On the ratification of the Treaty of Friendship, Cooperation and Mutual Assistance between the Russian Federation and the Luhansk People's Republic' and/or Federal Law No. 75578-8 'On the ratification of the Treaty of Friendship, Cooperation and Mutual Assistance between the Russian Federation and the Donetsk People's Republic'. In so doing, the member endorsed President Putin’s decision to recognise the Donetsk People’s Republic and the Luhansk People’s Republic as independent states, thereby providing support for policies and/or actions which destabilise Ukraine and/or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine.  The trust services sanctions were imposed on 21/03/2023.",
+          "designationDate": "15/03/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS1039/Individual"
+        }
+      ]
+    },
+    "dilip-shanghvi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "vladimir-lisin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "gina-rinehart": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "yu-yong": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "stuart-hoegner": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "huang-shilin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "christy-walton": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "stefan-persson": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "gennady-timchenko": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS0235",
+          "name": "Gennady Nikolayevich    TIMCHENKO",
+          "reason": " Gennadiy TIMCHENKO is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the following grounds: (1) TIMCHENKO is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by engaging in, providing support for, or promoting any policy or action which destabilises Ukraine or undermines or threatens the territorial integrity, sovereignty or independence of Ukraine; (2) TIMCHENKO is associated with a person involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.  ",
+          "designationDate": "22/02/2022",
+          "updatedAt": "03/08/2026",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS0235/Individual"
+        }
+      ]
+    },
+    "david-tepper": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "harry-triguboff": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "steve-cohen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rupert-murdoch": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "diane-hendricks": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "stanley-kroenke": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "todd-graves": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ernest-garcia-ii": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wang-chuanfu": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-fredriksen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "kumar-birla": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-platt": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "vinod-adani": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "qin-yinglin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "chen-tianshi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dang-yanbao": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "kwong-siu-hing": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "henry-nicholas-iii": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "andrey-melnichenko": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS0774",
+          "name": "Andrey Igorevich    MELNICHENKO",
+          "reason": " Andrey Igorevich MELNICHENKO is an involved person under Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds:  1) MELNICHENKO has been involved in obtaining a benefit from or supporting the Government of Russia by previously owning or controlling, directly or indirectly, and working as a director (whether executive or non-executive) of EuroChem, an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian chemicals sector.; and 2) MELNICHENKO has been involved in obtaining a benefit from or supporting the Government of Russia by previously owning or controlling, directly or indirectly, and working as a director (whether executive or non-executive) of SUEK, an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector.  The trust services sanctions were imposed on 21/03/2023. ",
+          "designationDate": "15/03/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS0774/Individual"
+        }
+      ]
+    },
+    "andrew-forrest": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jerry-jones": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "takemitsu-takizaki": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "andre-esteves": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "renata-kellnerova": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "low-tuck-kwong": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "nancy-walton-laurie": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "prince-alwaleed-bin-talal-alsaud": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dhanin-chearavanont": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-doerr": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jorge-paulo-lemann": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "r-budi-hartono": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alejandro-bailleres-gual": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "philip-anschutz": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-menard-jr": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "chen-jianhua": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "donald-bren": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "georg-schaeffler": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "brett-adcock": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "karl-albrecht-jr": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "beate-heister": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-hartono": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "nik-storonsky": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "eric-li": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhong-huijuan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "torstein-hagen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "james-ratcliffe": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wang-ning": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ludwig-merckle": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sarath-ratanavadi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "theo-albrecht-jr": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "edwin-chen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "charlene-de-carvalho-heineken": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "eric-smidt": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-collison": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "patrick-collison": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "david-sun": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-tu": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "brad-jacobs": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jan-koum": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhou-qunfei": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lu-xiangyang": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "stephen-ross": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "arthur-dantchik": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "li-shuirong": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "anders-holch-povlsen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wang-wei": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mikhail-fridman": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS0664",
+          "name": "Mikhail Maratovic    FRIDMAN",
+          "reason": " The Secretary of State has reasonable grounds to suspect that Mikhail Maratovich FRIDMAN is an 'involved person' under the Russia (Sanctions) (EU Exit) Regulations 2019 (the &quot;Russia Regulations&quot;) on the basis of the following grounds: (1) FRIDMAN is and/or has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director or equivalent of Alfa Group, a person carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector; (2) FRIDMAN has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director or equivalent of ABH Holdings S.A., an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector; (3) FRIDMAN has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director or equivalent of Alfa-Bank Russia, an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector;  (4) FRIDMAN has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director or equivalent of Alfa-Bank Russia, an entity carrying on business of economic significance to the Government of Russia; (5) FRIDMAN is and/or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector; (6) FRIDMAN is associated with a person who is or has been so involved, namely Petr AVEN.  ",
+          "designationDate": "15/03/2022",
+          "updatedAt": "24/06/2026",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS0664/Individual"
+        }
+      ]
+    },
+    "enrique-razon-jr": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "george-kaiser": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "charles-ergen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "peter-mallouk": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "johann-rupert": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhang-zhidong": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "harold-hamm": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zou-zhinong": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "adam-foroughi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "radhakishan-damani-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "friedhelm-loh": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "peter-woo": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ray-dalio": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wang-liping": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "terry-gou": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "donald-newhouse": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "hussain-sajwani": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "james-dyson": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "shahid-khan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "antonia-axson-johnson": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jaime-gilinski-bacal": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ann-walton-kroenke": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "xavier-niel": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alisher-usmanov": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS0266",
+          "name": "Alisher     USMANOV",
+          "reason": " The Secretary of State considers that there are reasonable grounds to suspect Alisher USMANOV (hereafter USMANOV) is an 'involved person' under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: 1) USMANOV is associated with a person who is and has been involved in destabilising Ukraine and undermining and threatening the territorial integrity, sovereignty and independence of Ukraine, namely Putin, including through obtaining a financial benefit and other material benefit from that person. 2) USMANOV has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling USM Holdings which is itself and through its subsidiaries Metalloinvest and Megafon, carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian extractives and information, communication and digital technologies sectors. 3) USMANOV is a member of USM Holdings, which is an involved person by virtue of its ownership and control of two persons; Metalloinvest which carries on business in sectors of strategic significance to the Government of Russia, namely the Russian extractives sector and Megafon which carries on business in sectors of strategic significance to the Government of Russia, namely the Russian information, communication and digital technologies sectors. The trust services sanctions were imposed on 21/03/2023. ",
+          "designationDate": "03/03/2022",
+          "updatedAt": "23/10/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS0266/Individual"
+        }
+      ]
+    },
+    "david-velez": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "uday-kotak": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jack-dangermond": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "joseph-lau": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jason-chang": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "robert-kuok": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "barry-lam": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sunil-mittal-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ralph-lauren": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pei-zhenhua-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "robert-kraft": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "hasso-plattner": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "bubba-cathy": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dan-cathy": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "trudy-cathy-white": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "laurene-powell-jobs": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dmitri-bukhman": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "igor-bukhman": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "edward-johnson-iv": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "cao-renxian": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "hamdi-ulukaya": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ivan-glasenberg": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wang-weixiu": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "david-reuben": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "simon-reuben": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "joseph-tsai": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ken-fisher": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sandra-ortega-mera": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alexander-karp": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "j-christopher-reyes": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jude-reyes": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "anthoni-salim-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "richard-kinder": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "charles-schwab": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "orlando-bravo": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lin-muqin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "anthony-pratt": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "kushal-pal-singh": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "andrew-beal": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "james-goodnight": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "vikram-lal": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "qi-shi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "george-roberts": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "david-steward": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sun-piaoyang": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "chris-larsen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "marijke-mars": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pamela-mars": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "valerie-mars": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "victoria-mars": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "francine-von-finck": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "leon-black": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "charoen-sirivadhanabhakdi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhou-chaonan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "vinod-khosla": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alexander-gerko": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "viatcheslav-kantor": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS1127",
+          "name": "Viatcheslav Vladimirovich    KANTOR",
+          "reason": " The Secretary of State has reasonable grounds to suspect that Viatcheslav Vladimirovich KANTOR, hereafter KANTOR, is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground:      KANTOR is or has been involved in obtaining a benefit from or supporting the Government of Russia, by owning and/or controlling, directly or indirectly, and/or working as a director (whether executive or non-executive), trustee, or other manager or equivalent of PJSC Acron, an entity carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian chemicals and extractives sectors. The trust services sanctions were imposed on 21/03/2023. ",
+          "designationDate": "06/04/2022",
+          "updatedAt": "17/03/2026",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS1127/Individual"
+        }
+      ]
+    },
+    "jim-pattison": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "andreas-struengmann": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "thomas-struengmann": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ravi-jaipuria": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "nadia-thiele": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rafael-del-pino-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "christopher-hohn": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pierre-omidyar": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "finn-rausing": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jorn-rausing": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "kirsten-rausing": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "chung-yong-ji": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "carl-cook": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tilman-fertitta": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ernesto-bertarelli": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "robert-duggan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "elizabeth-johnson": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhu-yi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sherry-brydson": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "henry-kravis": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "liang-wenfeng": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wang-laisheng": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dan-friedkin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "charlie-mills": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "juan-carlos-escotet": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lin-bin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wang-laichun": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "li-xiting": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "liu-yongxing": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "martin-lorentzon": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-malone": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "abdulsamad-rabiu": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "arthur-blank": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "charles-butt": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "francesco-gaetano-caltagirone": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "thomas-schmidheiny": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "gong-hongjia": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "johann-graf": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "gabe-newell": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mikhail-prokhorov": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wei-jianjun": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "riley-bechtel": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "andrei-guryev-family": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS0783",
+          "name": "Andrey Andreevich    GURYEV",
+          "reason": "     Andrey Andreevich GURYEV is a former Member of the Board, the CEO, and former Chairman of the Management Board of PSJC PhosAgro, a leading Russian chemical company. Through his role in PJSC PhosAgro, GURYEV has been involved in obtaining a benefit or supporting the Government of Russia by working as a director , or equivalent, of an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian chemicals sector.  ",
+          "designationDate": "15/03/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS0783/Individual"
+        },
+        {
+          "designationId": "RUS1125",
+          "name": "Andrey Grigoryevich    GURYEV",
+          "reason": " Andrey Grigoryevich GURYEV is a former Deputy Chair of the Board of Directors at PJSC PhosAgro, a leading Russian chemical company. Through his directorship at PJSC PhosAgro, which he held between 2013 and 2022, GURYEV has been involved in obtaining a benefit or supporting the Government of Russia by working as a director or equivalent, of an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian chemicals sector.  ",
+          "designationDate": "06/04/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS1125/Individual"
+        }
+      ]
+    },
+    "liang-wengen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ramzi-musallam": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "carl-bennet": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tobi-lutke": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "german-khan": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS0666",
+          "name": "German Borissovich    KHAN",
+          "reason": " German Borisovich KHAN, hereafter KHAN, is a prominent Russian businessman. KHAN is obtaining a benefit from and/or supporting the Government of Russia through his positions on the Supervisory Board of the Alfa Group Consortium and the Board of Directors of ABH Holdings S.A., owner of Russia’s largest privately owned bank 'Alfa-Bank (Russia)’, and Chairman of the Supervisory Board of A1 Investment Holding S. A., entities which are carrying on business in sectors of strategic significance to the Government of Russia, KHAN is also a close associate of Vladimir Putin who has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. The trust services sanctions were imposed on 21/03/2023.",
+          "designationDate": "15/03/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS0666/Individual"
+        }
+      ]
+    },
+    "nicky-oppenheimer": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mark-stevens": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tahir": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pierre-chen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "chen-tao": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "antony-ressler": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "patrick-soon-shiong": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wu-jianshu": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "douglas-leone": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "fredrik-lundberg": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "theo-mueller": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "leonid-fedun": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jimmy-haslam": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "karel-komarek": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ken-langone": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "magdalena-martullo-blocher": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dustin-moskovitz": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "blair-parry-okeden": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sulaiman-al-habib": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ernest-garcia-iii": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "graeme-hart": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jim-kennedy": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "daniel-kretinsky": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "li-ping-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "carrie-perrodo": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "viktor-vekselberg": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS0867",
+          "name": "Viktor Feliksovich    VEKSELBERG",
+          "reason": " Viktor VEKSELBERG is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the following grounds: VEKSELBERG is or has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling directly or indirectly an entity carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian extractive sector, Russian energy sector, Russian chemicals sector and the Russian information, communications and digital technologies sector. ",
+          "designationDate": "15/03/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS0867/Individual"
+        }
+      ]
+    },
+    "randa-duncan-williams": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "micky-arison": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dannine-avara": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "bruce-cheng": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "murali-divi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-federmann": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "milane-frantz": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tom-gores": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "juan-roig": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "you-xiaoping": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "anthony-bamford": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "josh-harris": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jeffery-hildebrand": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "luis-carlos-sarmiento": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "robert-f-smith": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jean-michel-besnier": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "marie-besnier-beauvalot": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "daniel-ek": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-kim": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "fernando-roberto-moreira-salles": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "seo-jung-jin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "harry-stine": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "vincent-bollore": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "david-cheriton": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "scott-duncan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lee-boo-jin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "yi-zheng": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zeng-fangqin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mong-koo-chung": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "iskander-makhmudov": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS1643",
+          "name": "Iskander Kakhramonovich    MAKHMUDOV",
+          "reason": "  Iskander Kakhramonovich MAKHMUDOV (hereafter MAKHMUDOV) is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: (1) MAKHMUDOV is and has been involved in obtaining a benefit from or supporting the Government of Russia through his role as President of Ural Mining and Metallurgical Company (UMMC) by working as a manager or equivalent at an entity carrying on business in the Russian extractives sector, a sector of strategic significance to the Government of Russia. (2) MAKHMUDOV has been involved in obtaining a benefit from or supporting the Government of Russia through owning or controlling directly or indirectly Ural Mining and Metallurgical Company (UMMC), an entity carrying on business in the Russian extractives sector, a sector of strategic significance to the Government of Russia.    The trust services sanctions were imposed on 21/03/2023.",
+          "designationDate": "26/09/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS1643/Individual"
+        }
+      ]
+    },
+    "georg-stumpf": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-rubin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "nassef-sawiris": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "brian-chesky": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pauline-macmillan-keinath": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lee-seo-hyun": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "robert-pender": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-sabel": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "xu-gaoming": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "law-kar-po": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "otto-toto-sugiri": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "roman-abramovich": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS0270",
+          "name": "Roman     ABRAMOVICH",
+          "reason": " Roman Arkadyevich ABRAMOVICH (hereafter ABRAMOVICH) is a prominent Russian businessman and pro-Kremlin oligarch. He is an involved person on the basis of the following grounds: (1)  ABRAMOVICH is associated with a person who has been, and is, involved in destabilising Ukraine and undermining and threatening the territorial integrity, sovereignty and independence of Ukraine, namely President Vladimir PUTIN; (2) ABRAMOVICH is associated with an individual who is, and has been, involved in obtaining a benefit or supporting the Government of Russia, namely Alisher Usmanov; (3) ABRAMOVICH is involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling directly or indirectly: (i) Evraz plc; and (ii) the following subsidiaries of Evraz plc: JSC Evraz NTMK; PJSC Raspadskaya; JSC Evraz ZSMK; JSC Evraz United Coal Company Yuzhkuzbassugol; and JSC Evraz Kachkanar Mining and Processing Plant; (4) ABRAMOVICH is involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in sectors of strategic significance to the Government of Russia, namely: extractives, construction, and transport; (5) ABRAMOVICH is a member of, or associated with, a person who is or has been so involved, namely Evraz plc.    The trust services sanctions were imposed on 21/03/2023.",
+          "designationDate": "10/03/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS0270/Individual"
+        }
+      ]
+    },
+    "maria-asuncion-aramburuzabala": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "todd-boehly": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "david-geffen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rajan-mittal": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rakesh-mittal": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "terrence-pegula": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "viktor-rashnikov": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS1028",
+          "name": "Viktor Filippovich    RASHNIKOV",
+          "reason": " Viktor RASHNIKOV is an involved person under the Russia (Sanctions) (EU Exit) Regulation 2019 on the following grounds: RASHNIKOV is or has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling directly or indirectly and working as a director (whether executive or non-executive), trustee, or equivalent of an entity carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian extractives sector and Russian transport sector. ",
+          "designationDate": "15/03/2022",
+          "updatedAt": "03/08/2026",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS1028/Individual"
+        }
+      ]
+    },
+    "zhang-xuexin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "massimiliana-landini-aleotti": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lin-li": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "william-ackman": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "cho-jung-ho": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mat-ishbia": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "nathan-kirsh": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "liu-debing": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pedro-moreira-salles": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "odd-reitan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alexandra-schoerghuber": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pavel-tykac": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "nathan-blecharczyk": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "chen-dongsheng": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "laurent-dassault": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "thierry-dassault": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "elisabeth-deluca": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jeff-greene": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "marie-helene-habert-dassault": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "bruce-kovner": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "eric-wittouck": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-morris": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "hong-ra-hee": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "frank-lowy": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "robert-rowling": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "david-shaw": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "les-wexner": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "david-duffield": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "leo-koguan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "yuri-milner": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "azim-premji": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lynsi-snyder": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tamara-gustavson": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sri-prakash-lohia": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wang-yusuo": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-brown": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-dorrell": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pang-kang": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ronda-stryker": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "justin-sun": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "denise-york": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhang-hejun": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "brian-armstrong": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "stephen-bisciotti": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "neil-bluhm": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "morris-chang": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jay-chaudhry": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "patrick-drahi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "j-joe-ricketts": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jean-salata": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "euisun-chung": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rekha-jhunjhunwala": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sofie-kirk-kristiansen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "thomas-kirk-kristiansen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alexei-kuzmichev": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "RUS1029",
+          "name": "Alexey Viktorovich    KUZMICHEV",
+          "reason": " Alexey Viktorovich KUZMICHEV is or has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director, or equivalent, of entities carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector,  through his positions on the Supervisory Board of Alfa Group and the Board of Directors and Board of Administration of A1 Investment Holding S.A.. KUZMICHEV is also an involved person because he is associated with Mikhail FRIDMAN (RUS0664), German KHAN (RUS0666), and Petr AVEN (RUS0665), who are each involved persons under The Russia (Sanctions) (EU Exit) Regulations 2019. The trust services sanctions were imposed on 21/03/2023. ",
+          "designationDate": "15/03/2022",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/RUS1029/Individual"
+        }
+      ]
+    },
+    "steven-rales": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "leonard-stern": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "agnete-kirk-thinggaard": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "yitzhak-tshuva": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhang-congyuan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "joe-gebbia": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "don-hankey": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "pankaj-patel": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "daniel-tsai": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "denise-coates": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "michael-herz": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wolfgang-herz": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "paul-tudor-jones-ii": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tatyana-kim": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "lu-weiding": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "samir-mehta": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sudhir-mehta": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "kerry-stokes": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "maximilian-viessmann": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zhang-daocai": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "marc-benioff": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "francis-choi": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "andreas-halvorsen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "igor-olenicoff": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "john-overdeck": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "david-siegel-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ron-baron": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "gayle-benson": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "alain-bouchard": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "piero-ferrari": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jonathan-gray": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "viktor-kharitonin": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "philippe-laffont": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "wolfgang-marguerre": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "gary-rollins": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dirk-rossmann": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "patrick-ryan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jacques-saade-jr": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rodolphe-saade": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tanya-saade-zeenny": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "ling-tang": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "richard-tsai": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rinat-akhmetov": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "stanley-druckenmiller": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "judy-faulkner": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "vyacheslav-kim": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "sami-mnaymneh": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "guillaume-pousaz": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tony-tamer": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "tse-ping": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "kelcy-warren": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "dennis-washington": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "rahel-blocher": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "andrew-cherng-1": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "peggy-cherng": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "peter-gilgan": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "mikhail-gutseriev": {
+      "status": "candidate-match",
+      "matches": [
+        {
+          "designationId": "BEL0110",
+          "name": "Mikhail Safarbekovich    Gutseriev",
+          "reason": " Mikail  Safarbekovich GUTSERIEV (hereafter GUTSERIEV) is designated under the Republic of Belarus (Sanctions) (EU Exit) Regulations 2019 on the following grounds: (1) GUTSERIEV has been involved in obtaining a benefit from or supporting the Government of Belarus by owning or controlling directly or indirectly (within meaning of regulation 7), JSC NK Neftisa and PJSC RussNeft, entities carrying on business in the Belarussian energy sector, which is a sector of strategic significance to the Government of Belarus; (2) GUTSERIEV has been involved in obtaining a benefit from or supporting the Government of Belarus by working as a director (whether executive or non-executive), or other manager or equivalent, of FLLC SLAVKALI, JSC NK Neftisa and PJSC RussNeft, entities carrying on business in the Belarussian extractives and energy sectors, which are sectors of strategic significance to the Government of Belarus; ( 3) GUTSERIEV is, or has been, involved in policies or activities which undermine democracy or the rule of law in Belarus by providing support for and/or obtaining an economic benefit from the Government of Belarus; (4) GUTSERIEV is associated with Alexander Lukashenko, an individual who is, and/or has been  responsible for serious violations of human rights, the repression of civil society or democratic opposition in Belarus, or other actions, policies or activities which undermine democracy or the rule of law in Belarus following 9 August 2020, and has been involved in promoting such activities.  ",
+          "designationDate": "09/08/2021",
+          "updatedAt": "09/04/2025",
+          "url": "https://search-uk-sanctions-list.service.gov.uk/designations/BEL0110/Individual"
+        }
+      ]
+    },
+    "michael-kadoorie": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "min-kao": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "jim-kavanaugh": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "frederik-paulsen": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "kjell-inge-rokke": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "zong-fuli": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "maria-fernanda-amorim": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "juergen-blickle": {
+      "status": "no-name-match",
+      "matches": []
+    },
+    "hasmukh-chudgar": {
+      "status": "no-name-match",
+      "matches": []
+    }
+  }
+}

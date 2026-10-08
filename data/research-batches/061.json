@@ -1,0 +1,109 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "qi-shi": {
+      "query": "\"Qi Shi\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Former NH House speaker’s nonprofit collected $274,000 from casinos with no sign of charitable work | New Hampshire Public Radio",
+          "url": "https://bacol.todayz.workers.dev/post-https-www.nhpr.org/nh-news/2026-08-17/former-nh-house-speakers-nonprofit-collected-274-000-from-casinos-with-no-sign-of-charitable-work"
+        },
+        {
+          "title": "GW Bush & his $15 Million from a Shaddy Baseball Deal",
+          "url": "https://www.skeptically.org/curpol/id16.html"
+        },
+        {
+          "title": "Treasury Secretary Scott Bessent embraces politics, shattering norms - The Washington Post",
+          "url": "https://www.washingtonpost.com/business/2025/12/21/treasury-bessent-trump-politics/"
+        },
+        {
+          "title": "US v. Roberts, No. 06-4097 (4th Cir. 2006) :: Justia",
+          "url": "https://law.justia.com/cases/federal/appellate-courts/ca4/06-4097/064097.u-2011-03-14.html"
+        },
+        {
+          "title": "David Steward",
+          "url": "https://pt.wikipedia.org/wiki/David_Steward"
+        }
+      ]
+    },
+    "george-roberts": {
+      "query": "\"George Roberts\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Former NH House speaker’s nonprofit collected $274,000 from casinos with no sign of charitable work | New Hampshire Public Radio",
+          "url": "https://bacol.todayz.workers.dev/post-https-www.nhpr.org/nh-news/2026-08-17/former-nh-house-speakers-nonprofit-collected-274-000-from-casinos-with-no-sign-of-charitable-work"
+        },
+        {
+          "title": "GW Bush & his $15 Million from a Shaddy Baseball Deal",
+          "url": "https://www.skeptically.org/curpol/id16.html"
+        },
+        {
+          "title": "Henry Kravis — sourced record | Dialog Tracker",
+          "url": "https://dialogtracker.com/entity/henry-kravis"
+        },
+        {
+          "title": "5984  CONGRESSIONAL RECORD — HOUSE  May 10",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1955-pt5/pdf/GPO-CRECB-1955-pt5-3-1.pdf"
+        },
+        {
+          "title": "George R. Roberts",
+          "url": "https://en.wikipedia.org/wiki/George_R._Roberts"
+        },
+        {
+          "title": "PUBLIC PAPERS OF THE PRESIDENTS",
+          "url": "https://hoover.archives.gov/sites/default/files/research/ebooks/b2v2_full.pdf"
+        }
+      ]
+    },
+    "david-steward": {
+      "query": "\"David Steward\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "David Steward",
+          "url": "https://en.wikipedia.org/wiki/David_Steward"
+        },
+        {
+          "title": "House of Commons - Foreign Affairs - Ninth Report",
+          "url": "https://publications.parliament.uk/pa/cm200102/cmselect/cmfaff/922/92206.htm"
+        },
+        {
+          "title": "United States of America, Ex Rel., Lynne Gebert; United States of America, Ex Rel., Greg Gebert, Plaintiffs - Appellants, v. Transport Administrative Services, Doing Business As Worldwide Technology, Inc.; David Steward, Defendants - Appellees.united States of America, Movant.united States of America, Amicus on Behalf of Appellant, 260 F.3d 909 (8th Cir. 2001) :: Justia",
+          "url": "https://law.justia.com/cases/federal/appellate-courts/F3/260/909/494885/"
+        },
+        {
+          "title": "Treasury Secretary Scott Bessent embraces politics, shattering norms - The Washington Post",
+          "url": "https://www.washingtonpost.com/business/2025/12/21/treasury-bessent-trump-politics/"
+        },
+        {
+          "title": "GOP auditor hopeful scores endorsements from Missouri billionaire, legislative leader | News From The States",
+          "url": "https://www.newsfromthestates.com/article/gop-auditor-hopeful-scores-endorsements-missouri-billionaire-legislative-leader"
+        },
+        {
+          "title": "David Steward",
+          "url": "https://pt.wikipedia.org/wiki/David_Steward"
+        }
+      ]
+    },
+    "sun-piaoyang": {
+      "query": "\"Sun Piaoyang\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "WIC template",
+          "url": "https://www.iberchina.org/files/2016/WiChina_150Tycoons.pdf"
+        },
+        {
+          "title": "Sun Piaoyang",
+          "url": "https://en.wikipedia.org/wiki/Sun_Piaoyang"
+        }
+      ]
+    }
+  }
+}

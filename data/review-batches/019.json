@@ -1,0 +1,143 @@
+{
+  "profiles": {
+    "viktor-vekselberg": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / causal link limited",
+      "period": "Skolkovo appointment in 2010, Renova credit support in May 2018, and a dated US government account in March 2022",
+      "summary": "Vekselberg’s presidential appointment and Renova’s later state-arranged credit support show institutional proximity and economic protection. They do not establish that the loan rewarded his political role. The estimate gives only weak weight to that unproven causal connection.",
+      "mechanism": "Presidential innovation role and state-arranged credit protection; reciprocal bargain unproven",
+      "support": [
+        {
+          "text": "Interfax reports Medvedev personally announcing Vekselberg’s appointment to lead the Russian part of the Skolkovo coordination structure. This is a specific state-development responsibility, not merely attendance at a meeting.",
+          "source": "Interfax: presidential appointment announcement",
+          "url": "https://www.interfax-russia.ru/main/medvedev-naznachil-vekselberga-koordinatorom-sozdaniya-centra-innovaciy-v-skolkovo-s-rossiyskoy-storony",
+          "date": "2010-03-23",
+          "kind": "Contemporaneous report of direct presidential appointment",
+          "access": "Russian article text reviewed"
+        },
+        {
+          "text": "Reuters reports the Russian finance ministry confirming a repayable credit line for Vekselberg’s Renova after US sanctions. Promsvyazbank had been taken over by the central bank and earmarked to lend to sanctioned entities.",
+          "source": "Reuters, republished by Investing.com: Renova credit support",
+          "url": "https://www.investing.com/news/commodities-news/russias-renova-gets-credit-line-from-promsvyazbank-1446057",
+          "date": "2018-05-14",
+          "kind": "Specific state-arranged company financing",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Treasury’s 2022 account describes Vekselberg’s Skolkovo appointment and participation in Kremlin diplomatic activities. These are attributed government statements, not a criminal judgment.",
+          "source": "US Treasury: Vekselberg designation narrative",
+          "url": "https://home.treasury.gov/news/press-releases/jy0650",
+          "date": "2022-03-11",
+          "kind": "Primary government attribution",
+          "access": "Relevant Vekselberg section reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The ministry said government funds were not used and the credit was repayable. Reuters also describes discussions of support for other sanctioned businesses. The article gives no loan amount or interest rate.",
+          "source": "Reuters: terms and broader policy context",
+          "url": "https://www.investing.com/news/commodities-news/russias-renova-gets-credit-line-from-promsvyazbank-1446057",
+          "date": "2018-05-14",
+          "kind": "Material financing and exclusivity limits",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Medvedev’s stated rationale was to involve Russian business in building an effective innovation system. A public development objective is an alternative to a private patronage interpretation.",
+          "source": "Interfax: president’s stated rationale",
+          "url": "https://www.interfax-russia.ru/main/medvedev-naznachil-vekselberga-koordinatorom-sozdaniya-centra-innovaciy-v-skolkovo-s-rossiyskoy-storony",
+          "date": "2010-03-23",
+          "kind": "Material public-purpose explanation",
+          "access": "Russian article text reviewed"
+        },
+        {
+          "text": "The 2022 Treasury account says Vekselberg no longer held that Skolkovo position following his earlier designation. The historical appointment is not treated as a current 2026 office.",
+          "source": "US Treasury: historical role limitation",
+          "url": "https://home.treasury.gov/news/press-releases/jy0650",
+          "date": "2022-03-11",
+          "kind": "Material role update",
+          "access": "Relevant Vekselberg section reviewed"
+        }
+      ],
+      "limitations": "This is an episode-limited editorial inference, not proof of corruption or an overall lifetime ranking. State-arranged lending is not the same as a treasury cash grant or verified below-market financing. These sources do not establish a loan-for-service agreement, subsequent repayment, or every later role. The wide range reflects that uncertainty; nationality and sanctions do not themselves add points."
+    },
+    "viatcheslav-kantor": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led historical episode review; not independently editorially reviewed",
+      "confidence": "Low / personal mechanism unresolved",
+      "period": "EU delisting and appeal in March 2025; UK reasons variation in March 2026",
+      "summary": "Kantor’s sanctions history requires jurisdiction and date distinctions. The UK retained restrictions while replacing its reasons in March 2026; the EU deleted his entry in March 2025. Neither an old political-association label nor delisting establishes a personal wealth–power exchange or its absence.",
+      "mechanism": "Sanctions-based business attribution; personal preferential exchange unresolved",
+      "support": [
+        {
+          "text": "The UK’s March 2026 variation retains the listed sanctions and bases its reasons on Kantor’s ownership, control or management of Acron in strategic chemicals and extractives sectors. It does not identify a particular concession he secured.",
+          "source": "UK FCDO: variation notice, RUS1127",
+          "url": "https://assets.publishing.service.gov.uk/media/69b8276ce2719934bb53a2e1/Sanctions_Notice__Russia__16_March_2026.pdf",
+          "date": "2026-03-16",
+          "kind": "Primary updated sanctions basis",
+          "access": "PDF pages 1–2 visually reviewed to distinguish red deletions from highlighted additions"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The marked-up notice deletes the earlier description associating Kantor with Putin. That deleted wording must not be presented as the reasons retained in this notice; the change is not itself a general exoneration.",
+          "source": "UK FCDO: tracked changes to reasons",
+          "url": "https://assets.publishing.service.gov.uk/media/69b8276ce2719934bb53a2e1/Sanctions_Notice__Russia__16_March_2026.pdf",
+          "date": "2026-03-16",
+          "kind": "Material change to political-association wording",
+          "access": "PDF pages 1–2 visually reviewed to distinguish red deletions from highlighted additions"
+        },
+        {
+          "text": "The annex to Council Decision 2025/528 explicitly deletes entry 896, Viatcheslav Moshe Kantor. This is an EU Council action, not a judgment declaring that every earlier allegation was false or a removal of UK restrictions.",
+          "source": "Council of the European Union: Decision 2025/528, annex point 2",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202500528",
+          "date": "2025-03-14",
+          "kind": "Primary jurisdiction-specific delisting",
+          "access": "Relevant PDF text reviewed, pages 1–3"
+        },
+        {
+          "text": "The official notice of Kantor’s March 24, 2025 appeal records challenges to legal interpretation, proportionality and the treatment of evidence. Those are his grounds of appeal, not findings accepting them.",
+          "source": "EU Official Journal: appeal C-231/25 P",
+          "url": "https://eur-lex.europa.eu/eli/C/2025/2521/oj/eng/pdf",
+          "date": "2025-05-12",
+          "kind": "Subject’s formally recorded legal challenge",
+          "access": "Two-page appeal notice reviewed; not a later disposition"
+        }
+      ],
+      "limitations": "No numerical estimate. The reviewed sector-based designation does not supply all three dimensions of personal leverage, preferential benefit and feedback. Delisting does not prove their absence. This narrow review does not resolve the origin of Acron ownership, informal relationships or the later outcome of the cited appeal. The March 2026 variation is dated evidence, not comprehensive sanctions advice."
+    }
+  },
+  "rubrics": {
+    "viktor-vekselberg": {
+      "levels": [
+        3,
+        2,
+        1
+      ],
+      "range": [
+        10,
+        70
+      ],
+      "rationales": [
+        "A direct presidential appointment and government-facing institutional role are specifically documented.",
+        "State-arranged credit access protected the company, but terms, subsidy value and exclusivity are not established.",
+        "Institutional proximity and credit protection provide contextual evidence only; no causal reward or reciprocal bargain is established."
+      ],
+      "sourceRefs": [
+        [
+          0,
+          2
+        ],
+        [
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  }
+}

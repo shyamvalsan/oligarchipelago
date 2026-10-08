@@ -1,0 +1,69 @@
+"""Political giving, stadium funding, media ownership and attribution limits."""
+import json
+from pathlib import Path
+ROOT=Path(__file__).resolve().parents[1]
+P={};R={}
+def r(text,source,url,date,kind='Reported evidence',access='Page text reviewed'):
+ return dict(text=text,source=source,url=url,date=date,kind=kind,access=access)
+def add(id,summary,mechanism,period,support,counter,limitations,decision=None):
+ P[id]=dict(status='mixed',reviewedAt='2026-10-08',reviewDepth='Source-led historical episode review; not independently editorially reviewed',confidence='Moderate / episode limited' if decision else 'Low / attribution unresolved',period=period,summary=summary,mechanism=mechanism,support=support,counter=counter,limitations=limitations)
+ if decision:R[id]=decision
+def rubric(levels,bounds,notes,refs):return dict(levels=levels,range=bounds,rationales=notes,sourceRefs=refs)
+KNIGHT='https://www.khsu.org/regional-interests/2018-10-25/the-knight-stuff-what-phil-knights-enormous-donations-mean-in-oregon-governors-race'
+TAX='https://politifact.com/factchecks/2012/dec/20/john-kitzhaber/does-new-nike-bill-qualify-tax-break/'
+DONATIONS='https://www.opb.org/article/2025/11/25/phil-knight-oregon-republicans-3-million-dollar-donation/'
+add('phil-knight',
+ 'Knight’s political giving and gubernatorial access are documented. Nike also secured a long-term tax-method guarantee. Their coexistence supports examining influence, but does not establish that a donation purchased the guarantee or that Knight controls Oregon elections.',
+ 'Personal political giving and access alongside corporate tax certainty','Oregon tax agreement in 2012, political relationships in 2014, and donations through November 2025',
+ [r('OPB reports the 2012 special session securing Nike’s tax-method guarantee and a later $250,000 Knight donation solicited by Governor Kitzhaber in 2014. Kitzhaber’s campaign manager described extensive prior interaction with Knight.','OPB / Dirk VanderHart, republished by KHSU',KNIGHT,'2018-10-25','Attributed account of personal access'),
+  r('The guarantee protected the method for allocating taxable income to Oregon; it did not cut current tax rates or freeze future rates. The arrangement preserved an existing corporate advantage in exchange for investment commitments.','PolitiFact Oregon: assessment of the Nike agreement',TAX,'2012-12-20','Tax mechanism and qualification'),
+  r('OPB reports another $3 million Knight donation to Bring Balance to Salem in October 2025. Its account also records large earlier donations to unsuccessful gubernatorial candidates.','OPB: Knight’s 2025 contribution',DONATIONS,'2025-11-25','Personal political expenditure')],
+ [r('The reported 2014 donation followed the 2012 agreement. The reporting does not establish a promised exchange of money for that agreement; the relationship account is attributed to a campaign participant.','OPB: chronology and attribution',KNIGHT,'2018-10-25','Causal limit'),
+  r('Knight-backed candidates lost Oregon’s 2018 and 2022 gubernatorial races. Large donations demonstrate resources and participation, not guaranteed electoral control.','OPB: electoral outcomes',DONATIONS,'2025-11-25','Material counterevidence')],
+ 'Scoped to these Oregon episodes, not a finding of corruption or an overall account of Nike. Corporate tax treatment is not personal cash income. Knight’s individual direction of the tax negotiations and a reciprocal bargain are not established; the weakest dimension is the link between giving and benefit.',
+ rubric([3,2,1],[15,75],['Named reporting documents personal gubernatorial access and substantial political spending.','A concrete company-specific tax-method guarantee, qualified by investment commitments and no rate freeze.','Giving and favorable treatment coexist, but their chronology does not establish a purchased policy outcome.'],[[0,2],[1],[0,1]]))
+CITY='https://charlottenc.legistar.com/LegislationDetail.aspx?FullText=1&GUID=807966C2-F000-4A0A-AC4F-5B6F34921C1D&ID=6734026&Options=&Search='
+STADIUM='https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/07/bank-of-america-and-carolina-panthers-extend-naming-rights-for-b.html'
+add('david-tepper',
+ 'Tepper’s sports businesses secured substantial public stadium investment tied to local retention. That is a concrete private–public bargain, not evidence by itself of corruption. Public ownership of funded improvements and private spending commitments materially qualify the benefit.',
+ 'Team retention and private investment ↔ public stadium improvements','Charlotte stadium agreement, June 2024; revised project announcement, July 2026',
+ [r('Charlotte’s council approved agreements for up to $650 million of hospitality-tax-funded improvements. The city would own the improvements and lease them to Tepper Sports & Entertainment, rather than pay the sum personally to Tepper.','City of Charlotte: approved council item',CITY,'2024-06-24','Primary public decision and terms'),
+  r('The July 2026 partnership announcement quotes David Tepper as owner and chairman advocating the project. It describes an expanded project exceeding $1.3 billion, with the city’s $650 million commitment unchanged.','Bank of America / Carolina Panthers announcement',STADIUM,'2026-07-23','Primary corporate announcement and owner attribution')],
+ [r('The city’s terms require private contributions and a 20-year non-relocation commitment, but permit departure after the fifteenth anniversary if TSE repays the remaining city debt. Payments for improvements are phased after completion.','City of Charlotte: safeguards and exit condition',CITY,'2024-06-24','Material contractual qualifications'),
+  r('The 2026 announcement assigns potential cost overruns and ongoing maintenance to TSE and describes increased private investment. These are interested parties’ commitments, not an independent audit of completed spending.','Bank of America / Carolina Panthers: funding qualifications',STADIUM,'2026-07-23','Subject account and public-cost limitation')],
+ 'Limited to the Charlotte stadium arrangement. An earmarked tax is still a public resource; no new tax does not mean no public cost. Authorization and announcements are not proof the full amounts have been spent. The score reflects a negotiated public benefit to an owner-linked business, not proof of exclusive favoritism, illegal influence or a threat personally made by Tepper.',
+ rubric([2,2,2],[20,75],['An owner-linked retention agreement supplies specific bargaining leverage, not control of the council.','Approved publicly funded improvements benefit the sports business, with retained city ownership and private obligations.','The agreement explicitly connects public improvements, private contributions and team retention; illegitimate preference is not established.'],[[0,1],[0],[0,1]]))
+MEDIA='https://en.globes.co.il/en/article-What-does-Len-Blavatnik-want-at-News-13-1001483304'
+TRANSFER='https://www.calcalistech.com/ctechnews/article/5bojt3sn4'
+add('len-blavatnik',
+ 'Blavatnik’s control of Reshet 13 raised questions about political influence over news appointments. The reviewed reporting does not establish an economic reward in return. A September 2026 approval to transfer control also prevents treating the earlier ownership position as unchanged.',
+ 'Media ownership and disputed political influence; reciprocal benefit unresolved','News 13 management controversy, July 2024; control-transfer approval, September 2026',
+ [r('Globes reports that controlling shareholder Blavatnik supported Yulia Shamalov Berkovich’s appointment as News 13 CEO. Its interviews explore political explanations alongside commercial losses and management concerns.','Globes: Nevo Trabelsy and Meytal Vaizberg',MEDIA,'2024-07-03','Reported ownership and appointment controversy'),
+  r('Ctech reports the Second Authority council approving transfer of Reshet 13 control to the public-benefit Merit Fund, backed by Assaf Rappaport and Yinon Costica. The approval included funding-disclosure and independence conditions.','Ctech / Omer Kabir: regulatory approval',TRANSFER,'2026-09-16','Recent reported regulatory outcome')],
+ [r('Globes also records former executives denying earlier content interference and associates disputing recent Netanyahu contact. These are attributed accounts and denials, not independent proof that influence never occurred.','Globes: alternative accounts and responses',MEDIA,'2024-07-03','Subject-associated responses and commercial explanation'),
+  r('The September report concerns approved transfer of control, not proof of Blavatnik’s complete financial exit. Continuing collaboration is mentioned; the final ownership register was not independently checked here.','Ctech: transition qualification',TRANSFER,'2026-09-16','Ownership and temporal limit')],
+ 'No numerical estimate: a controversial appointment and media ownership alone do not establish all three dimensions, particularly a preferential economic reward. Political explanations remain attributed. This Israel-focused review must not be generalized to all his investments or presented as current sole control of Reshet 13.')
+DOJ='https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm'
+BMJ='https://pmc.ncbi.nlm.nih.gov/articles/PMC1119297/'
+add('thomas-frist-jr',
+ 'HCA’s substantial corporate fraud resolutions are documented, but they cannot be converted into a personal conviction or political bargain by Thomas Frist Jr. The reviewed material identifies his leadership and remedial actions without establishing the required wealth–political-power exchange.',
+ 'Corporate reimbursement misconduct and enforcement; individual political mechanism unresolved','HCA leadership change in 1997 and federal resolutions in 2000–2003',
+ [r('The Justice Department’s 2003 announcement describes civil resolutions and earlier subsidiary guilty pleas, with combined recoveries of $1.7 billion across the proceedings. That is not a new $1.7 billion personal fine against Frist.','US Department of Justice: HCA resolution',DOJ,'2003-06-26','Primary corporate enforcement record'),
+  r('BMJ reports Frist taking over as chief executive in 1997 after Richard Scott and abandoning the physician investment-partnership program at issue. It identifies him as a company leader, rather than attributing every earlier act to him.','BMJ / Fred Charatan: HCA settlement report',BMJ,'2001-01-06','Contemporaneous leadership attribution')],
+ [r('The reviewed DOJ announcement does not identify a personal conviction of Thomas Frist Jr. Corporate civil allegations, subsidiary pleas and payments to doctors are not interchangeable with a personal political-bribery finding.','US Department of Justice: limits of the identified findings',DOJ,'2003-06-26','Attribution limit, not exoneration'),
+  r('BMJ describes an eight-year corporate integrity agreement and reports Frist’s stated intention to move forward with patient care. Enforcement and oversight constrain claims of complete regulatory protection.','BMJ: oversight and subject response',BMJ,'2001-01-06','Material counterevidence and attributed response')],
+ 'No numerical estimate. His brother Bill’s public office is not Thomas’s office, and kinship does not establish a bargain. This review neither clears all personal conduct nor transfers all corporate liability to an owner. Corporate enforcement alone does not answer the oligarchy question.')
+FIDELITY='https://www.axios.com/2022/05/02/fidelity-labor-401k-bitcoin'
+LETTER='https://www.durbin.senate.gov/imo/media/doc/durbin_bitcoin_72622.pdf'
+DOL='https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/compliance-assistance-releases/2025-01'
+add('abigail-johnson',
+ 'Fidelity advocated for cryptocurrency access in workplace retirement accounts, while senators challenged its decision in a letter to Johnson. A later broad regulatory change does not establish that she personally procured a special favor.',
+ 'Company policy advocacy; personal intervention and preferential exchange unestablished','Fidelity retirement-product debate in 2022; Labor Department guidance change in May 2025',
+ [r('Axios attributes Fidelity’s April 2022 challenge to the Labor Department’s guidance to workplace-retirement executive Dave Gray, not to a letter personally written by Abigail Johnson.','Axios: Fidelity’s regulatory advocacy',FIDELITY,'2022-05-02','Named corporate advocate'),
+  r('Senators Durbin, Warren and Smith addressed their concerns about Fidelity’s retirement-account cryptocurrency offering to Johnson as CEO. Their criticism is a political position, not an adjudicated finding about her conduct.','US Senate: letter to Abigail Johnson',LETTER,'2022-07-26','Primary correspondence','PDF text reviewed')],
+ [r('In May 2025, the Labor Department rescinded its 2022 guidance and stated a neutral approach to investment types. This was general guidance, neither a Fidelity-specific approval nor an endorsement of cryptocurrency investments.','US Labor Department: Compliance Assistance Release 2025-01',DOL,'2025-05-28','Primary regulatory update','Indexed full release text reviewed; direct page and PDF requests returned 403')],
+ 'No numerical estimate: company advocacy is not automatically personal direction, and receiving senators’ questions is not evidence of controlling them. The reviewed 2025 release supplies no causal link to Johnson. This historical policy episode is not investment advice or a complete account of later retirement-plan regulation.')
+ids={p['id'] for p in json.loads((ROOT/'data/billionaires.json').read_text())['people']}
+assert set(P)<=ids
+(ROOT/'data/review-batches/013.json').write_text(json.dumps(dict(profiles=P,rubrics=R),ensure_ascii=False,indent=2)+'\n')
+print(len(P),'authored reviews;',len(R),'rubrics')

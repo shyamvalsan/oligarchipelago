@@ -1,0 +1,79 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "pei-zhenhua-1": {
+      "query": "\"Pei Zhenhua\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "robert-kraft": {
+      "query": "\"Robert Kraft\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "S. HRG. 106–484",
+          "url": "https://www.congress.gov/106/chrg/CHRG-106shrg63000/CHRG-106shrg63000.pdf"
+        },
+        {
+          "title": "Targeted by Trump, Paul, Weiss got help from Robert Kraft. Then the firm’s chairman donated to Josh Kraft’s campaign. - The Boston Globe",
+          "url": "https://www.bostonglobe.com/2025/04/29/metro/trump-paul-weiss-robert-kraft-boston-mayor-race-josh-kraft/?p1=Article_Inline_Text_Link&p1=StaffPage"
+        },
+        {
+          "title": "The NFL’s Political Donors",
+          "url": "https://www.si.com/nfl/2020/11/03/nfl-owners-players-coaches-commissioner-political-donations"
+        },
+        {
+          "title": "Robert Kraft - Influence Watch",
+          "url": "https://www.influencewatch.org/person/robert-kraft/"
+        },
+        {
+          "title": "Robert Kraft among those who donated to Trump’s inauguration - The Boston Globe",
+          "url": "https://www.bostonglobe.com/news/politics/2017/04/20/robert-kraft-among-those-who-donated-trump-inauguration/WXzFzFC4hxpy7K6PAzAm1M/story.html"
+        },
+        {
+          "title": "AIPAC’s Network Has Already Spent $67.2 Million to Shape the Midterm Elections | Truthout",
+          "url": "https://truthout.org/articles/aipacs-network-has-already-spent-67-2-million-to-shape-the-midterm-elections/"
+        }
+      ]
+    },
+    "hasso-plattner": {
+      "query": "\"Hasso Plattner\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Geschäftsführer stolpert über Vertrag - Deutscher Bundestag",
+          "url": "https://www.bundestag.de/webarchiv/presse/hib/2019_10/663416-663416"
+        },
+        {
+          "title": "Hasso Plattner",
+          "url": "https://de.wikipedia.org/wiki/Hasso_Plattner"
+        },
+        {
+          "title": "Registereintrag \"Hasso-Plattner-Institut für Digital Engineering gGmbH\" - Lobbyregister beim Deutschen Bundestag",
+          "url": "https://www.lobbyregister.bundestag.de/suche/R007352/54474?backUrl=%2Fsuche%3Fpage%3D19%26pageSize%3D100%26filter%255Bfieldsofinterest%255D%255BFOI_HEALTH%257CFOI_HEALTH_CARE%255D%3Dtrue%26filter%255Bfieldsofinterest%255D%255BFOI_MEDIA%257CFOI_MEDIA_PRIVACY%255D%3Dtrue%26filter%255Bfieldsofinterest%255D%255BFOI_STATE_ADMIN%257CFOI_SA_PUBLIC_SERVICE%255D%3Dtrue%26filter%255Bfieldsofinterest%255D%255BFOI_TRANSPORTATION%257CFOI_TRANSPORTATION_RAIL%255D%3Dtrue%26sort%3DREGISTRATION_ASC"
+        },
+        {
+          "title": "Hasso-Plattner-Institut",
+          "url": "https://de.wikipedia.org/wiki/Hasso-Plattner-Institut"
+        },
+        {
+          "title": "Kunsthalle: Potsdamer Sommermärchen | DIE ZEIT",
+          "url": "https://www.zeit.de/2012/30/Museum-Potsdam-Plattner"
+        },
+        {
+          "title": "Milliardär Hasso Plattner macht Potsdam Mega-Geschenk | Brandenburg | BZ-BERLIN.de",
+          "url": "https://www.bz-berlin.de/brandenburg/hasso-plattner-geld-potsdam-uni"
+        }
+      ]
+    },
+    "bubba-cathy": {
+      "query": "\"Bubba Cathy\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

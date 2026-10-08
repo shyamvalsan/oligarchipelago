@@ -1,0 +1,59 @@
+"""Authored source-led case updates, 2026-10-08. Not a search-hit classifier."""
+import json
+from pathlib import Path
+ROOT=Path(__file__).resolve().parents[1]
+profiles={};rubrics={}
+def receipt(text,source,url,date,kind='Reported evidence',access='Page text reviewed'):
+ return dict(text=text,source=source,url=url,date=date,kind=kind,access=access)
+def case(id,summary,mechanism,period,support,counter,levels,bounds,notes,refs,confidence='Moderate',limitations=''):
+ profiles[id]=dict(status='mixed',reviewedAt='2026-10-08',reviewDepth='Source-led review of the stated episode; not independently reviewed',confidence=confidence,period=period,summary=summary,mechanism=mechanism,support=support,counter=counter,limitations=limitations)
+ rubrics[id]=dict(levels=levels,range=bounds,rationales=notes,sourceRefs=refs)
+case('mark-zuckerberg',
+ 'Corporate political access and regulatory interests overlap. The reviewed records support a possible influence channel, not a demonstrated bargain that bought regulatory protection.',
+ 'Political giving and access → sought regulatory influence; payoff unproven','2024–2026 US regulatory and inaugural-fund episode',
+ [receipt('Senators Warren and Bennet questioned Meta’s inaugural donation and its regulatory interests. Their letter raises an influence concern; it is not an adjudicated finding of purchased favors.','US Senate: letter to Zuckerberg, pages 10–12','https://www.warren.senate.gov/imo/media/doc/letters_on_big_tech_donations_to_trump_inaugural_fund.pdf','2025-01-17','Attributed legislative concern')],
+ [receipt('The FTC appealed Meta’s November 2025 trial victory. Continued litigation contradicts a blanket claim that political access bought immunity; a court victory is not evidence of a political favor.','Federal Trade Commission','https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case','2026-01-20','Legal update / counterevidence')],
+ [2,1,1],[10,65],['Specific executive-directed political-access concern.','Regulatory stakes are documented, a preferential reward is not.','The claimed bargain remains circumstantial; enforcement continued.'],[[0],[0],[0]],'Low to moderate',
+ 'The Senate letter is a political inquiry, not a neutral finding. Do not transfer a corporate donation into personal bribery or treat a favorable court ruling as proof of influence. This episode is not a comprehensive global assessment.')
+case('jensen-huang',
+ 'A documented personal negotiation links policy access to permission for commercially important exports. This is a concrete wealth–policy connection, while the payment described was to the US government, not a private bribe.',
+ 'Presidential access → negotiated export permission','US H20 export-policy reversal, July–August 2025',
+ [receipt('Nvidia’s own account places Huang in meetings with Trump and US policymakers, then reports assurances that H20 export licenses would be granted.','Nvidia newsroom','https://blogs.nvidia.com/blog/nvidia-ceo-promotes-ai-in-dc-and-china/','2025-07-14','Company statement'),
+ receipt('AP reported Trump crediting Huang with negotiating a 15% government revenue share in exchange for export licenses, down from 20%.','Associated Press','https://apnews.com/article/c06e20d9c3418f1d0b1292891c4610c6','2025-08-11')],
+ [receipt('The arrangement also covered AMD. Nvidia said it followed government rules. This supports a policy bargain, not a finding of personal corruption or exclusive treatment.','Associated Press: scope and company response','https://apnews.com/article/c06e20d9c3418f1d0b1292891c4610c6','2025-08-11','Alternative explanation')],
+ [3,3,2],[35,85],['Direct high-level policy access.','A specific commercial authorization followed negotiation.','Exchange is documented, but state revenue and industrial policy are alternatives to personal patronage.'],[[0,1],[1],[1]],'Moderate',
+ 'Scoped to the 2025 H20 episode, not every later chip rule. Lawful policy negotiation may advance public objectives. The reviewed record does not establish private payments to officials or comprehensive government control.')
+case('changpeng-zhao',
+ 'A specific overlap connects a Trump-family business relationship with an extraordinary personal government benefit: a pardon. It warrants scrutiny, but the causal exchange is disputed and not established as a bought pardon.',
+ 'Crypto business relationship ↔ disputed clemency benefit','2025 pardon and business ties; responses reported April 2026',
+ [receipt('Senate investigators questioned Zhao’s pardon request amid Binance’s reported financial relationship with World Liberty Financial. This is an attributed concern, not a finding of a deal.','Senate Banking Committee minority','https://www.banking.senate.gov/newsroom/minority/warren-durbin-and-blumenthal-seek-answers-on-reported-pardon-bid-by-binance-founder-changpeng-zhao','2025-05-15','Legislative inquiry'),
+ receipt('The Justice Department’s clemency list records a pardon for Changpeng Zhao, whose prior sentence concerned failure to maintain an effective anti-money-laundering program.','US Department of Justice: clemency register','https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present','2025-10','Official record','Official search excerpt reviewed')],
+ [receipt('Zhao’s lawyer denied a quid pro quo or preferential financial treatment. The White House defended the pardon as correcting unfair treatment of the crypto industry.','Associated Press: responses','https://apnews.com/article/863d8850f536df291391e949ba1bc00e','2026-04-13','Subject response')],
+ [2,3,2],[25,85],['An identified political-business channel is under scrutiny.','A personal clemency benefit is documented.','The business-to-pardon connection is alleged and denied, not adjudicated.'],[[0],[1],[0]],'Low to moderate',
+ 'The underlying AML conviction was not a conviction for buying political influence. A pardon and business relationship do not by themselves establish a bargain. Personal and corporate conduct must remain distinct.')
+case('larry-ellison',
+ 'High-level access and the regulatory conditions on an Ellison-family investment create a concrete political-economic intersection. The record does not establish that Larry personally made an improper bargain.',
+ 'Family-backed media acquisition ↔ political regulatory conditions','Stargate launch and Skydance–Paramount approval, 2025',
+ [receipt('Larry Ellison joined Trump at the White House for the Stargate announcement. AP noted the project was already under development before the new administration.','Associated Press','https://apnews.com/article/be261f8a8ee07a0623d4170397348c41','2025-01-21','Reported access'),
+ receipt('The FCC order identifies Larry and David as the Ellison family investors, while specifying David’s managerial and voting control.','FCC order 25-43','https://docs.fcc.gov/public/attachments/FCC-25-43A1.pdf','2025-07-24','Regulatory record','Official indexed passage reviewed; direct retrieval unavailable'),
+ receipt('Reuters reported merger clearance following commitments on newsroom oversight and diversity policy. These are concrete regulatory conditions affecting the family investment.','Reuters','https://www.investing.com/news/stock-market-news/fcc-license-approval-clears-way-for-8-billionparamountskydance-merger-4152055','2025-07-24','Reported regulatory conditions','Indexed report passage reviewed')],
+ [receipt('The FCC record assigns operational control to David. Larry’s backing and political access are not proof that he personally negotiated each condition or committed a crime.','FCC order: attribution limit','https://docs.fcc.gov/public/attachments/FCC-25-43A1.pdf','2025-07-24','Individual-attribution limitation','Official indexed passage reviewed; direct retrieval unavailable')],
+ [3,2,2],[25,80],['Direct presidential access is documented.','A family investment received clearance with stated conditions.','The regulatory exchange is concrete; Larry’s personal role is less established.'],[[0],[1,2],[1,2]],'Moderate',
+ 'Scope is the 2025 episodes, not the later Warner transaction. The Stargate announcement is not itself a public subsidy. David’s actions are not automatically Larry’s; this is not a corruption finding.')
+case('eric-schmidt',
+ 'Policy-shaping roles overlap with investments positioned to benefit from the same technology agenda. That is a specific conflict-of-interest mechanism, but projected benefit is not proof of a preferential award.',
+ 'Technology-policy influence ↔ overlapping investment interests','CHIPS legislation and defense-technology policy, 2021–2023',
+ [receipt('TTP’s review of meeting, lobbying and other records linked Schmidt’s CHIPS-policy advocacy to semiconductor investments. The watchdog argues the overlap could benefit his portfolio; this is not an adjudicated misuse finding.','Campaign for Accountability / Tech Transparency Project','https://campaignforaccountability.org/eric-schmidt-chips-act/','2023-07-13','Attributed watchdog research'),
+ receipt('Schmidt’s congressional testimony advocated a stronger domestic semiconductor base and discussed CHIPS funding.','US House: written testimony','https://docs.house.gov/meetings/ZS/ZS00/20230517/115974/HHRG-118-ZS00-Wstate-SchmidtE-20230517.pdf','2023-05-17','Public testimony','Official indexed passage reviewed')],
+ [receipt('Schmidt’s spokesperson said required disclosures were made. WIRED also reported earlier board conflict concerns were dropped and described national-security arguments for industry collaboration.','WIRED: response and alternative explanation','https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/','2023-02-13','Response / limitation')],
+ [3,2,2],[25,80],['Direct participation in policy formulation.','Identified investment overlap, not a proven preferential award.','Specific potential feedback, with disclosed conflicts and public-purpose alternatives.'],[[0,1],[0],[0]],'Moderate',
+ 'A watchdog’s interpretation is attributed. No subsidy amount or personal procurement violation is inferred. Historical scope does not establish the outcome of every later investment.')
+case('ken-griffin',
+ 'The reviewed tax campaign connects personal spending to opposition to a policy that would affect wealthy taxpayers. It illustrates wealth-funded policy influence, not proof that an election was purchased or officials bribed.',
+ 'Private campaign spending → protection of tax interests','Illinois tax referendum, 2020; electoral limits in 2022',
+ [receipt('Chicago Magazine described Griffin financing the campaign against Illinois’s proposed graduated income tax, which voters rejected.','Chicago Magazine','https://www.chicagomag.com/chicago-magazine/december-2020/ken-griffin-fair-tax/','2020-12-01','Reported campaign finance','Indexed article passage reviewed; direct retrieval unavailable')],
+ [receipt('Despite roughly $50 million supporting Richard Irvin, Griffin’s preferred candidate lost the 2022 Republican primary. Spending therefore did not guarantee political control.','NPR Illinois / WBEZ','https://www.nprillinois.org/illinois/2022-06-29/what-did-50-million-buy-ken-griffin-in-illinois-primary-not-much','2022-06-29','Counterevidence / limits')],
+ [3,2,2],[25,80],['Large, identified policy campaign.','The disputed policy concerned taxation of the wealthy generally.','Spending and policy interests align, but causal effect and exclusive benefit are unproven.'],[[0],[0],[0]],'Moderate',
+ 'Democratic advocacy and general tax policy are not equivalent to a personal favor. The estimate is scoped to this historical campaign and does not allege criminal conduct.')
+(ROOT/'data/review-batches/001.json').write_text(json.dumps(dict(profiles=profiles,rubrics=rubrics),ensure_ascii=False,indent=2)+'\n')
+print(len(profiles),'authored updates')

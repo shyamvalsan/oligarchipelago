@@ -1,0 +1,100 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "james-dyson": {
+      "query": "\"James Dyson\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Dyson denies trying to ‘extract favours’ from Boris Johnson | The Independent",
+          "url": "https://www.independent.co.uk/news/uk/politics/james-dyson-lobbying-boris-johnson-b1838735.html"
+        },
+        {
+          "title": "James Dyson: the Brexit cheerleader now caught up in ‘Tory sleaze’ | James Dyson | The Guardian",
+          "url": "https://www.theguardian.com/technology/2021/apr/21/lobbying-row-james-dyson-is-no-stranger-to-political-controversy"
+        },
+        {
+          "title": "Covid-19: Gove tried to “circumvent” regulations to buy Dyson ventilators, inquiry hears | The BMJ",
+          "url": "https://www.bmj.com/content/388/bmj.r502"
+        },
+        {
+          "title": "Badenoch’s department wrote to Treasury after Dyson lobbying over potential tax break | Tax and spending | The Guardian",
+          "url": "https://www.theguardian.com/politics/2025/jan/03/kemi-badenoch-department-wrote-treasury-after-dyson-lobbying-potential-tax-break"
+        },
+        {
+          "title": "Boris Johnson ‘promised James Dyson he would fix tax issue’ | Lobbying | The Guardian",
+          "url": "https://www.theguardian.com/technology/2021/apr/21/boris-johnson-promised-james-dyson-he-would-fix-tax-issue"
+        },
+        {
+          "title": "Dyson lobbying row: Government ministers do what Boris Johnson did ‘all the time’, says minister | The Independent",
+          "url": "https://www.independent.co.uk/news/uk/politics/dyson-lobbying-row-boris-johnson-b1836296.html"
+        }
+      ]
+    },
+    "shahid-khan": {
+      "query": "\"Shahid Khan\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "antonia-axson-johnson": {
+      "query": "\"Antonia Ax:son Johnson\" Sweden political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Dyson denies trying to ‘extract favours’ from Boris Johnson | The Independent",
+          "url": "https://www.independent.co.uk/news/uk/politics/james-dyson-lobbying-boris-johnson-b1838735.html"
+        },
+        {
+          "title": "Boris Johnson ‘promised James Dyson he would fix tax issue’ | Lobbying | The Guardian",
+          "url": "https://www.theguardian.com/technology/2021/apr/21/boris-johnson-promised-james-dyson-he-would-fix-tax-issue"
+        },
+        {
+          "title": "Dyson lobbying row: Government ministers do what Boris Johnson did ‘all the time’, says minister | The Independent",
+          "url": "https://www.independent.co.uk/news/uk/politics/dyson-lobbying-row-boris-johnson-b1836296.html"
+        },
+        {
+          "title": "James Dyson: From Brexit to Singapore how a ‘Made in Britain’ tycoon abandoned his country | The Independent",
+          "url": "https://www.independent.co.uk/news/uk/home-news/james-dyson-owner-job-cuts-brexit-b2576707.html"
+        },
+        {
+          "title": "Makt, miljoner och mobbning",
+          "url": "https://www.aftonbladet.se/kultur/a/XwW1jr/makt-miljoner-och-mobbning"
+        }
+      ]
+    },
+    "jaime-gilinski-bacal": {
+      "query": "\"Jaime Gilinski Bacal\" Colombia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Jaime Gilinski Bacal - La Silla Vacía",
+          "url": "https://www.lasillavacia.com/quien-es-quien/jaime-gilinski-bacal/"
+        },
+        {
+          "title": "Jaime Gilinski Bacal",
+          "url": "https://en.wikipedia.org/wiki/Jaime_Gilinski_Bacal"
+        },
+        {
+          "title": "Nutresa: La saga de los Gilinski y el GEA escala a la justicia | EL PAÍS América Colombia",
+          "url": "https://elpais.com/america-colombia/2022-11-19/la-zaga-de-los-gilinski-y-el-gea-escala-a-la-justicia.html"
+        },
+        {
+          "title": "Las tretas de Gilinski",
+          "url": "https://www.elcolombiano.com/opinion/columnistas/las-tretas-de-gilinski-ED20895166"
+        },
+        {
+          "title": "Grupo Publicaciones Semana",
+          "url": "https://es.wikipedia.org/wiki/Grupo_Publicaciones_Semana"
+        },
+        {
+          "title": "Los multimillonarios de Colombia depositan su confianza en De la Espriella con inmensas donaciones tras el terremoto",
+          "url": "https://elpais.com/america-colombia/2026-08-21/los-multimillonarios-de-colombia-depositan-su-confianza-en-de-la-espriella-con-inmensas-donaciones-tras-el-terremoto.html"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "carl-cook": {
+      "query": "\"Carl Cook\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "tilman-fertitta": {
+      "query": "\"Tilman Fertitta\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Trump’s ambassador to Italy is flaunting his wealth, and it’s dividing Italians - The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/08/30/trumps-ambassador-italy-conducts-love-boat-diplomacy-his-megayacht/"
+        },
+        {
+          "title": "Tilman Fertitta",
+          "url": "https://en.wikipedia.org/wiki/Tilman_Fertitta"
+        },
+        {
+          "title": "Tilman Fertitta - Explore Financial Disclosures From President Trump and 1,600 of His Appointees - ProPublica",
+          "url": "https://projects.propublica.org/trump-team-financial-disclosures/appointees/fertitta-tilman/"
+        },
+        {
+          "title": "The U.S. Ambassador to Italy Pumped Millions Into Gambling Stocks - NOTUS — News of the United States",
+          "url": "https://www.notus.org/money/tilman-fertitta-gambling-stocks-ambassador-italy"
+        },
+        {
+          "title": "Trump EPA Methane Rule Rollback to Benefit Billionaire Jeffery Hildebrand — ProPublica",
+          "url": "https://www.propublica.org/article/trump-epa-methane-jeffery-hildebrand-hilcorp-oil-regulations"
+        },
+        {
+          "title": "CONGRESSIONAL RECORD — SENATE",
+          "url": "https://www.govinfo.gov/link/crec/171/s/2510"
+        }
+      ]
+    },
+    "ernesto-bertarelli": {
+      "query": "\"Ernesto Bertarelli\" Switzerland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Kriminelles Marketing - Rundschau - Play SRF",
+          "url": "https://www.srf.ch/play/tv/rundschau/video/kriminelles-marketing?urn=urn%3Asrf%3Avideo%3Ab7f10c3c-e90b-4b43-9142-298feebe6b58"
+        },
+        {
+          "title": "Les Bertarelli s'évadent vers l'Oberland bernois - Le Temps",
+          "url": "https://www.letemps.ch/suisse/bertarelli-sevadent-vers-loberland-bernois"
+        },
+        {
+          "title": "Bern Freiburg Wallis - Steuerdaten von reichen Gstaadern sollen offengelegt werden - News - SRF",
+          "url": "https://www.srf.ch/news/bern-freiburg-wallis-steuerdaten-von-reichen-gstaadern-sollen-offengelegt-werden"
+        },
+        {
+          "title": "Juso belagert Martullo-Blocher und Bertarelli",
+          "url": "https://www.blick.ch/politik/juso-belagert-martullo-blocher-und-bertarelli/0cwj3mn"
+        },
+        {
+          "title": "Ernesto Bertarelli",
+          "url": "https://de.wikipedia.org/wiki/Ernesto_Bertarelli"
+        }
+      ]
+    },
+    "robert-duggan": {
+      "query": "\"Robert Duggan\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "charles-schwab": {
+      "query": "\"Charles Schwab\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Charles R. Schwab",
+          "url": "https://en.wikipedia.org/wiki/Charles_R._Schwab"
+        },
+        {
+          "title": "Schwab to Discontinue its Political Action Committee | About Schwab",
+          "url": "https://www.aboutschwab.com/story/schwab-to-discontinue-its-PAC"
+        },
+        {
+          "title": "Hypnotized by Wall Street's Lobbying and Campaign Contributions - Public Citizen",
+          "url": "https://www.citizen.org/article/hypnotized-by-wall-street/"
+        },
+        {
+          "title": "AUTHENTICATED",
+          "url": "https://www.congress.gov/118/chrg/CHRG-118hhrg53377/CHRG-118hhrg53377.pdf"
+        },
+        {
+          "title": "LD-2 Disclosure Form",
+          "url": "https://lda.senate.gov/filings/public/filing/c01c37df-c38a-4cb5-bfb8-bf8bdd59aba5/print/"
+        },
+        {
+          "title": "246025_A_%s_PDF_ADG_30Mar202218280928_001_R.PDF",
+          "url": "https://content.schwab.com/web/retail/public/about-schwab/Charles_Schwab_2022_Proxy.pdf"
+        }
+      ]
+    },
+    "orlando-bravo": {
+      "query": "\"Orlando Bravo\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "lin-muqin": {
+      "query": "\"Lin Muqin\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "anthony-pratt": {
+      "query": "\"Anthony Pratt\" Australia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Hansard - House of Representatives 11/02/2025 Parliament of Australia",
+          "url": "https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F28686%2F&sid=0045"
+        },
+        {
+          "title": "Anthony Pratt gave Liberals $1.3m while upstart political groups gain sizeable donations | Australian political donations | The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2022/feb/01/anthony-pratt-gave-liberals-13m-while-upstart-political-groups-gain-sizeable-donations"
+        },
+        {
+          "title": "Who is Anthony Pratt, the Australian recycling billionaire who turned heads at the Met Gala? | Australia news | The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2025/may/06/anthony-pratt-met-gala-recycling-themed-outfit-who-is-he-ntwnfb"
+        },
+        {
+          "title": "The price of political influence – The Echo",
+          "url": "https://www.echo.net.au/2024/02/the-price-of-political-influence/"
+        },
+        {
+          "title": "Billionaire Pratt - Media Watch",
+          "url": "https://www.abc.net.au/mediawatch/episodes/pratt/103040462"
+        },
+        {
+          "title": "Freedom of Information Conference, 2023",
+          "url": "https://www.wa.gov.au/media/138246/download?inline="
+        }
+      ]
+    }
+  }
+}

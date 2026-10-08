@@ -1,0 +1,117 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "sarath-ratanavadi": {
+      "query": "\"Sarath Ratanavadi\" Thailand political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Thailand's billionaire boom: the rise of Sarath Ratanavadi | CounterPoint",
+          "url": "https://counterpoint.lk/thailands-billionaire-boom-rise-sarath-ratanavadi/"
+        },
+        {
+          "title": "- Translation -",
+          "url": "https://capital.sec.or.th/webapp/corp_fin/datafile/TO/0380000309247-42023-01-05e01.pdf"
+        },
+        {
+          "title": "Thaksin’s dinner talk signals his clout in new Thai government | The Straits Times",
+          "url": "https://www.straitstimes.com/asia/se-asia/thaksin-s-dinner-talk-signals-his-clout-in-new-thai-government"
+        },
+        {
+          "title": "Sarath Ratanavadi",
+          "url": "https://en.wikipedia.org/wiki/Sarath_Ratanavadi"
+        },
+        {
+          "title": "August 19, 2022",
+          "url": "https://www.thaienquirer.com/wp-content/uploads/2022/08/Thai-Enquirer-News-Summary-August-19-2022.pdf"
+        },
+        {
+          "title": "Why struggling Thailand keeps voting for change that never comes",
+          "url": "https://www.reddit.com/r/Thailand/comments/1qx7xut/why_struggling_thailand_keeps_voting_for_change/"
+        }
+      ]
+    },
+    "theo-albrecht-jr": {
+      "query": "\"Theo Albrecht, Jr.\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Theo Albrecht junior",
+          "url": "https://de.wikipedia.org/wiki/Theo_Albrecht_junior"
+        },
+        {
+          "title": "Babette Albrecht",
+          "url": "https://de.wikipedia.org/wiki/Babette_Albrecht"
+        },
+        {
+          "title": "Die Aldi-Erben: Wer hinter dem Discounter-Imperium steht",
+          "url": "https://newstime.joyn.de/themen/aldi/aldi-erben-120525"
+        },
+        {
+          "title": "Theo Albrecht",
+          "url": "https://en.wikipedia.org/wiki/Theo_Albrecht"
+        },
+        {
+          "title": "Liste der reichsten Deutschen (Forbes)",
+          "url": "https://de.wikipedia.org/wiki/Liste_der_reichsten_Deutschen_%28Forbes%29"
+        },
+        {
+          "title": "International Journal of Communication 19(2025), 908–929",
+          "url": "https://ijoc.org/index.php/ijoc/article/download/21689/4926"
+        }
+      ]
+    },
+    "edwin-chen": {
+      "query": "\"Edwin Chen\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Senate Backs Tough Lobby Disclosure Bill - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1995-07-26-mn-28039-story.html"
+        },
+        {
+          "title": "Bush's Ties to Enron Chief Attract Growing Scrutiny - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-2001-feb-11-mn-24077-story.html"
+        },
+        {
+          "title": "May 24 / Administration of George W. Bush, 2007",
+          "url": "https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1.pdf"
+        }
+      ]
+    },
+    "charlene-de-carvalho-heineken": {
+      "query": "\"Charlene de Carvalho-Heineken\" Netherlands political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "'Heineken-constructie' had voorkomen kunnen worden, maatregel werd geschrapt",
+          "url": "https://nos.nl/artikel/2516014-heineken-constructie-had-voorkomen-kunnen-worden-maatregel-werd-geschrapt"
+        },
+        {
+          "title": "Kamervragen (Aanhangsel) 2023-2024, nr. 1598 | Overheid.nl > Officiële bekendmakingen",
+          "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20232024-1598.html"
+        },
+        {
+          "title": "Familie Heineken koopt voor 200 miljoen aandelen bij",
+          "url": "https://www.rtl.nl/geld-en-werk/artikel/3552386/familie-heineken-koopt-voor-200-miljoen-aandelen-bij"
+        },
+        {
+          "title": "Democratie in de uitverkoop: superrijken kopen politieke invloed in Den Haag - PONT | Governance",
+          "url": "https://governance-web.nl/nieuws/democratie-in-de-uitverkoop-superrijken-kopen-politieke-invloed-in-den-haag/"
+        },
+        {
+          "title": "De rijkste Nederlandse vrouw betaalt geen belasting over dividenden! - Nalog.nl BV",
+          "url": "https://www.nalog.nl/nl/news/2024/05/21/samaya-bogataya-gollandka-ne-platit-nalog-na-dividendy/"
+        },
+        {
+          "title": "Heineken heiress finds new way to avoid Dutch taxes, sheltering billions in tax havens: NRC | NL Times",
+          "url": "https://nltimes.nl/2024/04/04/heineken-heiress-finds-new-way-avoid-dutch-taxes-sheltering-billions-tax-havens-nrc"
+        }
+      ]
+    }
+  }
+}

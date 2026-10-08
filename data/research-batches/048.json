@@ -1,0 +1,64 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "wang-liping": {
+      "query": "\"Wang Liping\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Bribery as a Third Path to Power?",
+          "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FEFAB3496796DB3851F0196B42FF151A/9781009471947AR.pdf/bribery_as_a_third_path_to_power.pdf"
+        }
+      ]
+    },
+    "terry-gou": {
+      "query": "\"Terry Gou\" Taiwan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Taipei Park deal due to Hon Hai hijack: councilor - Taipei Times",
+          "url": "https://www.taipeitimes.com/News/front/archives/2015/04/15/2003615952"
+        },
+        {
+          "title": "Terry Gou",
+          "url": "https://en.wikipedia.org/wiki/Terry_Gou"
+        },
+        {
+          "title": "Speaker’s sentenced increased for Terry Gou election bribery - Taipei Times",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/27/2003858079"
+        },
+        {
+          "title": "Who is Terry Gou, the Foxconn billionaire in Taiwan presidency bid? | The Straits Times",
+          "url": "https://www.straitstimes.com/asia/east-asia/who-is-terry-gou-the-foxconn-billionaire-in-taiwan-presidency-bid"
+        },
+        {
+          "title": "Taiwan prosecutors charge Terry Gou campaigners with offering gifts for support | Taiwan News | Sep. 3, 2024 10:35",
+          "url": "https://www.taiwannews.com.tw/news/5929524"
+        },
+        {
+          "title": "Did Foxconn boss Terry Gou just use mooncakes to announce his run for the Taiwan presidency? | South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3026804/did-foxconn-boss-terry-gou-just-use-mooncakes-announce-his-run"
+        }
+      ]
+    },
+    "donald-newhouse": {
+      "query": "\"Donald Newhouse\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "hussain-sajwani": {
+      "query": "\"Hussain Sajwani\" United Arab Emirates political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Trump’s Conflicts of Interest in the United Arab Emirates - Center for American Progress",
+          "url": "https://www.americanprogress.org/article/trumps-conflicts-interest-united-arab-emirates/"
+        }
+      ]
+    }
+  }
+}

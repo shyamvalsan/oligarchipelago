@@ -1,0 +1,92 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "jerry-jones": {
+      "query": "\"Jerry Jones\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "\"Chris Christie and Jerry Jones\" by Center for the Advancement of Public Integrity",
+          "url": "https://scholarship.law.columbia.edu/public_integrity/104/"
+        },
+        {
+          "title": "Report: Cowboys owner contributed via PAC to lawmakers considering new stadium plan",
+          "url": "https://www.myplainview.com/news/article/Report-Cowboys-owner-contributed-via-PAC-to-8834072.php"
+        },
+        {
+          "title": "Memo, Jerry Jones to Donald Rumsfeld",
+          "url": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0047/phw19750507-01.pdf"
+        },
+        {
+          "title": "FOR THE GREATER GOOD OR GREED? REDISTRIBUTING PRIVATE SPACE",
+          "url": "https://citeseerx.ist.psu.edu/document?doi=328be698941b98e0dc7b5504746d3b8e904dc3bf&repid=rep1&type=pdf"
+        },
+        {
+          "title": "Jones, Jerry (8)",
+          "url": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0204/7505539.pdf"
+        },
+        {
+          "title": "Form 990-PF (2009) — GENE AND JERRY JONES FAMILY — 75-2808490 — Page 4",
+          "url": "https://www.foundationsearch.com/990/ARCHIVE/7/GENE%20AND%20JERRY%20JONES%20FAMILY-DALLAS%20COWBOYS%20CHARITIES%202009%20752808490.PDF"
+        }
+      ]
+    },
+    "takemitsu-takizaki": {
+      "query": "\"Takemitsu Takizaki\" Japan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "andre-esteves": {
+      "query": "\"Andre Esteves\" Brazil political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Portal da Câmara dos Deputados",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2305539"
+        },
+        {
+          "title": "Supremo Tribunal Federal",
+          "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=475240&tip=UN"
+        },
+        {
+          "title": "Palocci diz que André Esteves deu R$ 5 mi para ser o 'banqueiro do pré-sal' - 24/05/2019 - Poder - Folha",
+          "url": "https://www1.folha.uol.com.br/amp/poder/2019/05/palocci-diz-que-andre-esteves-deu-r-5-mi-para-ser-o-banqueiro-do-pre-sal.shtml"
+        },
+        {
+          "title": "Delcídio diz que banqueiro topou pagar R$ 1,5 mi para calar delator - 15/03/2016 - Poder - Folha de S.Paulo",
+          "url": "https://m.folha.uol.com.br/poder/2016/03/1750188-delcidio-diz-que-banqueiro-topou-pagar-r-15-mi-para-calar-delator.shtml"
+        },
+        {
+          "title": "André Esteves: como o banqueiro sempre volta ao jogo do poder",
+          "url": "https://tab.uol.com.br/noticias/redacao/2025/07/07/como-o-banqueiro-andre-esteves-sempre-volta-ao-jogo-do-poder.htm"
+        },
+        {
+          "title": "Por que a prisão do banqueiro André Esteves assusta o governo e o PT - ÉPOCA | Tempo",
+          "url": "https://epoca.globo.com/tempo/noticia/2015/12/por-que-prisao-do-banqueiro-andre-esteves-assusta-o-governo-e-o-pt.html"
+        }
+      ]
+    },
+    "renata-kellnerova": {
+      "query": "\"Renata Kellnerova\" Czech Republic political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "„Na kafe spolu nechodí.“ Kellnerové se nezdálo, jak o ní Strnad mluví - Seznam Zprávy",
+          "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-vyroky-zbrojare-strnada-o-ppf-vzbudily-rozpaky-kellnerova-vidi-vztah-jinak-306811"
+        },
+        {
+          "title": "Renáta Kellnerová",
+          "url": "https://en.wikipedia.org/wiki/Ren%C3%A1ta_Kellnerov%C3%A1"
+        },
+        {
+          "title": "The Kellner Family Foundation",
+          "url": "https://en.wikipedia.org/wiki/The_Kellner_Family_Foundation"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "torstein-hagen": {
+      "query": "\"Torstein Hagen\" Norway political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Torstein Hagen – Store norske leksikon",
+          "url": "https://snl.no/Torstein_Hagen"
+        },
+        {
+          "title": "Har gjort cruise-avhør i departementet",
+          "url": "https://www.bt.no/nyheter/lokalt/i/2PdOq/har-gjort-cruise-avhoer-i-departementet"
+        },
+        {
+          "title": "Korrupsjonsekspert om Drevland-saken: - Politiet må også se på givers rolle | DN",
+          "url": "https://www.dn.no/trude-drevland/korrupsjon/korrupsjonsekspert-om-drevland-saken-politiet-ma-ogsa-se-pa-givers-rolle/1-1-5464178?zephr_sso_ott=ML9xa2"
+        },
+        {
+          "title": "Rekordmange milliardærer under Jonas Gahr Støre | Kapital",
+          "url": "https://www.kapital.no/reportasjer/naeringsliv/2022/09/22/7930298/rekordmange-milliardaerer-under-jonas-gahr-store?zephr_sso_ott=9Z57Hq"
+        },
+        {
+          "title": "Norska staten får ta kostnaden för fartygs-räddning | Sveriges Radio",
+          "url": "https://www.sverigesradio.se/artikel/7184653"
+        },
+        {
+          "title": "Stein Erik Hagen var en spesiell, fargerik og raus person | Finansavisen",
+          "url": "https://www.finansavisen.no/finans/2026/05/05/8348766/stein-erik-hagen-var-en-spesiell-fargerik-og-raus-person"
+        }
+      ]
+    },
+    "james-ratcliffe": {
+      "query": "\"James Ratcliffe\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Jim Ratcliffe",
+          "url": "https://en.wikipedia.org/wiki/Jim_Ratcliffe"
+        }
+      ]
+    },
+    "wang-ning": {
+      "query": "\"Wang Ning\" China political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "CHINA STRATEGIC PERSPECTIVES  14",
+          "url": "https://inss.ndu.edu/Portals/82/China%20SP%2014%20Final%20for%20Web.pdf"
+        }
+      ]
+    },
+    "ludwig-merckle": {
+      "query": "\"Ludwig Merckle\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Merckle: Die Familie ist aus dem Geschäft",
+          "url": "https://www.tagesspiegel.de/wirtschaft/die-familie-ist-aus-dem-geschaft-6824074.html"
+        },
+        {
+          "title": "Ludwig Merckle (Unternehmer, 1892)",
+          "url": "https://de.wikipedia.org/wiki/Ludwig_Merckle_%28Unternehmer%2C_1892%29"
+        },
+        {
+          "title": "Der Jungunternehmer - WELT",
+          "url": "https://www.welt.de/welt_print/wirtschaft/article6865404/Der-Jungunternehmer.html"
+        },
+        {
+          "title": "Adolf Merckle",
+          "url": "https://de.wikipedia.org/wiki/Adolf_Merckle"
+        },
+        {
+          "title": "Merckle Unternehmensgruppe",
+          "url": "https://de.wikipedia.org/wiki/Merckle_Unternehmensgruppe"
+        },
+        {
+          "title": "Ludwig Merckle (Unternehmer, 1965)",
+          "url": "https://de.wikipedia.org/wiki/Ludwig_Merckle_%28Unternehmer%2C_1965%29"
+        }
+      ]
+    }
+  }
+}

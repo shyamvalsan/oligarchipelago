@@ -1,0 +1,79 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "changpeng-zhao": {
+      "query": "\"Changpeng Zhao\" Canada political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "michael-bloomberg": {
+      "query": "\"Michael Bloomberg\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "The political force of Michael Bloomberg’s tactical charity | Brookings",
+          "url": "https://www.brookings.edu/articles/the-political-force-of-michael-bloombergs-tactical-charity/"
+        },
+        {
+          "title": "How the relationship between Trump and Bloomberg went into a tailspin - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/how-the-relationship-between-trump-and-bloomberg-went-into-a-tailspin/2019/01/31/95ee0914-1ff9-11e9-9145-3f74070bbdb9_story.html"
+        },
+        {
+          "title": "MUR #7685 | FEC",
+          "url": "https://www.fec.gov/data/legal/matter-under-review/7685/"
+        },
+        {
+          "title": "Is Michael Bloomberg Above Influence? | Fox News",
+          "url": "https://www.foxnews.com/transcript/is-michael-bloomberg-above-influence"
+        },
+        {
+          "title": "If money can’t buy you votes, what can it buy? Lessons from Michael Bloomberg’s 2020 run | Brookings",
+          "url": "https://www.brookings.edu/articles/if-money-cant-buy-you-votes-what-can-it-buy-lessons-from-michael-bloombergs-2020-run/"
+        },
+        {
+          "title": "Michael Bloomberg",
+          "url": "https://en.wikipedia.org/wiki/Michael_Bloomberg"
+        }
+      ]
+    },
+    "bill-gates": {
+      "query": "\"Bill Gates\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "francoise-bettencourt-meyers": {
+      "query": "\"Francoise Bettencourt Meyers\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "L'affaire Bettencourt suivie de très près par l'Elysée",
+          "url": "https://www.lemonde.fr/politique/article/2010/06/30/l-affaire-bettencourt-suivie-de-tres-pres-par-l-elysee_1381310_823448.html"
+        },
+        {
+          "title": "Les largesses de Liliane Bettencourt",
+          "url": "https://www.lemonde.fr/societe/article/2010/03/11/les-largesses-de-liliane-bettencourt_1317607_3224.html"
+        },
+        {
+          "title": "Affaire Bettencourt : quatre ans de guérilla familiale",
+          "url": "https://www.lemonde.fr/societe/article/2011/10/27/affaire-bettencourt-quatre-ans-de-guerilla-familiale_1582218_3224.html"
+        },
+        {
+          "title": "Affaire Banier-Bettencourt",
+          "url": "https://fr.wikipedia.org/wiki/Affaire_Banier-Bettencourt"
+        },
+        {
+          "title": "Françoise Bettencourt Meyers",
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Bettencourt_Meyers"
+        },
+        {
+          "title": "Subornation de témoins dans l'affaire Bettencourt : non-lieu général requis - Le Parisien",
+          "url": "https://www.leparisien.fr/faits-divers/subornation-de-temoins-dans-l-affaire-bettencourt-non-lieu-general-requis-28-08-2017-7219917.php"
+        }
+      ]
+    }
+  }
+}

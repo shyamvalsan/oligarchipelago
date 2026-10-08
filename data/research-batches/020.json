@@ -1,0 +1,80 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "lyndal-stephens-greth": {
+      "query": "\"Lyndal Stephens Greth\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "len-blavatnik": {
+      "query": "\"Len Blavatnik\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "U.S. Politicians Can't Stop Taking Len Blavatnik's Money - bellingcat",
+          "url": "https://www.bellingcat.com/news/2019/10/21/u-s-politicians-cant-stop-taking-len-blavatniks-money/"
+        },
+        {
+          "title": "Len Blavatnik",
+          "url": "https://en.wikipedia.org/wiki/Len_Blavatnik"
+        },
+        {
+          "title": "A Kremlin-Linked Firm Invested Millions in Kentucky. Were They After More Than Money?",
+          "url": "https://time.com/5651345/rusal-investment-braidy-kentucky/"
+        }
+      ]
+    },
+    "susanne-klatten": {
+      "query": "\"Susanne Klatten\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Susanne Klatten",
+          "url": "https://de.wikipedia.org/wiki/Susanne_Klatten"
+        },
+        {
+          "title": "Susanne Klatten · political donations · Donorscope",
+          "url": "https://donorscope.eu/donors/susanne-klatten"
+        },
+        {
+          "title": "Spenden: 690.000 Euro für die CDU - Deutscher Bundestag",
+          "url": "https://www.bundestag.de/webarchiv/presse/hib/2013_10/02-260006"
+        },
+        {
+          "title": "Reine Familiensache - | politik&kommunikation",
+          "url": "https://www.politik-kommunikation.de/politik/reine-familiensache/"
+        },
+        {
+          "title": "Parteispenden: Welche Unternehmen unterstützen AfD, CDU, SPD, Grüne und FDP? (Stand: 2025) | abgeordnetenwatch",
+          "url": "https://www.abgeordnetenwatch.de/recherchen/parteispenden/listen-veroeffentlicht-diese-unternehmen-und-lobbyverbaende-zahlten-geld-an-die-parteien-0"
+        }
+      ]
+    },
+    "vladimir-potanin": {
+      "query": "\"Vladimir Potanin\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Whiz-Kid Banker Named to Russian Cabinet - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1996-08-16-mn-34861-story.html"
+        },
+        {
+          "title": "The Kremlin’s Loyal Praetorians | OSW Centre for Eastern Studies",
+          "url": "https://www.osw.waw.pl/en/publikacje/point-view/2026-02-27/kremlins-loyal-praetorians"
+        },
+        {
+          "title": "Vladimir Potanin",
+          "url": "https://en.wikipedia.org/wiki/Vladimir_Potanin"
+        },
+        {
+          "title": "Killer Business in Russia",
+          "url": "https://time.com/3706700/killer-business-in-russia/"
+        }
+      ]
+    }
+  }
+}

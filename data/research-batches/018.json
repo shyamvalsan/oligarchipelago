@@ -1,0 +1,105 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "michal-strnad": {
+      "query": "\"Michal Strnad\" Czech Republic political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Pavučina moci Michala Strnada: Na výplatní pásce má špiony, úředníky i politiky - European Justice Organization",
+          "url": "https://www.europeanjusticeorganization.com/cs/news/pavucina-moci-michala-strnada-na-vyplatni-pasce-ma-spiony-uredniky-i-politiky"
+        },
+        {
+          "title": "Michal Strnad - Hlídač státu.",
+          "url": "https://www.hlidacstatu.cz/osoba/michal-strnad-10"
+        },
+        {
+          "title": "Vinohradská 12: Strnad a Babiš se usmířili | iROZHLAS - spolehlivé zprávy",
+          "url": "https://www.irozhlas.cz/zpravy-domov/strnad-a-babis-se-usmirili-mysli-si-novinar-na-zachovani-municni-iniciativy-pry_2602160630_med"
+        },
+        {
+          "title": "Czechoslovak Group (“CSG”).⁹ Michal Strnad was the president of CSG.¹⁰ Mr. Richards, Mr. Agas, and Mr. Marcois represented to the Strnads that they “had connections and contacts with the U.S. Department of Defense, others in the American government and with the governments of the Czech Republic and Slovak Republic, and that they could use those connections and contacts to assist Tatra in achieving a sale of Pandur fighting vehicles to the Czech and Slovak Republics.”¹¹ The representatives from Tatra and SARN shook hands and agreed that SARN would assist Tatra in selling Pandurs.¹²",
+          "url": "https://courts.delaware.gov/Opinions/Download.aspx?id=280490"
+        },
+        {
+          "title": "REPORT ON RELATED PARTY TRANSACTIONS",
+          "url": "https://manuals.plus/m/46b353ce8622b1f01587aafc1ceb0e3fb163455316f8d066812ecf2000109423.pdf"
+        }
+      ]
+    },
+    "lakshmi-mittal": {
+      "query": "\"Lakshmi Mittal\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Blair's tycoon lobbied US against British interests | Politics | The Guardian",
+          "url": "https://www.theguardian.com/politics/2002/feb/17/uk.partyfunding"
+        },
+        {
+          "title": "Diplomats warned after Mittal fiasco | Politics | The Guardian",
+          "url": "https://www.theguardian.com/politics/2002/sep/03/uk.politicalnews"
+        },
+        {
+          "title": "JOURNAL OF",
+          "url": "https://www.stjohns.edu/sites/default/files/uploads/JournalOfEmergingMarkets22_03_08_2023.pdf"
+        },
+        {
+          "title": "The 'VBS' files bombshell: ISPAT payoffs to steel ministry?",
+          "url": "https://www.ndtv.com/india-news/the-vbs-files-bombshell-ispat-payoffs-to-steel-ministry-501623"
+        },
+        {
+          "title": "Lakshmi Mittal",
+          "url": "https://en.wikipedia.org/wiki/Lakshmi_Mittal"
+        },
+        {
+          "title": "Lakshmi Mittal among donors to Boris Johnson's UK PM campaign - India Today",
+          "url": "https://www.indiatoday.in/world/story/lakshmi-mittal-donors-boris-johnson-uk-pm-campaign-1576205-2019-08-01/"
+        }
+      ]
+    },
+    "elaine-marshall": {
+      "query": "\"Elaine Marshall\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Elaine Marshall - North Carolina Candidate - Transparency USA",
+          "url": "https://www.transparencyusa.org/nc/candidate/elaine-marshall/"
+        },
+        {
+          "title": "Vote Smart - Facts For All",
+          "url": "https://justfacts.votesmart.org/candidate/biography/2167/elaine-marshall"
+        },
+        {
+          "title": "1996 North Carolina Secretary of State election",
+          "url": "https://en.wikipedia.org/wiki/1996_North_Carolina_Secretary_of_State_election"
+        },
+        {
+          "title": "Elaine Marshall",
+          "url": "https://en.wikipedia.org/wiki/Elaine_Marshall"
+        },
+        {
+          "title": "2010 United States Senate election in North Carolina",
+          "url": "https://en.wikipedia.org/wiki/2010_United_States_Senate_election_in_North_Carolina"
+        }
+      ]
+    },
+    "shiv-nadar": {
+      "query": "\"Shiv Nadar\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Political Donations: Why Indian IT companies are averse to political donations - Times of India",
+          "url": "https://timesofindia.indiatimes.com/tech-news/why-indian-it-companies-are-averse-to-political-donations/articleshow/26725347.cms"
+        },
+        {
+          "title": "Shiv Nadar",
+          "url": "https://en.wikipedia.org/wiki/Shiv_Nadar"
+        }
+      ]
+    }
+  }
+}

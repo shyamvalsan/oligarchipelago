@@ -1,0 +1,84 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "kushal-pal-singh": {
+      "query": "\"Kushal Pal Singh\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Kushal Pal Singh",
+          "url": "https://en.wikipedia.org/wiki/Kushal_Pal_Singh"
+        },
+        {
+          "title": "Kushal Pal Singh vs Union Of India on 22 March, 2024",
+          "url": "https://indiankanoon.org/doc/164029566/"
+        },
+        {
+          "title": "1977 Haryana Legislative Assembly election",
+          "url": "https://en.wikipedia.org/wiki/1977_Haryana_Legislative_Assembly_election"
+        },
+        {
+          "title": "Kushal Pal Singh Mann — SADASM MP Candidate, Anandpur Sahib (Punjab) Lok Sabha | India Elections",
+          "url": "https://indiaelections.org/lok-sabha/candidates/punjab/anandpur-sahib/kushal-pal-singh-mann"
+        },
+        {
+          "title": "High Court Of Judicature At Allahabad",
+          "url": "https://allahabadhighcourt.in/event/event_19751_05-09-2024.pdf"
+        },
+        {
+          "title": "Panama Papers and Asia",
+          "url": "https://en.wikipedia.org/wiki/Panama_Papers_and_Asia"
+        }
+      ]
+    },
+    "andrew-beal": {
+      "query": "\"Andrew Beal\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Andrew Beal",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Beal"
+        },
+        {
+          "title": "Great America PAC - FactCheck.org",
+          "url": "https://www.factcheck.org/2018/04/great-america-pac/"
+        },
+        {
+          "title": "How Democratic attorney Marc Elias’s legal tactics also helped Trump this election - Colorado Politics",
+          "url": "https://www.coloradopolitics.com/2024/12/30/how-democratic-attorney-marc-eliass-legal-tactics-also-helped-trump-this-election/"
+        },
+        {
+          "title": "Outside group funding ad campaign against King re-election bid",
+          "url": "https://www.pressherald.com/2018/09/10/outside-group-funding-ad-campaign-against-king-re-election-bid/"
+        },
+        {
+          "title": "Robert Mercer, Richard Uihlein, and the Rise of Single-and Dual-Donor Super PACs | Campaign Legal Center",
+          "url": "https://campaignlegal.org/update/robert-mercer-richard-uihlein-and-rise-single-and-dual-donor-super-pacs"
+        }
+      ]
+    },
+    "james-goodnight": {
+      "query": "\"James Goodnight\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "vikram-lal": {
+      "query": "\"Vikram Lal\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "<font color=\"#cc0000\"><b>Exclusive:</b></font> Arvind Kejriwal's trust receives donations from big business houses - India Today",
+          "url": "https://www.indiatoday.in/india/north/story/iac-arvind-kejriwal-public-cause-research-foundation-120487-2012-11-03"
+        },
+        {
+          "title": "Vikram Lal: the man who primed Royal Enfield to become a money-spinner for Eicher Motors | Mint",
+          "url": "https://www.livemint.com/opinion/vikram-lal-eicher-motors-royal-enfield-siddhartha-lal-good-earth-anita-lal-indian-billionaires-11779354172102.html"
+        }
+      ]
+    }
+  }
+}

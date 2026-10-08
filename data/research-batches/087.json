@@ -1,0 +1,125 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "robert-f-smith": {
+      "query": "\"Robert F. Smith\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Robert F. Smith - Influence Watch",
+          "url": "https://www.influencewatch.org/person/robert-f-smith/"
+        },
+        {
+          "title": "EXHIBIT ATO ROBERT F, SMITH",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Robert_Smith_Statement_of_Facts.pdf"
+        },
+        {
+          "title": "Robert F. Smith (investor)",
+          "url": "https://en.wikipedia.org/wiki/Robert_F._Smith_%28investor%29"
+        },
+        {
+          "title": "UNITED STATES BANKRUPTCY COURT",
+          "url": "https://www.cacb.uscourts.gov/sites/cacb/files/documents/attorney-discipline/11-mp-00216.pdf"
+        },
+        {
+          "title": "184121HOPKINS & SUTTER",
+          "url": "https://www.stb.gov/wp-content/uploads/FD-33388_I2.3.pdf"
+        },
+        {
+          "title": "Annual Financial Report - Political Party.pdf",
+          "url": "https://contributions.electionsbc.gov.bc.ca/pcs/published/100147858.pdf"
+        }
+      ]
+    },
+    "jean-michel-besnier": {
+      "query": "\"Jean-Michel Besnier\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Lactalis",
+          "url": "https://fr.wikipedia.org/wiki/Lactalis"
+        },
+        {
+          "title": "Emmanuel Besnier, le PDG invisible de Lactalis aux méthodes commando",
+          "url": "https://www.lemonde.fr/entreprises/article/2016/08/30/emmanuel-besnier-le-pdg-invisible-aux-methodes-commando_4989813_1656994.html"
+        },
+        {
+          "title": "Marie Besnier Beauvalot (Lactalis) - Le Journal Économique",
+          "url": "https://lejournaleconomique.fr/portraits/marie-besnier-beauvalot/"
+        },
+        {
+          "title": "Released under the Official Information Act 1982",
+          "url": "https://www.linz.govt.nz/sites/default/files/release/BSA%20Assessment%20Report%20%28202500587%29.pdf"
+        },
+        {
+          "title": "RAPPORT OXFAM",
+          "url": "https://17.cgtfinancespubliques.fr/IMG/pdf/rapport_oxfam_reforme_fiscale_les_pauvres_en_paient_limpot_casse.pdf"
+        }
+      ]
+    },
+    "marie-besnier-beauvalot": {
+      "query": "\"Marie Besnier Beauvalot\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Marie Besnier Beauvalot",
+          "url": "https://fr.wikipedia.org/wiki/Marie_Besnier_Beauvalot"
+        },
+        {
+          "title": "Liste de milliardaires français",
+          "url": "https://fr.wikipedia.org/wiki/Liste_de_milliardaires_fran%C3%A7ais"
+        },
+        {
+          "title": "Marie Besnier Beauvalot",
+          "url": "https://en.wikipedia.org/wiki/Marie_Besnier_Beauvalot"
+        },
+        {
+          "title": "Lactalis",
+          "url": "https://fr.wikipedia.org/wiki/Lactalis"
+        },
+        {
+          "title": "Emmanuel Besnier, le PDG invisible de Lactalis aux méthodes commando",
+          "url": "https://www.lemonde.fr/entreprises/article/2016/08/30/emmanuel-besnier-le-pdg-invisible-aux-methodes-commando_4989813_1656994.html"
+        },
+        {
+          "title": "Marie Besnier Beauvalot (Lactalis) - Le Journal Économique",
+          "url": "https://lejournaleconomique.fr/portraits/marie-besnier-beauvalot/"
+        }
+      ]
+    },
+    "daniel-ek": {
+      "query": "\"Daniel Ek\" Sweden political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Daniel Ek säljer Spotifyaktier för miljarder – pengarna till Cypern",
+          "url": "https://www.svd.se/a/mQAwkE/daniel-ek-saljer-spotifyaktier-for-miljarder-pengarna-till-cypern"
+        },
+        {
+          "title": "Storaffär med Tyskland klar för Daniel Eks försvarsbolag | EFN.se",
+          "url": "https://efn.se/miljardaffar-med-tyskland-for-daniel-eks-forsvarsbolag"
+        },
+        {
+          "title": "Daniel Ek",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Ek"
+        },
+        {
+          "title": "Daniel Ek political affiliations",
+          "url": "https://factually.co/fact-checks/politics/daniel-ek-political-affiliations-7257b8"
+        },
+        {
+          "title": "Snart har vi Trump och tech bro-oligarker i Sverige – Arbetet",
+          "url": "https://arbetet.se/2025/01/23/snart-har-vi-trump-och-tech-bro-oligarker-i-sverige/"
+        },
+        {
+          "title": "Teqnions VD försvann från styrelsen: \"Ville banta\" | Affärsvärlden",
+          "url": "https://www.affarsvarlden.se/artikel/teqnions-vd-forsvann-fran-styrelsen-avfardar-petning"
+        }
+      ]
+    }
+  }
+}

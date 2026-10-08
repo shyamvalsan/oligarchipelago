@@ -1,0 +1,101 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "georg-stumpf": {
+      "query": "\"Georg Stumpf\" Austria political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Georg Stumpf, Turmbauer und milliardenschwerer Investor [PORTRÄT]",
+          "url": "https://www.trend.at/personen/georg-stumpf"
+        },
+        {
+          "title": "Georg Stumpf",
+          "url": "https://de.wikipedia.org/wiki/Georg_Stumpf"
+        },
+        {
+          "title": "Georg Stumpf",
+          "url": "https://en.wikipedia.org/wiki/Georg_Stumpf"
+        },
+        {
+          "title": "Parlamentarische Materialien",
+          "url": "https://www.parlament.gv.at/dokument/XXVI/J/245/fnameorig_679871.html"
+        },
+        {
+          "title": "Wirtschaftspatriotismus Marke Androsch & Scharinger als billiger Schmäh entlarvt - KPÖ Oberösterreich",
+          "url": "https://ooe.kpoe.at/article.php/2007081411132372"
+        }
+      ]
+    },
+    "michael-rubin": {
+      "query": "\"Michael Rubin\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "The Temptation of Intelligence Politicization to Support Diplomacy :: Michael Rubin",
+          "url": "https://www.michaelrubin.org/18290/intelligence-politicization-diplomacy"
+        },
+        {
+          "title": "Twisting Intelligence to Exculpate Our Enemies :: Michael Rubin",
+          "url": "https://michaelrubin.org/13266/politicizing-intelligence"
+        },
+        {
+          "title": "Head of JobsOhio board to be deposed in federal civil lawsuit against FirstEnergy • Ohio Capital Journal",
+          "url": "https://ohiocapitaljournal.com/2026/09/29/head-of-jobsohio-board-to-be-deposed-in-firstenergy-federal-civil-lawsuit/"
+        },
+        {
+          "title": "Michael Rubin (historian)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Rubin_%28historian%29"
+        }
+      ]
+    },
+    "nassef-sawiris": {
+      "query": "\"Nassef Sawiris\" Egypt political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Too Big to Fail: Egypt’s Large Enterprises After the 2011 Uprising | Carnegie Endowment for International Peace",
+          "url": "https://carnegieendowment.org/middle-east/research/2017/03/too-big-to-fail-egypts-large-enterprises-after-the-2011-uprising"
+        },
+        {
+          "title": "Sawiris backs El-Sisi for Egypt's presidency - Paris 2024",
+          "url": "https://english.ahram.org.eg/NewsAFCON/2017/94099.aspx"
+        },
+        {
+          "title": "| | | --- | --- | --- | --- | TOO B Egypt’s L Afte",
+          "url": "https://carnegieendowment.org/files/CMEC_65_Adly_Final_Web.pdf"
+        },
+        {
+          "title": "Mehleb meets Nassef Sawiris to settle tax dispute – Dailynewsegypt",
+          "url": "https://www.dailynewsegypt.com/2014/07/16/mehleb-meets-nassef-sawiris-settle-tax-dispute/"
+        },
+        {
+          "title": "Nassef Sawiris",
+          "url": "https://en.wikipedia.org/wiki/Nassef_Sawiris"
+        },
+        {
+          "title": "Egyptian tycoon Naguib Sawiris blames 'cowardly' minister for tax dispute - Economy - Business - Ahram Online",
+          "url": "https://english.ahram.org.eg/NewsContent/3/12/112058/Business/Economy/Egyptian-tycoon-Naguib-Sawiris-blames-cowardly-min.aspx"
+        }
+      ]
+    },
+    "brian-chesky": {
+      "query": "\"Brian Chesky\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Here’s What Airbnb Has Spent on Federal Lobbying This Year",
+          "url": "https://therealdeal.com/new-york/2022/10/06/heres-what-airbnb-spent-on-federal-lobbying//"
+        },
+        {
+          "title": "Governor Ricardo Rosselló: Puerto Rico Is a 'Geopolitical Black Hole'",
+          "url": "https://time.com/5271767/puerto-rico-governor-donald-trump-statehood-hurricane-maria/"
+        }
+      ]
+    }
+  }
+}

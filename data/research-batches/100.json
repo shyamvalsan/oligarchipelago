@@ -1,0 +1,121 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "jeff-greene": {
+      "query": "\"Jeff Greene\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Jeff Greene",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Greene"
+        },
+        {
+          "title": "Democrat Jeff Greene offers millions to support candidates",
+          "url": "https://baynews9.com/fl/tampa/news/2018/08/22/democrat-jeff-greene-offers-millions-for-candidates"
+        },
+        {
+          "title": "Billionaire Democrat Jeff Greene Joins Florida Senate Race - CBS News",
+          "url": "https://www.cbsnews.com/news/billionaire-democrat-jeff-greene-joins-florida-senate-race/"
+        },
+        {
+          "title": "Opposition Research Beats Money in The Florida U.S. Senate Primary – Nesbitt & Parrinello",
+          "url": "https://www.nesbittresearch.com/blog/opposition-research-beats-money.html"
+        },
+        {
+          "title": "Douglas Schoen",
+          "url": "https://en.wikipedia.org/wiki/Douglas_Schoen"
+        }
+      ]
+    },
+    "marie-helene-habert-dassault": {
+      "query": "\"Marie-Hélène Habert-Dassault\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Election corruption claims: how the 'Dassault System' worked | Mediapart",
+          "url": "https://www.mediapart.fr/en/journal/france/170913/election-corruption-claims-how-dassault-system-worked"
+        },
+        {
+          "title": "Governance and executive compensation",
+          "url": "https://www.biomerieux.com/content/dam/biomerieux-com/investor/06---shareholder-area/en/2024/documents-made-available-for-the-shareholders-and-questions-answers/AG%202024%20-%20Directors%20List.pdf"
+        },
+        {
+          "title": "Au « Figaro », Alexis Brézet cabre une nouvelle fois la rédaction",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2024/07/03/au-figaro-alexis-brezet-cabre-une-nouvelle-fois-la-redaction_6246199_3236.html"
+        },
+        {
+          "title": "Les Dassault, la succession des mauvais sentiments",
+          "url": "https://www.lemonde.fr/series-d-ete/article/2024/08/18/les-dassault-la-succession-des-mauvais-sentiments_6285711_3451060.html"
+        },
+        {
+          "title": "The Dassault family, a succession of ill feelings",
+          "url": "https://www.lemonde.fr/en/summer-reads/article/2024/08/18/the-dassault-family-a-succession-of-ill-feelings_6717957_183.html"
+        }
+      ]
+    },
+    "bruce-kovner": {
+      "query": "\"Bruce Kovner\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Wisconsin Leak Illustrates Power of Elite Donors | Brennan Center for Justice",
+          "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-leak-illustrates-power-elite-donors"
+        },
+        {
+          "title": "An inside look at how politicians beg for big checks - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/an-inside-look-at-how-politicians-beg-for-big-checks/2016/09/19/c0308e24-7c1b-11e6-bd86-b7bbd53d2b5d_story.html"
+        },
+        {
+          "title": "Hedge funds bet heavily on Republicans at end of election – Center for Public Integrity",
+          "url": "https://publicintegrity.org/politics/hedge-funds-bet-heavily-on-republicans-at-end-of-election/"
+        },
+        {
+          "title": "Bruce Kovner",
+          "url": "https://en.wikipedia.org/wiki/Bruce_Kovner"
+        },
+        {
+          "title": "Bruce Kovner - SourceWatch",
+          "url": "https://sourcewatch.org/index.php?title=Bruce_Kovner"
+        },
+        {
+          "title": "h None | e --- | ---Examining Political Spending in",
+          "url": "https://www.commoncause.org/wp-content/uploads/legacy/states/new-york/research-and-reports/polishing-the-apple-examing.pdf"
+        }
+      ]
+    },
+    "eric-wittouck": {
+      "query": "\"Eric Wittouck\" Belgium political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Factcheck: de liberalen en de belastingen | PVDA",
+          "url": "https://www.pvda.be/nieuws/factcheck-de-liberalen-en-de-belastingen"
+        },
+        {
+          "title": "Numero Uno: de suikerbaron haalt het van de bierbaron - Doorbraak.be",
+          "url": "https://doorbraak.be/numero-uno-de-suikerbaron-haalt-het-van-de-bierbaron"
+        },
+        {
+          "title": "Ex-suikermagnaat met vermogen van 10,8 miljard euro: maak kennis met Eric Wittouck, de nieuwe rijkste Belg | VRT NWS: nieuws",
+          "url": "https://www.vrt.be/vrtnws/nl/2020/11/25/gewezen-suikermagnaat-eric-wittouck-onttroont-brouwersfamilies-a/"
+        },
+        {
+          "title": "Zijn vermogen dikt aan tot 11,5 miljard euro: rijkste Belg loopt verder uit na miljardenwinst | Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/binnenland/zijn-vermogen-dikt-aan-tot-115-miljard-euro-rijkste-belg-loopt-verder-uit-na-miljardenwinst/77226838.html"
+        },
+        {
+          "title": "Liste des faveurs nobiliaires accordées en Belgique sous le règne du roi Baudouin",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_faveurs_nobiliaires_accord%C3%A9es_en_Belgique_sous_le_r%C3%A8gne_du_roi_Baudouin"
+        },
+        {
+          "title": "IL-PARLAMENT EWROPEW SESSJONI 2023-2024 Rapporti verbatim tad-dibattiti tal-11 ta' Diċembru 2023",
+          "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/PDF/?uri=OJ%3AC_202500468"
+        }
+      ]
+    }
+  }
+}

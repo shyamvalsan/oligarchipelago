@@ -1,0 +1,157 @@
+{
+  "profiles": {
+    "tadashi-yanai": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of stated episodes; broader coverage still limited",
+      "confidence": "Low / scope limited",
+      "period": "TIME interview, November 2023",
+      "summary": "Yanai publicly advocates economic-policy changes. Having a prominent platform does not establish that officials delivered his preferred policies or a preferential business benefit.",
+      "mechanism": "Public economic-policy advocacy; outcomes and reciprocal benefit unresolved",
+      "support": [
+        {
+          "text": "In a TIME interview, Yanai urged higher interest rates, fewer handouts and regulatory reform, while criticizing Japan’s political leadership.",
+          "source": "TIME: Charlie Campbell interview",
+          "url": "https://time.com/collections/time100-leadership-series/6333659/tadashi-yanai-uniqlo-japan-profile/",
+          "date": "2023-11-13",
+          "kind": "Subject policy advocacy",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same profile describes the retail expansion of his father’s small business. Neither business success nor outspoken criticism establishes a state-granted advantage.",
+          "source": "TIME: commercial history and scope",
+          "url": "https://time.com/collections/time100-leadership-series/6333659/tadashi-yanai-uniqlo-japan-profile/",
+          "date": "2023-11-13",
+          "kind": "Alternative explanation / scope",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate: policy advocacy is observable, but implemented influence and reciprocal economic benefit are not established here. This is not a full review of Fast Retailing’s government relations or international supply chain."
+    },
+    "iris-fontbona": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of stated episodes; broader coverage still limited",
+      "confidence": "Low / scope limited",
+      "period": "Chilean business-group research covering 2010–2020, published 2023; ownership profile, January 2024",
+      "summary": "Research documents political resources around the Luksic business group. Fontbona’s ownership role matters, but group-level evidence does not yet isolate her personal direction of political activity or a reciprocal benefit.",
+      "mechanism": "Controlling family wealth, revolving-door networks and media interests; individual attribution unresolved",
+      "support": [
+        {
+          "text": "El País describes Fontbona’s control of foundation boards above the family holdings, while her sons lead business divisions. She is not simply an unrelated passive observer.",
+          "source": "El País: Antonia Laborde",
+          "url": "https://elpais.com/chile/2024-01-07/iris-fontbona-el-hermetismo-de-la-mujer-mas-rica-de-america-latina.html",
+          "date": "2024-01-07",
+          "kind": "Ownership and governance reporting",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "A peer-reviewed study identifies former public officials on Luksic-group boards, campaign financing and media interests as political resources. These observations concern the group and named family members, not automatically Fontbona’s personal decisions.",
+          "source": "Atenea: Oligarquía, poder material y recursos de poder en Chile, 2010–2020",
+          "url": "https://www.scielo.cl/scielo.php?pid=S0718-04622023000100237&script=sci_arttext",
+          "date": "2023",
+          "kind": "Academic research",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "El País distinguishes ownership-level influence from operating roles and says Fontbona does not sit on the listed companies’ boards. That distinction limits personal attribution; it does not remove ownership power.",
+          "source": "El País: roles and attribution",
+          "url": "https://elpais.com/chile/2024-01-07/iris-fontbona-el-hermetismo-de-la-mujer-mas-rica-de-america-latina.html",
+          "date": "2024-01-07",
+          "kind": "Attribution limit",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The study distinguishes the Luksic group’s earlier commercial origins from its later participation in privatizations. It does not describe every part of the fortune as originating in privatization.",
+          "source": "Atenea: historical scope",
+          "url": "https://www.scielo.cl/scielo.php?pid=S0718-04622023000100237&script=sci_arttext",
+          "date": "2023",
+          "kind": "Counter-context",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate until the individual-versus-family unit of assessment is resolved with more evidence. The Forbes “& family” label is a wealth attribution, not permission to assign every relative’s political conduct to the named person. Group-level scholarly classification is retained, not presented as an individual criminal finding."
+    },
+    "zhong-shanshan": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of stated episodes; broader coverage still limited",
+      "confidence": "Low / scope limited",
+      "period": "Wuyishan agreement, 2017; park controversy, 2020; public backlash, March 2024",
+      "summary": "Nongfu Spring’s water project involved local-government cooperation and environmental controversy. That warrants scrutiny of allocation and oversight, but the reviewed material does not establish Zhong personally receiving political favors.",
+      "mechanism": "Local-government investment agreement and water access; preferential terms unresolved",
+      "support": [
+        {
+          "text": "ThinkChina reports an August 2017 investment agreement with Wuyishan’s local government, designated a key provincial project. The report does not establish whether the terms were preferential.",
+          "source": "ThinkChina: Zhang Tiankan",
+          "url": "https://www.thinkchina.sg/society/chinas-richest-man-zhong-shanshan-sells-pure-spring-water-can-nongfu-spring-stay-clean-and-green",
+          "date": "2022-11-22",
+          "kind": "Project agreement reporting",
+          "access": "Indexed article passages reviewed; direct page retrieval failed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same account reports park authorities placing the disputed water-intake location outside the park boundary. The original allegation alone cannot establish unlawful construction inside the park.",
+          "source": "ThinkChina: reported authority response",
+          "url": "https://www.thinkchina.sg/society/chinas-richest-man-zhong-shanshan-sells-pure-spring-water-can-nongfu-spring-stay-clean-and-green",
+          "date": "2022-11-22",
+          "kind": "Counterevidence",
+          "access": "Indexed article passages reviewed; direct page retrieval failed"
+        },
+        {
+          "text": "CNA describes nationalist online attacks and Zhong’s denial of claims about his rivalry with Wahaha’s founder. These are not a government finding of corruption or proof of political control.",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/asia/china-nationalism-boycott-nongfu-spring-mo-yan-lawsuit-patriotism-4204806",
+          "date": "2024-03-19",
+          "kind": "Subject response / scope",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No score: company-government cooperation is not itself a preferential exchange, and social-media hostility is not proof for or against oligarchy. The underlying project agreement and individual decision-making still require review; no nationality-based inference is made."
+    },
+    "alexey-mordashov": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-08",
+      "reviewDepth": "Source-led review of stated episodes; broader coverage still limited",
+      "confidence": "Low / scope limited",
+      "period": "EU designation, February 2022; General Court judgment, September 2023",
+      "summary": "The EU attributed political-benefit and regime-support links to Mordashov’s holdings, and his 2023 sanctions challenge failed. Those records are substantial evidence to examine, but different legal grounds must not be collapsed into a proven personal patronage bargain.",
+      "mechanism": "Banking, media and industrial holdings ↔ attributed state support and benefit",
+      "support": [
+        {
+          "text": "The 2022 EU statement attributes benefit from political links and describes Severgroup’s connections to Bank Rossiya, National Media Group and Power Machines. These are the Council’s stated reasons, not a criminal conviction.",
+          "source": "Council Implementing Regulation (EU) 2022/336, entry 695",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32022R0336",
+          "date": "2022-02-28",
+          "kind": "Official attributed findings",
+          "access": "PDF text reviewed"
+        },
+        {
+          "text": "The General Court dismissed Mordashov’s challenge. Its summary includes the criterion covering leading businesspeople in revenue-generating sectors; that criterion is not itself a finding of a personal favor.",
+          "source": "General Court: T-248/22 summary",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/SUM/?uri=celex%3A62022TJ0248",
+          "date": "2023-09-20",
+          "kind": "Judicial outcome and scope",
+          "access": "Indexed official judgment-summary passages reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Paragraph 118 records a contractual clause intended to prevent the turbines’ installation in Crimea, while explaining why it did not defeat the material-support ground. This preserves the defense without misreporting it as a successful challenge.",
+          "source": "General Court: T-248/22, paragraph 118",
+          "url": "https://eur-lex.europa.eu/legal-content/SL/ALL/?uri=CELEX%3A62022TJ0248",
+          "date": "2023-09-20",
+          "kind": "Defense and judicial treatment",
+          "access": "Indexed official judgment passage reviewed"
+        }
+      ],
+      "limitations": "No numerical estimate from this legal-record review alone. The underlying benefit mechanism and person-level political leverage need independent corroboration. This file describes historical reasons and a specific judgment, not an assertion about all current holdings, current sanctions in every jurisdiction, or criminal guilt."
+    }
+  },
+  "rubrics": {}
+}

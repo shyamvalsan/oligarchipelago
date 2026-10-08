@@ -1,0 +1,89 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "dannine-avara": {
+      "query": "\"Dannine Avara\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Bloomberg Billionaires Index - Dannine Avara",
+          "url": "https://www.bloomberg.com/billionaires/profiles/dannine-d-avara/"
+        },
+        {
+          "title": "CLIMATE  ACCOUNTABILITY RESEARCH PROJECT",
+          "url": "https://static1.squarespace.com/static/6644f0574663f50233c21870/t/685ede978430950d2cd6f9fb/1751047833153/Pipeline-to-power-April-report.pdf"
+        },
+        {
+          "title": "Dannine Avara",
+          "url": "https://en.wikipedia.org/wiki/Dannine_Avara"
+        }
+      ]
+    },
+    "bruce-cheng": {
+      "query": "\"Bruce Cheng\" Taiwan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Kuomintang News Network",
+          "url": "https://www1.kmt.org.tw/english/page.aspx?anum=3828&mnum=112&type=article"
+        }
+      ]
+    },
+    "murali-divi": {
+      "query": "\"Murali Divi\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Divi's Lab's Murali Divi was the highest earning pharma promoter-executive in FY19- Moneycontrol.com",
+          "url": "https://www.moneycontrol.com/news/business/divis-labs-murali-divi-was-the-highest-earning-pharma-promoter-executive-in-fy19-4317641.html"
+        },
+        {
+          "title": "తెలుగు రాష్ట్రాల కుబేరుడు మురళి దివి | MURALI DIVI THE RICHEST TELUGU MAN",
+          "url": "https://www.andhrajyothy.com/2020/business/murali-divi-the-richest-telugu-man-151266.html"
+        },
+        {
+          "title": "Forbes: ఫోర్బ్స్ జాబితాలో హైదరాబాద్‌ వాసి.. రూ.250తో ప్రారంభమై కోట్లకు పడగెత్తిన వ్యాపారి | Divis Laboratories Managing Director Murali Divi from Hyderabad in Forbes World's Billionaires List | TV9 Telugu",
+          "url": "https://tv9telugu.com/telangana/hyderabad/divis-laboratories-managing-director-murali-divi-from-hyderabad-in-forbes-worlds-billionaires-list-1031040.html"
+        },
+        {
+          "title": "CASI WORKING PAPER SERIES",
+          "url": "https://casi.sas.upenn.edu/sites/default/files/research/H%20Damodaran-CASI%20WP-final.pdf"
+        }
+      ]
+    },
+    "michael-federmann": {
+      "query": "\"Michael Federmann\" Israel political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "UNITED STATES",
+          "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/e/NASDAQ_ESLT_2021.pdf"
+        },
+        {
+          "title": "The man with the biggest fortune on the TASE - Globes",
+          "url": "https://en.globes.co.il/en/article-the-man-with-the-biggest-fortune-on-the-tase-1001529832"
+        },
+        {
+          "title": "Elbit Systems - Political Audit - OpenIntel",
+          "url": "https://openintel.uk/elbit-systems/v-pol/"
+        },
+        {
+          "title": "War and AI helped them surge: five veteran Israeli tycoons who thrived in a turbulent",
+          "url": "https://www.ynetnews.com/business/article/rk0gbel6bx"
+        },
+        {
+          "title": "Michael Federmann",
+          "url": "https://en.wikipedia.org/wiki/Michael_Federmann"
+        },
+        {
+          "title": "CAUTION: ZIONISM!",
+          "url": "https://www.christianidentityaustralia.org/reads/Caution-Zionism.pdf"
+        }
+      ]
+    }
+  }
+}

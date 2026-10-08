@@ -1,0 +1,96 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "gary-rollins": {
+      "query": "\"Gary Rollins\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "dirk-rossmann": {
+      "query": "\"Dirk Rossmann\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Dirk Roßmann",
+          "url": "https://de.wikipedia.org/wiki/Dirk_Ro%C3%9Fmann"
+        },
+        {
+          "title": "Bundesgerichtshof bestätigt Freispruch für Dirk Roßmann und die Dirk Rossmann GmbH",
+          "url": "https://cms.law/de/deu/news-information/bundesgerichtshof-bestaetigt-freispruch-fuer-dirk-rossmann-und-die-dirk-rossmann-gmbh"
+        },
+        {
+          "title": "BT-Drucksache 15/3610",
+          "url": "https://rewis.io/bundestag/drucksache/bt-drucksache-153610/"
+        },
+        {
+          "title": "Ihr Platz",
+          "url": "https://de.wikipedia.org/wiki/Ihr_Platz"
+        },
+        {
+          "title": "Rossmann (Handelskette)",
+          "url": "https://de.wikipedia.org/wiki/Rossmann_%28Handelskette%29"
+        },
+        {
+          "title": "Press Release",
+          "url": "https://cms.law/en/media/local/cms-hs/files/news-information/press-releases-archive-2015-and-older/091112_pm_rossmann_en"
+        }
+      ]
+    },
+    "patrick-ryan": {
+      "query": "\"Patrick Ryan\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Patrick Ryan — Voting Record & Stock Trades | Now You Know",
+          "url": "https://nowyouknow.vote/scorecard_R000579"
+        },
+        {
+          "title": "Pat Ryan (D) · New York 18th District · Bankrolled",
+          "url": "https://www.bankrolled.org/2026/candidates/pat-ryan"
+        },
+        {
+          "title": "Patrick Ryan — Bribery is Legal",
+          "url": "https://www.briberyislegal.org/members/patrick-ryan"
+        },
+        {
+          "title": "Patrick Ryan — House · NY-18 — WriteTheUS",
+          "url": "https://www.writetheus.com/officials/patrick-ryan-r000579.html"
+        },
+        {
+          "title": "MUR #8020 | FEC",
+          "url": "https://www.fec.gov/data/legal/matter-under-review/8020/"
+        },
+        {
+          "title": "MUR802000075",
+          "url": "https://www.fec.gov/files/legal/murs/8020/8020_11.pdf"
+        }
+      ]
+    },
+    "jacques-saade-jr": {
+      "query": "\"Jacques Saadé, Jr.\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Liste de milliardaires français",
+          "url": "https://fr.wikipedia.org/wiki/Liste_de_milliardaires_fran%C3%A7ais"
+        },
+        {
+          "title": "Car en effet, à la lecture du dit tableau, il n’y a rien d’utopique à penser que **seul un coup de balai dans la fourmilière capitaliste-étatique** peut avoir droit de citer si nous avons encore l’intention de vivre dans un monde nouveau débarrassé des statistiques « forbesiennes » et de celles et ceux qui la composent. Et précision utile, nous ne parlons pas ici de l’abolitions des richesses naturelles et produites, mais nous avons l’audace de projeter ladite abolition à celles et ceux qui se les accaparent",
+          "url": "https://infosetanalyseslibertaires.org/wp-content/uploads/2025/10/ialoctobre2025no127-1.pdf"
+        },
+        {
+          "title": "Rodolphe Saadé, de la mer aux ondes avec le rachat de BFM-TV",
+          "url": "https://www.lemonde.fr/economie/article/2024/03/16/rodolphe-saade-de-la-mer-aux-ondes_6222334_3234.html"
+        },
+        {
+          "title": "Who is Rodolphe Saadé, the billionaire who purchased France's leading news channel?",
+          "url": "https://www.lemonde.fr/en/economy/article/2024/03/18/who-is-rodolphe-saade-the-billionaire-who-purchased-france-s-leading-news-channel_6629761_19.html"
+        }
+      ]
+    }
+  }
+}

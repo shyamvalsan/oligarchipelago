@@ -1,0 +1,64 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "chris-larsen": {
+      "query": "\"Chris Larsen\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Katie Porter rose to fame owning CEOs. Now she’s winning some over",
+          "url": "https://www.sfchronicle.com/politics/joegarofoli/article/katie-porter-chris-larsen-21169718.php"
+        },
+        {
+          "title": "Chris Larsen",
+          "url": "https://en.wikipedia.org/wiki/Chris_Larsen"
+        },
+        {
+          "title": "Crypto CEO Chris Larsen Donates $500,000 to Support Political Moderate in Supervisors Race | KQED",
+          "url": "https://www.kqed.org/news/12098461/crypto-ceo-chris-larsen-donates-500000-to-support-political-moderate-in-supervisors-race"
+        },
+        {
+          "title": "Chris Larsen | Tech Influence Watch",
+          "url": "https://influence.citationneeded.news/2026/individuals/chris-larsen"
+        },
+        {
+          "title": "Andy Ogles targeted by clean energy PAC over Inflation Reduction Act | Fox News",
+          "url": "https://www.foxnews.com/politics/top-trump-ally-warns-super-pac-bankrolled-dem-billionaire-meddling-gop-primary.amp"
+        },
+        {
+          "title": "Special Report: The Billionaire Tax Revolt - The Phoenix Project",
+          "url": "https://www.phoenixprojectnow.com/phoenix-review/blog/special-report-the-billionaire-tax-revolt"
+        }
+      ]
+    },
+    "marijke-mars": {
+      "query": "\"Marijke Mars\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "pamela-mars": {
+      "query": "\"Pamela Mars\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "2023] Leashed 347",
+          "url": "https://jlsp.law.columbia.edu/files/2023/03/Vol56-3-Wilke.pdf"
+        }
+      ]
+    },
+    "valerie-mars": {
+      "query": "\"Valerie Mars\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "UNITED STATES",
+          "url": "https://ir.purecycle.com/sec-filings-reports/all-sec-filings/content/0001193125-25-323749/0001193125-25-323749.pdf"
+        }
+      ]
+    }
+  }
+}

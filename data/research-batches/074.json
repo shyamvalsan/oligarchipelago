@@ -1,0 +1,75 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "gong-hongjia": {
+      "query": "\"Gong Hongjia\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "johann-graf": {
+      "query": "\"Johann Graf\" Austria political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "DOSSIER · Ohne Skrupel",
+          "url": "https://www.dossier.at/dossiers/korruption/ohne-skrupel/"
+        },
+        {
+          "title": "Parlamentarische Materialien",
+          "url": "https://www.parlament.gv.at/dokument/XXVII/J/1935/fnameorig_796354.html"
+        },
+        {
+          "title": "Johann Graf",
+          "url": "https://en.wikipedia.org/wiki/Johann_Graf"
+        },
+        {
+          "title": "„Ibiza“-U-Ausschuss: Neuer Wirbel um Sobotkas Vorsitz - news.ORF.at",
+          "url": "https://orf.at/stories/3183258/"
+        },
+        {
+          "title": "Johann Graf (Unternehmer)",
+          "url": "https://de.wikipedia.org/wiki/Johann_Graf_%28Unternehmer%29"
+        },
+        {
+          "title": "Novomatic-Gründer Graf will mit Politikern hauptsächlich \"Smalltalk\" geführt haben - Wirtschaftspolitik - derStandard.at › Wirtschaft",
+          "url": "https://www.derstandard.at/story/2000146551727/novomatic-gruender-graf-will-mit-politikern-hauptsaechlich-smalltalk-gefuehrt-haben"
+        }
+      ]
+    },
+    "gabe-newell": {
+      "query": "\"Gabe Newell\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "mikhail-prokhorov": {
+      "query": "\"Mikhail Prokhorov\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Mikhail Prokhorov",
+          "url": "https://en.wikipedia.org/wiki/Mikhail_Prokhorov"
+        },
+        {
+          "title": "Disciplining the influential media in Russia | OSW Centre for Eastern Studies",
+          "url": "https://www.osw.waw.pl/en/publikacje/analyses/2016-05-18/disciplining-influential-media-russia"
+        },
+        {
+          "title": "The man who cared too little. How Mikhail Prokhorov tried (and failed) to reshape Russian politics and media — Meduza",
+          "url": "https://meduza.io/en/feature/2016/05/20/the-man-who-cared-too-little"
+        },
+        {
+          "title": "Mikhail Prokhorov 2012 presidential campaign",
+          "url": "https://en.wikipedia.org/wiki/Mikhail_Prokhorov_2012_presidential_campaign"
+        },
+        {
+          "title": "Russian Political, Economic, and Security Issues and U.S. Interests",
+          "url": "https://www.everycrsreport.com/files/20111104_RL33407_12e6a0e89d06c0bcd2a705920c00f7dee13423b0.pdf"
+        }
+      ]
+    }
+  }
+}

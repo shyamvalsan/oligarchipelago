@@ -1,0 +1,101 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "dieter-schwarz": {
+      "query": "\"Dieter Schwarz\" Germany political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Dieter Schwarz Stiftung",
+          "url": "https://de.wikipedia.org/wiki/Dieter_Schwarz_Stiftung"
+        },
+        {
+          "title": "Neue Enthüllungen im Fall Reinhold Geilsdörfer. Geheimvertrag mit Lidl-Gründer? | Transparency International Deutschland e.V.",
+          "url": "https://www.transparency.de/aktuelles/detail/article/neue-enthuellungen-im-fall-reinhold-geilsdoerfer-geheimvertrag-mit-lidl-gruender"
+        },
+        {
+          "title": "Schwarz-Gruppe",
+          "url": "https://de.wikipedia.org/wiki/Schwarz-Gruppe"
+        },
+        {
+          "title": "Dieter Schwarz Foundation",
+          "url": "https://en.wikipedia.org/wiki/Dieter_Schwarz_Foundation"
+        }
+      ]
+    },
+    "german-larrea-mota-velasco": {
+      "query": "\"Germán Larrea Mota Velasco\" Mexico political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "La Jornada - Germán Larrea, magnate y depredador de bienes nacionales / C. Fernández Vega",
+          "url": "https://www.jornada.com.mx/noticia/2022/08/08/politica/german-larrea-magnate-y-depredador-de-bienes-nacionales-carlos-fernandez-vega-3900"
+        },
+        {
+          "title": "La Jornada - Astillero",
+          "url": "https://www.jornada.com.mx/notas/2023/05/22/politica/astillero-larrea-empresarialmente-toxico-transa-con-ferrocarriles-expropiacion-petate-electoral-corcholatismo-con-vista-al-norte/"
+        },
+        {
+          "title": "La Jornada: Dinero",
+          "url": "https://web.jornada.com.mx/2023/05/22/opinion/008o1eco"
+        },
+        {
+          "title": "Golpe al ‘ciudadano T-MEC’ – El Financiero",
+          "url": "https://www.elfinanciero.com.mx/opinion/dario-celis/2023/05/22/golpe-al-ciudadano-t-mec/"
+        },
+        {
+          "title": "La Jornada: La mafia del poder y sus gatos",
+          "url": "https://www.jornada.com.mx/2018/05/17/opinion/016a1pol"
+        },
+        {
+          "title": "La Jornada: Morena podría denunciar a magnates que inducen el voto",
+          "url": "https://www.jornada.com.mx/2018/06/03/politica/005n3pol"
+        }
+      ]
+    },
+    "gautam-adani-1": {
+      "query": "\"Gautam Adani\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Modi govt allowed Adani coal deals it knew were ‘inappropriate’ | Business and Economy | Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2023/3/1/modi-govt-allowed-adani-coal-deals-it-knew-were-inappropriate"
+        },
+        {
+          "title": "Documents Provide Fresh Insight Into Allegations of Stock Manipulation That Rocked India’s Powerful Adani Group | OCCRP",
+          "url": "https://www.occrp.org/en/investigation/documents-provide-fresh-insight-into-allegations-of-stock-manipulation-that-rocked-indias-powerful-adani-group"
+        },
+        {
+          "title": "India’s $3.9 billion plan to help Modi’s mogul ally after U.S. charges - The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2025/10/24/india-adani-group-modi-lic/"
+        },
+        {
+          "title": "Why Bihar Congress is protesting an Adani project, what’s the govt claim | Explained News - The Indian Express",
+          "url": "https://indianexpress.com/article/explained/bihar-congress-adani-project-govt-claim-10263372/"
+        },
+        {
+          "title": "Gautam Adani",
+          "url": "https://en.wikipedia.org/wiki/Gautam_Adani"
+        },
+        {
+          "title": "US agrees to settle lawsuit that accused an Indian billionaire of hiding an alleged bribery scheme",
+          "url": "https://apnews.com/article/8c2cfafe46e83c1de7dba4273c630074"
+        }
+      ]
+    },
+    "tadashi-yanai": {
+      "query": "\"Tadashi Yanai\" Japan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "The Founder of Uniqlo Has a Wake-Up Call for Japan",
+          "url": "https://time.com/6333659/tadashi-yanai-uniqlo-japan-profile/"
+        }
+      ]
+    }
+  }
+}

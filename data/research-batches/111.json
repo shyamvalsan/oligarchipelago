@@ -1,0 +1,101 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "don-hankey": {
+      "query": "\"Don Hankey\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Donald Trump wants to give part of Yosemite National Park to a private developer",
+          "url": "https://www.sltrib.com/news/politics/2026/08/28/donald-trump-wants-give-part/"
+        },
+        {
+          "title": "Don Hankey, California auto loan billionaire, finances Trump's $175 million bond - The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2024/04/02/don-hankey-trump-bond-175-million-california-auto-loans/?itid=lk_inline_manual_2"
+        },
+        {
+          "title": "Don Hankey: Meet the billionaire whose firm bailed out Donald Trump with US$175M - National | Globalnews.ca",
+          "url": "https://globalnews.ca/news/10399773/don-hankey-donald-trump-billionaire-bond/"
+        },
+        {
+          "title": "Don Hankey, il benefattore di Trump che ha pagato la cauzione da 175 milioni di dollari | Corriere.it",
+          "url": "https://www.corriere.it/esteri/24_aprile_03/chi-don-hankey-benefattore-trump-che-ha-pagato-cauzione-175-milioni-a0dc78dc-f17d-11ee-8ce8-d1851d0e956a.shtml"
+        },
+        {
+          "title": "Billionaire whose firm backed Trump’s $175 million bond reveals how the deal came together - KESQ",
+          "url": "https://kesq.com/money/cnn-business-consumer/2024/04/02/billionaire-whose-firm-backed-trumps-175-million-bond-reveals-how-the-deal-came-together/"
+        },
+        {
+          "title": "BEFORE THE",
+          "url": "https://downloads.regulations.gov/DOT-OST-2015-0095-0001/attachment_1.pdf"
+        }
+      ]
+    },
+    "pankaj-patel": {
+      "query": "\"Pankaj Patel\" India political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Pankaj Patel(INC):Constituency- PHULPUR(UTTAR PRADESH) - Expense Affidavit Information of Candidate:",
+          "url": "https://www.myneta.info/LokSabha2019/expense.php?candidate_id=12404"
+        },
+        {
+          "title": "Pankaj Patel (politician)",
+          "url": "https://en.wikipedia.org/wiki/Pankaj_Patel_%28politician%29"
+        }
+      ]
+    },
+    "daniel-tsai": {
+      "query": "\"Daniel Tsai\" Taiwan political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Group files corruption lawsuit against Ma over Fubon - Taipei Times",
+          "url": "https://www.taipeitimes.com/News/front/archives/2016/10/19/2003657462"
+        },
+        {
+          "title": "2012 ELECTIONS: Fubon chairman did give money to KMT, DPP says - Taipei Times",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2011/12/19/2003521112"
+        },
+        {
+          "title": "Limited Waiver of Executive Order 13989 for Daniel Tsai | HHS.gov",
+          "url": "https://www.hhs.gov/about/agencies/ogc/key-personnel/ethics-division/biden-administration-ethics-pledge-waivers/daniel-tsai-ethics-pledge-waiver/index.html"
+        },
+        {
+          "title": "BOARD OF SUPERVISORS AGENDA",
+          "url": "https://sfgov.legistar.com/View.ashx?GUID=157FB9F8-2B8B-47F6-BD90-A17CACC789A0&ID=15065975&M=F"
+        },
+        {
+          "title": "Taipei Yearbook 2010",
+          "url": "https://www-ws.gov.taipei/001/Upload/430/relfile/41653/9059446/5dbe0b40-9a73-4163-9256-bb1a0b4861d6.pdf"
+        }
+      ]
+    },
+    "denise-coates": {
+      "query": "\"Denise Coates\" United Kingdom political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "The ultimate gambler? How Denise Coates became Britain’s richest woman | Gambling | The Guardian",
+          "url": "https://www.theguardian.com/society/2024/oct/02/the-ultimate-gambler-how-denise-coates-became-britains-richest-woman"
+        },
+        {
+          "title": "Meet Denise Coates, the best paid woman in the world | Executive pay and bonuses | The Guardian",
+          "url": "https://www.theguardian.com/business/2018/nov/24/meet-denise-coates-best-paid-bet-365"
+        },
+        {
+          "title": "Denise Coates",
+          "url": "https://en.wikipedia.org/wiki/Denise_Coates"
+        },
+        {
+          "title": "La dona que cobra més que tots els presidents de l’Íbex-35 junts",
+          "url": "https://empreses.ara.cat/empreses/dona-cobra-presidents-ibex-joc-apostes-bet365_1_3950626.html"
+        }
+      ]
+    }
+  }
+}

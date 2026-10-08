@@ -1,0 +1,68 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "giovanni-ferrero": {
+      "query": "\"Giovanni Ferrero\" Italy political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "li-ka-shing": {
+      "query": "\"Li Ka-shing\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Warning signal: Political trust, typhoons and the myth of the ‘Li's field’ in Hong Kong - EdUHK Research Repository",
+          "url": "https://repository.eduhk.hk/en/publications/warning-signal-political-trust-typhoons-and-the-myth-of-the-lis-f/"
+        },
+        {
+          "title": "(PDF) The Partnership between the Chinese Government and Hong Kong's Capitalist Class: Implications for HKSAR Governance, 1997–2012",
+          "url": "https://www.researchgate.net/publication/278696022_The_Partnership_between_the_Chinese_Government_and_Hong_Kong%27s_Capitalist_Class_Implications_for_HKSAR_Governance_1997-2012"
+        },
+        {
+          "title": "(PDF) Real Estate Elite, Economic Development, and Political Conflicts in Postcolonial Hong Kong",
+          "url": "https://www.researchgate.net/publication/275856601_Real_Estate_Elite_Economic_Development_and_Political_Conflicts_in_Postcolonial_Hong_Kong"
+        },
+        {
+          "title": "1996 Hong Kong Chief Executive election",
+          "url": "https://en.wikipedia.org/wiki/1996_Hong_Kong_Chief_Executive_election"
+        },
+        {
+          "title": "2017 Hong Kong Chief Executive election",
+          "url": "https://en.wikipedia.org/wiki/2017_Hong_Kong_Chief_Executive_election"
+        },
+        {
+          "title": "2013.A2.001.13A Research Report",
+          "url": "https://www.cepu.gov.hk/doc/en/research_report%28PDF%29/2013_A2_001_13A_Final_Report_Prof_Li.pdf"
+        }
+      ]
+    },
+    "mark-mateschitz": {
+      "query": "\"Mark Mateschitz\" Austria political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Politik, Sport, Wirtschaft: Große Trauer um Dietrich Mateschitz - news.ORF.at",
+          "url": "https://orf.at/stories/3290862/"
+        },
+        {
+          "title": "Austria - Euromedia Ownership Monitor",
+          "url": "https://media-ownership.eu/2025-edition/country-reports/austria/"
+        }
+      ]
+    },
+    "gianluigi-aponte": {
+      "query": "\"Gianluigi Aponte\" Switzerland political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "How the pandemic helped make the richest family in Switzerland - The Swiss Times",
+          "url": "https://theswisstimes.ch/es/how-the-pandemic-helped-make-the-richest-family-in-switzerland/"
+        }
+      ]
+    }
+  }
+}

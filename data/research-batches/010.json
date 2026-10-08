@@ -1,0 +1,67 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "ken-griffin": {
+      "query": "\"Ken Griffin\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "What did $50 million buy Ken Griffin in Illinois’ primary? Not much. | NPR Illinois",
+          "url": "https://www.nprillinois.org/illinois/2022-06-29/what-did-50-million-buy-ken-griffin-in-illinois-primary-not-much"
+        },
+        {
+          "title": "Ken Griffin’s Billions and Billions | The New Yorker",
+          "url": "https://www.newyorker.com/magazine/2026/06/22/ken-griffins-billions-and-billions"
+        },
+        {
+          "title": "Kenneth C. Griffin",
+          "url": "https://en.wikipedia.org/wiki/Kenneth_C._Griffin"
+        },
+        {
+          "title": "Ken Griffin was Miami-Dade’s top political donor in 2024 | Miami Herald",
+          "url": "https://www.miamiherald.com/news/local/community/miami-dade/article297883988.html"
+        },
+        {
+          "title": "Scoop: GOP megadonor Ken Griffin says he'd back Rubio over Vance in 2028",
+          "url": "https://www.axios.com/2026/07/08/ken-griffin-gop-rubio-vance-2028"
+        },
+        {
+          "title": "REPORT: Timing Of Hedge-Fund Billionaire’s $2 Million Donation to Pro-Loeffler Super PAC Raises Conflict Of Interest Concerns - DSCC",
+          "url": "https://www.dscc.org/article/report-timing-of-hedge-fund-billionaires-2-million-donation-to-pro-loeffler-super-pac-raises-conflict-of-interest-concerns/"
+        }
+      ]
+    },
+    "jacqueline-mars": {
+      "query": "\"Jacqueline Mars\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "john-mars": {
+      "query": "\"John Mars\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "lukas-walton": {
+      "query": "\"Lukas Walton\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Comer, Norman Probe Biden Administration’s Taxpayer-Funded Solar Loan to Political Donor - United States House Committee on Oversight and Government Reform",
+          "url": "https://oversight.house.gov/release/comer-norman-probe-biden-administrations-taxpayer-funded-solar-loan-to-political-donor/"
+        },
+        {
+          "title": "Walmart and Walton Family Political Spending 2024 Final Data.xlsx",
+          "url": "https://united4respect.org/wp-content/uploads/2024/10/Walmart-and-Walton-Family-Political-Spending-2024-Final-Data.xlsx-DATA.pdf"
+        },
+        {
+          "title": "Lukas Walton - Influence Watch",
+          "url": "https://www.influencewatch.org/person/lukas-walton/"
+        }
+      ]
+    }
+  }
+}

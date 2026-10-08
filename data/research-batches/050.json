@@ -1,0 +1,93 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "ann-walton-kroenke": {
+      "query": "\"Ann Walton Kroenke\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Walton family's Denver Broncos purchase makes it Colorado's most influential player - Axios Denver",
+          "url": "https://www.axios.com/local/denver/2022/08/09/walton-colorado-denver-broncos-foundation"
+        },
+        {
+          "title": "THE TIES THAT BLIND? WAL-MART'S DEALS SHOW THE COMPLEX ISSUES IN MIXING FAMILY AND BUSINESS - The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/business/1995/08/06/the-ties-that-blind-wal-marts-deals-show-the-complex-issues-in-mixing-family-and-business/54f8f94a-f6f3-481c-93f7-d0b498f4e0b6/"
+        }
+      ]
+    },
+    "xavier-niel": {
+      "query": "\"Xavier Niel\" France political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Uber Files: When the company courted French billionaires, hoping for VIP lobbyists",
+          "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/07/10/uber-files-when-the-company-courted-french-billionaires-hoping-for-vip-lobbyists_5989666_8.html"
+        },
+        {
+          "title": "Xavier Niel, le triomphe du hacker",
+          "url": "https://www.lemonde.fr/technologies/article/2014/04/30/xavier-niel-le-triomphe-du-hacker_4409457_651865.html"
+        },
+        {
+          "title": "L’audition électrique de Xavier Niel et Matthieu Pigasse devant la commission d’enquête sur l’audiovisuel public",
+          "url": "https://www.lemonde.fr/economie/article/2026/04/02/cirque-demarche-politique-l-audition-electrique-de-xavier-niel-et-matthieu-pigasse-devant-la-commission-d-enquete-sur-l-audiovisuel-public_6676190_3234.html"
+        },
+        {
+          "title": "Le Monde : Matthieu Pigasse et Xavier Niel signent le droit d’agrément réclamé par les rédactions",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2019/09/23/le-monde-matthieu-pigasse-et-xavier-niel-signent-le-droit-d-agrement-reclame-par-les-redactions_6012754_3236.html"
+        },
+        {
+          "title": "Emmanuel Macron et la bataille des magnats des médias",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2021/03/26/emmanuel-macron-et-la-bataille-des-magnats-des-medias_6074597_4500055.html"
+        },
+        {
+          "title": "Claude Perdriel",
+          "url": "https://fr.wikipedia.org/wiki/Claude_Perdriel"
+        }
+      ]
+    },
+    "alisher-usmanov": {
+      "query": "\"Alisher Usmanov\" Russia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Treasury Sanctions Russians Bankrolling Putin and Russia-Backed Influence Actors | U.S. Department of the Treasury",
+          "url": "https://home.treasury.gov/news/press-releases/jy0628"
+        },
+        {
+          "title": "Uber hired oligarch-linked Russian lobbyist despite bribery fears | Uber | The Guardian",
+          "url": "https://www.theguardian.com/news/2022/jul/11/uber-hired-oligarch-linked-lobbyist-russia-bribery-fears"
+        },
+        {
+          "title": "Sanctioning an Oligarch Is Not So Easy: Why the Money Trail of Alisher Usmanov, One of Russia’s Wealthiest Men, Is Difficult to Follow | OCCRP",
+          "url": "https://www.occrp.org/en/project/russian-asset-tracker/sanctioning-an-oligarch-is-not-so-easy-why-the-money-trail-of-alisher-usmanov-one-of-russias-wealthiest-men-is-difficult-to-follow"
+        },
+        {
+          "title": "Oligarch funded Everton football club while barred from UK | Alisher Usmanov | The Guardian",
+          "url": "https://www.theguardian.com/business/2023/may/03/oligarch-funded-everton-football-club-while-barred-from-uk-alisher-usmanov"
+        },
+        {
+          "title": "Alisher Usmanov",
+          "url": "https://en.wikipedia.org/wiki/Alisher_Usmanov"
+        },
+        {
+          "title": "Publications Office",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?from=FR&uri=CELEX%3A32022D0337"
+        }
+      ]
+    },
+    "david-velez": {
+      "query": "\"David Velez\" Colombia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Abelardo de la Espriella anuncia al banquero David Vélez como su asesor para impulsar la inteligencia artificial en Colombia",
+          "url": "https://elpais.com/america-colombia/2026-09-18/abelardo-de-la-espriella-anuncia-al-banquero-david-velez-como-su-asesor-para-impulsar-la-inteligencia-artificial-en-colombia.html"
+        }
+      ]
+    }
+  }
+}

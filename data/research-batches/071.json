@@ -1,0 +1,81 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "juan-carlos-escotet": {
+      "query": "\"Juan Carlos Escotet\" Venezuela political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "El chavismo amenaza con nacionalizar Banesco | Empresas | Cinco Días",
+          "url": "https://cincodias.elpais.com/cincodias/2017/12/28/companias/1514492611_868666.html"
+        },
+        {
+          "title": "Juan Carlos Escotet",
+          "url": "https://en.wikipedia.org/wiki/Juan_Carlos_Escotet"
+        },
+        {
+          "title": "Escotet, el venezolano que compró al Estado Novagalicia, también fue cliente de HSBC",
+          "url": "https://www.elconfidencial.com/economia/lista-falciani/2015-02-12/escotet-el-venezolano-que-compro-al-estado-novagalicia-tambien-fue-cliente-de-hsbc_708301/"
+        },
+        {
+          "title": "Banesco",
+          "url": "https://es.wikipedia.org/wiki/Banesco"
+        },
+        {
+          "title": "Juan Carlos Escotet y Banesco: las sombras detrás del ascenso del banquero venezolano - Banqueros",
+          "url": "https://banqueros.net/juan-carlos-escotet-y-banesco-las-sombras-detras-del-ascenso-del-banquero-venezolano/"
+        },
+        {
+          "title": "El saqueo de Venezuela: Feijóo, Aznar y Escotet en la picota de la nueva era venezolana",
+          "url": "https://www.xornalgalicia.com/reportaxes-a-fondo/el-saqueo-de-venezuela-feijoo-aznar-y-escotet-en-la-picota-de-la-nueva-era-venezolana"
+        }
+      ]
+    },
+    "lin-bin": {
+      "query": "\"Lin Bin\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Case 1:21-cv-00280-RC  Document 21  Filed 03/12/21  Page 3 of 26",
+          "url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_21-cv-00280/pdf/USCOURTS-dcd-1_21-cv-00280-0.pdf"
+        }
+      ]
+    },
+    "wang-laichun": {
+      "query": "\"Wang Laichun\" Hong Kong political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0506/2025050602126.pdf"
+        },
+        {
+          "title": "The Government of the Hong Kong Special Administrative Region Gazette",
+          "url": "https://www.reo.gov.hk/pdf/gazette/eng/egn2023275888.pdf"
+        },
+        {
+          "title": "The Stock Exchange of Hong Kong Limited and the Securities and Futures Commission take no responsibility for the",
+          "url": "https://www1.hkexnews.hk/app/sehk/2025/107145/documents/sehk25022800212.pdf?outputType=chromeless"
+        }
+      ]
+    },
+    "li-xiting": {
+      "query": "\"Li Xiting\" Singapore political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Li Xiting",
+          "url": "https://en.wikipedia.org/wiki/Li_Xiting"
+        },
+        {
+          "title": "Bloomberg Report On Increasingly Secret SG Mansion Deals, Including Shanmugam's 88m GCB Sale in August 2023.",
+          "url": "https://www.reddit.com/r/SingaporeRaw/comments/1hcb77d"
+        }
+      ]
+    }
+  }
+}

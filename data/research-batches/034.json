@@ -1,0 +1,76 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "low-tuck-kwong": {
+      "query": "\"Low Tuck Kwong\" Indonesia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Editorial: What the Bayan takeover says about Indonesia’s concession management",
+          "url": "https://www.thereformist.id/p/editorial-what-the-bayan-takeover"
+        },
+        {
+          "title": "Profil Low Tuck Kwong, Konglomerat yang Beli Lukisan Kuda Api SBY Rp6,5 Miliar",
+          "url": "https://entrepreneur.bisnis.com/read/20260219/265/1954170/profil-low-tuck-kwong-konglomerat-yang-beli-lukisan-kuda-api-sby-rp65-miliar"
+        },
+        {
+          "title": "Low Tuck Kwong v Sukamto Sia",
+          "url": "https://www.elitigation.sg/gd/gd/2010_SGHC_159/pdf"
+        },
+        {
+          "title": "Low Tuck Kwong",
+          "url": "https://en.wikipedia.org/wiki/Low_Tuck_Kwong"
+        }
+      ]
+    },
+    "nancy-walton-laurie": {
+      "query": "\"Nancy Walton Laurie\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "prince-alwaleed-bin-talal-alsaud": {
+      "query": "\"Prince Alwaleed Bin Talal Alsaud\" Saudi Arabia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Al Waleed bin Talal Al Saud",
+          "url": "https://en.wikipedia.org/wiki/Al_Waleed_bin_Talal_Al_Saud"
+        }
+      ]
+    },
+    "dhanin-chearavanont": {
+      "query": "\"Dhanin Chearavanont\" Thailand political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "POWER ON THE PACIFIC RIM : Profiles : 10 Pacific Rim Giants Tread Own Paths to Influence : Dhanin Chearavanont: Cliffhanger on the Phones - Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1991-05-21-wr-2445-story.html"
+        },
+        {
+          "title": "Influence Peddling, Bush Style",
+          "url": "https://www.thenation.com/article/archive/influence-peddling-bush-style/tnamp/"
+        },
+        {
+          "title": "Technocracy and Thaksinocracy in Thailand:",
+          "url": "https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/189575/1/sas_3_2_299.pdf"
+        },
+        {
+          "title": "1",
+          "url": "https://www.iri.org/wp-content/uploads/2023/07/IRI-Countering-PRC-Information-Manipulation-Framework-for-Understanding-and-Action.pdf"
+        },
+        {
+          "title": "Dirty Over 30 - Dhanin Chearavanont",
+          "url": "https://www.justiceformyanmar.org/dirty-over-30/dhanin-chearavanont"
+        },
+        {
+          "title": "Government policies favour big business, say critics",
+          "url": "https://www.thephuketnews.com/government-policies-favour-big-business-say-critics-93560.php"
+        }
+      ]
+    }
+  }
+}

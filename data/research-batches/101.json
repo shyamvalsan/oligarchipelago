@@ -1,0 +1,68 @@
+{
+  "method": "Discovery only: candidate source URLs, not verified evidence or completed assessments.",
+  "profiles": {
+    "john-morris": {
+      "query": "\"John Morris\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "John Morris, Mr.",
+          "url": "https://capitol.texas.gov/tlodocs/884/publiccomments/billhistory/HB00001H.pdf"
+        }
+      ]
+    },
+    "hong-ra-hee": {
+      "query": "\"Hong Ra-hee\" South Korea political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": []
+    },
+    "frank-lowy": {
+      "query": "\"Frank Lowy\" Australia political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Carr under pressure over Lowy influence - PM Archive - ABC listen",
+          "url": "https://www.abc.net.au/pm/archive/articles/2004/08/18/s1179758.htm"
+        },
+        {
+          "title": "Lowy / Levy connection under scrutiny - AM Archive - ABC listen",
+          "url": "https://www.abc.net.au/am/archive/articles/2002/04/15/s531278.htm"
+        },
+        {
+          "title": "Westfield's Frank Lowy questioned over shopping centre closure - The World Today Archive - ABC listen",
+          "url": "https://www.abc.net.au/worldtoday/archive/articles/2004/11/29/s1253917.htm"
+        },
+        {
+          "title": "Carr gift to Lowy and Latham?",
+          "url": "https://www.greenleft.org.au/1993/590/carr-gift-lowy-and-latham"
+        },
+        {
+          "title": "Frank Lowy: Australia ran clean World Cup bid, outgoing billionaire FFA boss says - ABC News",
+          "url": "https://www.abc.net.au/news/2015-11-17/lowy-insists-australia-ran-clean-world-cup-bid/6945680"
+        },
+        {
+          "title": "Money and Influence - ABC News",
+          "url": "https://www.abc.net.au/news/2016-05-23/money-and-influence-promo/7429766"
+        }
+      ]
+    },
+    "robert-rowling": {
+      "query": "\"Robert Rowling\" United States political influence government favoritism lobbying concessions",
+      "searchedAt": "2026-10-08",
+      "status": "discovery-only-not-reviewed",
+      "leads": [
+        {
+          "title": "Robert Rowling",
+          "url": "https://en.wikipedia.org/wiki/Robert_Rowling"
+        },
+        {
+          "title": "AUTHENTICATED",
+          "url": "https://www.congress.gov/112/chrg/CHRG-112shrg86915/CHRG-112shrg86915.pdf"
+        }
+      ]
+    }
+  }
+}
