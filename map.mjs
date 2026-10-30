@@ -290,16 +290,16 @@ function renderPanel(){
   const nb=neighbours(ties,selected).sort((x,y)=>(x.tie.derived?1:0)-(y.tie.derived?1:0)||rank[x.other]-rank[y.other]);
   const scored=Number.isFinite(a.score);
   pn.innerHTML=`<button class="close" aria-label="Close panel" data-close>×</button>
-  <p class="eyebrow">ISLE № ${p.rank} · ${h(p.country.toUpperCase())}</p>
+  <p class="meta">Forbes rank ${p.rank}, ${h(p.country)}</p>
   <h2>${h(p.name)}</h2><p class="meta">${h(p.sourceOfWealth)} · ${h(p.industry)}</p>
   <div class="big">${money(p.wealth*1e9)}</div>
   <dl><dt>Fortune</dt><dd>${h(({'self-made':'Self-made (Forbes)',inherited:'Inherited',mixed:'Inherited & grown','family-linked':'Family-linked'})[p.origin]||'Unknown')}</dd><dt>Age</dt><dd>${p.age??'—'}</dd>
   <dt>Flag</dt><dd><span class="badge" style="background:${st.color}">${h(st.short)}</span></dd>
   ${scored?`<dt>Spectrum</dt><dd>${a.score}/100 (plausible ${a.range[0]}–${a.range[1]})</dd>`:`<dt>Spectrum</dt><dd>Not placed — evidence still needed</dd>`}</dl>
   ${a.summary?`<p class="note" style="font-size:12px;color:inherit">${h(a.summary)}</p>`:''}
-  <h3>SEA ROUTES (${nb.length})</h3>
+  <h3>Sea routes (${nb.length})</h3>
   ${nb.length?`<ul class="ties">${nb.map(({other,tie})=>`<li style="--c:${kindOf(tie).color}"><button data-id="${h(other)}">${h(nameOf(other))}</button><small>${h(kindOf(tie).label)}${tie.date&&!tie.derived?` · ${h(String(tie.date))}`:''}</small><small>${h(tie.label)}${tie.url?` — <a href="${h(tie.url)}" target="_blank" rel="noopener noreferrer">${h(tie.source||'source')}</a>`:''}</small></li>`).join('')}</ul>`:'<p class="note">No documented ties on file. That means none have been recorded here, not that none exist.</p>'}
-  <a class="link" href="./#selected=${encodeURIComponent(p.id)}&lens=influence">Open the full evidence in the atlas →</a>
+  <a class="link" href="./#selected=${encodeURIComponent(p.id)}&lens=influence">Open the evidence in the atlas</a>
   <p class="note">Flags are editorial judgments, not legal findings. Island position is arranged for legibility; distance is not a measurement.</p>`;
   pn.querySelector('[data-close]').onclick=()=>{select('');svg.focus();};
   pn.querySelectorAll('button[data-id]').forEach(b=>b.onclick=()=>select(b.dataset.id));
@@ -320,7 +320,7 @@ function buildControls(){
   addEventListener('keydown',e=>{if(e.key==='Escape'&&selected){select('');}});
   const swatch=c=>`<svg width="26" height="6" aria-hidden="true"><path d="M0 3h26" stroke="${c}" stroke-width="2.4" stroke-dasharray="7 4"/></svg>`;
   const flag=c=>`<svg width="16" height="16" aria-hidden="true"><path d="M3 15V2" stroke="#3a2d20" stroke-width="1.6"/><path d="M3 2l11 3-11 4z" fill="${c}" stroke="#3a2d20"/></svg>`;
-  $('#legend').innerHTML=`<h2>KEY</h2><ul>
+  $('#legend').innerHTML=`<h2>Key</h2><ul>
     <li>${flag(ASSESSMENTS.likely.color)} Likely oligarch</li><li>${flag(ASSESSMENTS.mixed.color)} Mixed / disputed</li><li>${flag(ASSESSMENTS['no-strong'].color)} No strong evidence found*</li></ul>
     <ul><li>${swatch('#a8432d')} Family, marriage</li><li>${swatch('#c28a1b')} Co-founders</li><li>${swatch('#2d7775')} Partners, co-owners</li><li>${swatch('#6a5aa8')} Investors, boards</li><li>${swatch('#7d7360')} Same company in Forbes’ field</li></ul>
     <p>Island size = net worth (Forbes, 1 Mar 2026). Colour = continent. *Not an exoneration. Routes show only ties we have recorded with a source.</p>`;
