@@ -1,0 +1,419 @@
+{
+  "supersedes": [
+    "shiv-nadar",
+    "cyrus-poonawalla",
+    "dilip-shanghvi",
+    "radhakishan-damani-1"
+  ],
+  "profiles": {
+    "kushal-pal-singh": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "DLF IPO 2007 and SEBI proceedings 2011–2020; CCI 2011–2014; Vadra-DLF transaction 2008 and Haryana proceedings 2012–2026",
+      "summary": "Singh led DLF, a Gurugram land developer. The record has four separate strands, none of which is a conviction of Singh: (1) a 2014 SEBI order, in force for six months or less before being quashed by a split Tribunal in 2015, about DLF's 2007 IPO disclosures (Singh was a named noticee); (2) a CCI abuse-of-dominance penalty on DLF (company, not Singh); (3) the Vadra-DLF Manesar land sale of 2008 and the Haryana licensing allegations, where the reviewed sources concern DLF, Robert Vadra and the then Haryana government, and report no finding against Singh personally; and (4) reported long-standing Congress ties. Together they show a land developer operating inside a state licensing system, but not a documented personal exchange. No rubric is assigned.",
+      "mechanism": "State land licensing and development approvals; Vadra-DLF land sale alleged but not adjudicated against Singh",
+      "support": [
+        {
+          "text": "SEBI's whole-time member restrained DLF, K. P. Singh and five other executives from the securities market for three years, in an order dated 10 October 2014. The order found, among other things, that DLF had suppressed information about three entities (Sudipti, Felicite, Shalika) in its 2007 IPO documents. It arose from complaints by Kimsuk Krishna Sinha, which the Delhi High Court had directed SEBI to investigate. It records the company and the individuals disputing the charges. No monetary penalty was imposed in this order.",
+          "source": "SEBI order WTM/RKA/IVD-7/117-124/2014, DLF Ltd and others",
+          "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1413191997529.pdf",
+          "date": "2014-10-10",
+          "kind": "Regulatory finding (later set aside); person named",
+          "access": "PDF full text extracted and read directly"
+        },
+        {
+          "text": "Tribunal (SAT) in Appeal 331 of 2014 and connected appeals, decision 13 March 2015, bench J. P. Devadhar (Presiding Officer), Jog Singh and A. S. Lamba. The majority held that DLF did not commit fraud on investors and that all relevant material aspects were in the offer documents, and set the order aside. The Presiding Officer dissented, accepting that DLF had used sham share transfers to conceal association with three companies, but found the alleged knowledge of an FIR unsupported and would have reduced the restraint to six months from 10 October 2014.",
+          "source": "SAT judgment, DLF Ltd v SEBI and connected appeals",
+          "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1426241669079.pdf",
+          "date": "2015-03-13",
+          "kind": "Appellate judgment, split decision",
+          "access": "PDF text extracted; majority and minority passages read, not the whole 390,000 characters"
+        },
+        {
+          "text": "Company filing: SEBI appealed under section 15Z; the Supreme Court admitted the appeals on 24 April 2015, granted no stay, and notice issued on interim applications. In October 2015 SEBI sought to restrain a sale of promoter-group preference shares; the Court on 4 November 2015 made no restraining order. DLF states it deposited Rs 630 crore with the Supreme Court in the CCI matter.",
+          "source": "DLF Limited, standalone results note 4, quarter ended June 2020",
+          "url": "https://www.dlf.in/qu-result/Standalone_Q1_Jun2020.pdf",
+          "date": "2020",
+          "kind": "Company disclosure of litigation status; company characterisation",
+          "access": "PDF text extracted and read; company-authored"
+        },
+        {
+          "text": "Supreme Court order in the Sinha appeals (Civil Appeals 4089-4096 of 2015): disposed of as withdrawn on 25 August 2020, Hrishikesh Roy J. in chamber; the order says it does not affect any other proceedings. Why the appeals were withdrawn is not stated in the summary read.",
+          "source": "Supreme Court order via Casemine",
+          "url": "https://www.casemine.com/judgement/in/63f92cb5afc23314151dc982",
+          "date": "2020-08-25",
+          "kind": "Court order (procedural), secondary host",
+          "access": "Page summary only; full order text not read"
+        },
+        {
+          "text": "The CCI penalised DLF Rs 630 crore (August 2011) for abusing dominance over apartment buyers after a Belaire owners' complaint; COMPAT upheld the penalty on 19 May 2014. The Supreme Court on 27 August 2014 admitted DLF's appeal and required the amount to be deposited in an interest-bearing deposit. This is a company penalty on contract terms with buyers, not a political-influence finding.",
+          "source": "Business Today; LiveLaw",
+          "url": "https://www.businesstoday.in/latest/corporate/story/compat-rejects-dlf-plea-upholds-rs-630-cr-cci-penalty-46183-2014-05-19",
+          "date": "2014-05-19",
+          "kind": "Company-level competition finding",
+          "access": "Both pages read via fetch summary; final outcome in the Supreme Court not found"
+        },
+        {
+          "text": "CAG report for 2013-14 tabled in the Haryana Assembly on 25 March 2015 criticised the Town and Country Planning Department for not capturing for the exchequer developers' profit above 15 percent when licences were approved and transferred, letting developers earn large profits merely by selling land. It did not name Vadra but named his company Skylight Hospitality, which in 2008 sold a 3.5-acre Manesar plot to DLF for Rs 58 crore. The reporting is Tribune's account of the CAG report; the report itself was not read.",
+          "source": "Tribune News Service, 26 March 2015",
+          "url": "https://www.tribuneindia.com/news/archive/features/cag-report-vindicates-my-stand-says-khemka-58884",
+          "date": "2015-03-26",
+          "kind": "Audit finding as reported (secondary)",
+          "access": "Article text reviewed; CAG report not fetched"
+        },
+        {
+          "text": "Chronology as stated by the page: Skylight bought about 3.5 acres for Rs 7.5 crore in 2008, a housing project was permitted days later by the Congress-led Haryana government, and DLF agreed to buy it for Rs 58 crore; the mutation was cancelled by Ashok Khemka in October 2012 and he was transferred; FIR 288 of 1 September 2018 at Kherki Daula named Hooda, Vadra, DLF and Onkareshwar Properties; the ED filed a prosecution complaint in July 2025 alleging Vadra received Rs 58 crore. Allegations only, with the case in trial. The page does not show any charge against Singh personally.",
+          "source": "Wikipedia: DLF land grab case",
+          "url": "https://en.wikipedia.org/wiki/DLF_land_grab_case",
+          "date": "2026",
+          "kind": "Tertiary chronology of allegations and proceedings",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "SAT's majority found no fraud on investors and set aside the SEBI order; SEBI's appeals were withdrawn in 2020 (the Sinha appeals) with no Supreme Court merits decision found. DLF and the individuals contested every charge before SEBI.",
+          "source": "SAT judgment; Supreme Court order",
+          "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1426241669079.pdf",
+          "date": "2015-03-13",
+          "kind": "Contrary adjudication and responses",
+          "access": "Judgment text read"
+        },
+        {
+          "text": "The Tribune records that the Hooda government had earlier given Vadra a clean chit, that the CAG did not name Vadra, and that a Haryana Government statement to the High Court in 2023 reportedly found no rule violated. The 2024 article reports no statement from DLF or Vadra, that the Dhingra commission report was quashed by the High Court for procedural flaws, and that the case is still unresolved.",
+          "source": "Tribune News Service, April 2024",
+          "url": "https://www.tribuneindia.com/news/haryana/dlf-robert-vadra-deal-khemka-questions-slow-pace-of-probe-verma-hits-back-608239",
+          "date": "2024-04-06",
+          "kind": "Absence of outcome and conflicting accounts",
+          "access": "Article read via fetch summary"
+        },
+        {
+          "text": "The Wikipedia biography reports Singh's close ties to the Congress party and Nehru-Gandhi family as a recurring source of controversy, and that Kejriwal alleged corruption in 2011. These are characterisations and allegations, not findings, and the biography is tertiary.",
+          "source": "Wikipedia: Kushal Pal Singh",
+          "url": "https://en.wikipedia.org/wiki/Kushal_Pal_Singh",
+          "date": "2026",
+          "kind": "Contested characterisation",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "limitations": "Not a legal or sanctions opinion. Primary documents: SEBI 2014 order, SAT 2015 judgment, DLF's own filing. Not obtained: the CAG report itself, the Dhingra commission report (not public), the Haryana FIR, the ED complaint, DLF's and Vadra's statements on the land deal, and the final outcome of the CCI appeal. SEBI's later penalty orders were not read. Search capacity was exhausted midway. The Vadra-DLF matter concerns a political family and a developer, not charges against Singh; the benefit to Vadra (Rs 7.5 crore to Rs 58 crore) is a company-level transaction. Not exoneration, not an allegation of personal wrongdoing."
+    },
+    "uday-kotak": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "Banking licence 2003; CEO resignation September 2023; RBI directions April 2024–February 2025",
+      "summary": "Kotak founded Kotak Mahindra Bank, which is regulated by the RBI and SEBI. The reviewed record shows a bank-level supervisory action (RBI directions of 24 April 2024 on IT risk, lifted 12 February 2025) and government advisory roles. Regulatory compliance is not evidence of a wealth-power exchange, and no donation, licence favour, contract or policy-influence mechanism was found. The RBI held directions against the bank, not an order against Kotak personally.",
+      "mechanism": "No wealth-power mechanism identified in reviewed sources",
+      "support": [
+        {
+          "text": "Kotak Mahindra Bank's filing to the exchanges records that on 24 April 2024 the RBI directed the bank to cease onboarding new customers through online and mobile banking and issuing new credit cards, and that on 12 February 2025, satisfied by remedial measures and an external audit, the RBI lifted the restrictions. The RBI press release the same day describes the 2024 action as under section 35A of the Banking Regulation Act and cites \"supervisory concerns\" without detail.",
+          "source": "Kotak Mahindra Bank, Regulation 30 intimation; RBI press release",
+          "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/governance/governance-sebi-tab/2025/removal-of-supervisory-restrictions/update-removal-of-rbi-embargo.pdf",
+          "date": "2025-02-12",
+          "kind": "Primary regulatory action and company response (bank, not personal)",
+          "access": "PDF text extracted and read; RBI press release also read"
+        },
+        {
+          "text": "The RBI press release of 12 February 2025 on removal of supervisory restrictions.",
+          "source": "Reserve Bank of India press release",
+          "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=59737",
+          "date": "2025-02-12",
+          "kind": "Primary regulator statement",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The biography describes the first banking licence granted to a non-bank finance company, to Kotak Mahindra Finance in March 2003, his stake being cut to about 30% with a direction to go to 20% (undated), his resignation as MD and CEO in September 2023, and membership of a government high-level committee on infrastructure financing and a SEBI advisory committee. It reports no political donations or controversies. Honours are not evidence of favour.",
+          "source": "Wikipedia: Uday Kotak",
+          "url": "https://en.wikipedia.org/wiki/Uday_Kotak",
+          "date": "2026",
+          "kind": "Roles and contextual regulatory facts (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same biography lists no political affiliations or enforcement against Kotak personally. The 2024 RBI direction was for IT governance deficiencies; its lifting after an external audit shows a supervisory remedy process, not special treatment either way.",
+          "source": "Kotak Mahindra Bank filing",
+          "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/governance/governance-sebi-tab/2025/removal-of-supervisory-restrictions/update-removal-of-rbi-embargo.pdf",
+          "date": "2025-02-12",
+          "kind": "Alternative explanation and limit",
+          "access": "Read directly"
+        },
+        {
+          "text": "A Wikipedia page on the bank reports March 2026 and August 2026 events concerning missing Panchkula municipal-corporation deposits and an ED attachment of Rs 131.13 crore. It is a bank-branch matter in a controversial-section page tagged for neutrality; no link to Kotak personally is stated and the allegations are not adjudicated.",
+          "source": "Wikipedia: Kotak Mahindra Bank",
+          "url": "https://en.wikipedia.org/wiki/Kotak_Mahindra_Bank",
+          "date": "2026",
+          "kind": "Reported company matter, not attributed to Kotak",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "limitations": "Not read: RBI's 2020 promoter-shareholding direction and Bombay High Court challenge, RBI's 2023 CEO-succession communications, SEBI orders involving Kotak entities, the RBI order text itself (only press release and bank filing), and any Election Commission contribution data for Kotak entities. Wikipedia-based items need verification against orders. Not exoneration."
+    },
+    "azim-premji": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "Career to 2026; philanthropy 2001–2025; litigation 2020–2024; Karnataka request September 2025",
+      "summary": "Premji built Wipro and has transferred large Wipro shareholdings to the Azim Premji Foundation. The reviewed page lists Padma honours (2005, 2011), Covid-relief pledges and litigation against him that courts dismissed as frivolous or quashed, plus a 2025 Karnataka request that he declined. None shows an exchange of political favour for private benefit; the single state-government episode shows private resistance, not accommodation.",
+      "mechanism": "No wealth-power mechanism identified in reviewed sources",
+      "support": [
+        {
+          "text": "Premji founded the Azim Premji Foundation in 2001, pledged 213 million Wipro shares (8.7%) in December 2010, signed the Giving Pledge in February 2013, and in March 2019 pledged a further 34% of Wipro, raising his total endowment to about US$21 billion. Covid commitments: Rs 1,125 crore in April 2020 (foundation, Wipro and Wipro Enterprises together) and Rs 1,000 crore for vaccination in June 2021. Government honours: Padma Bhushan 2005, Padma Vibhushan 2011, and the French Legion of Honour 2018.",
+          "source": "Wikipedia: Azim Premji",
+          "url": "https://en.wikipedia.org/wiki/Azim_Premji",
+          "date": "2026",
+          "kind": "Contextual philanthropy and honours (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Per the page, lawsuits brought through an NGO were dismissed by the Karnataka High Court as frivolous, with two complainants jailed for contempt, and the Supreme Court closed the remaining matters in March 2022 after an apology; the Allahabad High Court (Lucknow bench) quashed criminal proceedings over a contractor's labour-law compliance in 2024, finding no direct role for Premji. In September 2025 he declined a Karnataka government request to use part of the Sarjapur campus for a traffic project, citing SEZ and statutory constraints, and offered to fund a study.",
+          "source": "Wikipedia: Azim Premji",
+          "url": "https://en.wikipedia.org/wiki/Azim_Premji",
+          "date": "2026",
+          "kind": "Contrary evidence and subject's own response",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        },
+        {
+          "text": "The page does not mention PM CARES, any electoral contributions, or tax disputes. Absence from one page is not evidence of absence.",
+          "source": "Wikipedia: Azim Premji (scope)",
+          "url": "https://en.wikipedia.org/wiki/Azim_Premji",
+          "date": "2026",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "limitations": "One tertiary page (the last 19,000 characters unread). Not reviewed: Wipro annual reports, Wipro SEZ/tax matters, electoral-contribution reports (Wipro disclosures), Karnataka land or incentive records, and any PM CARES donation documentation (not found). Giving and honours are not scored. Not exoneration."
+    },
+    "ravi-jaipuria": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "1985–2026 business history; listings 2016 and 2021",
+      "summary": "Jaipuria chairs RJ Corp: a PepsiCo bottling group (Varun Beverages, listed 2016) and the Yum! Brands franchisee Devyani International (listed 2021). The pages read describe consumer-business expansion, acquisitions and listings, not state incentives, regulatory enforcement or political ties. No wealth-power mechanism was found. This reflects the pages read, not a comprehensive review.",
+      "mechanism": "No wealth-power mechanism identified in reviewed sources",
+      "support": [
+        {
+          "text": "Describes RJ Corp, Varun Beverages (PepsiCo bottler; took over brother's Delhi bottling business in 2013; 2016 IPO), Devyani (Yum! franchisee; 2021 IPO), and PepsiCo's 1999 Bottler of the Year award. Business context only.",
+          "source": "Wikipedia: Ravi Jaipuria",
+          "url": "https://en.wikipedia.org/wiki/Ravi_Jaipuria",
+          "date": "2026",
+          "kind": "Role and wealth origin (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        },
+        {
+          "text": "Lists Varun Beverages expansion: 2022 Kurkure Puffcorn manufacturing, December 2023 purchase of PepsiCo's South African bottler Bevco (Rs 1,320 crore), April 2024 Gorakhpur plant, 2024 African acquisitions. Private commercial dealings with PepsiCo; no government role described.",
+          "source": "Wikipedia: Varun Beverages",
+          "url": "https://en.wikipedia.org/wiki/Varun_Beverages",
+          "date": "2026",
+          "kind": "Company context (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Neither page reports controversies, regulatory matters, state incentives or political links. These pages are not an incentive or tax record.",
+          "source": "Wikipedia: Ravi Jaipuria; Varun Beverages (scope)",
+          "url": "https://en.wikipedia.org/wiki/Ravi_Jaipuria",
+          "date": "2026",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "limitations": "Not reviewed: state industrial-incentive schemes (for example Uttar Pradesh plant incentives), GST or excise disputes, SEBI filings, Devyani prospectus risk factors, and electoral-contribution reports. Whether any exists is unknown. Not exoneration."
+    },
+    "cyrus-poonawalla": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "Covid vaccine procurement 2020–2021",
+      "summary": "Cyrus Poonawalla founded Serum Institute (1966) and is its chairman; his son Adar Poonawalla is CEO and was the public face of Covishield. The only documented state transaction in the reviewed record is company-level: in 2021 the government bought Covishield at a subsidised price and advanced Rs 3,000 crore to Serum for purchases. The reporting is mostly about Adar and the company, describes a strained government relationship, and records no personal exchange by Cyrus. The one personal item is a Parsi-community vaccine-reservation request that Cyrus offered to meet; its outcome is not documented. No rubric.",
+      "mechanism": "Company-level government vaccine procurement and advance; personal exchange not established",
+      "support": [
+        {
+          "text": "Open magazine (updated 9 July 2021): the government advanced Rs 3,000 crore to Serum in April 2021 and bought doses at a \"highly subsidised rate of around US$2 per dose\"; the government took over distribution and temporarily banned exports. The piece is a profile of the family. It shows Cyrus only in a 2013 photo with Pranab Mukherjee and describes no party affiliation.",
+          "source": "Open magazine: The Legend of the Poonawallas",
+          "url": "https://openthemagazine.com/feature/the-legend-of-the-poonawallas",
+          "date": "2021-07-09",
+          "kind": "Reported company-government transaction (secondary)",
+          "access": "Page text reviewed via fetch summary"
+        },
+        {
+          "text": "Lists Cyrus Poonawalla as founder and Chairman and MD and Adar as CEO, the company's Covishield programme and the reported August 2020 price estimate of about Rs 225 a dose. Does not cover the 2021 purchases or any political links.",
+          "source": "Wikipedia: Serum Institute of India",
+          "url": "https://en.wikipedia.org/wiki/Serum_Institute_of_India",
+          "date": "2026",
+          "kind": "Role attribution (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same Open feature says the dose price was roughly a tenth of the global average, relations with the government became strained, the Poonawallas \"seem to have unfortunately become scapegoats\" for delayed government orders, and the government retook control of procurement in June. Adar describes unprecedented pressure and the financial risk taken on early production. Cyrus said \"I am proud of spending the money with which I have enriched myself.\" Adar supported his father's offer to reserve 60,000 vials for Parsis, which he said was about a day's production.",
+          "source": "Open magazine",
+          "url": "https://openthemagazine.com/feature/the-legend-of-the-poonawallas",
+          "date": "2021-07-09",
+          "kind": "Alternative explanation, subject responses and limits",
+          "access": "Page text reviewed via fetch summary"
+        },
+        {
+          "text": "Discovery leads on Panama Papers property attachments of relatives and Serum donation channels were not readable and are not used. No relative's or company's case is attributed to Cyrus.",
+          "source": "Not relied on",
+          "url": "https://openthemagazine.com/feature/the-legend-of-the-poonawallas",
+          "date": "2021-07-09",
+          "kind": "Explicit limit of evidence",
+          "access": "Not applicable"
+        }
+      ],
+      "limitations": "Identity: Serum's 2021 purchase, price and advance concern the company and Adar; Cyrus is chairman and founder. Not verified from primary records: the advance's terms, price per dose, Serum's electoral contributions, Parliament Q&A or PIB statements. The Open article is a single secondary account. Public-health procurement in an emergency has legitimate purposes; no wrongdoing found or alleged by the sources. Not exoneration."
+    },
+    "dilip-shanghvi": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "2014 Ranbaxy acquisition; appointments 2016–2018",
+      "summary": "Shanghvi founded Sun Pharma. Reviewed sources document honours and advisory roles (Padma Shri 2016, RBI central board January 2018, IIT Bombay chair), the 2014 acquisition of Ranbaxy (whose 2013 US guilty plea concerned Ranbaxy, not Sun or Shanghvi) and CCI approval conditioned on divestments. No donation, price-control, lobbying or exchange mechanism was found. FDA and Indian drug-pricing matters (NPPA/DPCO) were not obtainable and are unreviewed.",
+      "mechanism": "No wealth-power mechanism identified in reviewed sources",
+      "support": [
+        {
+          "text": "Padma Shri 2016; appointed to the RBI central board in January 2018; chairs the IIT Bombay board of governors; trustee of the Rhodes programme 2017. Appointments are office-holding context, not evidence of preferential treatment.",
+          "source": "Wikipedia: Dilip Shanghvi",
+          "url": "https://en.wikipedia.org/wiki/Dilip_Shanghvi",
+          "date": "2026",
+          "kind": "Appointments context (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        },
+        {
+          "text": "Sun announced the Ranbaxy acquisition on 6-7 April 2014 (reported value US$3.2-4 billion); CCI approved it in December 2014 on condition that seven products be divested. Sun was a buyer of a company with existing regulatory problems.",
+          "source": "Wikipedia: Sun Pharma",
+          "url": "https://en.wikipedia.org/wiki/Sun_Pharma",
+          "date": "2026",
+          "kind": "Corporate transaction and regulatory approval (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        },
+        {
+          "text": "In May 2013 Ranbaxy pleaded guilty and paid US$500 million over adulterated drugs and false statements to the FDA; FDA import and production bans in 2008–2014; Singapore arbitration in 2016 ordered Ranbaxy's former shareholders (the Singh family, not Sun) to pay Daiichi Sankyo US$525 million. The page attributes no wrongdoing to Sun or Shanghvi.",
+          "source": "Wikipedia: Ranbaxy Laboratories",
+          "url": "https://en.wikipedia.org/wiki/Ranbaxy_Laboratories",
+          "date": "2026",
+          "kind": "Context to prevent misattribution (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Dilip Shanghvi page lists no controversies, legal matters or political links; it mentions unspecified \"regulatory challenges\" and lower profit in 2014-2018. The Sun Pharma page does not discuss FDA letters, DOJ matters or NPPA pricing.",
+          "source": "Wikipedia pages (scope)",
+          "url": "https://en.wikipedia.org/wiki/Dilip_Shanghvi",
+          "date": "2026",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "limitations": "Search capacity ended before any primary document could be obtained. Not read: FDA warning letters (Halol, Mohali), DOJ or SEC releases about Sun, NPPA/DPCO price orders, Parliament Q&A, annual reports or electoral-contribution data. Do not read this as clearance. Not exoneration."
+    },
+    "shiv-nadar": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "1976–2026 as described in profile pages",
+      "summary": "Nadar founded HCL (1976) and the Shiv Nadar Foundation. Pages read record Padma Bhushan (2008), board roles at IIT Kharagpur and ISB, giving of Rs 2,708 crore in FY25, and a university designated an Institution of Eminence in August 2022. They report no political donation, tax or court matter, and no preferential contract. A 2026 HCL-Foxconn chip-plant JV at Jewar, Uttar Pradesh is listed, but its public support terms were not read, so it is not assessed. No wealth-power mechanism was found.",
+      "mechanism": "No wealth-power mechanism identified in reviewed sources",
+      "support": [
+        {
+          "text": "Founded HCL in 1976; chaired IIT Kharagpur's board until 2014; Padma Bhushan 2008; gave Rs 4 crore to the Prime Minister's National Relief Fund in 2005; Shiv Nadar Foundation donations of Rs 2,708 crore (FY25); handed the chair role to Roshni Nadar in 2020 and stepped down as managing director in 2021.",
+          "source": "Wikipedia: Shiv Nadar",
+          "url": "https://en.wikipedia.org/wiki/Shiv_Nadar",
+          "date": "2026",
+          "kind": "Roles, philanthropy and honours (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        },
+        {
+          "text": "Shiv Nadar University (2011; 286-acre campus) was recognised as an Institution of Eminence on 3 August 2022. The page does not describe land allotment or enabling legislation and records the May 2023 campus shooting as its controversy.",
+          "source": "Wikipedia: Shiv Nadar University",
+          "url": "https://en.wikipedia.org/wiki/Shiv_Nadar_University",
+          "date": "2026",
+          "kind": "Institutional recognition (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        },
+        {
+          "text": "Lists a Foxconn-HCL joint venture, India Chip Private Ltd, launching a chip facility at Jewar, Uttar Pradesh in 2026, and a 2024 DPIIT startup programme; no description of government subsidy terms, approvals or other company-government dealings.",
+          "source": "Wikipedia: HCL Technologies",
+          "url": "https://en.wikipedia.org/wiki/HCL_Technologies",
+          "date": "2026",
+          "kind": "Possible government interface, unassessed (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "None of the three pages reports controversies, tax, SEBI or Supreme Court matters, or political donations. Formal criteria govern Institution of Eminence designation; an honour is not evidence of favour.",
+          "source": "Wikipedia pages (scope)",
+          "url": "https://en.wikipedia.org/wiki/Shiv_Nadar",
+          "date": "2026",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        },
+        {
+          "text": "The Electoral Bond Scheme page names only a few top donors (Future Gaming, Megha Engineering, Vedanta) and not HCL, Avenue Supermarts, Sun Pharma, Kotak, Wipro, Serum, Devyani, Varun Beverages or DLF. It is not a donor database and cannot show that these entities did not buy bonds.",
+          "source": "Wikipedia: Electoral Bond Scheme",
+          "url": "https://en.wikipedia.org/wiki/Electoral_Bond_Scheme",
+          "date": "2026",
+          "kind": "Scope limit on donor data",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "limitations": "The ECI electoral-bond data, HCL filings, the Jewar JV's support terms, Supreme Court/tax judgments and UP land records were not obtained (several pages blocked, searching exhausted). Not exoneration."
+    },
+    "radhakishan-damani-1": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "Career to 2026",
+      "summary": "Damani's wealth derives from stock-market investing (including early-1990s short-selling) and the DMart chain (first store 2002, IPO March 2017). No political, regulatory or state-incentive episode was found in the pages read, and a search for a SEBI order against him returned none. The record is thin; this is a scoped statement, not clearance.",
+      "mechanism": "No wealth-power mechanism identified in reviewed sources",
+      "support": [
+        {
+          "text": "Left the family ball-bearing business to become a broker and investor; profited by short-selling stocks inflated by Harshad Mehta in the early 1990s; founded DMart in 2000-2002; DMart listed in 2017; holds listed stakes in 14 companies (valued around Rs 2,140 billion in June 2024, per the page).",
+          "source": "Wikipedia: Radhakishan Damani",
+          "url": "https://en.wikipedia.org/wiki/Radhakishan_Damani",
+          "date": "2026",
+          "kind": "Wealth origin only (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        },
+        {
+          "text": "DMart/Avenue Supermarts: founder and chairman Damani; IPO March 2017; over 500 stores.",
+          "source": "Wikipedia: Avenue Supermarts",
+          "url": "https://en.wikipedia.org/wiki/Avenue_Supermarts",
+          "date": "2026",
+          "kind": "Company context (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Neither page mentions SEBI orders, tax or GST disputes, state incentives, honours or political ties. Absence from these pages is not evidence of absence.",
+          "source": "Wikipedia pages (scope)",
+          "url": "https://en.wikipedia.org/wiki/Radhakishan_Damani",
+          "date": "2026",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "limitations": "Not read: SEBI orders database, Avenue Supermarts annual reports and exchange filings (a business-press page on his 2018-2019 minimum-public-shareholding sales could not be opened; this is a routine compliance step, not a penalty), electoral-contribution reports, state incentive records. Do not assume company penalties on food-safety labelling (if any) concern Damani. Not exoneration."
+    }
+  },
+  "rubrics": {}
+}

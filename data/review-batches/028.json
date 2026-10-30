@@ -1,0 +1,355 @@
+{
+  "profiles": {
+    "diane-hendricks": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2011 meeting, 2012 recall campaign, 2015 right-to-work law; later national giving noted only as context",
+      "summary": "Hendricks was Wisconsin Governor Scott Walker's largest donor in his 2012 recall campaign and was filmed raising right-to-work with him in 2011; Wisconsin enacted right-to-work in 2015. Reporting establishes donor access and policy alignment. The reviewed sources do not show a private economic reward to her or her company, or an agreed exchange.",
+      "mechanism": "Large political giving and access → policy conversation; private benefit unestablished",
+      "support": [
+        {
+          "text": "The Center for Public Integrity reports a January 18, 2011 Walker visit to ABC Supply, where video shows him discussing his plan to curtail public-worker bargaining with Hendricks, who later became his largest contributor. She gave near the $10,000 limit in each of two cycles, then $500,000 after limits were lifted for recall targets. Two April 2011 meetings are on his calendar.",
+          "source": "Center for Public Integrity / Kate Golden, Bill Lueders, Amy Karon",
+          "url": "https://publicintegrity.org/politics/wisconsin-gov-scott-walker-grants-significant-access-to-companies-donors/",
+          "date": "2012-05-20",
+          "kind": "Investigative reporting on donor access",
+          "access": "Page text reviewed (page shows a 2022 update)"
+        },
+        {
+          "text": "WPR's chronology says a documentary surfaced in May 2012 showing Hendricks asking Walker about right-to-work, with Walker doing little to dissuade her. It records his 2012 and 2014 statements that the issue would not reach his desk, and his February 2015 statement that he would sign a bill once the Senate leader announced it. Note: the video was recorded in 2011 (per CPI) but surfaced in 2012.",
+          "source": "Wisconsin Public Radio",
+          "url": "https://www.wpr.org/politics/years-walker-said-he-wasnt-interested-right-work",
+          "date": "2015-02-23",
+          "kind": "Dated policy chronology",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "NPR/KPBS reports Walker signed Wisconsin's right-to-work law on March 9, 2015, making it the 25th such state; it bars mandatory union dues at private employers and took effect immediately.",
+          "source": "NPR via KPBS",
+          "url": "https://www.kpbs.org/news/2015/03/09/wisconsin-gov-scott-walker-signs-right-to-work",
+          "date": "2015-03-09",
+          "kind": "Primary-style news report of enactment",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Wikipedia, compiling cited sources, lists later giving: $5 million to a Walker-linked PAC in 2015 (of which $4 million was refunded), $1.4 million to Trump Victory over 2016 and 2020, and a reported $27 million to MAGA Inc. since 2024 per a 2026 WSJ report. Figures were not checked against filings.",
+          "source": "Wikipedia: Diane Hendricks",
+          "url": "https://en.wikipedia.org/wiki/Diane_Hendricks",
+          "date": "2026-10-29",
+          "kind": "Secondary compilation of donations",
+          "access": "Page text reviewed; underlying filings not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "CPI quotes political scientist Joe Heim: access may relate to money but \"access is not necessarily influence\", and Walker \"promised nothing\" in a separate call. Policy alignment and access are not a purchased decision.",
+          "source": "Center for Public Integrity",
+          "url": "https://publicintegrity.org/politics/wisconsin-gov-scott-walker-grants-significant-access-to-companies-donors/",
+          "date": "2012-05-20",
+          "kind": "Expert caveat",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "WPR documents that Walker repeatedly said in 2012 and 2014 that right-to-work was not on his agenda before reversing in 2015 when the legislature moved. The 2015 law was enacted by the Legislature and Governor, and the reviewed pages show no direct role for Hendricks in the 2015 reversal.",
+          "source": "Wisconsin Public Radio",
+          "url": "https://www.wpr.org/politics/years-walker-said-he-wasnt-interested-right-work",
+          "date": "2015-02-23",
+          "kind": "Alternative explanation / limit of evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "A narrow assessment of one episode. The reviewed sources do not show a specific private economic advantage to Hendricks or ABC Supply from the 2015 law, a quid pro quo, or any wrongdoing. Policy preferences shared by a donor and an official are not a private benefit. Later national giving is context only; no assessment of ABC Supply's other government dealings (e.g. contracts or pandemic programs) was made. No rubric assigned; absence of a benefit finding is not evidence against one."
+    },
+    "todd-graves": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Very narrow search-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "No dated episode found in searches run 2026-10-29",
+      "summary": "No reliable evidence was found of political leverage, preferential state benefit or a wealth-power feedback loop for the Raising Cane's co-founder. Searches for donations and lobbying returned mostly a namesake (a Missouri lawyer and former state Republican chairman) and unverified aggregator listings.",
+      "mechanism": "No mechanism identified",
+      "support": [
+        {
+          "text": "Wikipedia identifies Todd Graves (born 1972, New Orleans) as Raising Cane's founder who opened the first restaurant in 1996 and was ranked 46th on the 2025 Forbes 400. The page carries a maintenance banner about possible undisclosed paid editing, and it does not describe political activity.",
+          "source": "Wikipedia: Todd Graves (entrepreneur)",
+          "url": "https://en.wikipedia.org/wiki/Todd_Graves_(entrepreneur)",
+          "date": "2026-10-29",
+          "kind": "Identity and background only",
+          "access": "Page text reviewed; neutrality banner noted"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Search for FEC or lobbying records returned no verified donation for the Cane's founder; a LittleSis donor page could not be read (access denied) and aggregator entries were not relied on. A Missouri Independent article about a different Todd Graves (a lawyer) could not be fetched and was not relied on, but the namesake risk should be checked before any attribution.",
+          "source": "Search results; LittleSis page unreadable",
+          "url": "https://littlesis.org/org/128656-Who_Dat_PAC",
+          "date": "2026-10-29",
+          "kind": "Explicit limit of evidence and namesake caution",
+          "access": "Page returned access denied; not read"
+        }
+      ],
+      "limitations": "Absence of results in a short search is not exoneration and not a score of zero. FEC, state incentive and procurement records were not examined. Namesakes exist; any future attribution must be verified by full name, city and employer. No rubric."
+    },
+    "ernest-garcia-ii": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Very narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "1990 plea; 1991-2026 business history as context",
+      "summary": "The documented legal episode concerns 1990 bank fraud tied to the Lincoln Savings and Loan collapse, which is historical and not a wealth-political-power mechanism as defined here. No evidence of preferential state benefit or political leverage connected to DriveTime or Carvana was found in the pages reviewed.",
+      "mechanism": "No mechanism identified",
+      "support": [
+        {
+          "text": "Wikipedia, compiling cited sources, says that in October 1990 García pleaded guilty to felony bank fraud as a straw borrower in the Lincoln Savings and Loan collapse, received three years' probation, and later bought Ugly Duckling (1991), later renamed DriveTime. His son Ernest García III is Carvana's CEO. This is a personal historical conviction unrelated to later politics.",
+          "source": "Wikipedia: Ernest García II",
+          "url": "https://en.wikipedia.org/wiki/Ernest_Garcia_II",
+          "date": "2026-10-29",
+          "kind": "Historical conviction (secondary compilation)",
+          "access": "Page text reviewed; underlying court records not read"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same page does not mention political donations, government dealings or regulatory action beyond the 1990 plea. This is an explicit limit of what was reviewed, not evidence of absence.",
+          "source": "Wikipedia: Ernest García II",
+          "url": "https://en.wikipedia.org/wiki/Ernest_Garcia_II",
+          "date": "2026-10-29",
+          "kind": "Limit of evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Not exoneration. Short-seller allegations about Carvana-DriveTime related-party dealings and consumer-finance regulatory matters were not reviewed for any political dimension. Distinguish father (Ernest Garcia II) from son (Ernest Garcia III). A 1990 conviction is not evidence of a present political-power mechanism. No rubric."
+    },
+    "wang-chuanfu": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2010s-2026 NEV policy context; February 2025 Xi meeting",
+      "summary": "BYD benefited from China's broad electric-vehicle policy environment and Wang sits in the Chinese Communist Party and was seated prominently at a February 2025 meeting with Xi Jinping. Industry-wide subsidy support and a national-champion status are context; the reviewed sources do not show a personal bargain, preferential treatment specific to Wang, or policy shaped for his private gain.",
+      "mechanism": "National industrial-policy support → sector growth; personal exchange unestablished",
+      "support": [
+        {
+          "text": "Fortune reports that government subsidies helped BYD's domestic sales growth as it overtook Volkswagen in China, and that the EU opened a probe into whether subsidies give Chinese carmakers an export advantage.",
+          "source": "Fortune",
+          "url": "https://fortune.com/europe/2024/01/23/volkswagen-top-car-seller-china-byd-warren-buffett-berkshire-hathaway",
+          "date": "2024-01-23",
+          "kind": "Reputable outlet; company-level policy tailwind",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Wikipedia, compiling cited sources, records that Wang is a CCP member, that he met Xi Jinping at the Great Hall of the People in February 2025 and sat in a seat reflecting BYD's \"national champion\" status, and that BYD was hurt by subsidy cuts around 2017 and 2019.",
+          "source": "Wikipedia: Wang Chuanfu",
+          "url": "https://en.wikipedia.org/wiki/Wang_Chuanfu",
+          "date": "2026-10-29",
+          "kind": "Secondary compilation",
+          "access": "Page text reviewed; underlying sources not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same page notes BYD suffered when subsidies were cut around 2017-2019, with three straight years of falling profit, and Wang called it the company's \"darkest moment\". Industry-wide policy that rival firms also received is not a personal preference.",
+          "source": "Wikipedia: Wang Chuanfu",
+          "url": "https://en.wikipedia.org/wiki/Wang_Chuanfu",
+          "date": "2026-10-29",
+          "kind": "Counterevidence / alternative explanation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Fortune piece contains no direct comment from Wang on subsidies and describes strong consumer demand as a main driver alongside policy.",
+          "source": "Fortune",
+          "url": "https://fortune.com/europe/2024/01/23/volkswagen-top-car-seller-china-byd-warren-buffett-berkshire-hathaway",
+          "date": "2024-01-23",
+          "kind": "Limit of evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "China-specific context: party membership, attendance at leadership meetings or sector subsidies alone do not justify points under this model. A 2011-era report of Wang lobbying for consumer subsidies appeared in a search result but the page could not be read and is not relied on. No NPC or CPPCC role was confirmed. No rubric."
+    },
+    "john-fredriksen": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Very narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "1980s-2025 business and residence history",
+      "summary": "The reviewed sources document tax-driven residence and corporate moves (Cypriot citizenship in 2006, Frontline's 2022 Cyprus move, 2025 relocation toward the UAE after the UK ended its non-dom regime) and earlier legal episodes. These are not evidence of political leverage or state patronage; no sanctions-related or political-exchange evidence was read.",
+      "mechanism": "No mechanism identified; tax-residence planning is not itself a mechanism",
+      "support": [
+        {
+          "text": "Wikipedia, compiling cited sources, records that he left Norway for London in 1978, acquired Cypriot citizenship in 2006 (widely linked to tax considerations), and that CFTC allegations against an affiliated firm settled for $13 million without admission of wrongdoing (the page says the year may be wrong). A 1990 Norwegian case ended with a fine for endangering crews.",
+          "source": "Wikipedia: John Fredriksen",
+          "url": "https://en.wikipedia.org/wiki/John_Fredriksen",
+          "date": "2026-10-29",
+          "kind": "Secondary compilation",
+          "access": "Page text reviewed; dates partly inconsistent"
+        },
+        {
+          "text": "Gulf News reports (updated 2025-06-28) that he shut Seatankers' London office and increasingly bases himself in the UAE, quoting him that \"the new British tax system is a major factor behind this move\".",
+          "source": "Gulf News",
+          "url": "https://gulfnews.com/business/markets/norwegian-born-billionaire-john-fredriksen-moves-business-to-the-uae-1.500179872",
+          "date": "2025-06-28",
+          "kind": "Subject quote / residence context",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Hellenic Shipping News (2022-12-12) says Frontline's planned Cyprus registration cited an EU-approved tax regime, and that Fredriksen chose Cyprus for 0% inheritance tax. This is a lawful-tax-planning explanation, not a political mechanism.",
+          "source": "Hellenic Shipping News",
+          "url": "https://www.hellenicshippingnews.com/shipping-giant-moves-to-cyprus/",
+          "date": "2022-12-12",
+          "kind": "Alternative explanation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Not exoneration. A TradeWinds article on Fredriksen companies and Russia sanctions was only seen as a headline and was not read; the search budget was exhausted. Nationality (Cyprus) and tax residence do not justify points. No rubric."
+    },
+    "kumar-birla": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2005 allocation; 2013 FIR; 2014 closure; government advisory roles",
+      "summary": "The Aditya Birla Group's Hindalco received a 2005 coal block; in 2013 the CBI registered a case against Birla and a former coal secretary, and in 2014 it filed a closure report saying the evidence did not substantiate the allegations. The Supreme Court separately held coal-block allocations since 1993 illegal. Birla has also held government advisory roles. No evidence of a personal political bargain was read.",
+      "mechanism": "State coal-block allocation → corporate benefit; alleged conspiracy not substantiated by the CBI",
+      "support": [
+        {
+          "text": "Business Today (2014-08-30) reports the CBI case concerned a coal block allocated in 2005 to Hindalco, arose from a CAG report, and that the CBI said it \"did not substantiate the allegations\" and dropped Birla's name. It notes the Supreme Court ruled allocations since 1993 illegal, including blocks held by Hindalco among others.",
+          "source": "Business Today",
+          "url": "https://www.businesstoday.in/story/kumar-mangalam-birla-cbi-coal-scam-case-hindalco-industries/1/209834.html",
+          "date": "2014-08-30",
+          "kind": "Reputable outlet; allegation and closure",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Wikipedia, compiling cited sources, lists former roles on the RBI central board, a PM task force and the PM's advisory council on trade and industry; he resigned as Vodafone Idea chairman in August 2021; the page does not mention any political donations.",
+          "source": "Wikipedia: Kumar Mangalam Birla",
+          "url": "https://en.wikipedia.org/wiki/Kumar_Mangalam_Birla",
+          "date": "2026-10-29",
+          "kind": "Secondary compilation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The CBI closure and the absence of a finding against Birla personally are central counterevidence. The CAG revenue-loss figure was doubted by industry watchers and the then government, per Business Today. The Supreme Court ruling addressed allocations as a class, not Birla's conduct.",
+          "source": "Business Today",
+          "url": "https://www.businesstoday.in/story/kumar-mangalam-birla-cbi-coal-scam-case-hindalco-industries/1/209834.html",
+          "date": "2014-08-30",
+          "kind": "Counterevidence / legal status",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Historical episode only. Court-ordered review of the closure report was mentioned in search snippets but those pages (Deccan Herald) returned access errors, so the final legal status of the case after 2014 was not verified. Vodafone Idea government relief measures were not reviewed (search budget exhausted). Advisory roles are not points by themselves. No rubric."
+    },
+    "michael-platt": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Very narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "BlueCrest regulatory dispute 2024; residence moves 2010 and 2014",
+      "summary": "The reviewed sources concern regulator and tax disputes against his hedge fund (an FCA compensation dispute) rather than political leverage or state patronage. No political-donation, procurement or preferential-treatment evidence was found.",
+      "mechanism": "No mechanism identified",
+      "support": [
+        {
+          "text": "Bloomberg Law reports that on October 1, 2024 UK appeal judges ruled BlueCrest could face an FCA demand for about $700 million in compensation over favoring staff in an internal fund; a tribunal will decide. The article identifies Platt as head of BlueCrest and does not describe his personal role.",
+          "source": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/securities-law/bluecrest-loses-bid-to-block-700-million-investor-payout-1",
+          "date": "2024-10-02",
+          "kind": "Regulatory litigation; corporate not personal",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Wikipedia, compiling cited sources, says he moved to Geneva in 2010 to avoid increased regulation and to Jersey in 2014, and mentions no political donations or ties. The regulator acted against his firm, which runs contrary to a protection mechanism, although it is not a measure of his influence elsewhere.",
+          "source": "Wikipedia: Michael Platt (financier)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Platt_(financier)",
+          "date": "2026-10-29",
+          "kind": "Counterevidence / limit of evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Very narrow. An HMRC tax tribunal loss and a negligence claim against a tax adviser appeared in search snippets, but the article could not be read, so they are not cited. Not exoneration. Distinguish BlueCrest's corporate conduct from Platt's personal conduct. No rubric."
+    },
+    "vinod-adani": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2014-2024 reporting; 2023 Hindenburg report; April 2024 SEBI finding",
+      "summary": "Vinod Adani is the brother of Gautam Adani; reporting and a 2023 short-seller report alleged he manages offshore entities connected to Adani Group transactions, which the group has denied. The reviewed pages do not show him personally exercising political leverage or receiving a state-granted benefit; any link to the Adani Group's political context is through his brother and company, not established for him.",
+      "mechanism": "Offshore-entity allegations → opacity; personal political mechanism unestablished",
+      "support": [
+        {
+          "text": "Wikipedia, compiling cited sources, says Hindenburg alleged he managed 38 Mauritius shell entities and others; WSJ/Bloomberg reported over $1.1 billion of loans from a Dubai firm he manages to a Singapore company; in 2014 Indian authorities accused him of inflating power-equipment costs; he was named in the 2016 Panama Papers; he is a Cypriot citizen based in Dubai.",
+          "source": "Wikipedia: Vinod Adani",
+          "url": "https://en.wikipedia.org/wiki/Vinod_Adani",
+          "date": "2026-10-29",
+          "kind": "Secondary compilation of allegations",
+          "access": "Page text reviewed; underlying filings not verified"
+        },
+        {
+          "text": "Malay Mail (2024-08-11) reports Hindenburg alleged SEBI's chair and her husband held investments in offshore funds that Vinod Adani also allegedly used, and that she strongly denied it.",
+          "source": "Malay Mail",
+          "url": "https://www.malaymail.com/news/money/2024/08/11/india-market-regulator-rejects-us-bias-claim-in-adani-offshore-investments-probe/146689",
+          "date": "2024-08-11",
+          "kind": "Attributed allegation and denial",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Wikipedia states SEBI's April 2024 findings concerned up to twelve offshore funds, eight of which settled, and that it states no finding against Vinod personally. The page does not mention any US indictment or SEC action naming him.",
+          "source": "Wikipedia: Vinod Adani",
+          "url": "https://en.wikipedia.org/wiki/Vinod_Adani",
+          "date": "2026-10-29",
+          "kind": "Limit of evidence / legal status",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Malay Mail report shows the Adani group denied the 2023 allegations as a deliberate attempt to damage the group; it reports no new Adani response to the offshore claims. Allegations are not findings.",
+          "source": "Malay Mail",
+          "url": "https://www.malaymail.com/news/money/2024/08/11/india-market-regulator-rejects-us-bias-claim-in-adani-offshore-investments-probe/146689",
+          "date": "2024-08-11",
+          "kind": "Subject response",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Family-entry caution: the Gautam Adani case file and its legal developments must not be attributed to Vinod; his own role is disputed. Business Standard page returned access errors. Allegation-level evidence only; offshore structures are not unlawful per se. No rubric."
+    },
+    "qin-yinglin": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Very narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2018 NPC delegate listing; 2010-2026 corporate history",
+      "summary": "Qin is a Communist Party member and a delegate to the 13th National People's Congress, but office-holding alone does not justify points. The reviewed pages show no evidence of political leverage in his favor, state-granted preferential benefit, or an exchange.",
+      "mechanism": "No mechanism identified; office held",
+      "support": [
+        {
+          "text": "Wikipedia, compiling cited sources, lists him as a CCP member, a delegate to the 13th National People's Congress (a February 2018 delegate list is cited) and a 2002 Henan provincial congress delegate. He donated stock worth RMB 100 million (2019) and RMB 800 million (2020) to the Westlake education foundation.",
+          "source": "Wikipedia: Qin Yinglin",
+          "url": "https://en.wikipedia.org/wiki/Qin_Yinglin",
+          "date": "2026-10-29",
+          "kind": "Office-holding and philanthropy (secondary compilation)",
+          "access": "Page text reviewed; underlying sources not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Muyuan Foodstuff page describes a 2010 loan and investment from the World Bank's IFC and mentions no Chinese government funding, subsidies or regulatory favors. This is a limit of the page, not proof of absence.",
+          "source": "Wikipedia: Muyuan Foodstuff",
+          "url": "https://en.wikipedia.org/wiki/Muyuan_Foodstuff",
+          "date": "2026-10-29",
+          "kind": "Limit of evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Very narrow. Pig-sector support measures (such as reserves or subsidies) and local-government relations were not found or read; Bloomberg and Bamboo Works pages could not be fetched. Not exoneration; NPC membership is context only. No rubric."
+    }
+  },
+  "rubrics": {}
+}

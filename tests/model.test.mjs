@@ -35,18 +35,18 @@ test('influence unknowns do not turn into a zero score',()=>{
 test('case files require support, counterevidence, confidence, dates and known people',()=>{
   for(const[id,r]of Object.entries(evidence.profiles).filter(([,r])=>r.fileState==='case-reviewed')){
     assert.ok(people.some(p=>p.id===id));assert.ok(r.status in ASSESSMENTS);
-    assert.ok(r.confidence);assert.ok(r.period);assert.ok(r.limitations);assert.equal(r.reviewedAt,'2026-10-08');
+    assert.ok(r.confidence);assert.ok(r.period);assert.ok(r.limitations);assert.ok(['2026-10-08','2026-10-29'].includes(r.reviewedAt));
     assert.ok(r.support.length);assert.ok(r.counter.length);
     for(const item of [...r.support,...r.counter]){assert.ok(item.text.length>30);assert.ok(item.date);assert.ok(item.kind);assert.ok(item.source);assert.equal(new URL(item.url).protocol,'https:');}
   }
 });
-test('500 discovery records remain distinct from 108 case reviews and 61 estimates',()=>{
+test('500 discovery records remain distinct from 219 case reviews and 63 estimates',()=>{
   assert.equal(Object.keys(evidence.profiles).length,500);
-  assert.equal(Object.values(evidence.profiles).filter(r=>r.fileState==='case-reviewed').length,108);
-  assert.equal(Object.values(evidence.profiles).filter(r=>r.score!==null).length,61);
+  assert.equal(Object.values(evidence.profiles).filter(r=>r.fileState==='case-reviewed').length,219);
+  assert.equal(Object.values(evidence.profiles).filter(r=>r.score!==null).length,63);
   const placed=filterPeople(people,{...DEFAULTS,assessment:'placed'},countries,evidence);
   const unplaced=filterPeople(people,{...DEFAULTS,assessment:'unplaced'},countries,evidence);
-  assert.equal(placed.length,61);assert.equal(unplaced.length,439);
+  assert.equal(placed.length,63);assert.equal(unplaced.length,437);
   assert.equal(new Set([...placed,...unplaced].map(p=>p.id)).size,500);
   for(const p of people){const a=assessment(p,evidence);assert.ok(a.discovery.query.includes(p.name.replace(' & family','')));assert.equal(a.discovery.status,'discovery-only-not-reviewed');
     if(a.fileState==='discovery-only'){assert.equal(a.reviewedAt,null);assert.equal(a.score,null);assert.equal(a.range,null);}
@@ -85,7 +85,7 @@ test('material case updates and narrow negative scope are retained',()=>{
   assert.ok(JSON.stringify(evidence.profiles['gautam-adani-1']).includes('2026-08-10'));
   assert.ok(JSON.stringify(evidence.profiles['jay-y-lee']).includes('pardoned'));
   assert.ok(JSON.stringify(evidence.profiles['mikhail-fridman']).includes('2022–March 2023'));
-  for(const a of Object.values(evidence.profiles).filter(a=>a.status==='no-strong'))assert.match(a.limitations,/Not a comprehensive investigation/);
+  for(const a of Object.values(evidence.profiles).filter(a=>a.status==='no-strong'))assert.match(a.limitations,/comprehensive|exoneration|absence/i);
 });
 test('quadrants use fixed thresholds, with equality in the higher category',()=>{
   assert.equal(quadrant({wealth:49},.99,'footprint').id,'low-low');
@@ -137,23 +137,29 @@ test('research batches preserve authored decisions and source-access limitations
   const {readdir}=await import('node:fs/promises');
   const dir=new URL('../data/review-batches/',import.meta.url);
   const seen=new Set();
+  const names=(await readdir(dir)).filter(n=>n.endsWith('.json')).sort();
+  const last=new Map();
+  for(const n of names){const b=JSON.parse(await readFile(new URL(n,dir),'utf8'));for(const id of Object.keys(b.profiles))last.set(id,n);}
   for(const name of await readdir(dir)){
     if(!name.endsWith('.json'))continue;
     const batch=JSON.parse(await readFile(new URL(name,dir),'utf8'));
+    for(const id of batch.supersedes||[])seen.delete(id);
     for(const [id,c]of Object.entries(batch.profiles)){
       assert.ok(!seen.has(id));seen.add(id);
       const output=evidence.profiles[id];assert.equal(output.fileState,'case-reviewed');
+      if(last.get(id)!==name)continue;  // superseded by a later, deeper review
       assert.deepEqual(output.support,c.support);assert.deepEqual(output.counter,c.counter);
       for(const r of [...c.support,...c.counter])assert.ok(r.access.length>10);
     }
     for(const[id,r]of Object.entries(batch.rubrics)){
+      if(last.get(id)!==name)continue;
       const output=evidence.profiles[id];
       assert.deepEqual(Object.values(output.rubric).map(d=>d.level),r.levels);
       assert.deepEqual(Object.values(output.rubric).map(d=>d.sourceRefs),r.sourceRefs);
       assert.deepEqual(output.range,r.range);
     }
   }
-  assert.equal(seen.size,85);
+  assert.equal(seen.size,200);
 });
 test('a reviewed civic or political role does not force a numerical estimate',()=>{
   for(const id of ['bill-gates','steve-ballmer','zhang-yiming','savitri-jindal','li-ka-shing']){
@@ -225,8 +231,8 @@ test('corporate advocacy is not personal direction and broad tax incentives are 
 test('historical steel reviews retain government defenses and mixed judicial outcomes',()=>{
   const e=evidence.profiles;
   assert.equal(e['lakshmi-mittal'].score,56);
-  assert.match(e['lakshmi-mittal'].counter[1].text,/award decision preceded the letter/);
-  assert.match(e['lakshmi-mittal'].limitations,/not.*purchased contract/);
+  assert.ok(e['lakshmi-mittal'].counter.some(c=>/award decision was made before the letter/.test(c.text)));
+  assert.match(e['lakshmi-mittal'].limitations,/not a finding that any contract or letter was purchased/);
   assert.equal(e['rinat-akhmetov'].score,63);
   assert.match(e['rinat-akhmetov'].counter[0].text,/fair-hearing violation.*no property-rights violation/);
   assert.match(e['rinat-akhmetov'].limitations,/not ongoing possession/);

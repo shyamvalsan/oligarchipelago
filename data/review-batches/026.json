@@ -1,0 +1,325 @@
+{
+  "profiles": {
+    "lyndal-stephens-greth": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Endeavor Energy Resources sale to Diamondback, announced February 2024 and completed September 2024",
+      "summary": "Narrow review found no documented political-leverage, preferential-benefit or exchange evidence concerning Lyndal Stephens Greth or her family. The only readable material concerns the family oil company and its sale. This is not exoneration; coverage was thin and several sources were unreadable.",
+      "mechanism": "No mechanism established",
+      "support": [
+        {
+          "text": "A tertiary reference describes Autry Stephens as founder of Endeavor Energy Resources and reports its 2024 sale to Diamondback Energy for about $26 billion. It does not name Lyndal Stephens Greth. It is context for the source of the family fortune, not evidence of a political mechanism.",
+          "source": "Wikipedia: Autry Stephens",
+          "url": "https://en.wikipedia.org/wiki/Autry_Stephens",
+          "date": "2024-08",
+          "kind": "Tertiary context only",
+          "access": "Page text reviewed; heirs not named"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same article contains no information on political donations or government relationships. This limits the review; it does not show an absence of such activity.",
+          "source": "Wikipedia: Autry Stephens",
+          "url": "https://en.wikipedia.org/wiki/Autry_Stephens",
+          "date": "2024-08",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Forbes Czech list page for this entry was reachable only as a title, so its figures and family composition could not be checked. A search-result summary attributed to Bloomberg a Diamondback stake of about 30%; Bloomberg returned HTTP 403 and that figure is unverified here.",
+          "source": "Forbes CZ: Lyndal Stephens Greth s rodinou",
+          "url": "https://forbes.cz/lists/nejbohatsi-lide-sveta-2025/nejbohatsi-lide-sveta/lyndal-stephens-greth-s-rodinou/",
+          "date": "2025",
+          "kind": "Explicit limit of evidence",
+          "access": "Only the page title was readable"
+        }
+      ],
+      "limitations": "Family entry: evidence about Autry Stephens, the late founder, must not be attributed to Lyndal Stephens Greth or other relatives. Searches covered donations and political ties only through general queries; FEC and lobbying records were not checked. Oil and gas regulation, federal leasing and Texas policy were not examined. Wealth, inheritance and industry alone justify no points. This is a narrow review, not an exoneration."
+    },
+    "francois-pinault": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Notre-Dame reconstruction pledge, April 2019",
+      "summary": "The only reviewed material is the 2019 pledge of €100 million to Notre-Dame by the Pinault family through Artemis. A charitable pledge is not a preferential benefit. Older leads about state-linked financing and political networks in France could not be read, so this entry establishes nothing either way.",
+      "mechanism": "No mechanism established",
+      "support": [
+        {
+          "text": "The Pinault family, through Artemis, pledged €100 million to rebuild Notre-Dame; Francois-Henri Pinault, chairman and CEO of Kering, and his father François Pinault issued the statement. This documents a public gift and no return benefit.",
+          "source": "Star Advertiser (wire report)",
+          "url": "https://www.staradvertiser.com/?p=821783",
+          "date": "2019-04-15",
+          "kind": "Context only: charitable pledge",
+          "access": "Page text reviewed; the page date and weekday reference are inconsistent"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The article does not mention tax deductions or any government favor. The reviewed evidence provides no link between the gift and any benefit.",
+          "source": "Star Advertiser: limit of evidence",
+          "url": "https://www.staradvertiser.com/?p=821783",
+          "date": "2019-04-15",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Le Monde diplomatique 2003 article on public money and private fortunes and a 1995 Le Monde piece on political networks in large companies were discovery leads; both fetches failed and nothing from them is used.",
+          "source": "Discovery leads not read",
+          "url": "https://www.monde-diplomatique.fr/2003/12/TOSCER/10865",
+          "date": "2003-12",
+          "kind": "Explicit limit of evidence",
+          "access": "Not readable in this session"
+        }
+      ],
+      "limitations": "Family entry: François Pinault and François-Henri Pinault are distinct people and evidence about one cannot be transferred to the other. Luxury-sector regulation, Kering, Artemis holdings, media ownership and 1990s French financing history were not examined. Not exoneration."
+    },
+    "mackenzie-scott": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Giving 2019–2025",
+      "summary": "No evidence of political leverage, preferential benefit or an exchange was found. Her documented activity is large-scale philanthropy. Her wealth derives from Amazon shares, and Jeff Bezos’s conduct is not hers. This reflects a narrow review; absence of evidence here does not prove an absence of political activity.",
+      "mechanism": "No mechanism established",
+      "support": [
+        {
+          "text": "A tertiary reference reports that Scott signed the Giving Pledge in May 2019, gave $14 billion in 2022, announced $640 million in March 2024, and reached about $26.3 billion given by end of 2025. A 2020 post listed democracy among focus areas. This is context, not evidence of any political-power mechanism.",
+          "source": "Wikipedia: MacKenzie Scott",
+          "url": "https://en.wikipedia.org/wiki/MacKenzie_Scott",
+          "date": "2026",
+          "kind": "Tertiary context only",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The article describes no donations to candidates or parties and no government relationships. This is a limit of coverage, not a certification.",
+          "source": "Wikipedia: MacKenzie Scott",
+          "url": "https://en.wikipedia.org/wiki/MacKenzie_Scott",
+          "date": "2026",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "An AP article on her 2025 giving (a discovery lead) could not be fetched, so none of its content is used here.",
+          "source": "AP: MacKenzie Scott gave $7.1 billion in 2025",
+          "url": "https://apnews.com/article/d7a1d58500696446406b1157058ae402",
+          "date": "2026",
+          "kind": "Explicit limit of evidence",
+          "access": "Not readable in this session"
+        }
+      ],
+      "limitations": "FEC and lobbying records were not checked; political giving through PACs or ballot measures was not searched individually. Philanthropy influences civil society but is not scored as a wealth–power mechanism without specific evidence. Not exoneration."
+    },
+    "emmanuel-besnier": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Aid year 2023; tax settlement December 2024; Senate hearing June 17, 2025",
+      "summary": "Besnier’s June 2025 Senate testimony documents state aid to Lactalis and a €475 million tax settlement, which he and his finance director characterized differently from the rapporteur. The reviewed record shows a contested fiscal settlement and ordinary aid schemes, not a preferential political exchange.",
+      "mechanism": "Public aid and tax settlement; political leverage and exchange not established",
+      "support": [
+        {
+          "text": "At the Senate inquiry, Lactalis reported €18.7 million of public aid in 2023 (€1.8 million equipment, €12.3 million social schemes, €4.6 million tax credits). Besnier confirmed a €475 million settlement with the tax authority covering 2006–2019, which the rapporteur tied to subsidiary arrangements.",
+          "source": "Sénat: commission d’enquête sur les aides publiques aux entreprises, compte rendu",
+          "url": "https://www.senat.fr/compte-rendu-commissions/20250616/ce_aides_publiques.html",
+          "date": "2025-06-17",
+          "kind": "Primary parliamentary record",
+          "access": "Page text reviewed via fetch summary"
+        },
+        {
+          "text": "Public Sénat reports the rapporteur’s account of the arrangements through Belgian and Luxembourg subsidiaries and states that a criminal investigation for aggravated tax fraud is ongoing.",
+          "source": "Public Sénat",
+          "url": "https://www.publicsenat.fr/actualites/economie/tout-le-monde-a-tort-sauf-vous-vifs-echanges-entre-le-pdg-de-lactalis-et-le-rapporteur-lors-de-son-audition-au-senat",
+          "date": "2025-06-17",
+          "kind": "Press report of allegation and open investigation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Besnier called the rapporteur’s description “totalement inexact”, and the finance director called it an “imaginary scheme”; Besnier said he preferred to settle the past despite an interpretation dispute. He argued aid only partly offsets high labor charges and said social aid was 1.3% of total labor cost.",
+          "source": "Sénat: compte rendu, responses",
+          "url": "https://www.senat.fr/compte-rendu-commissions/20250616/ce_aides_publiques.html",
+          "date": "2025-06-17",
+          "kind": "Subject response",
+          "access": "Page text reviewed via fetch summary"
+        },
+        {
+          "text": "Aid of €18.7 million and a negotiated settlement with a tax authority are not themselves evidence of political influence; the reviewed records show no link between either and a political relationship.",
+          "source": "Sénat: compte rendu, limits",
+          "url": "https://www.senat.fr/compte-rendu-commissions/20250616/ce_aides_publiques.html",
+          "date": "2025-06-17",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed via fetch summary"
+        }
+      ],
+      "limitations": "The criminal investigation is an open matter, with no charge or finding in the sources read; no guilt is implied. Le Monde pieces on his tax negotiations and the 2017 infant-milk contamination case were not readable and not assessed. Political contacts and agricultural policy influence were not examined. Not exoneration."
+    },
+    "lei-jun": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Xiaomi Phase II factory approval, June 2021; NPC deputy roles from 2013",
+      "summary": "Beijing’s planning authority describes an expedited Xiaomi factory approval in June 2021 as an institutional “Xiaomi model”, and Lei Jun is a long-serving National People’s Congress deputy. Neither fact, on its own, establishes personal patronage or an exchange; the same page says the land was obtained through a public listing.",
+      "mechanism": "Local government approval process for a corporate project; personal exchange not established",
+      "support": [
+        {
+          "text": "A Beijing planning-authority account dated June 30, 2021 says Xiaomi obtained two plots on June 29 and the Changping branch approved the design plan on June 30 through a “multi-plan integration” review; the project is planned for 10 million phones a year, worth about 60 billion yuan, and the process was called the “Xiaomi model”.",
+          "source": "Beijing Municipal Planning and Natural Resources Commission",
+          "url": "https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/gzdt/cp/202106/t20210630_2426351.html",
+          "date": "2021-06-30",
+          "kind": "Primary local-government account",
+          "access": "Page text reviewed (Chinese, summarized by fetch tool)"
+        },
+        {
+          "text": "A tertiary reference lists Lei Jun as a deputy of the Beijing Municipal People’s Congress (2012) and of the National People’s Congress from 2013, including the 14th NPC from 2023, and a 2019 official recognition as an Outstanding Builder of Socialism with Chinese Characteristics.",
+          "source": "Wikipedia: Lei Jun",
+          "url": "https://en.wikipedia.org/wiki/Lei_Jun",
+          "date": "2026",
+          "kind": "Tertiary reference on office-holding",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The planning page says the land was obtained through a public listing and describes the process as institutional reform and a model for attracting “high-end, cutting-edge” enterprises generally. This points to a policy template for the district, not necessarily a favor for one founder.",
+          "source": "Beijing Municipal Planning and Natural Resources Commission",
+          "url": "https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/gzdt/cp/202106/t20210630_2426351.html",
+          "date": "2021-06-30",
+          "kind": "Alternative explanation within the primary source",
+          "access": "Page text reviewed (Chinese, summarized by fetch tool)"
+        },
+        {
+          "text": "The Wikipedia article reports no proposals made by Lei Jun as a deputy. Office-holding alone justifies no points. The Xiaomi 2021 interim report listed in the project handoff was a binary PDF whose text could not be read here.",
+          "source": "Wikipedia: Lei Jun; Xiaomi interim report",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2021/0928/2021092800380.pdf",
+          "date": "2021-09-28",
+          "kind": "Explicit limit of evidence",
+          "access": "PDF not readable as text in this session"
+        }
+      ],
+      "limitations": "The factory approval is distinct from electric-vehicle projects, later legislative proposals and subsidies, none of which were reviewed. The legislative-body membership in China is not equivalent to independent political leverage. The 2021 Pentagon list episode is a US government matter, not examined. Not exoneration."
+    },
+    "andreas-von-bechtolsheim": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Career 1982–2024",
+      "summary": "No evidence of political leverage, preferential benefit or an exchange was found. The reviewed reference describes a technology-founder fortune from Sun, Cisco, Google and Arista. A 2024 SEC settlement is a securities matter, not a wealth–power mechanism. This is a narrow review, not exoneration.",
+      "mechanism": "No mechanism established",
+      "support": [
+        {
+          "text": "A tertiary reference reports he co-founded Sun Microsystems, sold Granite Systems to Cisco in 1996, co-founded Arista Networks and invested $100,000 in Google in 1998 alongside David Cheriton. It says DARPA supported the early SUN project. This is context for wealth, not evidence of a mechanism.",
+          "source": "Wikipedia: Andreas von Bechtolsheim",
+          "url": "https://en.wikipedia.org/wiki/Andreas_von_Bechtolsheim",
+          "date": "2025",
+          "kind": "Tertiary context only",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The article reports no political donations, government roles or lobbying. This limits the review rather than certifying absence.",
+          "source": "Wikipedia: Andreas von Bechtolsheim",
+          "url": "https://en.wikipedia.org/wiki/Andreas_von_Bechtolsheim",
+          "date": "2025",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The article says he settled 2024 SEC insider-trading allegations about information on Cisco’s proposed Acacia acquisition, paying a civil penalty of nearly $1 million and accepting a five-year officer-and-director bar. This is a market-conduct matter and is not scored as political leverage or benefit.",
+          "source": "Wikipedia: Andreas von Bechtolsheim (SEC settlement)",
+          "url": "https://en.wikipedia.org/wiki/Andreas_von_Bechtolsheim",
+          "date": "2024",
+          "kind": "Legal context; not a mechanism",
+          "access": "Page text reviewed; SEC order itself not opened"
+        }
+      ],
+      "limitations": "Family entry: evidence concerns Andreas von Bechtolsheim himself; other family members were not researched. FEC and lobbying records, Arista’s government sales and German policy contacts were not checked. A German 2014 Tagesspiegel article from the discovery leads does not mention him. Not exoneration."
+    },
+    "vicky-safra": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Family banking wealth; evidence base too thin for a period judgement",
+      "summary": "No evidence of political leverage, preferential benefit or an exchange concerning Vicky Safra was found. Readable material only identifies her and the family banking businesses. A court-record lead could not be read. This is not exoneration.",
+      "mechanism": "No mechanism established",
+      "support": [
+        {
+          "text": "A tertiary reference describes her as a Greek-born billionaire living in Switzerland, widow of Joseph Safra (died 2020), who heads the Joseph Safra Philanthropic Foundation; her children oversee J. Safra Sarasin, Safra National Bank of New York and Banco Safra. This is identity and context only.",
+          "source": "Wikipedia: Vicky Safra",
+          "url": "https://en.wikipedia.org/wiki/Vicky_Safra",
+          "date": "2026",
+          "kind": "Tertiary context only",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The article mentions no political or government links for her. It cites a 2016 report on charges against her late husband in Brazil, with no outcome described; that matter cannot be attributed to her.",
+          "source": "Wikipedia: Vicky Safra",
+          "url": "https://en.wikipedia.org/wiki/Vicky_Safra",
+          "date": "2026",
+          "kind": "Explicit limit of evidence and attribution boundary",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The discovery lead, a CaseMine record styled Safra v. SNBNY Holdings, rendered only a placeholder title in this session, so its parties and subject were not verified.",
+          "source": "CaseMine: Safra v. SNBNY Holdings Ltd. (lead)",
+          "url": "https://www.casemine.com/judgement/us/6610d13a98c8641582fe795b",
+          "date": "2024",
+          "kind": "Explicit limit of evidence",
+          "access": "Page content not readable"
+        }
+      ],
+      "limitations": "Family entry: the businesses were run by Joseph Safra and now by their sons; Brazilian, Swiss and Lebanese banking regulation were not examined. Name matches: several Safra family members share surnames. Not exoneration."
+    },
+    "cyrus-poonawalla": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "COVID vaccine procurement 2021",
+      "summary": "The reviewed feature documents that the Indian government bought Serum Institute’s COVID vaccine at a low price and advanced Rs 3,000 crore in April 2021, while also describing a strained relationship. These are company-level transactions in a public-health emergency, in which Adar Poonawalla was the public face; they do not show an exchange involving Cyrus Poonawalla personally.",
+      "mechanism": "Government vaccine procurement and advance; personal exchange not established",
+      "support": [
+        {
+          "text": "Open magazine reports the government bought doses at about US$2 each and advanced Rs 3,000 crore to Serum Institute in April 2021, after Covishield exports were banned.",
+          "source": "Open Magazine: The Legend of the Poonawallas",
+          "url": "https://openthemagazine.com/feature/the-legend-of-the-poonawallas",
+          "date": "2021",
+          "kind": "Reported company-government transaction",
+          "access": "Page text reviewed via fetch summary; article date not confirmed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same feature says the dose price was roughly one-tenth of the global average, that the relationship became strained, that chief ministers made threatening calls to Adar Poonawalla, and that the family were scapegoats for delayed government orders. It reports few political ties for Cyrus Poonawalla beyond a photo with Pranab Mukherjee.",
+          "source": "Open Magazine",
+          "url": "https://openthemagazine.com/feature/the-legend-of-the-poonawallas",
+          "date": "2021",
+          "kind": "Alternative explanation and limits",
+          "access": "Page text reviewed via fetch summary"
+        },
+        {
+          "text": "Discovery leads on Panama Papers property attachments of Poonawalla relatives (Times of India) and fact-checks on Serum’s political donation channel could not be read, so nothing from them is used. No relative’s case is attributed to Cyrus Poonawalla.",
+          "source": "Times of India; Factly (leads)",
+          "url": "https://timesofindia.indiatimes.com/india/panama-papers-ed-attaches-properties-of-poonawalla-kin/articleshow/100085404.cms",
+          "date": "2023",
+          "kind": "Explicit limit of evidence",
+          "access": "Not readable in this session"
+        }
+      ],
+      "limitations": "Identity: Cyrus Poonawalla founded Serum Institute and his son Adar runs it; most reporting concerns Adar or the company. Serum’s political donations, price terms and advance conditions were not verified from primary records. Public-health procurement may have legitimate purposes. Not exoneration."
+    }
+  },
+  "rubrics": {}
+}

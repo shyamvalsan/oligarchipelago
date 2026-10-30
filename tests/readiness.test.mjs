@@ -7,7 +7,7 @@ const evidence=JSON.parse(await readFile(new URL('../data/assessments.json',impo
 
 test('current coverage cannot pass the all-500 research gate',()=>{
   const report=researchReadiness(data.people,evidence);
-  assert.deepEqual(report.counts,{total:500,reviewed:108,scored:61,discoveryOnly:392,reviewedUnplaced:47});
+  assert.deepEqual(report.counts,{total:500,reviewed:219,scored:63,discoveryOnly:281,reviewedUnplaced:156});
   assert.deepEqual(report.structuralErrors,[]);assert.equal(report.researchGatePassed,false);
   assert.equal(report.blockers.length,2);
 });
@@ -27,6 +27,6 @@ test('readiness treats a reviewed zero as a score but never a missing score',()=
   a.rubric={leverage:{level:0},benefit:{level:0},exchange:{level:0}};
   a.score=0;a.range=[0,10];
   const report=researchReadiness(data.people,copy);
-  assert.equal(report.counts.scored,62);assert.equal(report.counts.reviewedUnplaced,46);
+  assert.equal(report.counts.scored,64);assert.equal(report.counts.reviewedUnplaced,155);
   assert.equal(report.researchGatePassed,false);
 });

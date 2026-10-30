@@ -87,8 +87,10 @@ for id in ['michael-bloomberg','larry-page','sergey-brin','mark-zuckerberg','lar
 profiles.update(json.loads((ROOT/'data/additional-cases.json').read_text()))
 reviewed_ids=set()
 for path in sorted((ROOT/'data/review-batches').glob('*.json')):
- additions=json.loads(path.read_text())['profiles']
- assert not reviewed_ids.intersection(additions), f'Duplicate authored review: {path}'
+ batch=json.loads(path.read_text());additions=batch['profiles']
+ superseded=set(batch.get('supersedes',[]))  # a deeper later review may replace an earlier one, only by explicit id
+ assert superseded<=reviewed_ids|set(profiles), f'Supersedes unknown review: {path}'
+ assert not (reviewed_ids.intersection(additions)-superseded), f'Duplicate authored review: {path}'
  reviewed_ids.update(additions)
  profiles.update(additions)
 ledger=dict(version='0.2-editorial-assessments',reviewedAt='2026-10-08',definition='A billionaire whose wealth and political power materially reinforce one another through preferential access, policy influence, state patronage, or a documented exchange securing private economic advantage.',method='Case-based editorial assessment, not a numerical corruption score. Historical and disputed evidence is labeled. Wealth, nationality, inheritance, office, monopoly, donations, contracts or sanctions alone do not determine a verdict.',limitations='Initial research, AI-assisted and not independently editorially reviewed. Coverage is uneven and mostly unassessed. Historical evidence does not establish ongoing 2026 conduct. Narrow source checks must not be treated as exoneration.',profiles=profiles)

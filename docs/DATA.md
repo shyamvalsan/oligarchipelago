@@ -14,11 +14,11 @@
 | --- | ---: | ---: | --- |
 | Source discovery | 200 | 500 | Individual queries; retained titles and URLs are unverified leads |
 | Narrow UK sanctions-name screen | 200 | 500 | Candidate matching, not verified identity or clearance |
-| Authored case review | 94 | 108 | Initial source-led files, not comprehensive investigations |
-| Numerical editorial estimate | 50 | 61 | All three rubric dimensions assigned |
-| Discovery-only | 106 | 392 | No authored case review yet |
-| Reviewed but unplaced | 44 | 47 | Reviews do not support an estimate |
-| No numerical position | 150 | 439 | Discovery-only plus reviewed but unplaced |
+| Authored case review | 200 | 219 | Initial source-led files, not comprehensive investigations |
+| Numerical editorial estimate | 52 | 63 | All three rubric dimensions assigned |
+| Discovery-only | 0 | 281 | No authored case review yet |
+| Reviewed but unplaced | 148 | 156 | Reviews do not support an estimate |
+| No numerical position | 148 | 437 | Discovery-only plus reviewed but unplaced |
 
 `data/research-batches/001.json` through `125.json` preserve the discovery audit. `research-discovery.json` is the aggregate. Search hits may be irrelevant, disputed or about namesakes; they never automatically produce scores. All 200 launch entries remain accessible through search, table and profiles; the other 300 remain in the repository archive, not the current UI. The default chart has 50 positioned markers, not 200 assessed people. The readiness script reports launch and archive counts separately.
 
@@ -42,12 +42,12 @@ Anchors: 0 = reviewed evidence against the mechanism within scope; 1 = contextua
 
 A missing dimension is null and prevents a score. Unknown never means zero, midpoint or ordinary. Every estimate exposes dimension rationales, receipt references, counterevidence, qualitative confidence, historical period, limitations and a plausible editorial range. Ranges are not statistical intervals; scores are not probabilities of guilt. Small differences should not be treated as meaningful ranks. No automatic points for nationality, inheritance, sanctions, donations, contracts or company size.
 
-These initial AI-assisted judgments have not received independent editorial review. Coverage and source selection are uneven. The 44 launch-cohort reviews without estimates (47 in the archive) are not exonerations.
+These initial AI-assisted judgments have not received independent editorial review. Coverage and source selection are uneven. The 148 launch-cohort reviews without estimates (156 in the archive) are not exonerations. Waves 21–35 were written under a shared search budget that ran out partway: many receipts are Wikipedia or fetch-tool summaries (marked in each receipt's access field), and several concern a relative or company rather than the named person. Treat them as starting points for verification.
 
 ### Material distinctions retained
 
 - Jay Y. Lee: historical bribery conviction, 2022 pardon, separate financial-case acquittal upheld in 2025. No guilt transferred to relatives.
-- Adani: allegations, no-admission civil resolution, August 2026 criminal dismissal and September SEC notice. Not an ongoing criminal indictment or conviction.
+- Adani: US allegations of an Indian power-contract bribery scheme; May 2026 SEC consent judgments without admission; August 2026 dismissal with prejudice of the three counts charged against Gautam Adani, with the court taking no view of the merits (the FCPA and obstruction counts, charged only against other, non-appearing defendants, were undecided at the last reviewed order); separate SEBI orders in September 2025 and 2026 and an OFAC settlement by Adani Enterprises. Not a conviction, and not an adjudicated finding that bribes were paid.
 - Fridman: EU annulment covered February 2022–March 2023, not all later sanctions.
 - Usmanov: government attributions and German investigation closures, not a criminal conviction.
 - Abramovich: historical UK allegations distinguished from the 2026 EU sector/business-based sanctions decision.

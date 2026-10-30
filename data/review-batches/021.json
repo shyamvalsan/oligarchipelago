@@ -1,0 +1,159 @@
+{
+  "profiles": {
+    "larry-page": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration where no estimate is given",
+      "confidence": "Low / narrow review",
+      "period": "Google corporate events, 2025",
+      "summary": "Searches found corporate-level Google political activity (a 2025 inauguration donation; an antitrust case with a 2025 remedies ruling) but no reviewed source attributing a personal political bargain, access episode or preferential benefit to Larry Page. This is not exoneration; it reflects a narrow search.",
+      "mechanism": "Corporate political engagement and antitrust exposure; no personal mechanism identified",
+      "support": [
+        {
+          "text": "Google gave $1 million to the 2025 Trump inaugural committee; a Google executive said this matched past inaugurations. The article names Sergey Brin and Sundar Pichai as having met Trump after the election and does not mention Larry Page.",
+          "source": "NBC Washington / CNBC",
+          "url": "https://www.nbcwashington.com/news/business/money-report/google-donates-1-million-to-trumps-inauguration-fund-joining-other-tech-giants/3809421/?amp=1",
+          "date": "2025-01-09",
+          "kind": "Corporate donation; no Page-specific content",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Judge Mehta’s September 2025 remedies ruling in the Google search case rejected Chrome and Android divestiture but imposed data-sharing and exclusivity limits. Continued enforcement and mixed remedies do not show a protective political bargain, and the ruling is not evidence about Page personally.",
+          "source": "Hughes Hubbard & Reed (law firm summary)",
+          "url": "https://www.hugheshubbard.com/news/court-issues-remedies-ruling-in-united-states-v-google-search-case",
+          "date": "2025-09",
+          "kind": "Legal update / limit of evidence",
+          "access": "Page text reviewed; secondary law-firm summary, not the opinion"
+        }
+      ],
+      "limitations": "Company conduct is not transferred to a co-founder. No personal donation, lobbying, access or contract evidence about Page was located in this review, and the search tool returned nothing on his political giving. Absence of findings is not a finding of absence."
+    },
+    "sergey-brin": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration where no estimate is given",
+      "confidence": "Low / narrow review",
+      "period": "2025–2026",
+      "summary": "Brin personally became a large political spender in 2026, reportedly funding a campaign against California’s proposed one-time billionaire tax and attending Trump-related events. This is open electoral activity directly tied to his own wealth interests; the reviewed material does not show a preferential benefit already obtained, and the ballot outcome (3 November 2026) is pending at review date.",
+      "mechanism": "Large personal political spending on a measure affecting his wealth; access to officials; benefit not established",
+      "support": [
+        {
+          "text": "Il Post, citing New York Times reporting of April 2026, says Brin moved to Nevada before the end of 2025, gave $57 million over four months to Building a Better California, recruited other tech executives, backed a Republican candidate for governor, and has had repeated contact with Trump. Figures are from secondary reporting of the NYT.",
+          "source": "Il Post (Italian; summarizing the New York Times)",
+          "url": "https://www.ilpost.it/2026/05/08/sergey-brin-google-spostamento-destra/",
+          "date": "2026-05-08",
+          "kind": "Secondary report of personal political spending and access",
+          "access": "Page text reviewed in Italian; underlying NYT article not read"
+        },
+        {
+          "text": "NewsNation reports the Billionaire Tax Act (Prop 40) as a one-time 5% tax, that Prop 42 would bar retroactive taxes and is funded by Brin, and that Governor Newsom endorsed Prop 42 in October. It gives no dollar totals.",
+          "source": "NewsNation (CalMatters reporting relayed)",
+          "url": "https://www.newsnationnow.com/politics/gavin-newsom-california-ballot-measure-billionaire-tax/amp",
+          "date": "2026-10",
+          "kind": "Current ballot-measure context",
+          "access": "Page text reviewed; the article contains an apparent internal numbering error for the measure"
+        },
+        {
+          "text": "Brin and Pichai met Trump after the 2024 election; Google gave $1 million to the inaugural fund. The article does not tie the meeting to any request or outcome.",
+          "source": "NBC Washington / CNBC",
+          "url": "https://www.nbcwashington.com/news/business/money-report/google-donates-1-million-to-trumps-inauguration-fund-joining-other-tech-giants/3809421/?amp=1",
+          "date": "2025-01-09",
+          "kind": "Access episode",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The ballot spending is a public electoral process in which opponents also raise money; a pre-election poll cited by NewsNation had 45% supporting and 43% opposing Prop 40. Spending on a ballot measure is not by itself preferential treatment, and the vote is undecided.",
+          "source": "NewsNation",
+          "url": "https://www.newsnationnow.com/politics/gavin-newsom-california-ballot-measure-billionaire-tax/amp",
+          "date": "2026-10",
+          "kind": "Alternative explanation / limit of evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Il Post attributes Brin’s stated motive to his family’s Soviet-era history and concerns about California, and sources close to him credit his partner’s influence; these are his and others’ stated reasons, not an independent finding.",
+          "source": "Il Post",
+          "url": "https://www.ilpost.it/2026/05/08/sergey-brin-google-spostamento-destra/",
+          "date": "2026-05-08",
+          "kind": "Subject response / alternative explanation",
+          "access": "Page text reviewed in Italian"
+        }
+      ],
+      "limitations": "Review limited to secondary reports; amounts differ across outlets and some relied on search summaries not read. Open political spending to defeat a tax does not equal a preferential benefit, and the measure was undecided at review date. No score is assigned; not exoneration."
+    },
+    "mukesh-ambani": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration where no estimate is given",
+      "confidence": "Low / narrow review",
+      "period": "2014–2018 episodes; 2017 regulatory disputes",
+      "summary": "Reviewed reports document recurring accusations by rivals, opposition parties and a state government that Reliance benefited from favorable policy decisions, and one dated episode where an internal ministry objection to the Jio Institute designation was overridden. Each has an official or company explanation, and the 2014 gas-price FIR is an allegation, not a finding. The estimate is deliberately weak and wide.",
+      "mechanism": "Contested policy and regulatory decisions favoring Reliance interests; allegations and procedural objections, not adjudicated exchange",
+      "support": [
+        {
+          "text": "Indian Express RTI records reported by Business Today show the Finance Ministry’s expenditure department called Institute of Eminence status for not-yet-established private institutions “beyond rationale”; the HRD Ministry nonetheless granted the tag, and the Jio Institute was among six selected.",
+          "source": "Business Today (citing Indian Express RTI)",
+          "url": "https://www.businesstoday.in/amp/latest/economy-politics/story/jio-institute-row-finance-ministry-warned-hrd-ministry-against-granting-institute-of-eminence-tag-non-existent-institutions-108990-2018-08-29",
+          "date": "2018-08-29",
+          "kind": "Internal-record report of procedural objection",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Scroll reported that the designation exempts institutions from most regulation, that Jio had none of the required features yet, and that some academics suspected the selection favored Reliance.",
+          "source": "Scroll.in",
+          "url": "https://scroll.in/article/885897/reliances-jio-university-gets-governments-institute-of-eminence-status-but-its-yet-to-be-set-up",
+          "date": "2018-07-09",
+          "kind": "Contemporaneous report and criticism",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Delhi’s chief minister alleged Reliance made windfall gains through KG-D6 gas pricing and ordered FIRs against Ambani, two oil ministers and a former regulator. Reliance has consistently denied price manipulation; Moily dismissed the claims.",
+          "source": "Gulf News",
+          "url": "https://gulfnews.com/amp/story/world%2Fasia%2Findia%2Faap-leader-arvind-kejriwal-takes-on-ambani-over-price-fixing-1.1289732",
+          "date": "2014-02",
+          "kind": "Allegation by a state government",
+          "access": "Page text reviewed; page metadata shows 2018, but content describes the 2014 FIR, so the date is approximate"
+        },
+        {
+          "text": "The Wire described Jio prevailing in three regulatory disputes in 2017 (free data offer, 2010 spectrum auction rules, test trials) under the attorney general’s advice and a Supreme Court dismissal; the article frames this as contested and still subject to CCI review.",
+          "source": "The Wire",
+          "url": "https://cms.thewire.in/106628/absolved-thrice-reliance-jio-now-faces-final-regulatory-challenge",
+          "date": "2017-02-07",
+          "kind": "Regulatory outcomes favoring Jio; critical framing",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The HRD Ministry said the designation was conditional on Jio meeting benchmarks within three years, was awarded in a greenfield category where 11 applications were received and only Jio met four criteria, and denied a reported government grant to Jio. The expert committee, led by a former chief election commissioner, chose only six of 20 planned places.",
+          "source": "Gulf News; Newslaundry",
+          "url": "https://gulfnews.com/world/asia/india/indian-officials-backtrack-on-jio-institute-honour-1.2249409",
+          "date": "2018-11-05",
+          "kind": "Government response / alternative explanation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Newslaundry reports the committee chair saying breaking into the top 500 is hard and only six institutions merited the designation, and the UGC defended Jio under the greenfield rules.",
+          "source": "Newslaundry",
+          "url": "https://www.newslaundry.com/2018/07/10/jio-institute-institutions-of-eminence-prakash-javadekar-mhrd",
+          "date": "2018-07-10",
+          "kind": "Official justification",
+          "access": "Page text reviewed; no Reliance statement on page"
+        },
+        {
+          "text": "Reliance denied KG-D6 manipulation; the Wire notes Jio argued it was not dominant and that regulators and the attorney general found no breach of the cited rules. A regulatory win is not itself proof of political favor.",
+          "source": "Gulf News; The Wire",
+          "url": "https://cms.thewire.in/106628/absolved-thrice-reliance-jio-now-faces-final-regulatory-challenge",
+          "date": "2017-02-07",
+          "kind": "Subject response / alternative explanation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Evidence is mostly contemporaneous press reporting of 2014–2018 episodes; I did not read the CAG reports, the final status of the 2014 FIR, or any 2020s Reliance matters. Search snippets on the Radia tapes and telecom audits were not used because the underlying pages were not read. The estimate reflects allegation-heavy, historically bounded evidence and is not a finding of wrongdoing."
+    }
+  },
+  "rubrics": {}
+}

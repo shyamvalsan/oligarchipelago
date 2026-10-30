@@ -1,0 +1,333 @@
+{
+  "profiles": {
+    "zheng-shuliang": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "Corporate events 2017–2020",
+      "summary": "The Forbes entry is a family entry linked to China Hongqiao and Shandong Weiqiao. The pages reviewed describe corporate regulatory events, including a 2017 closure order and a government-notified 2019 capacity relocation, but none names Zheng Shuliang or shows personal political leverage, preferential benefit or an exchange.",
+      "mechanism": "Corporate-level regulatory interaction only; no personal mechanism identified",
+      "support": [
+        {
+          "text": "Wikipedia summarizes the 2017 official order to close two million tonnes of unapproved smelting lines, regulatory scrutiny of coal use and 2017 short-seller allegations. It does not mention Zheng Shuliang.",
+          "source": "Wikipedia: China Hongqiao Group",
+          "url": "https://en.wikipedia.org/wiki/China_Hongqiao_Group",
+          "date": "2026",
+          "kind": "Corporate regulatory context",
+          "access": "Page text reviewed; secondary source"
+        },
+        {
+          "text": "A trade report says a Shandong provincial industry department notice confirmed relocation of 2.03 Mt of capacity from Binzhou to hydropower-rich Yunnan on 28 Nov 2019. It names no individual and does not mention the family.",
+          "source": "alCircle",
+          "url": "https://alcircle.com/news/shandong-weiqiao-to-move-203-mt-aluminium-capacity-from-shandong-to-hydro-power-rich-yunnan-49505",
+          "date": "2019-11-29",
+          "kind": "Corporate regulatory process",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The reported relocation is explained in the source by switching from coal to hydropower, an industrial rationale, and the source does not allege a favor.",
+          "source": "alCircle: stated rationale",
+          "url": "https://alcircle.com/news/shandong-weiqiao-to-move-203-mt-aluminium-capacity-from-shandong-to-hydro-power-rich-yunnan-49505",
+          "date": "2019-11-29",
+          "kind": "Alternative explanation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Neither page mentions Zheng Shuliang, so the evidence cannot be attributed to her personally.",
+          "source": "Wikipedia and alCircle: attribution limit",
+          "url": "https://en.wikipedia.org/wiki/China_Hongqiao_Group",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Identity: Zheng Shuliang is described in search results as widow of Hongqiao founder Zhang Shiping, but that and any political roles (e.g. NPC or CPPCC membership) were not confirmed from a reviewed page; Hong Kong exchange filings were fetched but were unreadable. Chinese-language sources were not searched. Not an exoneration. This is a limited search and not an exoneration."
+    },
+    "marilyn-simons": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "2014–2021 (tax matter); donations by cycle through 2020",
+      "summary": "Documented political giving, a 2014 Senate subcommittee condemnation of Renaissance basket options and a 2021 tax settlement concern Jim Simons and the firm. The pages reviewed do not attribute political or tax conduct to Marilyn Simons personally, so no rubric is assigned.",
+      "mechanism": "Spousal and family-entry context: donor activity and a tax dispute attributed to Jim Simons and Renaissance",
+      "support": [
+        {
+          "text": "Wikipedia reports Jim Simons ranked fifth among federal donors in the 2016 cycle, with gifts such as $7 million to Priorities USA Action, and about $30.6 million to federal campaigns from 2006. Marilyn is identified as his wife (1977) and co-founder of the Simons Foundation (1994).",
+          "source": "Wikipedia: Jim Simons",
+          "url": "https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)",
+          "date": "2026",
+          "kind": "Spouse-level donor context",
+          "access": "First 100,000 characters reviewed; secondary source"
+        },
+        {
+          "text": "The same page reports the July 2014 Senate subcommittee condemnation of basket options and the September 2021 settlement of back taxes and penalties by Simons and colleagues. Marilyn is not named in it.",
+          "source": "Wikipedia: Jim Simons",
+          "url": "https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)",
+          "date": "2026",
+          "kind": "Corporate/spouse matter, not personal to Marilyn",
+          "access": "First 100,000 characters reviewed; secondary source"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Marilyn Simons page attributes political donations and the tax dispute to Jim Simons and Renaissance, not to her, and gives no ownership or role at Renaissance.",
+          "source": "Wikipedia: Marilyn Simons",
+          "url": "https://en.wikipedia.org/wiki/Marilyn_Simons",
+          "date": "2026",
+          "kind": "Explicit attribution limit",
+          "access": "Page text reviewed; secondary source"
+        },
+        {
+          "text": "Simons gave to both parties and Wikipedia records a $25,000 super PAC gift supporting Republican Senator Lindsey Graham alongside largely Democratic giving. Donation records alone do not show an exchange.",
+          "source": "Wikipedia: Jim Simons",
+          "url": "https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)",
+          "date": "2026",
+          "kind": "Context limiting inference",
+          "access": "First 100,000 characters reviewed"
+        }
+      ],
+      "limitations": "Family entry: Jim Simons died 10 May 2024; the entry covers Marilyn and family, and the evidence concerns her late husband. Search surfaced a LittleSis page for \"Marilyn Hawrys Simons\" donors and a different \"Simon, Marilyn\" FEC record; neither was relied on and the FEC identity was not resolved. Primary FEC, Senate and IRS documents were not read. Not an exoneration. This is a limited search and not an exoneration."
+    },
+    "robert-pera": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "Ubiquiti SEC request reported February 2018; Grizzlies purchase 2012",
+      "summary": "Reviewed pages show corporate regulatory matters at Ubiquiti, including a reported 2018 SEC document request, but no reviewed page shows political leverage, public contracts or favorable policy treatment for Pera personally.",
+      "mechanism": "No wealth-power mechanism identified in reviewed sources",
+      "support": [
+        {
+          "text": "WMC Action News 5 reports an SEC subpoena asking for documents on accounting practices, financial information, international trade practices and distributor relationships. This is a regulatory inquiry, not evidence of political leverage or benefit.",
+          "source": "WMC Action News 5",
+          "url": "https://www.actionnews5.com/story/37561387/memphis-grizzlies-owner-robert-pera-subpoenaed-by-sec/",
+          "date": "2018-02-21",
+          "kind": "Corporate regulatory context only",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Wikipedia records Pera founding Ubiquiti in 2005, its 2011 IPO and his 2012 NBA-approved Grizzlies purchase. No lobbying, donations or government contracts are described.",
+          "source": "Wikipedia: Robert Pera",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pera",
+          "date": "2026",
+          "kind": "Biographical context",
+          "access": "Page text reviewed; secondary source"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Ubiquiti said it was working to respond to the SEC request; the article reports no finding or outcome.",
+          "source": "WMC Action News 5: company response",
+          "url": "https://www.actionnews5.com/story/37561387/memphis-grizzlies-owner-robert-pera-subpoenaed-by-sec/",
+          "date": "2018-02-21",
+          "kind": "Subject/company response",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Wikipedia page contains nothing on political donations, lobbying or government contracts, so absence is an evidence limit.",
+          "source": "Wikipedia: Robert Pera",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pera",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Search results also pointed to a 2014 OFAC settlement by Ubiquiti over exports to Iran and commentary about Russian military use of Ubiquiti gear; the OFAC document fetched was unreadable and the commentary is opinion, so neither is relied on and neither is attributed to Pera personally. No FEC or lobbying records were read. Not an exoneration. This is a limited search and not an exoneration."
+    },
+    "elaine-marshall": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "2003–2022 donations; Koch board since 2006",
+      "summary": "Marshall is reported to hold, with her sons, a roughly 16 percent beneficial interest in Koch Industries and a board seat since 2006. Reviewed pages show modest personal political giving and attendance at a 2010 Koch network meeting; Koch Inc. policy influence is not attributed to her personally.",
+      "mechanism": "Inherited stake in a politically active company; personal role unestablished",
+      "support": [
+        {
+          "text": "DeSmog, citing FEC data, reports an Elaine Marshall identified as a Koch board member gave $50,000 to KOCHPAC between 2011 and 2022 and $4,000 to Bush-Cheney 04; it reports she and two sons attended a June 2010 Koch network meeting in Aspen.",
+          "source": "DeSmog Koch network profile",
+          "url": "https://www.desmog.com/elaine-marshall/",
+          "date": "2026",
+          "kind": "Individual donations and event attendance (advocacy outlet citing FEC)",
+          "access": "Page text reviewed; FEC records not checked"
+        },
+        {
+          "text": "Wikipedia says trusts for Marshall and her sons hold a 16% beneficial interest in Koch Industries, that she has been a director since 2006, and that Forbes valued her family at $30.9 billion in October 2025.",
+          "source": "Wikipedia: Elaine Tettemer Marshall",
+          "url": "https://en.wikipedia.org/wiki/Elaine_Tettemer_Marshall",
+          "date": "2026",
+          "kind": "Ownership and role",
+          "access": "Page text reviewed; secondary source"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Wikipedia page contains no political activity or policy-influence claim about her and the DeSmog profile has no statement from her about influence, so personal leverage is not evidenced.",
+          "source": "Wikipedia and DeSmog: limits",
+          "url": "https://en.wikipedia.org/wiki/Elaine_Tettemer_Marshall",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The reviewed donations are small relative to her wealth and are reported through a company PAC and a past campaign, which are lawful and disclosed.",
+          "source": "DeSmog: amounts",
+          "url": "https://www.desmog.com/elaine-marshall/",
+          "date": "2026",
+          "kind": "Context limiting inference",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Family entry: Marshall and family. Koch Inc. policy influence is a separate matter that belongs to Charles Koch and the company, not assumed here. Litigation over the J. Howard Marshall estate and a 2014 gift-tax case were seen but are not political evidence. Not an exoneration. This is a limited search and not an exoneration."
+    },
+    "shiv-nadar": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "1976–2025 as described in profile pages",
+      "summary": "The reviewed pages describe HCL, the Shiv Nadar Foundation, a 2008 Padma Bhushan and the Institute of Eminence status of his university. None documents political leverage, preferential contracts or an exchange; an honor or regulatory recognition is not evidence of favoritism.",
+      "mechanism": "No wealth-power mechanism identified in reviewed sources",
+      "support": [
+        {
+          "text": "Wikipedia records a Padma Bhushan (2008), his chairing of IIT Kharagpur board of governors until 2014 and philanthropic giving of Rs 2,708 crore in FY25 through the foundation. Its Shiv Nadar University page records an Institution of Eminence designation on 3 August 2022.",
+          "source": "Wikipedia: Shiv Nadar; Shiv Nadar University",
+          "url": "https://en.wikipedia.org/wiki/Shiv_Nadar",
+          "date": "2026",
+          "kind": "Contextual recognition and institutional roles",
+          "access": "Pages reviewed; secondary sources"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Shiv Nadar page, as read, mentions no political connections, ED/SEBI matters or other controversy; the university page describes the 2023 campus shooting as its only controversy and does not discuss land allocation.",
+          "source": "Wikipedia: Shiv Nadar University",
+          "url": "https://en.wikipedia.org/wiki/Shiv_Nadar_University",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Public honors and Institution of Eminence designation come with formal criteria and are not shown here to be an exchange.",
+          "source": "Wikipedia: Shiv Nadar University",
+          "url": "https://en.wikipedia.org/wiki/Shiv_Nadar_University",
+          "date": "2026",
+          "kind": "Alternative explanation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Searches for Uttar Pradesh land allotment and electoral-bond donations returned no relevant results about him, but only a few pages were read and no Indian primary sources, Election Commission data or HCL filings were reviewed. Not an exoneration. This is a limited search and not an exoneration."
+    },
+    "henry-samueli": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "2008–2009",
+      "summary": "The reviewed record concerns a Broadcom options-backdating case. Samueli pleaded guilty in June 2008 to a false statement to SEC investigators; a judge later set that plea aside in December 2009 after finding his answer was not a material false statement. This is not evidence of political leverage or preferential benefit.",
+      "mechanism": "Historical regulatory/criminal matter; no wealth-power mechanism identified",
+      "support": [
+        {
+          "text": "OCBJ reports Samueli pleaded guilty in June 2008 to one felony count of lying to SEC investigators about options backdating; prosecutors proposed a $12 million payment, a $250,000 fine and probation, and Judge Carney rejected the deal as too lenient.",
+          "source": "Orange County Business Journal",
+          "url": "https://www.ocbj.com/news/samueli-appealing-judges-plea-bargain-rejection/",
+          "date": "2008-10-13",
+          "kind": "Historical plea (since set aside)",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "On 9 December 2009 Judge Carney threw out the case and plea, finding Samueli did not make a significant false statement to the SEC, calling the answer ambiguous, evasive and arguably nonresponsive but not a material falsehood.",
+          "source": "ABA Journal",
+          "url": "https://www.abajournal.com/news/article/despite_guilty_plea_broadcom_exec_didnt_lie_to_sec_federal_judge_finds",
+          "date": "2009-12-10",
+          "kind": "Court ruling vacating the plea; case dismissed",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Searches found no political donation, lobbying or state-benefit evidence for him. No document was found supporting a pardon or any political-exchange claim; none is made. Political donations were not found in the searches (FEC data not checked). The Samueli Foundation and philanthropy were seen only in search listings. Not an exoneration. This is a limited search and not an exoneration."
+    },
+    "melinda-french-gates": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "2024 reporting",
+      "summary": "Melinda French Gates is a prominent philanthropist whose Pivotal Ventures LLC can engage in political campaigns and advocacy. Reviewed reporting shows her advocacy for reproductive rights and political support, but no preferential economic benefit or exchange.",
+      "mechanism": "Open political and philanthropic advocacy; no economic-benefit mechanism identified",
+      "support": [
+        {
+          "text": "STAT reports that Pivotal Ventures, founded in 2015, is an LLC that can engage in political campaigns and direct advocacy, that she left the Gates Foundation in 2024 with $12.5 billion under separation terms, and that she wrote in a 28 May 2024 New York Times essay that she felt compelled to support reproductive rights domestically.",
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2024/06/11/melinda-french-gates-pivotal-reproductive-rights-gates-foundation/",
+          "date": "2024-06-11",
+          "kind": "Advocacy and giving structure",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The article describes charitable and advocacy intent and an expert expectation of future activity; it reports no contract, regulatory advantage or private economic benefit to her.",
+          "source": "STAT News: limit",
+          "url": "https://www.statnews.com/2024/06/11/melinda-french-gates-pivotal-reproductive-rights-gates-foundation/",
+          "date": "2024-06-11",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Her wealth arises from a divorce settlement with Bill Gates; Bill Gates conduct is not attributed to her. A search snippet mentioned an undisclosed \"substantial\" Harris-Walz donation; that page was not read and is not relied on. No FEC data was read. Not an exoneration. This is a limited search and not an exoneration."
+    },
+    "reinhold-wuerth": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "2006–2008 investigation; 2024 statements",
+      "summary": "Reviewed reporting covers a 2008 tax-evasion investigation reported by Tagesspiegel and Der Spiegel, with outcome not established, and Würth’s 2024 public advice against voting AfD. Neither shows preferential state treatment or an exchange; open political speech is not itself a rubric mechanism.",
+      "mechanism": "Historical tax investigation and open political speech; no wealth-power exchange identified",
+      "support": [
+        {
+          "text": "Tagesspiegel reports Stuttgart prosecutors were investigating Würth and five others for suspected tax evasion over millions of euros; lawyers were reportedly negotiating the amount and seeking a penalty order, with a fine of about 40 million euros discussed.",
+          "source": "Tagesspiegel (citing Der Spiegel)",
+          "url": "https://www.tagesspiegel.de/wirtschaft/steuerhinterziehung-ermittlungen-gegen-schraubenmillionar-wurth-1629604.html",
+          "date": "2008-03-29",
+          "kind": "Reported investigation, not a conviction",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Stuttgarter Zeitung (13 June 2024) reports Würth urged employees not to vote AfD in the European election and was weighing investing abroad.",
+          "source": "Stuttgarter Zeitung",
+          "url": "https://www.stuttgarter-zeitung.de/wirtschaft/schraubenmilliardaer-aus-kuenzelsau-wegen-afd-wuerth-will-lieber-im-ausland-investieren-79016546.html",
+          "date": "2024-06-13",
+          "kind": "Public political statement",
+          "access": "Article excerpt reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Würth denied the allegations in 2006, saying at most there had been negligence in billing; the article says investigators and lawyers differed over tax rules and reports no completed conviction.",
+          "source": "Tagesspiegel: subject response",
+          "url": "https://www.tagesspiegel.de/wirtschaft/steuerhinterziehung-ermittlungen-gegen-schraubenmillionar-wurth-1629604.html",
+          "date": "2008-03-29",
+          "kind": "Subject response and legal-interpretation dispute",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "An open voting recommendation to employees is public speech, not evidence of preferential benefit.",
+          "source": "Stuttgarter Zeitung: nature of the evidence",
+          "url": "https://www.stuttgarter-zeitung.de/wirtschaft/schraubenmilliardaer-aus-kuenzelsau-wegen-afd-wuerth-will-lieber-im-ausland-investieren-79016546.html",
+          "date": "2024-06-13",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Search results also listed a 2010 CDU donation of 100,000 euros from Adolf Würth GmbH in a Bundestag record, but the PDF was unreadable and it is not relied on. The outcome of the 2008 investigation was not found. Family entry (Reinhold Würth and family). Not an exoneration. This is a limited search and not an exoneration."
+    }
+  },
+  "rubrics": {}
+}

@@ -1,0 +1,321 @@
+{
+  "profiles": {
+    "ludwig-merckle": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "2009 succession and group rescue",
+      "summary": "The reviewed sources describe Ludwig Merckle as sole heir to the Merckle group after the 2009 death of Adolf Merckle, with a corporate rescue negotiated with private creditor banks. They do not show political leverage, preferential state benefit or a wealth-to-power feedback loop.",
+      "mechanism": "No supported mechanism identified",
+      "support": [
+        {
+          "text": "dpa report: Ludwig Merckle to become sole heir of the Ulm group, whose estate includes stakes in HeidelbergCement, ratiopharm and Phoenix; banks required the ratiopharm sale as a bridge-loan condition.",
+          "source": "Ärzte Zeitung (dpa)",
+          "url": "https://www.aerztezeitung.de/Wirtschaft/Ludwig-Merckle-erbt-Firmenimperium-366886.html",
+          "date": "2009-05-07",
+          "kind": "Inheritance and corporate context",
+          "access": "Page text reviewed; German-language"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same report mentions only a rescue negotiated with private creditor banks; it describes no government guarantee, political action or state benefit.",
+          "source": "Ärzte Zeitung (dpa): limit of evidence",
+          "url": "https://www.aerztezeitung.de/Wirtschaft/Ludwig-Merckle-erbt-Firmenimperium-366886.html",
+          "date": "2009-05-07",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed; German-language"
+        }
+      ],
+      "limitations": "Searches for political activity or lobbying by Ludwig Merckle found only business-press material on the 2009 crisis and succession; the Heidelberg Materials CV PDF could not be retrieved (404). Inheritance and shareholding alone do not justify points. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    },
+    "sarath-ratanavadi": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Family background; 2020 LNG licensing; 2024 USC donor-influence reporting (unrelated to state power)",
+      "summary": "Reviewed sources record family ties to the military and an early-regulation-era energy business. Reporting on LNG import licences notes a licence to Gulf alongside reported state-utility reversals, but the author questions whether Gulf can translate wealth into market power. No source reviewed establishes personal leverage, preferential benefit and exchange together.",
+      "mechanism": "Possible access to energy licensing; not established",
+      "support": [
+        {
+          "text": "Father reported as former Thai armed-forces chief of staff; received a royal order in 2021. The page describes no government concession, contract or political role.",
+          "source": "Wikipedia: Sarath Ratanavadi",
+          "url": "https://en.wikipedia.org/wiki/Sarath_Ratanavadi",
+          "date": "2026-04-09",
+          "kind": "Wikipedia (secondary; page text reviewed)",
+          "access": "Page text reviewed; cited Nikkei and LA Times articles not opened"
+        },
+        {
+          "text": "Government granted Gulf an LNG import licence (1.7 mtpa) in 2020; the author describes PTT, not Gulf, as the dominant political and market power.",
+          "source": "Asia Times (Tim Daiss)",
+          "url": "https://asiatimes.com/?p=497642",
+          "date": "2020-05-26",
+          "kind": "Licensing context",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Asia Times author calls Gulf's ability to turn wealth into market power an open question and says its LNG plans may never materialize.",
+          "source": "Asia Times: limit of evidence",
+          "url": "https://asiatimes.com/?p=497642",
+          "date": "2020-05-26",
+          "kind": "Alternative reading and limit",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Wikipedia page gives no response from Ratanavadi on the USC admissions matter and reports no outcome; that matter concerns university admissions, not state power.",
+          "source": "Wikipedia: Sarath Ratanavadi (limits)",
+          "url": "https://en.wikipedia.org/wiki/Sarath_Ratanavadi",
+          "date": "2026-04-09",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Family military ties, a royal honour and a licence in a liberalizing sector do not by themselves show political leverage or preferential treatment. Thai-language and procurement/regulatory records were not reviewed. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    },
+    "theo-albrecht-jr": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Inheritance after 2010; no political-activity record found",
+      "summary": "The family entry reflects inherited Aldi Nord and Trader Joe's holdings. The reviewed sources contain no political donation, lobbying, contract or regulatory-benefit evidence. Which family member any later evidence concerns would need to be checked.",
+      "mechanism": "No supported mechanism identified",
+      "support": [
+        {
+          "text": "Theo Albrecht died in 2010 and left Aldi Nord and Trader Joe's to sons Theo Jr. and Berthold; Berthold died in 2012 and his heirs share in the fortune.",
+          "source": "Wikipedia: Theo Albrecht Jr.",
+          "url": "https://en.wikipedia.org/wiki/Theo_Albrecht_Jr.",
+          "date": "2021-07",
+          "kind": "Wikipedia (secondary; page text reviewed)",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page covers no political activity, donations or controversies, and does not specify how the holdings are divided among family members.",
+          "source": "Wikipedia: Theo Albrecht Jr. (limits)",
+          "url": "https://en.wikipedia.org/wiki/Theo_Albrecht_Jr.",
+          "date": "2021-07",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Search for family political donations and lobbying returned only low-quality fact-check templates, which were not relied on. FEC, German lobby-register and Bundestag records were not searched. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    },
+    "edwin-chen": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Company founded 2020; wealth reported 2025",
+      "summary": "Chen founded and controls Surge AI, a data-labelling firm with large private-sector customers. The reviewed material describes no government contracts, political donations, lobbying or regulatory benefit.",
+      "mechanism": "No supported mechanism identified",
+      "support": [
+        {
+          "text": "Founded Surge AI in 2020; remains CEO and majority owner; Forbes (Sept 2025) estimated net worth at $18 billion; clients included Google and OpenAI as of July 2025.",
+          "source": "Wikipedia: Edwin Chen",
+          "url": "https://en.wikipedia.org/wiki/Edwin_Chen",
+          "date": "2025-12",
+          "kind": "Wikipedia (secondary; page text reviewed)",
+          "access": "Page text reviewed; cited Forbes and Inc. not opened"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page mentions no government or political ties, controversies or lawsuits.",
+          "source": "Wikipedia: Edwin Chen (limits)",
+          "url": "https://en.wikipedia.org/wiki/Edwin_Chen",
+          "date": "2025-12",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "An English and Chinese-language search for government contracts found only profiles of wealth and valuation. Federal procurement and lobbying databases were not searched. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    },
+    "charlene-de-carvalho-heineken": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Corporate control, with 2005 CEO change",
+      "summary": "Reviewed sources describe controlling family ownership of Heineken through holding companies and a role in replacing the CEO in 2005. They contain no political role, donation, lobbying or state-benefit evidence. The family entry concerns Charlene de Carvalho-Heineken as controlling shareholder.",
+      "mechanism": "No supported mechanism identified",
+      "support": [
+        {
+          "text": "Controls 51% of Heineken Holding NV, which owns 50.05% of Heineken NV; she and her husband helped replace the CEO in 2005.",
+          "source": "Family Business Magazine (citing Fortune)",
+          "url": "https://familybusinessmagazine.com/uncategorized/heinekens-controlling-shareholder-avoids-the-spotlight/",
+          "date": "2014-09-17",
+          "kind": "Corporate control context",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The article contains no political role or statements and describes her as private; she declined comment on the rejected SABMiller bid.",
+          "source": "Family Business Magazine: limits",
+          "url": "https://familybusinessmagazine.com/uncategorized/heinekens-controlling-shareholder-avoids-the-spotlight/",
+          "date": "2014-09-17",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "The source is from 2014; Dutch lobbying and later records were not reviewed. Corporate governance control is not political power. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    },
+    "eric-smidt": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "2007-2016 donations; 2020 PPE donation",
+      "summary": "Smidt's reported political activity is mainly Democratic fundraising and local civic donations in Los Angeles, plus tool donations to schools. Nothing reviewed shows preferential economic benefit or an exchange; a search for tariff lobbying found nothing tied to him or Harbor Freight.",
+      "mechanism": "Campaign and civic giving; no benefit established",
+      "support": [
+        {
+          "text": "Reported co-chair of a 2007 Hillary Clinton fundraiser, $114,300 to Democratic campaigns in 2012, $350,000 toward a 2024 Olympics bid effort in 2016, and school tool donations.",
+          "source": "Wikipedia: Eric Smidt",
+          "url": "https://en.wikipedia.org/wiki/Eric_Smidt",
+          "date": "2026",
+          "kind": "Wikipedia (secondary; page text reviewed)",
+          "access": "Page text reviewed; underlying LA Weekly and Daily News items not opened"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page mentions neither tariffs nor any government benefit. Donations and civic giving alone do not demonstrate leverage or exchange.",
+          "source": "Wikipedia: Eric Smidt (limits)",
+          "url": "https://en.wikipedia.org/wiki/Eric_Smidt",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Federal lobbying disclosures and tariff-exclusion dockets for Harbor Freight were not examined; a general tariff-lobbying search did not mention the company. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    },
+    "john-collison": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "2018 donation; 2021 Forbes dispute",
+      "summary": "John Collison co-founded and jointly controls Stripe with his brother. The reviewed page attributes only a 2018 $1 million Stripe donation to a housing-lobbying group to both brothers; it records no government contract, office or preferential benefit specific to him.",
+      "mechanism": "Corporate political giving; no benefit established",
+      "support": [
+        {
+          "text": "In 2018 Stripe, under the direction of the Collison brothers, gave $1 million to California YIMBY.",
+          "source": "Wikipedia: John Collison",
+          "url": "https://en.wikipedia.org/wiki/John_Collison",
+          "date": "2026",
+          "kind": "Wikipedia (secondary; page text reviewed)",
+          "access": "Page text reviewed; cited SF Business Times not opened"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page lists no other political donations, lobbying or government dealings; the 2021 Forbes episode concerned Limerick, not state power.",
+          "source": "Wikipedia: John Collison (limits)",
+          "url": "https://en.wikipedia.org/wiki/John_Collison",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Evidence about Stripe's regulatory work is not attributed to John personally. Irish and US lobbying records were not searched. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    },
+    "patrick-collison": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "2018-2026 donations and advisory roles",
+      "summary": "Patrick Collison co-controls Stripe, joined Meta's board in 2025 and reportedly donated $7 million in 2026 to oppose a California billionaire wealth-tax measure. These show political expression and policy engagement, but the reviewed sources do not establish preferential benefit or an exchange.",
+      "mechanism": "Policy-advocacy giving; no benefit established",
+      "support": [
+        {
+          "text": "Per the page: 2018 Stripe $1 million to California YIMBY (attributed to both brothers); $7 million in 2026 to a group opposing Proposition 40, a California billionaire wealth-tax proposal (citing the Irish Times, 29 July 2026); joined the Meta board in April 2025.",
+          "source": "Wikipedia: Patrick Collison",
+          "url": "https://en.wikipedia.org/wiki/Patrick_Collison",
+          "date": "2026",
+          "kind": "Wikipedia (secondary; page text reviewed)",
+          "access": "Page text reviewed; Irish Times and Irish Independent items not opened"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page reports no lobbying activity or government contracts. Opposing a tax by donation is lawful political expression, and no outcome or benefit is documented. A web search tying Stripe to stablecoin lobbying returned nothing about the Collisons.",
+          "source": "Wikipedia: Patrick Collison (limits)",
+          "url": "https://en.wikipedia.org/wiki/Patrick_Collison",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "The 2026 donation was not verified from the original report. Stripe's regulatory dealings and the Rhine Group role (uncited on the page) were not examined. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    },
+    "david-sun": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Company history 1987-2004",
+      "summary": "David Sun co-founded privately held Kingston Technology. The reviewed page records ownership history and facilities but no political donations, government contracts, lobbying or controversies.",
+      "mechanism": "No supported mechanism identified",
+      "support": [
+        {
+          "text": "Kingston was founded in 1987 by John Tu and David Sun; SoftBank bought 80% in 1996 and the founders repurchased it in 1999; plants in Taiwan and Shanghai.",
+          "source": "Wikipedia: Kingston Technology",
+          "url": "https://en.wikipedia.org/wiki/Kingston_Technology",
+          "date": "2026",
+          "kind": "Wikipedia (secondary; page text reviewed)",
+          "access": "Page text reviewed; tagged as needing more citations"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page contains no information on government contracts, political donations or lawsuits for either founder; it is tagged as needing more citations.",
+          "source": "Wikipedia: Kingston Technology (limits)",
+          "url": "https://en.wikipedia.org/wiki/Kingston_Technology",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "A search for donations, lobbying or tariff exemptions found only biographies. FEC, OpenSecrets and USTR exclusion records were not searched; individual biography pages for each founder were not opened. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    },
+    "john-tu": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Company history 1987-2004",
+      "summary": "John Tu co-founded privately held Kingston Technology. The reviewed page records ownership history and facilities but no political donations, government contracts, lobbying or controversies.",
+      "mechanism": "No supported mechanism identified",
+      "support": [
+        {
+          "text": "Kingston was founded in 1987 by John Tu and David Sun; SoftBank bought 80% in 1996 and the founders repurchased it in 1999; plants in Taiwan and Shanghai.",
+          "source": "Wikipedia: Kingston Technology",
+          "url": "https://en.wikipedia.org/wiki/Kingston_Technology",
+          "date": "2026",
+          "kind": "Wikipedia (secondary; page text reviewed)",
+          "access": "Page text reviewed; tagged as needing more citations"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page contains no information on government contracts, political donations or lawsuits for either founder; it is tagged as needing more citations.",
+          "source": "Wikipedia: Kingston Technology (limits)",
+          "url": "https://en.wikipedia.org/wiki/Kingston_Technology",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "A search for donations, lobbying or tariff exemptions found only biographies. FEC, OpenSecrets and USTR exclusion records were not searched; individual biography pages for each founder were not opened. This is a narrow review, not an exoneration: it reflects only the sources listed and may have missed lobbying, donation, contract or regulatory records. No numerical estimate is made."
+    }
+  },
+  "rubrics": {}
+}

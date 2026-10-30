@@ -1,0 +1,331 @@
+{
+  "profiles": {
+    "brad-jacobs": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Searches run October 2026; business history 2024–2025",
+      "summary": "No reviewed source documents a wealth–political-power mechanism for Jacobs. Searches for political donations, government ties and conflicts connected to XPO and QXO returned only business coverage, and one further search was not possible. This is a narrow review, not exoneration.",
+      "mechanism": "None documented in the sources reviewed",
+      "support": [
+        {
+          "text": "The reviewed profile establishes Jacobs as the founder and executive behind XPO, its GXO and RXO spin-offs and QXO. This is a role and business-history fact; it does not establish any political mechanism.",
+          "source": "Wikipedia: Brad Jacobs (businessman)",
+          "url": "https://en.wikipedia.org/wiki/Brad_Jacobs_(businessman)",
+          "date": "2026-10-29",
+          "kind": "Role and identity only; not evidence of a mechanism",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The reviewed Wikipedia profile lists his XPO spin-offs, GXO and RXO, and QXO’s acquisitions, including Beacon in April 2025, as business transactions. It contains no information on political donations, government ties or legal or regulatory controversies. Absence on one summary page does not prove none exists.",
+          "source": "Wikipedia: Brad Jacobs (businessman)",
+          "url": "https://en.wikipedia.org/wiki/Brad_Jacobs_(businessman)",
+          "date": "2026-10-29",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "limitations": "Not a comprehensive search of FEC, lobbying, SEC or court records. A New York Times analysis of post-election donors surfaced in a search but could not be opened (HTTP 403), so no claim is made about whether he appears in it. Wealth, company size and acquisitions alone give no points."
+    },
+    "jan-koum": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2022–2026 donations",
+      "summary": "Koum is reported as a large Republican and pro-Israel political donor. The reviewed sources document giving, not a policy outcome, preferential benefit or feedback loop, so no estimate is made.",
+      "mechanism": "Large political donations; no linked benefit documented",
+      "support": [
+        {
+          "text": "Mission Local reports a $250,000 gift on 13 April 2026 to San Francisco’s S.F. Believes PAC, which backs measures and allies of Mayor Daniel Lurie. It also reports he gave a little over $5 million to MAGA Inc. in 2024 and $1 million in 2025, and $500,000 to an earlier pro-Lurie PAC in 2024.",
+          "source": "Mission Local",
+          "url": "https://missionlocal.org/2026/04/sf-jan-koum-daniel-lurie-campaign-finance/",
+          "date": "2026-04",
+          "kind": "Reported political giving",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same article says Lurie does not control the PAC, whose treasurers declined to comment, and reports no stated purpose or response from Koum. It identifies no benefit he obtained.",
+          "source": "Mission Local: limits of the evidence",
+          "url": "https://missionlocal.org/2026/04/sf-jan-koum-daniel-lurie-campaign-finance/",
+          "date": "2026-04",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "JTA’s 2022 profile of his philanthropy says no one would speak on the record about his motivations and that his foundation did not comment. Its donation figures concern charities, not government contracts or policy.",
+          "source": "JTA: WhatsApp’s reclusive founder",
+          "url": "https://www.jta.org/2022/06/15/united-states/whatsapps-reclusive-founder-has-quietly-become-a-megadonor-to-jewish-causes",
+          "date": "2022-06-15",
+          "kind": "Subject response absent; limit of evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Donations alone do not justify points. Koum left Facebook in 2018 and no current regulatory or contract stake was identified. Search snippets about AIPAC and Haley gifts came from secondary pages that were not opened and are not relied on. This is a narrow review, not an exoneration."
+    },
+    "zhou-qunfei": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Company disclosures 2023–2025; official visits 2024–2026",
+      "summary": "Lens Technology recognized government subsidies and has regular official engagement, and Zhou attended a May 2026 state banquet. These are company-level and contextual; no review source identifies a personal political role, preferential exchange or feedback loop. The Forbes entry is a family entry and this evidence concerns Lens Technology.",
+      "mechanism": "Company subsidies and official contact; personal mechanism not shown",
+      "support": [
+        {
+          "text": "NL Times, summarizing company disclosures, reports subsidies recognized in profit or loss of about RMB 736 million in 2023 and RMB 199 million in each of 2024 and 2025. RMB 347 million came from the Liuyang Economic Development Zone, equal to 14.17% of the latest audited net profit. It also reports a provincial vice governor visiting in August 2024.",
+          "source": "NL Times, 22 Oct 2026",
+          "url": "https://nltimes.nl/2026/10/22/lens-technology-deepens-government-industry-collaboration-expanding-its-robotics",
+          "date": "2026-10-22",
+          "kind": "Company-level subsidy and official engagement",
+          "access": "Page text reviewed; article does not mention Zhou by name"
+        },
+        {
+          "text": "The Wikipedia profile, citing the South China Morning Post of 15 May 2026, says she was seated between Tim Cook and Elon Musk at the state banquet Xi Jinping hosted for Donald Trump.",
+          "source": "Wikipedia: Zhou Qunfei",
+          "url": "https://en.wikipedia.org/wiki/Zhou_Qunfei",
+          "date": "2026-05-15",
+          "kind": "Contextual official prominence",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Wikipedia profile mentions no NPC or CPPCC role, party office, subsidy or controversy and does not say the banquet seat reflects a formal government relationship. It carries a promotional-content tag.",
+          "source": "Wikipedia: Zhou Qunfei",
+          "url": "https://en.wikipedia.org/wiki/Zhou_Qunfei",
+          "date": "2026-10-29",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        },
+        {
+          "text": "The NL Times article does not name Zhou. Local subsidies and provincial visits are common in Chinese industrial policy and do not show a personal bargain; it describes standards drafting and collaboration with CAS-incubated firms.",
+          "source": "NL Times: scope limit",
+          "url": "https://nltimes.nl/2026/10/22/lens-technology-deepens-government-industry-collaboration-expanding-its-robotics",
+          "date": "2026-10-22",
+          "kind": "Alternative explanation and limit",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Not a review of her political positions: official NPC/CPPCC lists and Lens filings were not checked, and further searches were not possible. A Vietnamese-language search result and Apple revenue share claims were not opened. Family members were not individually assessed. This is a narrow review, not an exoneration."
+    },
+    "lu-xiangyang": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Founding 1995; searches October 2026",
+      "summary": "Lu is identified as a BYD co-founder and early investor. The reviewed page lists no political role or documented state exchange attributable to him personally, and BYD-wide state support was not researched here. This is not exoneration.",
+      "mechanism": "None documented for him personally",
+      "support": [
+        {
+          "text": "The reviewed profile identifies Lu as an early BYD investor and co-founder alongside his cousin Wang Chuanfu. This is a role and identity fact; it does not establish any political mechanism.",
+          "source": "Wikipedia: Lu Xiangyang",
+          "url": "https://en.wikipedia.org/wiki/Lu_Xiangyang",
+          "date": "2026-10-29",
+          "kind": "Role and identity only; not evidence of a mechanism",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Wikipedia stub says Lu (born 1962, Wuwei, Anhui) invested in BYD in 1995, alongside his cousin Wang Chuanfu, and cites a 2022 Forbes estimate of $15.7 billion. It lists no government appointments or political roles; his earlier job at a People’s Bank of China branch is the only state-related fact. Sources disagree on the investment amount.",
+          "source": "Wikipedia: Lu Xiangyang",
+          "url": "https://en.wikipedia.org/wiki/Lu_Xiangyang",
+          "date": "2026-10-29",
+          "kind": "Identity and explicit limit of the evidence",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "limitations": "Identity: a search indicated Forbes’ Lu Xiangyang is the BYD co-founder (also written Lv Xiangyang); not independently verified against Forbes. BYD subsidies and NEV policy involve the company and Wang Chuanfu and are not transferred to Lu. Bloomberg’s profile could not be opened. A Nio state-investor article retrieved in searching does not mention him and is unrelated. This is a narrow review, not an exoneration."
+    },
+    "arthur-dantchik": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2010–2015 Pennsylvania; Israeli think-tank giving to 2023",
+      "summary": "Dantchik, with Susquehanna co-principals, was reported to have funded school-choice political efforts and Susquehanna companies received state education tax credits. The reviewed sources do not show that the giving obtained those credits or any other preferential outcome; the donors dispute the benefit claim.",
+      "mechanism": "School-choice political funding alongside state tax-credit use; causation unproven",
+      "support": [
+        {
+          "text": "WHYY reports Susquehanna principals Jeff Yass, Joel Greenberg and Dantchik gave more than $5 million, much through the Students First PAC, to Anthony Williams’s 2010 governor campaign and funded a 2015 mayoral ad effort. The article does not break out Dantchik’s share. A rival campaign said they benefited from about $5 million in tax credits; WHYY reported Susquehanna-associated companies received over $4.3 million in credits in the previous year.",
+          "source": "WHYY, 31 Mar 2015",
+          "url": "https://whyy.org/articles/philadelphia-mayors-race-wealthy-donors-2/",
+          "date": "2015-03-31",
+          "kind": "Reported donations and tax-credit use; opponent claim",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Haaretz, as summarized on Wikipedia, reports Dantchik’s CLAWS Foundation gave more than $25 million to the Shalom Hartman Institute in 2010–2020 and funded Kohelet; Kohelet is described as influential in the 2023 Israeli judicial overhaul. Ynet quotes him saying he stopped donating to Israeli think tanks, including Kohelet, to promote national unity.",
+          "source": "Wikipedia: Arthur Dantchik; Ynetnews",
+          "url": "https://en.wikipedia.org/wiki/Arthur_Dantchik",
+          "date": "2023-08-04",
+          "kind": "Think-tank funding and withdrawal",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same WHYY article quotes Greenberg calling the donations “purely altruistic,” and says the donors did not profit because the credits do not fully reimburse contributions. It reports no comment from Dantchik.",
+          "source": "WHYY: response and alternative explanation",
+          "url": "https://whyy.org/articles/philadelphia-mayors-race-wealthy-donors-2/",
+          "date": "2015-03-31",
+          "kind": "Response and alternative explanation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Ynet attributes the Kohelet judicial-overhaul characterization to the article itself, not an independent finding, and records his withdrawal of funding in 2023.",
+          "source": "Ynetnews: Dantchik stops Kohelet funding",
+          "url": "https://www.ynetnews.com/business/article/s1ls7upjn",
+          "date": "2023-08",
+          "kind": "Limit of evidence and subject statement",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Dated and mostly about the group, not him alone. Education tax-credit programs are statutory and open to qualifying donors. Wikipedia’s claim about his ByteDance board role was not relied on. No current Susquehanna regulatory or lobbying matter was documented; a search for prediction-market lobbying found nothing. Not exoneration."
+    },
+    "li-shuirong": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2020 licence; searches October 2026",
+      "summary": "Reviewed pages show Rongsheng became the first private refiner permitted to export refined products in 2020. They do not describe the permit process, any personal political role or a bargain, so no estimate is made. The Forbes entry is a family entry.",
+      "mechanism": "Government licence documented; process and personal role not documented",
+      "support": [
+        {
+          "text": "The Wikipedia stub says Li founded the Yinong chemical fiber factory in 1989 and later Zhejiang Rongsheng Holding Group, and that in 2020 the group became the first private oil refiner to get Chinese government permission to export refined oil products.",
+          "source": "Wikipedia: Li Shuirong",
+          "url": "https://en.wikipedia.org/wiki/Li_Shuirong",
+          "date": "2026-10-29",
+          "kind": "Government permission, contextual",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page does not cover NPC/CPPCC roles, subsidies, quotas or controversies, and is a short orphan article. A permit for a private refiner is not evidence of a personal exchange.",
+          "source": "Wikipedia: Li Shuirong: limit of the evidence",
+          "url": "https://en.wikipedia.org/wiki/Li_Shuirong",
+          "date": "2026-10-29",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "limitations": "Search indicates he is tied to Rongsheng, not Hengli (a separate firm). Reuters-type coverage of refinery quotas could not be searched because the search budget ran out, so this profile is incomplete. Family members were not researched. This is a narrow review, not an exoneration."
+    },
+    "anders-holch-povlsen": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2018 planning dispute; 2024 jet controversy",
+      "summary": "The reviewed material shows a lost wind-farm legal challenge and a 2024 private-jet controversy, but no documented political leverage, state benefit or feedback loop. Large Scottish landholdings are not by themselves evidence of the mechanism.",
+      "mechanism": "None documented",
+      "support": [
+        {
+          "text": "The Wikipedia profile, citing The Times of 8 October 2018, says Povlsen lost a legal challenge to stop the 22-turbine Creag Riabhach wind farm in Sutherland, the Court of Session declining to halt it.",
+          "source": "Wikipedia: Anders Holch Povlsen",
+          "url": "https://en.wikipedia.org/wiki/Anders_Holch_Povlsen",
+          "date": "2018-10-08",
+          "kind": "Planning dispute, contextual",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The challenge failed, which cuts against political leverage in that episode. The profile has no political-relations, lobbying or tax content; the 2024 jet reporting concerns emissions and was defended by Bestseller as security and logistics.",
+          "source": "Wikipedia: Anders Holch Povlsen",
+          "url": "https://en.wikipedia.org/wiki/Anders_Holch_Povlsen",
+          "date": "2024-10-06",
+          "kind": "Counterevidence and limit of the evidence",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "limitations": "A search surfaced a report that his company Wildland lobbied a Scottish minister over a spaceport; the page could not be opened (HTTP 403), so it is not relied on and the company’s stated environmental rationale is unverified here. Danish-side political ties were not found. Not exoneration."
+    },
+    "wang-wei": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "SF Holding listing 2017; searches October 2026",
+      "summary": "Reviewed pages show SF Holding’s March 2017 reverse-merger listing but nothing on political ties or preferential state treatment attributable to Wang. A search summary of the 2017 approval could not be verified, so no estimate is made.",
+      "mechanism": "None documented in readable sources",
+      "support": [
+        {
+          "text": "The Wikipedia profile says SF Holding listed through a reverse merger on the Shenzhen Stock Exchange in March 2017, and cites an SCMP piece describing him as an illegal cross-border delivery man. It does not discuss regulatory review.",
+          "source": "Wikipedia: Wang Wei (SF Express)",
+          "url": "https://en.wikipedia.org/wiki/Wang_Wei_(SF_Express)",
+          "date": "2026-10-29",
+          "kind": "Contextual listing fact",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The profile gives no government ties, regulatory action or controversy and notes the birth year is inconsistent (1970 or 1971). A reverse merger is a standard listing route and is not evidence of an exchange.",
+          "source": "Wikipedia: Wang Wei (SF Express): limit of the evidence",
+          "url": "https://en.wikipedia.org/wiki/Wang_Wei_(SF_Express)",
+          "date": "2026-10-29",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed; secondary tertiary-source summary, not a primary record"
+        }
+      ],
+      "limitations": "A Bloomberg-derived article (Business Standard, 2017) reportedly describes government support for the listing, but returned HTTP 403, so it is not cited and the claim is unverified. Identity: this Wang Wei is the SF Express founder, not a namesake. Postal-regulation history was not researched. This is a narrow review, not an exoneration."
+    },
+    "george-kaiser": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Solyndra loan guarantee 2009; White House contacts 2009–2010; bankruptcy 2011; IG report 2015",
+      "summary": "Kaiser was a major Obama donor and White House visitor, and in 2010 his associates pressed officials for a second Solyndra loan that was not approved. The reviewed records support access and a possible influence channel, not a documented favor to him; the DOE Inspector General attributed the 2009 loan problems chiefly to Solyndra’s misstatements.",
+      "mechanism": "Donor access and lobbying for a portfolio company; favor not established",
+      "support": [
+        {
+          "text": "AP, via NBC News, reports Kaiser was a frequent White House visitor in 2009–2010 and pushed officials in 2010 for a second Solyndra loan, which was not approved. Instead a Kaiser-controlled venture made a private loan that put it and other investors ahead of taxpayers if Solyndra defaulted. Solyndra, which received a $528 million loan in 2009, went bankrupt in September 2011.",
+          "source": "AP / NBC News, 9 Nov 2011",
+          "url": "https://www.nbcnews.com/id/wbna45229819",
+          "date": "2011-11-09",
+          "kind": "Donor access and lobbying account",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The same article says White House officials denied for months that Kaiser discussed Solyndra on his visits, and a released March 2010 email from his associate Steve Mitchell said Energy Secretary Chu was “talking up the company.” Rep. Cliff Stearns said Kaiser’s employees “exercised influence throughout the loan process.”",
+          "source": "AP / NBC News: emails and committee claim",
+          "url": "https://www.nbcnews.com/id/wbna45229819",
+          "date": "2011-11-09",
+          "kind": "Attributed congressional claim",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "White House spokesman Eric Schultz said the loan was “a decision made on the merits” and the documents show no “favoritism to political supporters.” The article reports no official finding of improper influence.",
+          "source": "AP / NBC News: White House response",
+          "url": "https://www.nbcnews.com/id/wbna45229819",
+          "date": "2011-11-09",
+          "kind": "Subject-side response and limit",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The DOE Inspector General report of 24 August 2015 found Solyndra’s statements to DOE inaccurate and misleading and DOE’s review ineffective. It did not make political pressure its focus, although staff described pressure to process applications. The article does not mention Kaiser.",
+          "source": "Power Magazine on DOE OIG report, 27 Aug 2015",
+          "url": "https://www.powermag.com/oig-solyndra-misled-doe-to-get-solar-loan-guarantees/",
+          "date": "2015-08-27",
+          "kind": "Official finding on cause; limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Historical single episode, not a current assessment. The loan went to Solyndra, not personally to Kaiser, and the company failed, so a personal preferential gain is not shown; his priority position came from a private loan. Other Kaiser interests (banking, oil and gas) and Oklahoma politics were not reviewed. The Public Integrity article on his fundraising returned an error and is not cited."
+    }
+  },
+  "rubrics": {}
+}

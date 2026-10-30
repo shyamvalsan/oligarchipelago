@@ -1,0 +1,212 @@
+{
+  "supersedes": [
+    "mukesh-ambani"
+  ],
+  "profiles": {
+    "mukesh-ambani": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Deep source-led review of dated episodes; primary documents read where retrievable; not independently editorially reviewed; not exoneration where no estimate is given",
+      "confidence": "Low / multi-episode, narrow review",
+      "period": "2010–2013 (BWA auction and unified licence); 2014–2026 (KG-D6); 2018 (Jio Institute); 2023–2026 (satellite spectrum policy)",
+      "summary": "Reviewed on separate dated episodes. (1) 2010–13 BWA spectrum and unified licence: a 2015 CAG report put the undue benefit to Jio at Rs 3,367 crore (a 2014 draft said Rs 22,842 crore); the Supreme Court in April 2016 held the migration policy “valid, legal and without any blemish” and found no undue favour. (2) KG-D6: a 2014 FIR is an allegation whose outcome I could not verify; the later cost and gas-migration disputes are arbitration and court proceedings in which the government has won and lost. (3) 2018 Jio Institute: an official selection panel chose it in a greenfield category over a reported internal Finance Ministry objection. (4) 2023–26 satellite spectrum: Jio’s filed position is auction-only, yet the Telecommunications Act 2023 and TRAI’s 2025 recommendations point to administrative assignment, the opposite outcome; Jio also has its own satellite plans and a 2025 SpaceX distribution agreement. In October 2026 Elon Musk’s unnamed-oligarch post was followed by a post asking whether Ambani is “the real boss of India”; the government called any discrimination claim baseless. None of these is an adjudicated exchange. No estimate is given.",
+      "mechanism": "Contested licensing and policy outcomes in telecom and energy; documented corporate lobbying positions; one audit finding, one judicial rejection, one unresolved allegation; no adjudicated exchange of favours",
+      "support": [
+        {
+          "text": "The Caravan, citing the final CAG report tabled on 8 May 2015, reports that the CAG found DoT gave Jio an “undue benefit” of Rs 3,367 crore by letting it offer voice on its 2010 BWA spectrum for a Rs 1,658 crore migration fee fixed in 2001. A draft CAG report of August 2014 had put the figure at Rs 22,842 crore. The CAG report itself was not retrieved; this is a detailed secondary account that also quotes its text.",
+          "source": "The Caravan (Thakurta and Chaudhuri)",
+          "url": "https://caravanmagazine.in/vantage/4g-19000-crore-mystery-cag-figure-undue-benefit-mukesh-ambanis-reliance-jio-shrank",
+          "date": "2015-05-31",
+          "kind": "Audit finding as reported (CAG report itself not read)",
+          "access": "Page text reviewed; secondary account of the CAG report"
+        },
+        {
+          "text": "The Delhi government’s anti-corruption branch FIR, ordered in February 2014 after a complaint by four prominent citizens, alleged that the then oil minister, a former minister and others colluded with Ambani to raise gas prices. The Delhi High Court restrained coercive action but let investigation continue. These are allegations; the later outcome of the FIR was not found.",
+          "source": "Business Today (PTI); Outlook India; DNA",
+          "url": "https://www.businesstoday.in/story/delhi-high-court-on-gas-pricing-ril/1/206067.html",
+          "date": "2014",
+          "kind": "Allegation by a state government; court order limiting coercive action",
+          "access": "Page text reviewed (Business Today, Outlook 2015, DNA April 2015); article date approximate"
+        },
+        {
+          "text": "PIB’s official 9 July 2018 release lists Jio Institute (Reliance Foundation) under the Green Field Category among six Institutions of Eminence out of 114 applications, 40 from private institutions. Indian Express RTI records, reported by Business Today, show the Finance Ministry’s expenditure department called the status for not-yet-established private institutions “beyond rationale and is not supported”; the tag was still granted.",
+          "source": "PIB; Business Today (citing Indian Express RTI)",
+          "url": "https://www.businesstoday.in/amp/latest/economy-politics/story/jio-institute-row-finance-ministry-warned-hrd-ministry-against-granting-institute-of-eminence-tag-non-existent-institutions-108990-2018-08-29",
+          "date": "2018-08-29",
+          "kind": "Official selection plus internal-record report of a procedural objection",
+          "access": "Page text reviewed (PIB 1538188 and Business Today)"
+        },
+        {
+          "text": "In its 13 May 2026 filing to TRAI, Reliance Jio Infocomm states that “only legally tenable and technically suitable mode of spectrum assignment for satellite and NTN based communication services are through spectrum auction”, invokes “Same Service, Same Rules”, and urges that a foreign NGSO operator’s spectrum assignment be tied to reciprocal coordination rights for an Indian constellation. This documents a corporate policy position aligned with Jio’s disclosed plan for its own constellation; it is not evidence of how the government decided.",
+          "source": "Reliance Jio Infocomm Ltd: comments to TRAI",
+          "url": "https://www.trai.gov.in/sites/default/files/2026-05/RJIL_14052026.pdf",
+          "date": "2026-05-13",
+          "kind": "Primary corporate lobbying position",
+          "access": "PDF text extracted and read"
+        },
+        {
+          "text": "MediaNama reports that after Musk’s 7 October 2026 post about “certain oligarchs” he asked in a follow-up “Is Ambani the real boss of India?”. The Next Web likewise reports the follow-up. This is an allegation by a commercial rival; the posts reviewed offer no supporting evidence, and the first post names no one.",
+          "source": "MediaNama; The Next Web",
+          "url": "https://www.medianama.com/2026/10/223-elon-musk-monopolisitc-oligarchs-starlink/",
+          "date": "2026-10-09",
+          "kind": "Allegation by commercial rival; no evidence presented",
+          "access": "Page text reviewed; the X posts themselves were not opened"
+        }
+      ],
+      "counter": [
+        {
+          "text": "In Centre for Public Interest Litigation v. Union of India (W.P.(C) 382/2014, bench of T.S. Thakur, A.K. Sikri, R. Banumathi), the Supreme Court dismissed the challenge to Jio’s voice permission. It held all BWA holders became eligible to migrate, so “it cannot be treated as a case of back door entry”; that Jio paid Rs 12,847.77 crore for spectrum plus Rs 1,658 crore, so a wrongful loss “cannot be said”; and that the CAG draft was not the final report, which “is materially different”.",
+          "source": "Supreme Court of India, judgment of 8 April 2016 (hosted copy); Business Today",
+          "url": "https://www.legalauthority.in/judgement/centre-for-public-interest-litigation-vs-u-o-i-3641",
+          "date": "2016-04-08",
+          "kind": "Judicial finding (adjudicated)",
+          "access": "Judgment text (55 pp) searched and passages read via a third-party host; Business Today summary read"
+        },
+        {
+          "text": "A 2015 Solicitor-General opinion to DoT, reported by Voice&Data, rejected the CAG draft’s analysis as taking “a very narrow perspective”, noting auction rules allowed shareholding change after the auction. This is a law officer’s view, not an adjudication.",
+          "source": "Voice&Data (PTI)",
+          "url": "https://www.voicendata.com/sg-rubbishes-cags-claims-says-no-favor-ril-dot",
+          "date": "2015-02-04",
+          "kind": "Government legal opinion as reported",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Reliance’s own 4 March 2025 exchange filing says the 2018 KG-D6 arbitration award rejecting the government’s roughly US$1.55 billion gas-migration claim was upheld by a single judge on 9 May 2023, then reversed by a Delhi High Court division bench on 14 February 2025; the petroleum ministry then demanded US$2.81 billion. RIL’s 2025-26 annual report says it filed a special leave petition on 14 May 2025 and the matter was listed for directions. The state has therefore not uniformly favoured Reliance in this dispute; RIL says it expects no liability.",
+          "source": "Reliance Industries stock-exchange filing; RIL Integrated Annual Report 2025-26 (note 34.4)",
+          "url": "https://rilstaticasset.akamaized.net/sites/default/files/2025-03/SE.pdf",
+          "date": "2025-03-04",
+          "kind": "Primary corporate disclosure of adverse and pending litigation",
+          "access": "PDF text extracted and read"
+        },
+        {
+          "text": "The HRD Ministry and the committee chair said Jio was one of 11 greenfield applicants and the only one to satisfy four stated criteria (land, qualified core team, funding, strategic plan), that only a letter of intent was issued with three years to qualify, and that private institutions get no government grant. The 2018 selection committee picked only 6 of 114 applicants. The UGC Institutions-of-Eminence list I retrieved on 2026-10-29 shows no Jio Institute among notified private institutions, so its later status is unresolved here.",
+          "source": "PIB; Newslaundry; Gulf News; UGC IoE list",
+          "url": "https://www.newslaundry.com/2018/07/10/jio-institute-institutions-of-eminence-prakash-javadekar-mhrd",
+          "date": "2018-07-10",
+          "kind": "Official explanation and alternative account",
+          "access": "Page text reviewed (PIB, Newslaundry, Gulf News, UGC list)"
+        },
+        {
+          "text": "Jio’s repeated TRAI submissions (June 2023, October 2024, May 2026) asked for auctions. The outcome went the other way: the Telecommunications Act 2023 First Schedule (entries 14 and 16) provides administrative assignment for certain satellite services, TRAI’s 9 May 2025 recommendations proceed on that basis with a 4% of AGR charge and no upfront payment, and TRAI found no near-term level-playing-field concern (para 2.39). Communications Minister Scindia told the Rajya Sabha on 3 April 2025 spectrum would go to all providers “without discrimination”. The government did not adopt Jio’s stated preference.",
+          "source": "TRAI recommendations 9 May 2025; Rajya Sabha reply reported by Deccan Herald (PTI)",
+          "url": "https://trai.gov.in/sites/default/files/2025-05/Recommendtion_09052025.pdf",
+          "date": "2025-05-09",
+          "kind": "Primary regulatory outcome contrary to the corporate position",
+          "access": "PDF text extracted and read (TRAI, paras 1.12, 2.25-2.39, 3.121); Deccan Herald reported the reply"
+        },
+        {
+          "text": "PIB’s 8 October 2026 release says licences were granted to three GMPCS operators, all are “at broadly the same regulatory stage”, security assessment is under way for each, and the suggestion of unfairness is “baseless and misconceived”. Jio’s own satellite arm is one of the three (the release does not name them; Deccan Herald and MediaNama do). Jio and SpaceX also announced a 2025 agreement to explore Starlink distribution, which RIL’s 2024-25 annual report describes as partnering “with SpaceX to offer Starlink’s broadband internet services”.",
+          "source": "PIB (Ministry of Communications); RIL Annual Report 2024-25",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320510&reg=48&lang=1",
+          "date": "2026-10-08",
+          "kind": "Official denial; corporate partnership disclosure",
+          "access": "PDF text extracted and read for the annual report; PIB page text read"
+        },
+        {
+          "text": "The New Indian Express reports the Election Commission’s March 2024 electoral-bond buyer list contains no record of Reliance Industries. Business Standard describes a buyer, Qwik Supply Chain (Rs 410 crore), as “Reliance-linked”; I found no primary document on that label and no Reliance statement on it, so it is not treated as a Reliance donation.",
+          "source": "The New Indian Express; Business Standard",
+          "url": "https://www.newindianexpress.com/nation/2024/Mar/14/election-commission-uploads-electoral-bonds-data-received-from-sbi",
+          "date": "2024-03-14",
+          "kind": "Disclosure coverage; attribution unverified",
+          "access": "Page text reviewed; the Election Commission data files returned HTTP 406 and could not be opened"
+        }
+      ],
+      "limitations": "Corporate and personal conduct are not separated by the sources: the 2010 licence, the KG-D6 contract and Jio’s TRAI filings are by RIL, Reliance Jio Infocomm or Jio Satellite Communications; the 2014 FIR names Mukesh Ambani; Musk’s follow-up post names him. No rubric is added because no defined episode supports all three dimensions: the 2010–13 licence has an audit finding but also a Supreme Court rejection and no evidence of influence; satellite policy shows lobbying that the outcome did not follow. Not verified: the final CAG report text, the outcome of the 2014 FIR, whether Reliance or Jio has answered Musk (CNBC said it had asked; no reply found), RIL’s tax position, political-contribution disclosure (searched the extracted text of the 2023-24 to 2025-26 annual reports for political, electoral and donation terms and found none; extraction may be incomplete), Jio Institute’s later status, and the contents of the March 2025 Jio-SpaceX exchange filing. The wave-21 profile’s KG-D6 sources were not reused. Wealth, company size and donations alone do not support any point."
+    },
+    "sunil-mittal-1": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Deep source-led review of dated episodes; primary documents read where retrievable; not independently editorially reviewed; not exoneration where no estimate is given",
+      "confidence": "Low / multi-episode, narrow review",
+      "period": "2021 (telecom package); 2023–2026 (satellite spectrum policy); 2019–2020 (AGR rulings); 2019–2024 (electoral bonds)",
+      "summary": "Reviewed on separate dated episodes for Sunil Bharti Mittal, chairman of Bharti Enterprises and Bharti Airtel and co-chairman of Eutelsat Group. (1) Satellite spectrum 2023–26: Airtel’s filed positions moved from opposing auctions (2023) to seeking level-playing-field treatment and lower charges for “traditional” rural, remote and government uses (2024), to a March 2025 Starlink distribution agreement and 2026 support for TRAI’s 2025 framework. Bharti also holds equity in Eutelsat, whose OneWeb arm is one of the three licensed operators the government says are at the same regulatory stage as Starlink. Musk’s October 2026 post names no one, and its follow-up names Ambani, not Mittal. (2) AGR: the Supreme Court’s rulings went against the telecom companies on the definition and gave ten years to pay; the September 2021 package applies to all operators. (3) Electoral bonds: press reports put Bharti-group purchases at Rs 198–246 crore under a scheme later struck down; the data do not link donors to recipients. None of these is an adjudicated exchange. No estimate is given.",
+      "mechanism": "Company and group positions on spectrum pricing and sector relief; equity in a licensed satellite operator; lawful-at-the-time electoral-bond purchases; no adjudicated exchange of favours",
+      "support": [
+        {
+          "text": "Airtel told TRAI in October 2024 that satellite services serving urban and suburban retail customers raise a level-playing-field issue with terrestrial operators and that “traditional” uses (rural and remote areas, defence, government agencies, disaster recovery, cellular backhaul) could be priced differently from direct urban retail. At an August 2024 summit its officials asked for satellite spectrum usage charges of zero or about 1%. TechCrunch reported Mittal saying in October 2024 that satellite firms serving urban areas should “take the telecom licenses like everybody else”. These are documented advocacy positions aligned with Airtel’s terrestrial business; they are not evidence of how decisions were made.",
+          "source": "Bharti Airtel comments to TRAI; MediaNama; TechCrunch",
+          "url": "https://www.trai.gov.in/sites/default/files/2024-11/BAl_26102024.pdf",
+          "date": "2024-10",
+          "kind": "Primary corporate lobbying position plus reported statement",
+          "access": "PDF text extracted and read (Airtel comments filed in the consultation closing 26 Oct 2024; letter date not legible in the extracted text); MediaNama and TechCrunch reports read"
+        },
+        {
+          "text": "Press reports put Mittal-group electoral-bond purchases at Rs 246 crore across three companies (PTI via Tribune) and Bharti Airtel’s own at Rs 198 crore, eighth largest (Business Standard), from Election Commission data published in March 2024. The scheme was lawful when used and was struck down by the Supreme Court in February 2024 (the New Indian Express cites orders of 15 February and 11 March 2024); the published data do not show which party received which donor’s bonds. Donations alone do not justify points.",
+          "source": "The Tribune (PTI); Business Standard; The New Indian Express",
+          "url": "https://www.tribuneindia.com/news/india/election-commission-uploads-electoral-bonds-data-shared-by-sbi-on-its-website-600528",
+          "date": "2024-03-14",
+          "kind": "Disclosure coverage (context only)",
+          "access": "Page text reviewed; Election Commission files could not be opened (HTTP 406); the two totals differ by outlet and entity grouping"
+        },
+        {
+          "text": "Bharti Space is a major Eutelsat shareholder: Outlook Business reports a planned 18.70% post-transaction stake in the 2025 capital raise, and Mittal is quoted as Co-Chairman of Eutelsat Group. Eutelsat OneWeb is one of the three licensed GMPCS operators alongside Starlink and Jio. This is a personal and group commercial interest in a Starlink competitor, not evidence of preferential treatment.",
+          "source": "Outlook Business; Business Today",
+          "url": "https://www.outlookbusiness.com/corporate/sunil-mittals-bharti-group-joins-french-govt-to-raise-155-bn-for-starlink-rival-eutelsat",
+          "date": "2025-06-19",
+          "kind": "Disclosed commercial interest",
+          "access": "Page text reviewed (two outlets); final stake figures differ across later reports and were not checked against Eutelsat filings"
+        },
+        {
+          "text": "Mittal’s 15 September 2021 statement thanks the government, “under the decisive leadership of the Hon’ble Prime Minister”, for “seminal reforms”, and Airtel’s release says the package paves the way for a “three private plus one state owned” industry structure. This documents alignment and public gratitude over a sector-wide measure, not a personal favour.",
+          "source": "Bharti Airtel press release",
+          "url": "https://www.airtel.in/press-release/09-2021/bharti-airtel-welcomes-government-of-indias-seminal-reforms-for-the-telecom-industry",
+          "date": "2021-09-15",
+          "kind": "Primary statement by subject; policy alignment",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Elon Musk’s 7 October 2026 post said “certain oligarchs” were blocking Starlink and “You can guess who they are”; CNBC notes Musk did not name anyone, and in the same article says Ambani’s Jio and Mittal’s Airtel together hold over 80% of the market; the link to Mittal is the press’s inference. CNBC said it had asked Airtel and Reliance for comment; no response was found.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
+          "date": "2026-10-08",
+          "kind": "Allegation by commercial rival; inference by the press, not a naming",
+          "access": "Page text reviewed; the X post itself was not opened"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Supreme Court’s AGR rulings (October 2019, and 1 September 2020) went against the telecom companies on the definition and gave them ten years from 1 April 2021 to pay the balance in instalments, with interest, penalty and contempt for default. At that point Airtel was reported to owe Rs 25,976 crore after paying Rs 18,004 crore. Light Reading reports Airtel and Vodafone Idea had asked for 15 years. Adverse legal outcomes and a payment schedule are inconsistent with simple preferential treatment.",
+          "source": "The News Minute; Light Reading",
+          "url": "https://www.thenewsminute.com/article/agr-verdict-airtel-vodafone-idea-and-tata-get-10-years-pay-dues-132043",
+          "date": "2020-09-01",
+          "kind": "Court outcome reported",
+          "access": "Page text reviewed (both outlets); the judgment text was not retrieved"
+        },
+        {
+          "text": "PIB’s 15 September 2021 release lists the package: non-telecom revenue excluded from AGR on a prospective basis, 100% automatic-route FDI, and a moratorium of up to four years on AGR and spectrum dues that the Cabinet approved “for all the Telecom Service Providers”. The measures are sector-wide and applied to Jio and Vodafone Idea as well as Airtel.",
+          "source": "Press Information Bureau",
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1755086",
+          "date": "2021-09-15",
+          "kind": "Primary government decision; sector-wide scope",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "TRAI’s 9 May 2025 recommendations set the charge for NGSO fixed satellite services at 4% of AGR plus Rs 500 per urban subscriber (rural and remote exempt), justified by the incentive to reach rural areas and NGSO’s edge over GSO. The paper found a level-playing-field case between terrestrial services and NGSO FSS “not expected to arise”, rejecting the concern Airtel raised in 2024, and applies the same charge to every NGSO operator. DoT is reported to favour 5%; no final decision had been announced by 9 October 2026.",
+          "source": "TRAI recommendations; MediaNama",
+          "url": "https://trai.gov.in/sites/default/files/2025-05/Recommendtion_09052025.pdf",
+          "date": "2025-05-09",
+          "kind": "Primary regulatory outcome that did not adopt the company’s level-playing-field argument",
+          "access": "PDF text extracted and read (TRAI paras 2.35-2.39, 3.116-3.121); MediaNama for DoT’s reported 5% view"
+        },
+        {
+          "text": "Airtel was not an advocate of auction in 2023: its June 2023 TRAI counter-comments say auctioning satellite spectrum is “neither reasonable nor fair”. In May 2026 Airtel asked TRAI to apply its 2025 framework to the new network authorisation and only suggested feeder-link spectrum be assigned administratively under First Schedule entry 12, and said that if the Government permits direct-to-device service over satellite (MSS) spectrum, it should meet the same obligations as mobile operators. TechCrunch called Mittal a vocal advocate of the auction route; the Airtel filings reviewed from 2023, 2024 and 2026 do not ask for auctions.",
+          "source": "Bharti Airtel comments to TRAI",
+          "url": "https://www.trai.gov.in/sites/default/files/2024-11/BAL_23062023.pdf",
+          "date": "2023-06-22",
+          "kind": "Primary evidence that the company position varied by use case and year",
+          "access": "2023 counter-comments are a scanned PDF read by OCR; 2026 comments read as extracted text"
+        },
+        {
+          "text": "Airtel’s 11 March 2025 release announces an agreement with SpaceX to bring Starlink to its customers, “subject to SpaceX receiving its own authorizations”, in addition to its existing Eutelsat OneWeb alliance. The 8 October 2026 PIB release says all three licensees are at broadly the same stage, and Minister Scindia said on 9 October that each must separately clear security checks that rest with the Home Ministry. An Airtel partnership with Starlink and a shared regulatory stage cut against an Airtel veto.",
+          "source": "Bharti Airtel press release; PIB; MediaNama",
+          "url": "https://www.airtel.in/press-release/03-2025/airtel-announces-agreement-with-spacex-to-bring-starlinks-high-speed-internet-to-its-customers-in-india/",
+          "date": "2025-03-11",
+          "kind": "Primary corporate announcement; official statement",
+          "access": "Page text reviewed (Airtel, PIB); MediaNama report of the 9 October press conference"
+        }
+      ],
+      "limitations": "Sunil Mittal personally is distinct from Lakshmi Niwas Mittal (separate Forbes entry, individually bought Rs 35 crore of electoral bonds) and from his brothers Rajan and Rakesh. The sources mostly describe Bharti Airtel and Bharti Enterprises; Mittal is quoted directly only in the 2021 release, the 2025 Eutelsat release and one TechCrunch-reported remark. No rubric is added: no episode supports leverage, benefit and feedback together. Not verified: Airtel’s or Mittal’s reply to Musk (none found), the AGR judgment texts, the 2G and 2012 spectrum history (not reviewed; do not read the omission as clearance), the exact electoral-bond figures from Election Commission files, any personal political role, and Eutelsat’s final shareholding. The Medianama and TechCrunch reports are secondary. Airtel’s 2023 and 2024 positions on spectrum pricing are better read together than separately. Wealth, company size and donations alone do not support any point."
+    }
+  },
+  "rubrics": {}
+}

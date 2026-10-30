@@ -1,0 +1,409 @@
+{
+  "profiles": {
+    "prince-alwaleed-bin-talal-alsaud": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Detention November 2017 to January 2018; Kingdom Holding stake sale announced May 2022",
+      "summary": "The reviewed record concerns state power exercised over Alwaleed: his November 2017 detention in a crown-prince-led anti-corruption campaign, a financial settlement with no disclosed terms, and a 2022 sale of a Kingdom Holding stake to the Public Investment Fund. It does not document him obtaining a specific preferential benefit from officials, so no estimate is made.",
+      "mechanism": "State leverage over a royal-family businessman → undisclosed settlement; later sale to a state fund (direction of influence unresolved)",
+      "support": [
+        {
+          "text": "UPI reports that Alwaleed was arrested in November 2017 at the Riyadh Ritz-Carlton, that the state prosecutor approved an unspecified financial settlement, and that the amount was not disclosed. The crackdown was led by Crown Prince Mohammed bin Salman and was seen as consolidating his power.",
+          "source": "UPI",
+          "url": "https://www.upi.com/Top_News/World-News/2018/01/27/Saudi-billionaire-prince-freed-after-paying-settlement/6571517068907/",
+          "date": "2018-01-27",
+          "kind": "Release and settlement report",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Malay Mail reports Alwaleed selling a 16.87% stake (625 million shares, roughly US$1.5 billion per a Tadawul filing) in Kingdom Holding to the Public Investment Fund, which the crown prince chairs, and describes the earlier detention as seen by critics as a power grab.",
+          "source": "Malay Mail (news agency report)",
+          "url": "https://www.malaymail.com/news/money/2022/05/22/saudi-billionaire-prince-to-sell-1687pc-of-firm-to-sovereign-fund/8233",
+          "date": "2022-05-22",
+          "kind": "Transaction with state fund; terms beyond the filing not reviewed",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Reuters, via Cyprus Mail, quotes Alwaleed saying \"There are no charges\", \"I have nothing to hide at all\" and that he maintained his innocence. A senior Saudi official would neither confirm nor negate that the attorney general was convinced of his innocence. The allegations (money laundering, bribery, extorting officials) were reported as allegations only.",
+          "source": "Reuters via Cyprus Mail",
+          "url": "https://archive.cyprus-mail.com/2018/01/27/saudi-billionaire-prince-alwaleed-released/",
+          "date": "2018-01-27",
+          "kind": "Subject response and limit of evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Neither the UPI nor the Malay Mail report states that the settlement terms or the 2022 sale price were preferential; the filing reports a price but the pages reviewed do not assess whether it was above or below market.",
+          "source": "Limit of reviewed pages",
+          "url": "https://www.malaymail.com/news/money/2022/05/22/saudi-billionaire-prince-to-sell-1687pc-of-firm-to-sovereign-fund/8233",
+          "date": "2022-05-22",
+          "kind": "Explicit limit of the evidence",
+          "access": "Reviewed pages: UPI and Malay Mail; no valuation analysis read"
+        }
+      ],
+      "limitations": "Only wire and news reports were read; no court record exists because no charges were reported. This is not exoneration and not a finding of wrongdoing. Coercion by a state is different from the wealthy-to-power influence the scale measures, and royal status, nationality, a detention or a settlement alone do not justify points. Alwaleed’s earlier decades and Kingdom Holding’s dealings with the state were not reviewed."
+    },
+    "dhanin-chearavanont": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2020 Tesco Thailand acquisition and OTCC decision; background commentary only",
+      "summary": "Commentators quoted in the press say Thailand’s large conglomerates, including CP Group, have political connections that could blunt competition enforcement. The one concrete test reviewed, the 2020 Tesco Lotus acquisition, ended with the regulator finding market dominance possible but not a monopoly and imposing a three-year bar on further retail mergers. That is mixed evidence at group level and says nothing specific about Dhanin personally, so no estimate is made.",
+      "mechanism": "Corporate scale and alleged political connections → competition-regulator treatment (outcome mixed)",
+      "support": [
+        {
+          "text": "Asia Times reports that a historian (Chris Baker) said close connections between monopoly holders and the government made a tough ruling unlikely, and that the regulator might seek a compromise given the \"politically powerful CP Group\". These are quoted opinions, not findings.",
+          "source": "Peter Janssen / Asia Times",
+          "url": "https://asiatimes.com/2020/10/a-monopoly-moment-of-truth-for-thailand/",
+          "date": "2020-10-12",
+          "kind": "Attributed expert commentary",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Vibes reports the OTCC majority agreed the US$10.6 billion Tesco Thailand/Malaysia deal could create market dominance but was not a monopoly, and that CP Group may not pursue other retail merger deals for three years.",
+          "source": "The Vibes",
+          "url": "https://www.thevibes.com/articles/business/5244/tesco-gets-nod-to-sell-thai-supermarket-business",
+          "date": "2020-11-07",
+          "kind": "Regulatory outcome report",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The regulator imposed a three-year restriction on further retail mergers, and a member of its vetting committee publicly argued the deal would create a monopoly, which cuts against a claim of unconditional protection; the outcome nevertheless permitted the deal.",
+          "source": "The Vibes",
+          "url": "https://www.thevibes.com/articles/business/5244/tesco-gets-nod-to-sell-thai-supermarket-business",
+          "date": "2020-11-07",
+          "kind": "Mixed outcome / alternative explanation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "CP Group did not comment on the regulator’s decision, so the reviewed record contains no company response to the political-connection claims. The Asia Times piece presents them as source opinion.",
+          "source": "Asia Times; The Vibes",
+          "url": "https://asiatimes.com/2020/10/a-monopoly-moment-of-truth-for-thailand/",
+          "date": "2020-10-12",
+          "kind": "Limit of evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Narrow review: two news pages. The group’s decisions are not attributed to Dhanin personally. Earlier-era claims about relationships with former prime ministers appeared only in an unreliable search snippet and were not used. No sanction, conviction or preferential contract was reviewed. Not exoneration."
+    },
+    "john-doerr": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2009–2011 Obama administration clean-energy funding period",
+      "summary": "John Doerr has documented political access: he served on President Obama’s Economic Recovery Advisory Board, he and Kleiner Perkins executives gave over $1 million to federal causes (mostly Democratic) across two decades, and he hosted Obama at a 2011 fundraising dinner, while Kleiner-backed green-energy companies received federal Energy Department funding. The reviewed article presents these as questions about access and does not allege improper conduct, so no estimate is made.",
+      "mechanism": "Political giving and advisory role → access; portfolio-company federal funding (link unproven)",
+      "support": [
+        {
+          "text": "The Center for Public Integrity reports Doerr and Kleiner Perkins executives gave more than $1 million to federal political causes over two decades, mostly to Democrats; that Doerr served on the Economic Recovery Advisory Board; that he hosted Obama at his estate in February 2011; and that several Kleiner-backed green-tech firms received Energy Department funding.",
+          "source": "Ronnie Greene and Matthew Mosk / Center for Public Integrity",
+          "url": "https://publicintegrity.org/politics/green-bundler-with-the-golden-touch/",
+          "date": "2011-03-30",
+          "kind": "Investigative report",
+          "access": "First 100,000 of about 117,000 characters read"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same article says public records show no indication that the GAO or Energy Department inspector general inquiries focus on Doerr or his firm, does not claim his giving or advisory role was improper, and reports that Doerr did not respond to interview requests about the Obama dinner.",
+          "source": "Center for Public Integrity: limits and response",
+          "url": "https://publicintegrity.org/politics/green-bundler-with-the-golden-touch/",
+          "date": "2011-03-30",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "The principal source is 2011 and the later years, Doerr’s later climate advocacy and any other policy episodes were not reviewed. Funding of portfolio companies is not personal benefit; no award was shown to be influenced. Not exoneration, not an allegation of wrongdoing."
+    },
+    "jorge-paulo-lemann": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2023 CVM proceeding on Americanas; background profile",
+      "summary": "No specific, reliable evidence of political leverage, preferential state benefit or an exchange was found in this narrow review of the Forbes family entry, which concerns Jorge Paulo Lemann. The one regulatory matter reviewed, the CVM proceeding over the 2023 Americanas accounting scandal, concerns disclosure by reference shareholders, not political power.",
+      "mechanism": "Not established: no political-power mechanism found in sources read",
+      "support": [
+        {
+          "text": "The CVM said on 19 January 2023 it created a task force on the Americanas accounting scandal, and that one of seven administrative proceedings examines the possible responsibility of reference shareholders Lemann, Sicupira and Telles regarding information given to the market. If infractions are formally established, those responsible could be held accountable.",
+          "source": "Suno Notícias (Portuguese)",
+          "url": "https://www.suno.com.br/noticias/americanas-amer3-lemann-sicupira-telles-cvm/amp/",
+          "date": "2023-01-19",
+          "kind": "Regulatory proceeding report; no finding",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "No findings or charges are reported in that article, and it carries no response from the three shareholders. The matter concerns market disclosure by a company, not a political exchange.",
+          "source": "Suno Notícias: limit of evidence",
+          "url": "https://www.suno.com.br/noticias/americanas-amer3-lemann-sicupira-telles-cvm/amp/",
+          "date": "2023-01-19",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Wikipedia profile does not mention political ties, CADE’s Ambev approval, BNDES financing or donations; claims about those from search snippets (a Portuguese advocacy blog on CADE’s 1999 approval) were not read or used.",
+          "source": "Wikipedia: Jorge Paulo Lemann",
+          "url": "https://en.wikipedia.org/wiki/Jorge_Paulo_Lemann",
+          "date": "2026-10-29",
+          "kind": "Gap in coverage",
+          "access": "Encyclopedia summary page read; its cited sources were not independently checked"
+        }
+      ],
+      "limitations": "Very narrow review; the family entry means other members were not separately reviewed. The 1999 Ambev merger approval, any public-bank financing and Brazilian political donations were searched but not verified from reliable pages, and a search limit prevented further queries. Not exoneration."
+    },
+    "r-budi-hartono": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2025–2026 unverified report; background profile",
+      "summary": "No reliable evidence on political leverage, state preference or an exchange involving Budi Hartono was found. The only item surfaced, an unsourced investment-newsletter line about a son’s travel ban in a tax investigation, is unverified and concerns a different person.",
+      "mechanism": "Not established",
+      "support": [
+        {
+          "text": "A newsletter obituary page for his brother Michael Hartono says Budi’s eldest son Victor, Djarum Group CEO, was issued a six-month travel ban in a tax-reduction corruption investigation and mentions his relationships with Presidents Prabowo and Widodo. The page cites no sources or official statements, and the year is given only in a summary line.",
+          "source": "Caproasia (unsourced newsletter)",
+          "url": "https://www.caproasia.com/?p=69377",
+          "date": "2026-03-21",
+          "kind": "Unverified lead only",
+          "access": "Page read partly; claim not corroborated in mainstream outlets I could read"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The claim is unsourced, concerns Victor Hartono, not Budi, and does not explain what the presidential relationships involve or link them to the investigation; it should not be treated as evidence.",
+          "source": "Caproasia: limit",
+          "url": "https://www.caproasia.com/?p=69377",
+          "date": "2026-03-21",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Wikipedia articles on Budi Hartono and Djarum describe business activities (Djarum, a Bank Central Asia stake) and contain no political ties, excise or regulatory matters involving him; they report only a 2016 Human Rights Watch child-labor finding on Indonesian tobacco firms.",
+          "source": "Wikipedia: Robert Budi Hartono (and Djarum page, both read)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Budi_Hartono",
+          "date": "2026-10-29",
+          "kind": "Gap in coverage",
+          "access": "Encyclopedia summary page read; its cited sources were not independently checked"
+        }
+      ],
+      "limitations": "Search limits prevented a corroborating query on the travel-ban report and on tobacco excise policy. Nothing here accuses Budi Hartono or establishes the claim about his son. Not exoneration."
+    },
+    "alejandro-bailleres-gual": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Current ownership profile, 2026",
+      "summary": "No evidence of political leverage, preferential state benefit or an exchange was found for Alejandro Baillères Gual in this narrow review. The family entry spans Grupo Bal (Peñoles, Fresnillo, Palacio de Hierro, GNP, Profuturo), a mining-and-financial group; attribution between family members was not resolved.",
+      "mechanism": "Not established",
+      "support": [
+        {
+          "text": "El CEO (18 July 2026) describes Alejandro Baillères as chairman of Grupo Bal and heir of Alberto Baillères, who died in 2022, with a 44% Peñoles stake held through a control trust, and Peñoles owning almost 75% of Fresnillo. It reports business holdings, nothing about government or political ties.",
+          "source": "El CEO (Spanish)",
+          "url": "https://elceo.com/negocios/palacio-de-hierro-penoles-y-gnp-las-empresas-detras-de-la-fortuna-de-13500-mdd-de-alejandro-bailleres/",
+          "date": "2026-07-18",
+          "kind": "Ownership profile only",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page mentions no government or political ties, so it provides no support for a wealth-power mechanism; it is a gap in what was reviewed.",
+          "source": "El CEO: limit",
+          "url": "https://elceo.com/negocios/palacio-de-hierro-penoles-y-gnp-las-empresas-detras-de-la-fortuna-de-13500-mdd-de-alejandro-bailleres/",
+          "date": "2026-07-18",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Mining concessions, government contracts and Mexican political ties were not verified because the search budget was exhausted. Alberto Baillères’ own history is a different person’s record and was not scored. Not exoneration."
+    },
+    "philip-anschutz": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Donations 2016–2017; BLM approvals 2017 and 2019; 2001 drilling decision",
+      "summary": "Anschutz is a documented Republican and conservative-institution donor, and an Anschutz-owned developer received federal land-use approvals for the Chokecherry and Sierra Madre wind project. The reviewed material does not link donations to those approvals, which proceeded through public environmental review, so no estimate is made.",
+      "mechanism": "Political giving (context) and federal permitting (separate)",
+      "support": [
+        {
+          "text": "The Wikipedia summary reports Anschutz giving $1 million to conservatives in the 2016 elections and $200,000 in 2017, funding conservative think tanks through his foundation, and a 2006 letter from his lawyer to the White House counsel recommending Neil Gorsuch for a Tenth Circuit seat. It also reports the Bush administration upholding his right to drill at Weatherman Draw in 2001.",
+          "source": "Wikipedia: Philip Anschutz",
+          "url": "https://en.wikipedia.org/wiki/Philip_Anschutz",
+          "date": "2026-10-29",
+          "kind": "Secondary summary",
+          "access": "Encyclopedia summary page read; its cited sources were not independently checked; first 100,000 of about 136,000 characters read"
+        },
+        {
+          "text": "Utility Dive reports that Power Company of Wyoming, an Anschutz Corporation affiliate, received a BLM environmental assessment (October 2019, draft for public comment) for the second phase of the Chokecherry and Sierra Madre wind project, up to 1,000 turbines, with the first phase assessed in January 2017.",
+          "source": "Utility Dive",
+          "url": "https://www.utilitydive.com/news/largest-planned-wind-farm-in-us-gets-key-federal-approval/565795",
+          "date": "2019-10-25",
+          "kind": "Permitting report",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Utility Dive notes the approval came despite President Trump’s opposition to wind power and a 2018 BLM rejection of another large wind project, and that the assessment was a draft open to comment. The project’s completion slipped from 2020 to 2026 owing to permitting delays, which cuts against a claim of smooth political access.",
+          "source": "Utility Dive: context",
+          "url": "https://www.utilitydive.com/news/largest-planned-wind-farm-in-us-gets-key-federal-approval/565795",
+          "date": "2019-10-25",
+          "kind": "Counterevidence / alternative explanation",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "On Qwest, the Wikipedia summary reports the company paid a $250 million SEC penalty without admitting or denying and that Anschutz was not charged criminally; the SEC and DOJ found no justification for action against any Qwest board member. That is corporate conduct and not a political-power finding.",
+          "source": "Wikipedia: Philip Anschutz (Qwest, Spitzer matters)",
+          "url": "https://en.wikipedia.org/wiki/Philip_Anschutz",
+          "date": "2026-10-29",
+          "kind": "Legal limit",
+          "access": "Encyclopedia summary page read; its cited sources were not independently checked"
+        }
+      ],
+      "limitations": "Wikipedia is a secondary summary and its sources were not checked. The Spitzer settlement (no wrongdoing admitted) and Qwest matters are not political power. Donations, land permits and company size alone earn no points; later policy episodes were not reviewed. Not exoneration."
+    },
+    "john-menard-jr": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Donations 2011–2012; tax credits 2013–2014 as reported; reporting March 2015",
+      "summary": "Yahoo News reported in 2015, from documents seized in the Wisconsin \"John Doe\" probe and three sources, that Menard gave more than $1.5 million in 2011-2012 to the Wisconsin Club for Growth, which backed Governor Walker’s recall defense, and that his company later received up to $1.8 million in state tax credits from an economic-development body Walker chaired. The governor’s office denied any special favors. Evidence of causation is circumstantial and the 2015 reporting is the latest reviewed.",
+      "mechanism": "Large undisclosed political giving → access; later state tax credits (link unproven)",
+      "support": [
+        {
+          "text": "Michael Isikoff reports Menard wrote checks totaling more than $1.5 million in 2011 and 2012 to the Wisconsin Club for Growth, found in documents seized in the John Doe 2 probe and confirmed by three sources, and that Menards was awarded up to $1.8 million in tax credits by the Wisconsin Economic Development Corporation. It also reports Walker’s appointees scaling back DNR enforcement, described as a Menard priority; environmental referrals fell from an average of 68 to 34 a year.",
+          "source": "Michael Isikoff / Yahoo News",
+          "url": "https://www.yahoo.com/news/wisconsin-gov-scott-walker-photo-charlie-114429739886.html",
+          "date": "2015-03-24",
+          "kind": "Investigative report relying on seized documents and unnamed sources",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "WPR summarizes the Yahoo report, notes court documents suggested Walker encouraged donations to the Club, and that Yahoo suggested Menard received WEDC grants after the donations.",
+          "source": "Shawn Johnson / Wisconsin Public Radio",
+          "url": "https://wpr.org/economy/menards-president-gave-1-5m-wisconsin-club-growth-yahoo-news-reports",
+          "date": "2015-03-24",
+          "kind": "Secondary report",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Walker’s spokeswoman denied special favors, said he was not involved in the tax-credit decision, noted that Menards received $1.5 million in credits in 2006 under Democratic Governor Doyle (later reduced to $1 million for missing job targets), and that the DNR drop reflected a policy of working with businesses early. Menard did not respond to requests for comment.",
+          "source": "Yahoo News: responses",
+          "url": "https://www.yahoo.com/news/wisconsin-gov-scott-walker-photo-charlie-114429739886.html",
+          "date": "2015-03-24",
+          "kind": "Subject response",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Wisconsin Supreme Court ruled 4-2 on 16 July 2015 that no laws were broken in the Walker recall-campaign coordination inquiry and closed the John Doe investigation. The report does not mention Menard; the ruling concerns the campaign, not Menard’s donations or credits. The donations themselves were legal and undisclosed.",
+          "source": "Minnesota Public Radio / NPR",
+          "url": "https://www.mprnews.org/story/2015/07/16/npr-scott-walker",
+          "date": "2015-07-16",
+          "kind": "Legal outcome / limit of evidence",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Per Yahoo, the 2006 credits had been reduced for missed job targets, WPR notes Walker’s office said WEDC also granted funds to companies run by prominent Democrats, and no source reviewed shows an agreement between Menard and Walker.",
+          "source": "Yahoo News and WPR: Walker office response",
+          "url": "https://www.yahoo.com/news/wisconsin-gov-scott-walker-photo-charlie-114429739886.html",
+          "date": "2015-03-24",
+          "kind": "Alternative explanation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "A single 2015 investigative story with unnamed sources underpins the leverage and benefit dimensions; the estimate is deliberately low and wide. The donation and credit sequence is not proof of an exchange, and no wrongdoing finding exists. Menard’s later giving, other states and later years were not reviewed. Not a verdict."
+    },
+    "chen-jianhua": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2010 Dalian partnership; April 2026 OFAC action",
+      "summary": "Chen Jianhua co-founded and chairs Hengli Group with his wife Fan Hongwei. The reviewed record shows a 2010 partnership between Hengli and the Dalian municipal government and, in April 2026, a US Treasury designation of Hengli’s Dalian refinery over Iranian oil purchases, which the company denies. No evidence about political leverage, preferential benefit or an exchange attributable to Chen personally was found, so no estimate is made.",
+      "mechanism": "Not established; entity-level sanctions and local-government partnership only",
+      "support": [
+        {
+          "text": "Treasury’s release dated 24 April 2026 sanctions Hengli Petrochemical (Dalian) Refinery, alleging it bought billions of dollars of Iranian petroleum including shipments overseen by Sepehr Energy. It names no individuals, so Chen is not mentioned.",
+          "source": "US Department of the Treasury",
+          "url": "https://home.treasury.gov/news/press-releases/sb0472",
+          "date": "2026-04-24",
+          "kind": "Government designation; allegation against a company",
+          "access": "Page read; legal-basis list could not be confirmed"
+        },
+        {
+          "text": "A Wikipedia summary reports Hengli partnered with Dalian’s municipal government in 2010 to build a petrochemical park, that Chen and Fan are the actual controllers of the listed company (75.73% with concert parties), and Reuters reports China’s commerce ministry issued a May 2026 blocking order against US sanctions on five refiners including Hengli.",
+          "source": "Wikipedia: Hengli Group",
+          "url": "https://en.wikipedia.org/wiki/Hengli_Group",
+          "date": "2026-10-29",
+          "kind": "Secondary summary",
+          "access": "Encyclopedia summary page read; its cited sources were not independently checked"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Hengli Petrochemical said it complied with laws and has never traded with Iran. The Treasury page is a US government allegation against a company, not a finding against Chen, and OFAC action is not proof of Chinese political leverage.",
+          "source": "Wikipedia: Hengli Group (company response and Treasury allegation)",
+          "url": "https://en.wikipedia.org/wiki/Hengli_Group",
+          "date": "2026-04-24",
+          "kind": "Subject response and entity limit",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Wikipedia summary mentions no NPC or CPPCC membership, party roles or subsidies for Chen or Fan.",
+          "source": "Wikipedia: Hengli Group",
+          "url": "https://en.wikipedia.org/wiki/Hengli_Group",
+          "date": "2026-10-29",
+          "kind": "Gap in coverage",
+          "access": "Encyclopedia summary page read; its cited sources were not independently checked"
+        }
+      ],
+      "limitations": "Identity: Forbes lists Chen Jianhua; the evidence read mostly concerns the company and his wife Fan Hongwei and is not attributed to him. Chinese party or legislative roles, subsidies and the 2015 refinery approval were not verified. Sanctions and local-government partnership alone earn no points. Not exoneration."
+    },
+    "donald-bren": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; absence of evidence found is not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Long-running; references from 2005–2016",
+      "summary": "Donald Bren is a long-time political donor and the owner of the Irvine Company, whose land holdings depend on local development approvals; newspapers have described him as exceptionally influential in Orange County. The reviewed material does not document a specific approval, subsidy or exchange tied to his giving, so no estimate is made.",
+      "mechanism": "Land-owner influence over local development and political giving (specific exchange not shown)",
+      "support": [
+        {
+          "text": "The Wikipedia summary reports Bren giving to Republican causes including Pete Wilson’s campaigns and at least $135,000 to the California Republican Party, as well as Democrat Dianne Feinstein, and cites OC Weekly (2005) and the Los Angeles Times (2006) calling him more powerful than Howard Hughes and the most powerful person in Southern California.",
+          "source": "Wikipedia: Donald Bren",
+          "url": "https://en.wikipedia.org/wiki/Donald_Bren",
+          "date": "2026-10-29",
+          "kind": "Secondary summary of press characterizations",
+          "access": "Encyclopedia summary page read; its cited sources were not independently checked"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same page documents no land-use controversy or specific approval, and reports land donations: about 55,000 acres over 30 years and preserved Irvine Ranch land reaching 60%. Press characterizations of influence are opinion, not evidence of an exchange.",
+          "source": "Wikipedia: Donald Bren",
+          "url": "https://en.wikipedia.org/wiki/Donald_Bren",
+          "date": "2026-10-29",
+          "kind": "Explicit limit and alternative context",
+          "access": "Encyclopedia summary page read; its cited sources were not independently checked"
+        }
+      ],
+      "limitations": "Search limits prevented review of campaign-finance records, local council minutes or Great Park reporting. A bipartisan donor pattern and press descriptions of influence do not establish preferential treatment. Not exoneration."
+    }
+  },
+  "rubrics": {}
+}

@@ -1,0 +1,173 @@
+{
+  "profiles": {
+    "alain-wertheimer": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Chanel ownership and management, current profile data",
+      "summary": "The sources reviewed describe Alain Wertheimer as Chanel’s chairman and co-owner with his brother Gerard. They contain no political-leverage, preferential-benefit or wealth-power feedback evidence. This is a narrow review and is not exoneration.",
+      "mechanism": "No mechanism established in the reviewed sources",
+      "support": [
+        {
+          "text": "Forbes lists Alain Wertheimer as Chanel’s chairman, co-owner with his brother Gerard, residing in New York with French citizenship. This confirms identity and wealth source only.",
+          "source": "Forbes profile: Alain Wertheimer",
+          "url": "https://www.forbes.com/profile/alain-wertheimer/",
+          "date": "2026",
+          "kind": "Identity and source-of-wealth profile",
+          "access": "Page text reviewed; no political or government content found"
+        },
+        {
+          "text": "Wikipedia describes him as Chanel’s chairman and co-owner, owner of Holland & Holland from 1989 to 2021, and co-owner of Bordeaux estates. It records no political role, donations or controversies.",
+          "source": "Wikipedia: Alain Wertheimer (secondary, citing Forbes and Bloomberg)",
+          "url": "https://en.wikipedia.org/wiki/Alain_Wertheimer",
+          "date": "2026-10-29",
+          "kind": "Secondary background; business role only",
+          "access": "Page text reviewed; no political content found"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Neither source reviewed records any political office, lobbying, state contract or regulatory favor. Absence in two general profiles shows only that this review found nothing, not that none exists.",
+          "source": "Forbes; Wikipedia: limit of evidence",
+          "url": "https://www.forbes.com/profile/alain-wertheimer/",
+          "date": "2026",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed; no political or government content found"
+        }
+      ],
+      "limitations": "Narrow review limited to general profiles; no targeted search of French or US lobbying registers, donations, tax disputes or court records was possible in this session. Forbes lists Alain and Gerard as separate entries; evidence about one is not transferred to the other, nor to the family’s historical (Pierre Wertheimer-era) conduct. Inheritance, a luxury brand and residence alone justify no points. This is a narrow review, not an exoneration."
+    },
+    "gerard-wertheimer-1": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Chanel ownership, current profile data",
+      "summary": "The sources reviewed describe Gerard Wertheimer as co-owner of Chanel with his brother Alain, with a role in the watch division. They contain no political-leverage, preferential-benefit or wealth-power feedback evidence. This is a narrow review and is not exoneration.",
+      "mechanism": "No mechanism established in the reviewed sources",
+      "support": [
+        {
+          "text": "Wikipedia describes Gerard Wertheimer as co-owner of Chanel with Alain, based in New York and Geneva, with the family fortune managed through Mousse Partners. It lists wealth estimates, racing and vineyards, not a political role.",
+          "source": "Wikipedia: Gérard Wertheimer (secondary, citing Bloomberg and Forbes)",
+          "url": "https://en.wikipedia.org/wiki/G%C3%A9rard_Wertheimer",
+          "date": "2026-10-29",
+          "kind": "Secondary background; business role only",
+          "access": "Page text reviewed; no political content found"
+        },
+        {
+          "text": "Forbes describes Chanel as co-owned by Alain, with Gerard overseeing the watch division; the profile reviewed (Alain’s) carries no government or political content, so it confirms only the shared business context.",
+          "source": "Forbes profile: Alain Wertheimer (context for Gerard)",
+          "url": "https://www.forbes.com/profile/alain-wertheimer/",
+          "date": "2026",
+          "kind": "Business context; no political content",
+          "access": "Page text reviewed; no political or government content found"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The reviewed pages record no political office, lobbying, state contract or regulatory favor for Gerard Wertheimer. Absence from general profiles is a limit of this review, not evidence against the mechanism.",
+          "source": "Wikipedia: limit of evidence",
+          "url": "https://en.wikipedia.org/wiki/G%C3%A9rard_Wertheimer",
+          "date": "2026-10-29",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed; no political content found"
+        }
+      ],
+      "limitations": "Narrow review limited to general profiles; no targeted search of French or Swiss registers, tax disputes, donations or court records was possible in this session. Evidence about Alain, the shared company or earlier generations is not attributed to Gerard. Inheritance and brand ownership alone justify no points. This is a narrow review, not an exoneration."
+    },
+    "eyal-ofer": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Zodiac and Ofer Global roles; Iranian claim October 2025",
+      "summary": "Eyal Ofer is a Monaco-based shipping, real-estate and energy investor, chairman of Zodiac Group and Ofer Global. The only political claim found is an October 2025 Iranian judiciary statement calling him an influential figure in Israel’s government, which is an adversary’s unsupported characterization. No reviewed source shows leverage, preferential benefit or exchange. This is not exoneration.",
+      "mechanism": "No mechanism established; foreign-government claim uncorroborated",
+      "support": [
+        {
+          "text": "The Times of Israel reports that Iran’s judiciary spokesperson demanded a $170 million fine over the seized ship MSC Aries and called its owner, Eyal Ofer, an influential figure within the Israeli government. Zodiac says MSC operates the ship and that the title-holder is a Zodiac affiliate.",
+          "source": "Times of Israel, 28 October 2025",
+          "url": "https://www.timesofisrael.com/iran-demands-israels-richest-man-pay-170m-fine-after-it-seized-his-cargo-ship/",
+          "date": "2025-10-28",
+          "kind": "Attributed claim by a foreign state and company response",
+          "access": "Page partly read (first 100,000 of about 173,000 characters)"
+        },
+        {
+          "text": "Wikipedia lists him as chairman of Ofer Global, Zodiac Group and Global Holdings, born in Haifa in 1950, an Israeli Air Force intelligence officer 1967–1973 and Monaco-based; it distinguishes his business from his brother Idan’s.",
+          "source": "Wikipedia: Eyal Ofer (secondary)",
+          "url": "https://en.wikipedia.org/wiki/Eyal_Ofer",
+          "date": "2026-10-29",
+          "kind": "Secondary identity and business background",
+          "access": "Page text reviewed; no political role described"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Zodiac’s statement attributes operation of the vessel to MSC and title to a Zodiac affiliate; the Iranian claim of governmental influence is made by a party in a dispute with Israel and is not corroborated by an independent source in the page reviewed.",
+          "source": "Times of Israel: Zodiac response and source limit",
+          "url": "https://www.timesofisrael.com/iran-demands-israels-richest-man-pay-170m-fine-after-it-seized-his-cargo-ship/",
+          "date": "2025-10-28",
+          "kind": "Subject’s response and source-credibility limit",
+          "access": "Page partly read"
+        },
+        {
+          "text": "The Wikipedia article reviewed contains no controversy, legal or tax matter and describes no government relationship beyond past military service.",
+          "source": "Wikipedia: Eyal Ofer: limit of the evidence",
+          "url": "https://en.wikipedia.org/wiki/Eyal_Ofer",
+          "date": "2026-10-29",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Narrow review; follow-up searches for family-business state contracts or Israeli, UK or Monaco matters were not possible in this session. Evidence about his father Sammy Ofer, brother Idan Ofer, uncle Yuli Ofer or other Ofer-family companies is not attributed to him. Inheritance, shipping assets and an adversary’s allegation justify no points. This is a narrow review, not an exoneration."
+    },
+    "he-xiangjian": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed",
+      "confidence": "Low / narrow review",
+      "period": "Midea Group filings 2014; retired from operations 2012",
+      "summary": "He Xiangjian founded Midea, retired from its operations in 2012 and is its largest shareholder. A trade-monitoring record shows Midea Group reported about US$133 million in government subsidies for 2014, a company-level figure that is common for large Chinese listed firms. No reviewed source shows him holding political office or obtaining a personal preferential benefit. This is not exoneration.",
+      "mechanism": "Company-level subsidy disclosure; no personal leverage or exchange shown",
+      "support": [
+        {
+          "text": "Global Trade Alert records that Midea Group disclosed about US$133 million in government subsidies for 2014 in its stock-exchange filings, classified as a firm-specific financial grant; the page names no granting body.",
+          "source": "Global Trade Alert: Midea Group 2014 subsidy",
+          "url": "https://globaltradealert.org/intervention/74121-china-government-subsidy-changes-for-listed-company-midea-group-coltd-in-year-2014",
+          "date": "2014",
+          "kind": "Company-level subsidy record from a trade monitor",
+          "access": "Page partly readable (description truncated, sign-in required for full text)"
+        },
+        {
+          "text": "Wikipedia says he formed the lid-production company in Beijiao in 1968 that became Midea, stepped down from operations in 2012 and survived a June 2020 kidnapping attempt; it gives no political role.",
+          "source": "Wikipedia: He Xiangjian (secondary)",
+          "url": "https://en.wikipedia.org/wiki/He_Xiangjian",
+          "date": "2026-10-29",
+          "kind": "Secondary background",
+          "access": "Page text reviewed; no political content found"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The subsidy is a company disclosure, not a payment to him, and the record does not show that it was exceptional compared with other firms or tied to his political access. He left day-to-day operations in 2012, two years before the reported year.",
+          "source": "Global Trade Alert and Wikipedia: limit of attribution",
+          "url": "https://globaltradealert.org/intervention/74121-china-government-subsidy-changes-for-listed-company-midea-group-coltd-in-year-2014",
+          "date": "2014",
+          "kind": "Explicit limit and alternative explanation",
+          "access": "Page partly readable"
+        },
+        {
+          "text": "No source reviewed reports a CPPCC, NPC or other political post for him. A search for Chinese-language records was not possible in this session, so the absence is not confirmed.",
+          "source": "Wikipedia: He Xiangjian: limit of the evidence",
+          "url": "https://en.wikipedia.org/wiki/He_Xiangjian",
+          "date": "2026-10-29",
+          "kind": "Explicit limit of the evidence",
+          "access": "Page text reviewed; absence not independently confirmed"
+        }
+      ],
+      "limitations": "Narrow review. Forbes lists a family entry; evidence here concerns He Xiangjian and Midea only, and relatives or other Midea executives are not attributed. Corporate subsidies, company size and nationality justify no points. No search of Chinese-language political rosters or Midea’s later filings was possible in this session. This is a narrow review, not an exoneration."
+    }
+  },
+  "rubrics": {}
+}

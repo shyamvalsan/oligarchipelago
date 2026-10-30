@@ -1,0 +1,345 @@
+{
+  "profiles": {
+    "georg-schaeffler": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "January 2009 Schaeffler–Continental episode; no current-period evidence reviewed",
+      "summary": "A 2009 episode reports state-level government discussions of aid for the family-owned Schaeffler group after its Continental takeover. The reviewed pages concern the company and Maria-Elisabeth Schaeffler as owner; they do not show Georg Schaeffler personally negotiating, and no outcome was verified.",
+      "mechanism": "Corporate financing stress → reported state-aid discussions (outcome not verified)",
+      "support": [
+        {
+          "text": "Moneycab (26 Jan 2009) reports that Schaeffler had won the Continental power struggle; Handelsblatt reported that Bavaria would back Schaeffler and Lower Saxony Continental, with Seehofer and Wulff reportedly agreeing. Wulff mediated between the companies. Owner Maria-Elisabeth Schaeffler, not Georg, is the family member named.",
+          "source": "Moneycab",
+          "url": "https://www.moneycab.com/news/schaeffler-gewinnt-machtkampf-bei-conti-staat-soll-helfen/amp/",
+          "date": "2009-01-26",
+          "kind": "Contemporaneous press report of state-level discussions",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "VerkehrsRundschau (26 Jan 2009) reports about EUR 500 million each from Bavaria and Lower Saxony as plans, with form (guarantee, direct stake) open and a condition from Wulff about separating Continental’s core business.",
+          "source": "VerkehrsRundschau",
+          "url": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/staatshilfen-fuer-schaeffler-und-conti-3020251",
+          "date": "2009-01-26",
+          "kind": "Reported plan, not a confirmed decision",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Bavarian state chancellery said there were talks but no agreement or commitments; Lower Saxony’s Wulff said no concept was concrete enough. The article labels the reports as unconfirmed.",
+          "source": "Moneycab: government responses",
+          "url": "https://www.moneycab.com/news/schaeffler-gewinnt-machtkampf-bei-conti-staat-soll-helfen/amp/",
+          "date": "2009-01-26",
+          "kind": "Contemporaneous denial of commitment",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The reviewed article states the aid was reported plans from newspaper and company sources, not confirmed decisions. No source read establishes final terms, or any personal role of Georg Schaeffler.",
+          "source": "VerkehrsRundschau: status of reports",
+          "url": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/staatshilfen-fuer-schaeffler-und-conti-3020251",
+          "date": "2009-01-26",
+          "kind": "Explicit limit of evidence",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Georg Schaeffler is a family co-owner; the reviewed pages name Maria-Elisabeth Schaeffler. No assessment of donations, later lobbying or the final 2009 aid outcome was possible. A request for crisis aid by a large employer is not itself preferential treatment. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    },
+    "brett-adcock": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Searches in October 2026; no earlier period assessed",
+      "summary": "Searches found no reporting or filings in readable sources connecting Brett Adcock or Figure AI to political donations, lobbying or preferential government treatment. This is a narrow negative search, not a clearance.",
+      "mechanism": "None established in reviewed sources",
+      "support": [
+        {
+          "text": "Wikipedia identifies Adcock as founder of Figure AI, Archer Aviation (co-founder) and others and cites a Forbes estimate of about US$23 billion. Wealth from company valuations is the only documented link; no political activity is described.",
+          "source": "Wikipedia: Brett Adcock",
+          "url": "https://en.wikipedia.org/wiki/Brett_Adcock",
+          "date": "2026-10",
+          "kind": "Background only; secondary source",
+          "access": "Page text reviewed; FEC and lobbying databases not queried"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page contains no mention of donations, lobbying, government contracts or political involvement. This is a limit of the source, not evidence the conduct never occurred.",
+          "source": "Wikipedia: Brett Adcock",
+          "url": "https://en.wikipedia.org/wiki/Brett_Adcock",
+          "date": "2026-10",
+          "kind": "Limitation, not exoneration",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "FEC contribution records, Senate lobbying disclosures and government contract databases were not accessible in this review. Not an investigation. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    },
+    "karl-albrecht-jr": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Searches in October 2026; mostly background",
+      "summary": "Forbes lists Karl Albrecht Jr. with his family (his sister Beate Heister has a separate entry). The reviewed source describes joint control of the foundation that controls Aldi Süd and no political activity; the review found nothing on wealth–power mechanisms but is narrow.",
+      "mechanism": "None established in reviewed sources",
+      "support": [
+        {
+          "text": "Albrecht and his sister Beate Heister jointly control the Siepmann-Stiftung, which controls Aldi Süd; he retired from operations in 2004. The article lists no political involvement.",
+          "source": "Wikipedia: Karl Albrecht Jr.",
+          "url": "https://en.wikipedia.org/wiki/Karl_Albrecht_Jr.",
+          "date": "2026-10",
+          "kind": "Ownership background; secondary source",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The article describes no political involvement or controversies (it cites a 2005 Süddeutsche Zeitung item about foundation tax problems that was not read). This is a limit of the source, not exoneration.",
+          "source": "Wikipedia: Karl Albrecht Jr.",
+          "url": "https://en.wikipedia.org/wiki/Karl_Albrecht_Jr.",
+          "date": "2026-10",
+          "kind": "Limitation, not exoneration",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "German party-donation reports (Bundestag), the lobby register and German press were not reviewed in detail. The Forbes family entry may include relatives; evidence here concerns Albrecht Jr. only. Not an investigation. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    },
+    "beate-heister": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Searches in October 2026; mostly background",
+      "summary": "Beate Heister jointly controls the foundation behind Aldi Süd with her brother. The reviewed source describes her as reclusive and records no political involvement. Narrow review, not clearance.",
+      "mechanism": "None established in reviewed sources",
+      "support": [
+        {
+          "text": "Heister reportedly controls half of Aldi Süd, sits on its advisory board with her husband and son, and remained a Siepmann Foundation board member as of 2021.",
+          "source": "Wikipedia: Beate Heister",
+          "url": "https://en.wikipedia.org/wiki/Beate_Heister",
+          "date": "2026-10",
+          "kind": "Ownership and governance background; secondary source",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The article mentions no political involvement or controversies. This reflects the limits of the source and the search, not an affirmative finding.",
+          "source": "Wikipedia: Beate Heister",
+          "url": "https://en.wikipedia.org/wiki/Beate_Heister",
+          "date": "2026-10",
+          "kind": "Limitation, not exoneration",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "No party-donation, lobbying or regulatory records were reviewed. Not an investigation. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    },
+    "michael-hartono": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Historical (2002–2016) context; subject died 2026-03-19",
+      "summary": "Michael Bambang Hartono died on 19 March 2026, after the wealth date used here. Reviewed sources describe industry-wide tobacco lobbying in Indonesia in which Djarum is named only as a consulted company, and a 2002 BCA acquisition; none establish a personal political exchange.",
+      "mechanism": "Industry consultation and past privatization context; personal mechanism not established",
+      "support": [
+        {
+          "text": "Wikipedia notes the Hartono brothers’ vehicle took 51.15% of Bank Central Asia in 2002, defeating other bidders despite a lower offer, and that BCA shares moved to a holding company during a 2016 tax amnesty. It describes no political ties.",
+          "source": "Wikipedia: Michael Bambang Hartono",
+          "url": "https://en.wikipedia.org/wiki/Michael_Bambang_Hartono",
+          "date": "2026-10",
+          "kind": "Historical transaction context; secondary source",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The Jakarta Post (2016) reports that the then industry minister consulted Djarum and Gudang Garam on a tobacco road map and that a minister opened a Djarum sports event; critics cited these as industry interference. It does not allege wrongdoing by Hartono personally.",
+          "source": "The Jakarta Post: pro-tobacco lobby intensifies",
+          "url": "https://www.thejakartapost.com/news/2016/08/19/protobacco-lobby-intensifies",
+          "date": "2016-08-19",
+          "kind": "Industry-level reported interaction",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Fortune’s obituary records his death on 19 March 2026 and mentions an honor at the presidential palace for the 2018 Asian Games; it describes no political bargain or preferential treatment.",
+          "source": "Fortune: Hartono dies at 86",
+          "url": "https://fortune.com/2026/03/19/indonesias-richest-man-tobacco-tycoon-michael-bambang-hartono-dies-at-86/",
+          "date": "2026-03-19",
+          "kind": "Limitation, not exoneration",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "The family entry shares wealth with brother Robert Budi Hartono; evidence here is not transferred between them. The 2002 bank-sale context is not an allegation and its terms are not analyzed. Indonesian-language sources, Indonesian tobacco excise decisions and donations were not reviewed. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    },
+    "nik-storonsky": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2019–2025 reports",
+      "summary": "Reviewed sources concern regulatory scrutiny of Revolut and reported Russian-link allegations (his father’s Gazprom institute role, an investor’s funding sources). They show friction with, not favor from, UK regulators; no political-power exchange was found. Narrow review.",
+      "mechanism": "None established; reported regulatory friction and unproven link allegations",
+      "support": [
+        {
+          "text": "Newstream (1 Dec 2025) reports Revolut still lacked a full UK banking licence more than a year after applying, regulators reportedly worried about risk controls, and UK officials reportedly learned of his UAE residence change from the Financial Times. This reflects scrutiny, not preferential treatment.",
+          "source": "Newstream.cz",
+          "url": "https://www.newstream.cz/money/sef-revolutu-nastval-briske-uredniky-protoze-bydli-v-arabii",
+          "date": "2025-12-01",
+          "kind": "Regulatory context; secondary report",
+          "access": "Page text reviewed (translated)"
+        },
+        {
+          "text": "LRT (22 Jan 2019) reported that his father is a deputy director at Gazprom’s Promgaz research centre, and that Lithuanian MP Stasys Jakeliūnas had requested intelligence reports; the agencies declined to comment. Revolut later confirmed the father’s role.",
+          "source": "LRT investigation",
+          "url": "https://www.lrt.lt/naujienos/lrt-tyrimai/46/242075/lrt-tyrimas-slaptose-pazymose-apie-revolut-rysiai-su-kremliumi",
+          "date": "2019-01-22",
+          "kind": "Reported family-link allegation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Realtid (4 Mar 2022) reports Revolut says DST Global is a passive minority holder, that the father is an engineer at a research institute, and that Revolut is British and approved by many authorities. The article notes Storonsky renounced Russian citizenship in 2022 per other reports.",
+          "source": "Realtid",
+          "url": "https://www.realtid.se/bors-finans/bank-fintech/revolut-fornekar-koppling-till-kreml/",
+          "date": "2022-03-04",
+          "kind": "Company response and limits of the claims",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "LRT states Revolut said it has no servers or services in Russia. A family member’s employment is not evidence of personal political leverage.",
+          "source": "LRT investigation: company response",
+          "url": "https://www.lrt.lt/naujienos/lrt-tyrimai/46/242075/lrt-tyrimas-slaptose-pazymose-apie-revolut-rysiai-su-kremliumi",
+          "date": "2019-01-22",
+          "kind": "Subject response; limitation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Allegations about a family member and investors are not findings about Storonsky’s own conduct. UK political donations and lobbying were not located in the sources read. Not an investigation. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    },
+    "eric-li": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2010–2023 sources",
+      "summary": "Forbes lists Eric Li, identified as Li Shufu, Geely founder. Reviewed sources document political-consultative roles (CPPCC member, former independent NPC delegate) and a press question about state involvement in his Daimler stake. They do not establish a specific preferential exchange.",
+      "mechanism": "Formal consultative roles and company expansion; benefit and exchange not established",
+      "support": [
+        {
+          "text": "Wikipedia records him as a member of the 14th CPPCC National Committee (Xinhua, March 2023) and an independent delegate to the 13th National People’s Congress (2018), and cites a 2018 Financial Times article asking whether the Chinese state was behind Geely’s Daimler stake.",
+          "source": "Wikipedia: Li Shufu",
+          "url": "https://en.wikipedia.org/wiki/Li_Shufu",
+          "date": "2026-10",
+          "kind": "Roles and press question; secondary source",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same article does not document direct state financing of Geely, notes he criticized Beijing’s car-industry strategy in 2015, and cites a Reuters report that Geely corrected rumours of presidential-family ties. CPPCC and NPC membership alone is not evidence of favor.",
+          "source": "Wikipedia: Li Shufu: limits",
+          "url": "https://en.wikipedia.org/wiki/Li_Shufu",
+          "date": "2026-10",
+          "kind": "Counterevidence and limitation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Claims of provincial-government or bank financing for the 2010 Volvo purchase appeared in search snippets but the pages could not be read, so they are not used. Subsidies, procurement lists and licensing were not analyzed. Political appointments are not misconduct. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    },
+    "zhong-huijuan": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "Searches in October 2026; background only",
+      "summary": "Searches found no readable sources documenting political office or preferential treatment for Zhong Huijuan. Hansoh’s exposure to Chinese drug-pricing and procurement policy is a sector condition, not shown here to be favoritism.",
+      "mechanism": "None established in reviewed sources",
+      "support": [
+        {
+          "text": "Wikipedia describes the 2019 Hansoh IPO, her 66% ownership via a trust, and that her husband managed a state-owned pharmaceutical factory earlier. It notes a 2007 women’s award and no political office.",
+          "source": "Wikipedia: Zhong Huijuan",
+          "url": "https://en.wikipedia.org/wiki/Zhong_Huijuan",
+          "date": "2026-10",
+          "kind": "Background; secondary source",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The article does not cover political roles, government relations or procurement policy; the lack of such content is a limit of the source, not an affirmative finding. A Fierce Pharma article on procurement could not be retrieved and is not relied upon.",
+          "source": "Wikipedia: Zhong Huijuan: limits",
+          "url": "https://en.wikipedia.org/wiki/Zhong_Huijuan",
+          "date": "2026-10",
+          "kind": "Limitation, not exoneration",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Chinese-language official membership lists and procurement records were not checked. Not an investigation. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    },
+    "torstein-hagen": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2015 allegation; later dropped",
+      "summary": "Norwegian reference text says Hagen was charged with gross corruption in 2015 over the Viking Star christening in Bergen, along with the then mayor and harbour chief, and that the case was later dropped for evidentiary reasons. Charged is not convicted; no wrongdoing is established.",
+      "mechanism": "Alleged hospitality-for-favor in a port matter; case dropped",
+      "support": [
+        {
+          "text": "Store norske leksikon says Hagen, Bergen mayor Trude Drevland and harbour chief Inge Tangerås were suspected and charged with gross corruption over the 17 May 2015 christening of the Viking Star; Drevland resigned as mayor.",
+          "source": "Store norske leksikon: Torstein Hagen",
+          "url": "https://snl.no/Torstein_Hagen",
+          "date": "2025",
+          "kind": "Reference summary of a legal episode",
+          "access": "Page text reviewed (Norwegian, translated)"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same entry says the case was later dropped because of the state of the evidence. It describes no party ties or political office for Hagen. Other outlets’ reports could not be retrieved and Viking’s response was not read.",
+          "source": "Store norske leksikon: outcome",
+          "url": "https://snl.no/Torstein_Hagen",
+          "date": "2025",
+          "kind": "Legal outcome and limitation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Not a conviction; the details of the allegation and Viking’s denial were not read. Wider lobbying, including US shipping rules, was not reviewed. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    },
+    "wang-ning": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-29",
+      "reviewDepth": "Narrow source-led review; not independently editorially reviewed; not exoneration",
+      "confidence": "Low / narrow review",
+      "period": "2026 report",
+      "summary": "The only item found is a politician’s claim, reported 2 Feb 2026, that Pop Mart’s founder sits on the CPPCC National Committee, which was not verified against an official roster. Membership alone would not show favor. Family-entry attribution to the Pop Mart founder was not independently verified.",
+      "mechanism": "Unverified claim of consultative membership; no exchange established",
+      "support": [
+        {
+          "text": "Taiwan News reports DPP legislator Lin Chu-yin saying Pop Mart’s founder is a CPPCC National Committee member and using it to argue the brand is part of China’s united front strategy.",
+          "source": "Taiwan News",
+          "url": "https://www.taiwannews.com.tw/news/6294109",
+          "date": "2026-02-02",
+          "kind": "Attributed political claim",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Taipei officials rejected the framing and noted Pop Mart’s inclusion in the 2025 Macy’s parade; the article reports no response from Pop Mart or its founder, and the claim is not corroborated by an official source.",
+          "source": "Taiwan News: responses",
+          "url": "https://www.taiwannews.com.tw/news/6294109",
+          "date": "2026-02-02",
+          "kind": "Counterevidence and limitation",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Many politicians share the name Wang Ning; only the Pop Mart founder entry was used. The Forbes entry is a family entry. Official CPPCC lists, procurement and local-government support were not reviewed. Searches were limited and several relevant outlets could not be retrieved; absence of findings here is not exoneration, and donations, lobbying, regulation and newer developments need further research."
+    }
+  },
+  "rubrics": {}
+}

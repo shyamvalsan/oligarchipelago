@@ -7,7 +7,7 @@
 - A **top-200 launch cohort** from Forbes' **2026 annual** list, preserving family entries and tied ranks. The full **500-entry archive** is retained in the repository. The app selects the first 200 saved entries, not a handpicked subset of scored people.
 - An SVG scatter plot with citizenship-flag markers, a continuous background gradient and four exactly equal quadrants: **Billionaires, Mega-Billionaires, Oligarchs, Mega-Oligarchs**.
 - **Economic footprint:** USD net worth / national annual GDP. 199 of the 200 launch entries have GDP matches; Terry Gou remains explicitly unmapped because this World Bank snapshot lacks a matching Taiwan observation. The archive has 492 matches and 8 unmapped entries.
-- **Oligarch spectrum (default):** the launch cohort has **94 authored case reviews and 50 numerical editorial estimates**. The chart positions those 50; the other 150 remain available in an expandable list, search, table and profiles. The archive contains 500 discovery records, 108 reviews and 61 estimates. Discovery is not a completed assessment.
+- **Oligarch spectrum (default):** the launch cohort has **200 authored case reviews (every entry) and 52 numerical editorial estimates**. The chart positions those 50; the other 148 remain available in an expandable list, search, table and profiles. The archive contains 500 discovery records, 219 reviews and 63 estimates. Discovery is not a completed assessment.
 - A published three-dimension editorial rubric, source receipts, counterevidence, confidence, historical scope, limitations and plausible editorial ranges. Scores are not objective measurements, probabilities or criminal findings.
 - Full-list preliminary UK sanctions-name screening, separate from editorial assessments. A candidate match never automatically sets a verdict.
 - Hover/focus tooltips, click/tap profiles, exact-overlap disambiguation, keyboard chart navigation, sortable/paginated table, empty states, and a responsive mobile layout.
@@ -17,7 +17,7 @@
 
 ### An important boundary
 
-**This is a working research preview, not a finished ranking.** Of the 200 launch entries, 106 are discovery-only and 44 have reviews that do not support an estimate: 150 remain unplaced. Across the preserved 500-entry archive, 392 are discovery-only and 47 are reviewed but unplaced. Unknowns are not given zero, random positions or a midpoint. Reducing the launch cohort does not resolve missing evidence.
+**This is a working research preview, not a finished ranking.** Every one of the 200 launch entries now has an individual, source-led review, but 148 of those reviews do not support an estimate, so those entries remain unplaced. Across the preserved 500-entry archive, 281 are discovery-only and 156 are reviewed but unplaced. Unknowns are not given zero, random positions or a midpoint. Reducing the launch cohort does not resolve missing evidence.
 
 The vertical axis uses 25% political leverage, 25% preferential economic benefit and 50% wealth–power feedback, each authored on a 0–4 scale and rescaled to 100. Individual rationales, source references, counterevidence and editorial ranges appear in profiles. The gradient runs from “Just another billionaire” to “Oligarch”; its endpoints and quadrant names are directional labels, not certificates of innocence or guilt. These AI-assisted judgments are not independently editorially reviewed. Historical cases do not establish current conduct.
 
@@ -68,7 +68,7 @@ Do not upload `.preview/` if creating a repository by hand; it is excluded by `.
 | File | Purpose |
 | --- | --- |
 | `data/billionaires.json` | 2026 annual wealth fields + 2024 World Bank economic observations |
-| `data/assessments.json` | 500 research records, including 61 estimates, source receipts and limitations |
+| `data/assessments.json` | 500 research records, including 63 estimates, source receipts and limitations |
 | `data/cases.json`, `data/additional-cases.json` | Authored case ledgers |
 | `data/research-batches/`, `data/research-discovery.json` | Saved discovery queries and unverified candidate links |
 | `data/screening.json` | All 500 preliminary name checks and source provenance |
@@ -99,8 +99,8 @@ The script pins the annual list to 2026 and the economic series to 2024. Update 
 
 ## Public-launch checklist
 
-- [ ] Review Forbes' terms and permissions for publishing this 500-entry derived snapshot. A public endpoint is not a reuse license. No Forbes photos or biography text are bundled.
-- [ ] Complete individual research for the launch cohort's 106 discovery-only entries and broaden its 44 insufficient reviews. Require specific mechanisms, counterevidence and dated citations. The full archive still has 392 discovery-only and 47 insufficient reviews.
+- [x] Forbes reuse: maintainer judgement (not legal advice) is that attributed facts (name, rank, net worth) are acceptable; no photos or text bundled; will remove or reduce on request. Formal terms not cleared. A public endpoint is not a reuse license.
+- [ ] Every launch entry has an individual review (waves 21–35, written 2026-10-29), but 148 are thin: many rest on Wikipedia or a single press item, and several concern a relative or the company rather than the named person. Strengthen those with primary sources and broaden the 148 insufficient reviews. Require specific mechanisms, counterevidence and dated citations. The full archive still has 392 discovery-only and 47 insufficient reviews.
 - [ ] Independently review and agree on the operational definition, rubric weights, anchors, uncertainty ranges, historical window, company-to-person attribution, and treatment of unknowns.
 - [ ] Establish a public corrections process and versioned evidence-review history.
 - [ ] Conduct a full accessibility audit and cross-browser check; current checks are not accessibility certification.
@@ -110,7 +110,7 @@ World Bank data are attributed under CC BY 4.0. Font license notices are under `
 
 ## Continuing research and publication
 
-The current research additions are authored in `scripts/review-wave-1.py` through `scripts/review-wave-20.py`, producing `data/review-batches/001.json` through `020.json`. Both builders merge these batches. Each new rubric points to specific supporting receipts; receipts state when only an indexed excerpt was accessible. Re-run the corresponding wave script before the case and spectrum builders when editing those authored records.
+The current research additions are authored in `scripts/review-wave-1.py` through `scripts/review-wave-35.py`, producing `data/review-batches/001.json` through `035.json`. Both builders merge these batches. Each new rubric points to specific supporting receipts; receipts state when only an indexed excerpt was accessible. Re-run the corresponding wave script before the case and spectrum builders when editing those authored records.
 
 The user approved a public development checkpoint in `shyamvalsan/oligarchipelago` to continue work from another computer. Website deployment and editorial sign-off remain separate. See [the handoff](docs/HANDOFF.md) for laptop setup, current counts and next steps.
 

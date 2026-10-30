@@ -30,7 +30,10 @@ R={
 }
 specific_refs={}
 for path in sorted((ROOT/'data/review-batches').glob('*.json')):
- for id,decision in json.loads(path.read_text())['rubrics'].items():
+ batch=json.loads(path.read_text())
+ for id in batch.get('supersedes',[]):  # drop the replaced review's rubric; the new batch supplies its own, if any
+  R.pop(id,None);specific_refs.pop(id,None)
+ for id,decision in batch['rubrics'].items():
   assert id not in specific_refs, f'Duplicate rubric: {id}'
   assert id in cases['profiles'], f'Rubric without case: {id}'
   R[id]=(decision['levels'],decision['range'],decision['rationales'])
