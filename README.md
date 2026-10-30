@@ -26,6 +26,12 @@ Wealth, nationality, inheritance, public office, monopoly findings, media holdin
 
 The old equal-weight four-signal pilot is retired. Its archived `data/evidence.json` is not loaded by the app; only the assessment builder reads it to preserve source provenance for the six explicitly scoped reassessments.
 
+## The chart (`map.html`)
+
+A fantasy-style map of the launch cohort: one island per person, sized by net worth. Three arrangements: wealth & ties (richest near the centre, linked fortunes pulled together), by country, by industry. Distance is arranged for legibility and is not a measurement.
+
+Sea routes are only two kinds of record: (1) `data/ties.json`, 53 sourced family/co-founder/investor/board/partner ties, each with a URL the researcher opened (many are Wikipedia; labelled as such), and (2) derived "same named company in Forbes' source-of-wealth field" links. No route means none recorded, not none exists. Layout code is `lib/archipelago.mjs` (deterministic, tested in `tests/archipelago.test.mjs`).
+
 ## Run locally
 
 From this directory, using Python already installed on your machine:

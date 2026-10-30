@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173e43">
+  <meta name="description" content="A chart of the Oligarchipelago: the Forbes 2026 top 200 drawn as islands. Size is net worth; sea routes are documented ties between fortunes.">
+  <title>The Chart — The Oligarchipelago</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="map.css">
+  <script type="module" src="map.mjs"></script>
+</head>
+<body>
+  <header class="chart-head">
+    <a href="./" class="back" aria-label="Back to the atlas">← The atlas</a>
+    <div class="cartouche"><p class="eyebrow">A CHART OF THE</p><h1>Oligarchipelago</h1><p class="deck">Two hundred fortunes, drawn as islands. The bigger the isle, the bigger the purse. Dashed routes are documented ties.</p></div>
+  </header>
+  <main class="stage" id="stage">
+    <svg id="map" role="group" aria-label="Map of 200 islands, one per billionaire. Use the list view for a text version." tabindex="-1"></svg>
+    <div class="toolbar" role="toolbar" aria-label="Map controls">
+      <div class="seg" id="modes" aria-label="Arrange islands by"></div>
+      <label class="find"><span aria-hidden="true">⌕</span><input id="find" type="search" placeholder="Find an island…" aria-label="Find an island by name" list="names" autocomplete="off"><datalist id="names"></datalist></label>
+      <label class="check"><input type="checkbox" id="t-flags" checked> Flags</label>
+      <label class="check"><input type="checkbox" id="t-ties" checked> Sea routes</label>
+      <label class="check"><input type="checkbox" id="t-labels" checked> Names</label>
+    </div>
+    <div class="zoom" aria-label="Zoom"><button id="zin" aria-label="Zoom in">＋</button><button id="zout" aria-label="Zoom out">−</button><button id="zreset" aria-label="Reset view">⌂</button></div>
+    <aside class="legend" id="legend" aria-label="Map key"></aside>
+    <aside class="panel" id="panel" aria-live="polite" tabindex="-1"></aside>
+    <div class="tip" id="tip" role="tooltip" hidden></div>
+    <p class="loading" id="loading">Unrolling the chart…</p>
+  </main>
+  <noscript><p class="noscript">The chart needs JavaScript. The full dataset is available as <a href="data/billionaires.json">JSON</a>, and the <a href="./">atlas</a> has an accessible table.</p></noscript>
+</body>
+</html>

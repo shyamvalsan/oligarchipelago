@@ -1,0 +1,537 @@
+{
+ "version": 1,
+ "reviewedAt": "2026-10-30",
+ "note": "Documented ties between people in the top 200 of the dataset. Each tie cites a page that was opened and read to confirm the stated relationship. Historical ties are labelled with their period. Most sources are Wikipedia, as noted per tie.",
+ "ties": [
+  {
+   "a": "larry-page",
+   "b": "sergey-brin",
+   "kind": "co-founder",
+   "label": "Co-founded Google; incorporated it in 1998",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Larry_Page",
+   "date": "1998",
+   "opened": true
+  },
+  {
+   "a": "eric-schmidt",
+   "b": "larry-page",
+   "kind": "business-partner",
+   "label": "Schmidt succeeded Page as Google CEO in Aug 2001 (Page returned as CEO 2011)",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Larry_Page",
+   "date": "2001",
+   "opened": true
+  },
+  {
+   "a": "eric-schmidt",
+   "b": "sergey-brin",
+   "kind": "business-partner",
+   "label": "Hired by Brin and Page as Google's first CEO, Aug 2001; later executive chairman",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Google",
+   "date": "2001",
+   "opened": true
+  },
+  {
+   "a": "andreas-von-bechtolsheim",
+   "b": "larry-page",
+   "kind": "investor",
+   "label": "Bechtolsheim made the first Google investment, $100,000, Aug 1998",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Google",
+   "date": "1998",
+   "opened": true
+  },
+  {
+   "a": "andreas-von-bechtolsheim",
+   "b": "sergey-brin",
+   "kind": "investor",
+   "label": "Bechtolsheim made the first Google investment, $100,000, Aug 1998",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Google",
+   "date": "1998",
+   "opened": true
+  },
+  {
+   "a": "john-doerr",
+   "b": "larry-page",
+   "kind": "investor",
+   "label": "Kleiner Perkins partner Doerr backed Google with the largest check in the firm's history, 1999",
+   "source": "Kleiner Perkins",
+   "url": "https://www.kleinerperkins.com/case-study/google/",
+   "date": "1999",
+   "opened": true
+  },
+  {
+   "a": "john-doerr",
+   "b": "sergey-brin",
+   "kind": "investor",
+   "label": "Kleiner Perkins partner Doerr backed Google with the largest check in the firm's history, 1999",
+   "source": "Kleiner Perkins",
+   "url": "https://www.kleinerperkins.com/case-study/google/",
+   "date": "1999",
+   "opened": true
+  },
+  {
+   "a": "john-doerr",
+   "b": "jeff-bezos",
+   "kind": "business-partner",
+   "label": "Kleiner Perkins/Doerr worked with Bezos on Amazon from 1996",
+   "source": "Kleiner Perkins",
+   "url": "https://www.kleinerperkins.com/case-study/amazon/",
+   "date": "1996",
+   "opened": true
+  },
+  {
+   "a": "bill-gates",
+   "b": "steve-ballmer",
+   "kind": "business-partner",
+   "label": "Ballmer hired by Gates at Microsoft in 1980; succeeded him as CEO in 2000, left 2014",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+   "date": "1980",
+   "opened": true
+  },
+  {
+   "a": "bill-gates",
+   "b": "melinda-french-gates",
+   "kind": "marriage-or-divorce",
+   "label": "Married 1994, divorced 2021",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+   "date": "1994",
+   "opened": true
+  },
+  {
+   "a": "bill-gates",
+   "b": "warren-buffett",
+   "kind": "co-founder",
+   "label": "Co-founded the Giving Pledge with Melinda French Gates, launched June 2010",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Giving_Pledge",
+   "date": "2010",
+   "opened": true
+  },
+  {
+   "a": "bill-gates",
+   "b": "warren-buffett",
+   "kind": "board",
+   "label": "Both Gates Foundation trustees; Buffett a founding trustee, stepped down June 2021",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation",
+   "date": "2021",
+   "opened": true
+  },
+  {
+   "a": "melinda-french-gates",
+   "b": "warren-buffett",
+   "kind": "co-founder",
+   "label": "Co-founded the Giving Pledge with Bill Gates, launched June 2010",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Giving_Pledge",
+   "date": "2010",
+   "opened": true
+  },
+  {
+   "a": "rob-walton",
+   "b": "jim-walton",
+   "kind": "family",
+   "label": "Siblings; children of Walmart founder Sam Walton",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "rob-walton",
+   "b": "alice-walton",
+   "kind": "family",
+   "label": "Siblings; children of Walmart founder Sam Walton",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "jim-walton",
+   "b": "alice-walton",
+   "kind": "family",
+   "label": "Siblings; children of Walmart founder Sam Walton",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "christy-walton",
+   "b": "lukas-walton",
+   "kind": "family",
+   "label": "Mother and son; Lukas is the only child of John T. Walton and Christy Walton",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lukas_Walton",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "nancy-walton-laurie",
+   "b": "ann-walton-kroenke",
+   "kind": "family",
+   "label": "Sisters; daughters of Walmart co-founder Bud Walton",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bud_Walton",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "ann-walton-kroenke",
+   "b": "stanley-kroenke",
+   "kind": "marriage-or-divorce",
+   "label": "Married since 1974; Ann is a daughter of Bud Walton",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stan_Kroenke",
+   "date": "1974",
+   "opened": true
+  },
+  {
+   "a": "rob-walton",
+   "b": "lukas-walton",
+   "kind": "family",
+   "label": "Uncle and nephew; Lukas's father John T. Walton was Sam Walton's son (Rob's brother)",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lukas_Walton",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "rob-walton",
+   "b": "ann-walton-kroenke",
+   "kind": "family",
+   "label": "Cousins; Sam Walton and Bud Walton were brothers",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bud_Walton",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "charles-koch",
+   "b": "julia-koch",
+   "kind": "family",
+   "label": "Sister-in-law; Julia married David Koch, Charles's brother and Koch Industries co-owner, in 1996",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/David_H._Koch",
+   "date": "1996",
+   "opened": true
+  },
+  {
+   "a": "elon-musk",
+   "b": "peter-thiel",
+   "kind": "business-partner",
+   "label": "PayPal: Thiel's Confinity merged with Musk's X.com, 1999; eBay bought PayPal 2002",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/PayPal_Mafia",
+   "date": "1999",
+   "opened": true
+  },
+  {
+   "a": "peter-thiel",
+   "b": "mark-zuckerberg",
+   "kind": "investor",
+   "label": "Thiel was Facebook's first outside investor ($500,000, 2004) and a board member until 2022",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
+   "date": "2004",
+   "opened": true
+  },
+  {
+   "a": "mark-zuckerberg",
+   "b": "eduardo-saverin",
+   "kind": "co-founder",
+   "label": "Co-founded Facebook 2004; Saverin was CFO and business manager",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eduardo_Saverin",
+   "date": "2004",
+   "opened": true
+  },
+  {
+   "a": "mark-zuckerberg",
+   "b": "jan-koum",
+   "kind": "board",
+   "label": "Facebook bought WhatsApp in 2014; Koum joined Facebook's board, left 2018",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jan_Koum",
+   "date": "2014",
+   "opened": true
+  },
+  {
+   "a": "mark-zuckerberg",
+   "b": "alisher-usmanov",
+   "kind": "investor",
+   "label": "Usmanov's Mail.ru invested $200M for a 1.96% Facebook stake in 2009",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alisher_Usmanov",
+   "date": "2009",
+   "opened": true
+  },
+  {
+   "a": "patrick-collison",
+   "b": "john-collison",
+   "kind": "co-founder",
+   "label": "Brothers who founded Stripe (2010)",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stripe,_Inc.",
+   "date": "2010",
+   "opened": true
+  },
+  {
+   "a": "alain-wertheimer",
+   "b": "gerard-wertheimer-1",
+   "kind": "co-owner",
+   "label": "Brothers who own Chanel in partnership",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/G%C3%A9rard_Wertheimer",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "jacqueline-mars",
+   "b": "john-mars",
+   "kind": "family",
+   "label": "Siblings; children of Forrest Mars Sr., members of the family that owns Mars Inc.",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mars_family",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "stefan-quandt",
+   "b": "susanne-klatten",
+   "kind": "family",
+   "label": "Siblings; both joined BMW's supervisory board in 1997",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Susanne_Klatten",
+   "date": "1997",
+   "opened": true
+  },
+  {
+   "a": "idan-ofer",
+   "b": "eyal-ofer",
+   "kind": "family",
+   "label": "Brothers; sons of shipping magnate Sammy Ofer (business interests separate)",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Idan_Ofer",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "r-budi-hartono",
+   "b": "michael-hartono",
+   "kind": "co-owner",
+   "label": "Brothers who co-own Djarum and control Bank Central Asia",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Michael_Bambang_Hartono",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "jeff-bezos",
+   "b": "mackenzie-scott",
+   "kind": "marriage-or-divorce",
+   "label": "Married 1993, divorced 2019; she was an early Amazon contributor",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/MacKenzie_Scott",
+   "date": "1993",
+   "opened": true
+  },
+  {
+   "a": "gianluigi-aponte",
+   "b": "rafaela-aponte-diamant",
+   "kind": "marriage-or-divorce",
+   "label": "Married; co-founded shipping line MSC in 1970",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gianluigi_Aponte",
+   "date": "1970",
+   "opened": true
+  },
+  {
+   "a": "karl-albrecht-jr",
+   "b": "beate-heister",
+   "kind": "family",
+   "label": "Siblings; children of Aldi co-founder Karl Albrecht; Heister controls half of Aldi Sud",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Beate_Heister",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "larry-ellison",
+   "b": "elon-musk",
+   "kind": "board",
+   "label": "Ellison joined Tesla's board on 27 Dec 2018 (later left); Musk was CEO",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2018/12/28/tesla-names-oracles-larry-ellison-walgreens-executive-to-board-as-part-of-sec-settlement",
+   "date": "2018-12-27",
+   "opened": true
+  },
+  {
+   "a": "larry-ellison",
+   "b": "elon-musk",
+   "kind": "investor",
+   "label": "Ellison among equity investors in Musk's 2022 Twitter purchase",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
+   "date": "2022",
+   "opened": true
+  },
+  {
+   "a": "prince-alwaleed-bin-talal-alsaud",
+   "b": "elon-musk",
+   "kind": "investor",
+   "label": "Alwaleed among investors in Musk's 2022 Twitter purchase",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
+   "date": "2022",
+   "opened": true
+  },
+  {
+   "a": "masayoshi-son",
+   "b": "jack-ma",
+   "kind": "investor",
+   "label": "SoftBank's Son invested $20M in Alibaba in 2000",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Masayoshi_Son",
+   "date": "2000",
+   "opened": true
+  },
+  {
+   "a": "masayoshi-son",
+   "b": "tadashi-yanai",
+   "kind": "board",
+   "label": "Yanai was a SoftBank independent director for 18 years until 2019",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tadashi_Yanai",
+   "date": "2019",
+   "opened": true
+  },
+  {
+   "a": "gautam-adani-1",
+   "b": "vinod-adani",
+   "kind": "family",
+   "label": "Brothers; Vinod is the elder brother and active in Adani Group deals",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vinod_Adani",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "david-sun",
+   "b": "john-tu",
+   "kind": "co-founder",
+   "label": "Co-founded Kingston Technology in 1987",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingston_Technology",
+   "date": "1987",
+   "opened": true
+  },
+  {
+   "a": "henry-samueli",
+   "b": "henry-nicholas-iii",
+   "kind": "co-founder",
+   "label": "Co-founded Broadcom in 1991",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Broadcom_Corporation",
+   "date": "1991",
+   "opened": true
+  },
+  {
+   "a": "jeff-yass",
+   "b": "zhang-yiming",
+   "kind": "investor",
+   "label": "Yass (via Susquehanna) is an investor in ByteDance, founded by Zhang",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/ByteDance",
+   "date": "2012",
+   "opened": true
+  },
+  {
+   "a": "robin-zeng",
+   "b": "huang-shilin",
+   "kind": "business-partner",
+   "label": "Led the investor group behind CATL's 2011 spin-off; Huang is vice-chairman",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Contemporary_Amperex_Technology",
+   "date": "2011",
+   "opened": true
+  },
+  {
+   "a": "wang-chuanfu",
+   "b": "lu-xiangyang",
+   "kind": "family",
+   "label": "Cousins; Lu moved to Shenzhen with Wang and holds ~13% of BYD",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/BYD_Company",
+   "date": "1995",
+   "opened": true
+  },
+  {
+   "a": "warren-buffett",
+   "b": "wang-chuanfu",
+   "kind": "investor",
+   "label": "Berkshire unit MidAmerican bought ~9.89% of BYD for ~$230M in Sept 2008",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/BYD_Company",
+   "date": "2008",
+   "opened": true
+  },
+  {
+   "a": "ma-huateng",
+   "b": "zhang-zhidong",
+   "kind": "co-founder",
+   "label": "Co-founded Tencent in Nov 1998 with others",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tencent",
+   "date": "1998",
+   "opened": true
+  },
+  {
+   "a": "warren-buffett",
+   "b": "jorge-paulo-lemann",
+   "kind": "business-partner",
+   "label": "Berkshire partnered with Lemann's 3G Capital to buy Kraft and merge it with Heinz, 2015",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/3G_Capital",
+   "date": "2015",
+   "opened": true
+  },
+  {
+   "a": "giancarlo-devasini",
+   "b": "paolo-ardoino",
+   "kind": "business-partner",
+   "label": "Devasini co-founded Bitfinex/Tether; Ardoino Tether CTO, CEO from Oct 2023",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tether_(cryptocurrency)",
+   "date": "2023",
+   "opened": true
+  },
+  {
+   "a": "leonid-mikhelson",
+   "b": "gennady-timchenko",
+   "kind": "co-owner",
+   "label": "Novatek shareholders: Mikhelson ~28%, Timchenko's Volga Group ~23% (undated)",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Novatek",
+   "date": "",
+   "opened": true
+  },
+  {
+   "a": "jeff-yass",
+   "b": "arthur-dantchik",
+   "kind": "business-partner",
+   "label": "Dantchik and Yass are named among Susquehanna (SIG) founders, 1987",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Susquehanna_International_Group",
+   "date": "1987",
+   "opened": true
+  }
+ ]
+}
