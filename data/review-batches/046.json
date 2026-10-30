@@ -1,0 +1,117 @@
+{
+  "supersedes": [
+    "diane-hendricks",
+    "vinod-adani"
+  ],
+  "profiles": {
+    "diane-hendricks": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "2011 meetings; 2012 recall campaign; 2015 right-to-work law; 2016 advisory team; 2024-2026 super PAC giving and 2026 delegation",
+      "summary": "Hendricks, co-founder and chair of ABC Supply, is documented as a very large and long-running Republican donor with access to officials: Wisconsin Governor Scott Walker met her several times in 2011 and was filmed discussing right-to-work with her (video surfaced May 2012), she was named to Donald Trump's campaign economic advisory team in August 2016, she was sent on a U.S. government delegation to the February 2026 Olympics closing ceremony, and she gave $25 million to MAGA Inc. in March 2026 per FEC data as reported. Access and policy alignment are well evidenced (leverage). No reviewed source shows a state grant, contract, regulatory ruling or tax treatment that specifically benefited her or ABC Supply, so the benefit dimension is unsupported and no rubric is assigned.",
+      "mechanism": "Large political giving and access to officials; policy alignment with donor-favoured positions; specific private benefit not established",
+      "support": [
+        {
+          "text": "Calendars and video show Walker visited ABC Supply on 18 January 2011 for a Rock County economic development meeting, where footage shows him discussing curtailing public-worker bargaining with Hendricks. He met her twice more in April 2011. She gave at or near the maximum in prior cycles, wrote a $500,000 check in April 2012 in the recall (unlimited-contribution) period, and is described as his largest contributor. His spokesman said the calendars reflect job-creation priorities.",
+          "source": "Center for Public Integrity, May 2012 (page shows later update)",
+          "url": "https://publicintegrity.org/politics/wisconsin-gov-scott-walker-grants-significant-access-to-companies-donors/",
+          "date": "2012-05",
+          "kind": "Donor access record",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Walker said in April 2012 of right-to-work \"it's never going to get to me\"; in May 2012, after the Hendricks video surfaced, \"It's not going to get to my desk.\" After the 2014 election, once the Senate majority leader announced a vote, Walker said he would sign within hours. The article describes Hendricks only as a major Walker donor asking about right-to-work on the video.",
+          "source": "Wisconsin Public Radio, 23 February 2015",
+          "url": "https://www.wpr.org/politics/years-walker-said-he-wasnt-interested-right-work",
+          "date": "2015-02-23",
+          "kind": "Policy timeline with donor video",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Walker signed the law on 9 March 2015, making Wisconsin the 25th right-to-work state; private employers can no longer require union membership or dues. Hendricks and donors are not mentioned in this report.",
+          "source": "NPR via KPBS",
+          "url": "https://www.kpbs.org/news/2015/03/09/wisconsin-gov-scott-walker-signs-right-to-work",
+          "date": "2015-03-09",
+          "kind": "Policy outcome; no donor link stated",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Hendricks was named to Donald Trump's \"economic advisory team\" on 11 August 2016; the page gives no title or formal authority and notes she had given $5 million to a super PAC backing Walker's presidential bid.",
+          "source": "CBS 58 Milwaukee",
+          "url": "https://www.cbs58.com/news/trump-names-hendricks-uihlein-to-economic-team",
+          "date": "2016-08-11",
+          "kind": "Advisory role (campaign)",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Citing FEC data, reports a $25 million gift to MAGA Inc. in March 2026 (her largest recorded; $10 million in 2024 to the predecessor PAC), that she regularly gives the legal maximum directly to Republican candidates, and that the administration sent her to Italy on its 10-person Olympic delegation in February 2026. The article cites New York Times reporting that super PAC donations \"can buy you access to the president\". It does not describe any policy, contract or regulatory benefit to ABC Supply, and includes no statement from her or the company.",
+          "source": "The Badger Project",
+          "url": "https://thebadgerproject.org/2026/07/15/hendricks-gave-25m-to-maga-inc-her-largest-recorded-political-donation-ever/",
+          "date": "2026-07-15",
+          "kind": "Recent giving and ceremonial appointment (secondary, citing FEC)",
+          "access": "Page text reviewed; FEC filings not opened"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The CPI piece reports no state grants, credits or other benefits to ABC Supply. The Walker policy reversal in 2014-15 followed legislative action by the Senate majority leader, and the NPR report on the signing names no donor. A shared policy preference between donor and official is not a private benefit.",
+          "source": "CPI; WPR; NPR (as above)",
+          "url": "https://www.wpr.org/politics/years-walker-said-he-wasnt-interested-right-work",
+          "date": "2015-02-23",
+          "kind": "Alternative explanation and limit",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "A web search for a Wisconsin Economic Development Corporation award or other incentive to ABC Supply found none; this is a search-level negative, the WEDC award database was not opened.",
+          "source": "Web search results (not a primary record)",
+          "url": "https://publicintegrity.org/politics/wisconsin-gov-scott-walker-grants-significant-access-to-companies-donors/",
+          "date": "2026-10-30",
+          "kind": "Absence of evidence; not a finding of none",
+          "access": "Snippet only"
+        }
+      ],
+      "limitations": "Not read: FEC and OpenSecrets filings directly, Wisconsin Ethics Commission records, ABC Supply government contracts or pandemic-program data, and any ABC Supply tax or incentive records. Alleged-benefit claims were not found and are not made. Donation figures vary across secondary sources ($10-15 million for 2024 depending on committees counted), so only the figures quoted above are used. Office-holding is advisory or ceremonial. Not exoneration and not an allegation of an exchange."
+    },
+    "vinod-adani": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "Allegations 2023-2024; SEBI order September 2025; SEC consent judgment motion May 2026",
+      "summary": "Vinod Adani is the elder brother of Gautam Adani and is reported to be non-resident and based abroad. The reviewed sources show him in only one role: Hindenburg Research alleged in January 2023 and again in August 2024 that he controls a network of offshore entities connected to Adani Group transactions. The reviewed SEC release on the 2024 U.S. bribery case names only Gautam and Sagar Adani, and SEBI's September 2025 order, as reported, names other persons and does not mention him. No political leverage, state-granted benefit or exchange is attributed to Vinod in the reviewed record, and Gautam's matters are not transferred to him. No rubric.",
+      "mechanism": "Offshore-entity allegations by a short seller; no personal political mechanism established",
+      "support": [
+        {
+          "text": "Hindenburg said Vinod Adani \"manages a vast labyrinth of offshore shell entities\" in jurisdictions including Mauritius, Cyprus and Caribbean islands. This is an allegation by a short seller, reported by a news agency; the page reports no response from Vinod Adani. It concerns a regulator-chair controversy and does not report any finding against him.",
+          "source": "Malay Mail, 11 August 2024",
+          "url": "https://www.malaymail.com/news/money/2024/08/11/india-market-regulator-rejects-us-bias-claim-in-adani-offshore-investments-probe/146689",
+          "date": "2024-08-11",
+          "kind": "Allegation by third party",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "SEC Litigation Release 26554 (14 May 2026): the case SEC v. Gautam Adani and Sagar Adani, charges of alleged bribery and misleading statements about Adani Green; the SEC moved for consent final judgments with civil penalties of $6 million and $12 million, without admit or deny. Vinod Adani is not mentioned. The case is against others, not him.",
+          "source": "SEC litigation release",
+          "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26554",
+          "date": "2026-05-14",
+          "kind": "Scope limit: proceeding does not name him",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "On 18 September 2025, per Scroll, SEBI found the Hindenburg-related allegations unestablished, held the transactions were not related-party dealings under the rules at the time, found no siphoning and imposed no penalty. Named persons were Gautam Adani, Rajesh Adani and group companies; the article does not mention Vinod Adani or offshore entities.",
+          "source": "Scroll.in",
+          "url": "https://scroll.in/latest/1086739/sebi-clears-adani-group-in-allegation-linked-to-hindenburg-report",
+          "date": "2025-09-18",
+          "kind": "Regulatory finding about group; does not address him",
+          "access": "Page text reviewed (summary)"
+        }
+      ],
+      "limitations": "Family-entry caution: Gautam Adani's legal matters and political context are not attributed to Vinod. Not obtained: Hindenburg's reports or the SEBI orders themselves, the Adani Group's formal denial, any statement by Vinod Adani, or documents on his actual roles and residence. His own conduct beyond these allegations is unreviewed. This is a narrow review, not exoneration."
+    }
+  },
+  "rubrics": {}
+}

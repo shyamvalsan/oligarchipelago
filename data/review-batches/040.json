@@ -1,0 +1,147 @@
+{
+  "supersedes": [
+    "thomas-peterffy",
+    "ma-huateng",
+    "german-larrea-mota-velasco",
+    "zhang-yiming"
+  ],
+  "profiles": {
+    "thomas-peterffy": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "IBKR microcap SAR failures reviewed in 2020 settlement",
+      "summary": "Peterffy founded Interactive Brokers (IBKR) and is a Republican political donor. The one primary document opened is the SEC release of 10 August 2020 on a company-level anti-money-laundering settlement: IBKR LLC paid an 11.5 million USD SEC penalty (with FINRA 15 million and CFTC 11.5 million, about 38 million in total) without admitting or denying findings; it names no individual. That is regulatory compliance history for the firm, not a wealth-power exchange. Existing campaign-giving evidence (DeSantis support paused in 2023) was not re-opened. No leverage, benefit or exchange mechanism is established, so no rubric is assigned. Rubric lacking: benefit and exchange evidence.",
+      "mechanism": "No wealth-power mechanism identified in reviewed sources; firm-level AML settlement only",
+      "support": [
+        {
+          "text": "SEC announced IBKR LLC would pay an 11.5 million USD penalty for repeatedly failing to file Suspicious Activity Reports on microcap trades executed for customers, over more than 150 SARs in one year; FINRA imposed 15 million and the CFTC 11.5 million (about 38 million combined). Terms: censure, cease-and-desist, independent compliance consultant (FINRA/CFTC), disgorgement of certain profits; no admission or denial.",
+          "source": "SEC press release 2020-178",
+          "url": "https://www.sec.gov/news/press-release/2020-178",
+          "date": "2020-08-10",
+          "kind": "Primary regulatory settlement against the company",
+          "access": "Page text reviewed; role-only relevance to Peterffy (founder/chairman, not named)"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The release does not mention Peterffy or any individual being charged, and shows a standard enforcement outcome with no sign of leniency or favour either way.",
+          "source": "SEC press release 2020-178",
+          "url": "https://www.sec.gov/news/press-release/2020-178",
+          "date": "2020-08-10",
+          "kind": "Scope limit / absence of personal attribution",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Narrow review, not exoneration. Not opened: FEC/OpenSecrets giving records (OpenSecrets blocked to the fetch tool), lobbying disclosures (LDA) for IBKR, Peterffy's 2023 DeSantis episode source, tax or land matters. Absence of a mechanism in one regulatory release is not evidence of its absence."
+    },
+    "ma-huateng": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "NPC membership to 2023; SAMR actions 2021-2022",
+      "summary": "Ma Huateng (Pony Ma) founded Tencent and sat on the National People's Congress for two five-year terms (not on the 2023 list). The opened sources show access and the state's leverage over him rather than a preferential benefit to him: SAMR imposed repeated 500,000 yuan penalties on Tencent in 2021 for unreported deals and ordered it to give up exclusive music rights (July 2021 per search report; page not opened), and Reuters reported (March 2021) that Ma met SAMR officials who raised concerns about Tencent practices. The 2023 Reuters piece describes internet founders being dropped from delegate lists in favour of chip firms. Nothing shows a specific benefit linked to public power or an exchange, so no rubric. Rubric lacking: benefit and exchange evidence (leverage partly supported: past NPC seats).",
+      "mechanism": "Past legislative seat (access); regulatory pressure on the firm in 2021-2022; no preferential benefit established",
+      "support": [
+        {
+          "text": "Reuters via Al Jazeera, 24 March 2021: Ma met SAMR officials including deputy head Gan Lin and anti-monopoly bureau head Wu Zhenguo during the NPC session; sources said they discussed how Tencent could better comply with antitrust rules and that Wu voiced concern about some practices. Reported by anonymous sources; Tencent and SAMR did not comment.",
+          "source": "Reuters via Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2021/3/24/chinese-tech-giant-tencents-boss-met-antitrust-officials-report",
+          "date": "2021-03-24",
+          "kind": "Reported meeting with regulator (anonymous sources)",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "Reuters, 3 March 2023: Ma, after two five-year NPC terms, was not on that year's delegate list; Alibaba founder Jack Ma, NetEase's William Ding were also dropped; chip and hardware firms were added. The article ties the change to Beijing's tech self-reliance priorities and the crackdown on internet firms.",
+          "source": "Reuters via Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/at-china-political-meeting-internet-bosses-are-out-chip-execs-are-in-2937309",
+          "date": "2023-03-03",
+          "kind": "Role/access evidence (past), reported",
+          "access": "Page text reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Same Reuters/Al Jazeera report: the meeting came amid a state crackdown on big tech, with Tencent reportedly the next target of sharper scrutiny; it shows state leverage over the company.",
+          "source": "Reuters via Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2021/3/24/chinese-tech-giant-tencents-boss-met-antitrust-officials-report",
+          "date": "2021-03-24",
+          "kind": "Alternative explanation (regulatory pressure, not favour)",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "A search report (not opened in full: CNBC page returned 403) says SAMR fined Tencent 500,000 yuan in July 2021 over its 2016 China Music acquisition and ordered it to give up exclusive music licensing rights; further 500,000 yuan fines were reported in March 2021 and nine such fines on 1 January 2022.",
+          "source": "Search result summaries citing CNBC / Caixin / CPI",
+          "url": "https://www.cnbc.com/2021/07/24/china-crackdown-antitrust-regulator-orders-tencent-music-to-give-up-music-label-rights.html",
+          "date": "2021-07-24",
+          "kind": "Regulatory penalties on the company",
+          "access": "Snippet only"
+        }
+      ],
+      "limitations": "Narrow review, not exoneration. Not opened: Tencent annual reports, the SAMR decisions themselves, licences or approvals (e.g. game approvals), any government guidance funds, or Ma's personal conduct. Pressure from regulators does not rule out other favourable treatment; it also does not demonstrate it."
+    },
+    "german-larrea-mota-velasco": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "Spill August 2014; follow-up reporting to 2019",
+      "summary": "Larrea chairs Grupo Mexico. The only new source opened concerns the August 2014 Buenavista (Cananea) copper-mine spill: roughly 11 million gallons of copper-sulfate solution entered the Bacanuchi and Sonora rivers; investigators found 55 irregularities; the company was reportedly fined about 2 million USD and funded (through the environment ministry) a remediation trust of about 100 million USD whose delivery residents dispute. Reported 2019: the company was under investigation for 22 environmental cases; the Supreme Court had postponed the trust case. This documents company-level regulatory accountability and contested remediation, not a favour to Larrea or any personal link; the article does not name him. The earlier-reviewed Ferrosur concession episode was not re-opened. No rubric. Rubric lacking: leverage, benefit and exchange are not supported by opened receipts.",
+      "mechanism": "No wealth-power mechanism identified in newly opened sources; environmental enforcement context",
+      "support": [
+        {
+          "text": "KJZZ/Cronkite News, 9 August 2019: on 6 August 2014 nearly 11 million gallons of copper sulfate acid solution spilled from Grupo Mexico's Buenavista mine; the company took over 24 hours to notify authorities; 55 irregularities; unfinished leachate pond lacking permits; fine about 2 million USD; trust about 100 million USD created through the environment ministry; more than 22,000 people affected; in July 2019 officials said the company was under investigation for 22 cases of environmental damage; a 2019 sulfuric-acid spill at Guaymas port led to temporary closure. Company did not respond to requests for comment.",
+          "source": "Cronkite News / KJZZ",
+          "url": "https://cronkitenews.azpbs.org/2019/08/09/mexico-mining-disaster-rio-sonora/",
+          "date": "2019-08-09",
+          "kind": "Reported company-level regulatory and environmental record (secondary)",
+          "access": "Page text reviewed; role-only relevance to Larrea (not named)"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The same article reports enforcement rather than leniency: a fine, partial idling, multiple investigations and closure of the Guaymas facilities for lacking permits. The fine size (about 2 million USD) is low relative to damage claims, but the article does not attribute that to political influence, and it does not mention Larrea.",
+          "source": "Cronkite News / KJZZ",
+          "url": "https://cronkitenews.azpbs.org/2019/08/09/mexico-mining-disaster-rio-sonora/",
+          "date": "2019-08-09",
+          "kind": "Alternative explanation / scope limit",
+          "access": "Page text reviewed"
+        }
+      ],
+      "limitations": "Narrow review, not exoneration. Not opened: the Supreme Court rulings (search snippets only, dates uncertain: one reported dismissal of an amparo against the company and later rulings for affected communities), Profepa/Semarnat orders, lobbying or donation records, mining-concession or Ferrosur records. Fine and trust figures differ between sources (2 to 3 million USD; 85 to 150 million USD for the trust) and are flagged uncertain."
+    },
+    "zhang-yiming": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "TikTok US venture closing January 2026",
+      "summary": "Zhang Yiming founded ByteDance; he stepped back from the CEO role in 2021 (not verified in this wave). The relevant public-power episode is the US TikTok divestiture: a search-result summary reports a US joint venture closed on 22 January 2026 with Oracle, Silver Lake and MGX each at 15 percent and ByteDance keeping 19.9 percent; the Axios page itself returned 403 and was not read. That is a government-imposed restructuring of a company asset, not a private benefit to Zhang, and the sources do not describe his personal conduct or any exchange. No rubric. Rubric lacking: all three dimensions lack opened receipts.",
+      "mechanism": "Government-mandated divestiture of ByteDance's US business; no personal exchange identified",
+      "support": [
+        {
+          "text": "Search-result summary (Axios, Benzinga-syndicated and others, not opened): TikTok US operations were transferred to a majority-American joint venture on 22 January 2026; Oracle, Silver Lake and MGX each 15 percent; ByteDance 19.9 percent; Adam Presser named CEO; one source reports the close came before an executive order restricting the app took effect. Sources disagree on affiliate holdings (about one-third vs 19.9 percent).",
+          "source": "Search summaries citing Axios, Benzinga and others",
+          "url": "https://axios.com/2026/01/23/tiktok-deal-trump-app-ban",
+          "date": "2026-01-23",
+          "kind": "Reported company-level restructuring under state pressure",
+          "access": "Snippet only"
+        }
+      ],
+      "counter": [
+        {
+          "text": "Earlier reviewed material (existing profile) records that TikTok disputes claims of a Chinese golden share in ByteDance Ltd and French Senate inquiry conclusions differ; the structure reflects state demands on the company, not favour towards Zhang. His personal stake and role in the venture were not established.",
+          "source": "Existing wave profile (TikTok newsroom; French Senate)",
+          "url": "https://newsroom.tiktok.com/the-truth-about-tiktok?lang=en-AU",
+          "date": "2025",
+          "kind": "Contested characterisation, not re-opened",
+          "access": "Not re-opened this wave"
+        }
+      ],
+      "limitations": "Weakest review of the wave: no page was read for this person (Axios 403; French Senate PDF could not be parsed). Not opened: CFIUS/Treasury statements, executive orders, Chinese government statements, ByteDance ownership disclosures, Zhang's own roles. Not exoneration; ownership details are flagged uncertain."
+    }
+  },
+  "rubrics": {}
+}

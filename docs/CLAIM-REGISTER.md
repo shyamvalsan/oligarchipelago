@@ -1,6 +1,6 @@
 # Claim and source register
 
-Every receipt behind every authored review, generated from `data/assessments.json`. **219 reviews, 740 receipts, 179 flagged as weak or secondary** (Wikipedia, search snippets, tool summaries, partial reads). A receipt that loads does not prove it supports the sentence attached to it. These reviews are AI-assisted and have **not** been independently reviewed; use this register to check them, not to rely on them. Scores are editorial estimates, not findings of fact or guilt. Corrections welcome.
+Every receipt behind every authored review, generated from `data/assessments.json`. **219 reviews, 741 receipts, 202 flagged as weak or secondary** (Wikipedia, search snippets, tool summaries, partial reads). A receipt that loads does not prove it supports the sentence attached to it. These reviews are AI-assisted and have **not** been independently reviewed; use this register to check them, not to rely on them. Scores are editorial estimates, not findings of fact or guilt. Corrections welcome.
 
 ## Elon Musk · rank 1 · mixed · score 63 (range 35–90)
 
@@ -16,28 +16,29 @@ Unusual public power and private business interests overlap, with a specific all
 
 ## Larry Page · rank 2 · no-strong · unscored
 
-*Google corporate events, 2025. Confidence: Low / narrow review. Reviewed 2026-10-29.*
+*2020-2026 as described in reviewed pages. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Searches found corporate-level Google political activity (a 2025 inauguration donation; an antitrust case with a 2025 remedies ruling) but no reviewed source attributing a personal political bargain, access episode or preferential benefit to Larry Page. This is not exoneration; it reflects a narrow search.
+Page co-founded Google. The reviewed pages describe company-level antitrust litigation (US v. Google) and, per a Wikipedia summary of a 2026 press report, Page and Brin moving or closing 60 California LLCs in December 2025 around a proposed state billionaire tax. None of the pages read names Page personally in a political donation, appointment, or state benefit.
 
-- **support** — NBC Washington / CNBC (2025-01-09) — Corporate donation; no Page-specific content. Access: Page text reviewed. <https://www.nbcwashington.com/news/business/money-report/google-donates-1-million-to-trumps-inauguration-fund-joining-other-tech-giants/3809421/?amp=1>
-- **counter** — Hughes Hubbard & Reed (law firm summary) (2025-09) — Legal update / limit of evidence. Access: Page text reviewed; secondary law-firm summary, not the opinion **[weak/secondary]**. <https://www.hugheshubbard.com/news/court-issues-remedies-ruling-in-united-states-v-google-search-case>
+- **support** — US Department of Justice press release (2025-09-02) — Government release (company-level). Access: Page text reviewed. <https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google>
+- **support** — Wikipedia: United States v. Google LLC (2020) (2026) — Case summary (tertiary). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2020)>
+- **support** — Wikipedia: Sergey Brin (citing NYT) (2026) — Press report via tertiary summary. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Sergey_Brin>
+- **counter** — Reviewer scope note (2026) — Explicit limit of evidence. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2020)>
 
-*Limitations:* Company conduct is not transferred to a co-founder. No personal donation, lobbying, access or contract evidence about Page was located in this review, and the search tool returned nothing on his political giving. Absence of findings is not a finding of absence.
+*Limitations:* Not read: FEC, OpenSecrets or LDA records for Alphabet and Page personally; the NYT original; Alphabet proxy statements. Rubric dimensions (leverage, benefit, exchange) lack receipts specific to Page. A narrow review, not exoneration.
 
 ## Sergey Brin · rank 3 · mixed · unscored
 
-*2025–2026. Confidence: Low / narrow review. Reviewed 2026-10-29.*
+*2012-2026. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Brin personally became a large political spender in 2026, reportedly funding a campaign against California’s proposed one-time billionaire tax and attending Trump-related events. This is open electoral activity directly tied to his own wealth interests; the reviewed material does not show a preferential benefit already obtained, and the ballot outcome (3 November 2026) is pending at review date.
+Brin co-founded Google. A Wikipedia summary of an April 2026 New York Times report says he gave to Democrats in earlier years ($5,000 to Obama 2012; $30,800 to the DNC), later shifted toward Republican causes, reportedly spent $57 million trying to block California's proposed billionaire tax, attended Trump's second inauguration, and was appointed to PCAST in March 2026. These are personal political acts and an advisory appointment, but no preferential economic benefit was found.
 
-- **support** — Il Post (Italian; summarizing the New York Times) (2026-05-08) — Secondary report of personal political spending and access. Access: Page text reviewed in Italian; underlying NYT article not read **[weak/secondary]**. <https://www.ilpost.it/2026/05/08/sergey-brin-google-spostamento-destra/>
-- **support** — NewsNation (CalMatters reporting relayed) (2026-10) — Current ballot-measure context. Access: Page text reviewed; the article contains an apparent internal numbering error for the measure. <https://www.newsnationnow.com/politics/gavin-newsom-california-ballot-measure-billionaire-tax/amp>
-- **support** — NBC Washington / CNBC (2025-01-09) — Access episode. Access: Page text reviewed. <https://www.nbcwashington.com/news/business/money-report/google-donates-1-million-to-trumps-inauguration-fund-joining-other-tech-giants/3809421/?amp=1>
-- **counter** — NewsNation (2026-10) — Alternative explanation / limit of evidence. Access: Page text reviewed. <https://www.newsnationnow.com/politics/gavin-newsom-california-ballot-measure-billionaire-tax/amp>
-- **counter** — Il Post (2026-05-08) — Subject response / alternative explanation. Access: Page text reviewed in Italian. <https://www.ilpost.it/2026/05/08/sergey-brin-google-spostamento-destra/>
+- **support** — Wikipedia: Sergey Brin (2026) — Press report via tertiary summary. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Sergey_Brin>
+- **support** — Wikipedia: Sergey Brin (citing NYT) (2026) — Press report via tertiary summary. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Sergey_Brin>
+- **support** — US Department of Justice press release (2025-09-02) — Government release (company-level). Access: Page text reviewed. <https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google>
+- **counter** — Reviewer scope note (2026) — Explicit limit of evidence. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Sergey_Brin>
 
-*Limitations:* Review limited to secondary reports; amounts differ across outlets and some relied on search summaries not read. Open political spending to defeat a tax does not equal a preferential benefit, and the measure was undecided at review date. No score is assigned; not exoneration.
+*Limitations:* Leverage may be non-trivial (advisory seat, access), but no benefit or feedback evidence was opened, so no rubric is assigned (benefit and exchange lack receipts). The primary filings and the NYT article were not read. Narrow review, not exoneration.
 
 ## Jeff Bezos · rank 4 · mixed · score 31 (range 5–65)
 
@@ -109,40 +110,38 @@ Berkshire’s regulated businesses have political-access interests, and broad ta
 
 *Limitations:* Company activity is not automatically Buffett’s personal conduct. General tax gains do not establish favoritism. This is a limited historical review, not a clean bill of health.
 
-## Amancio Ortega · rank 10 · mixed · unscored
+## Amancio Ortega · rank 10 · no-strong · unscored
 
-*Spanish proton-therapy funding agreement, October 2021. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*2009-2024. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Ortega’s foundation participates in a major public-health funding agreement. That gives a private donor a role in public provision, but this agreement does not establish a commercial return or preferential treatment for Ortega.
+Ortega founded Inditex (Zara). The page read reports honours (Knight Grand Cross, Order of Civil Merit, 2009 decree) and foundation donations to Spanish public health (EUR 17 million 2015; EUR 320 million announced March 2017 for cancer equipment; the page also gives EUR 300 million, and gives inconsistent equipment counts of 440 and over 290), criticised by Podemos (2019 report cited). It describes no formal government agreement, tax, regulatory or commercial benefit.
 
-- **support** — Boletín Oficial del Estado (2021-11-08) — Official agreement. Access: Page text reviewed. <https://boe.es/diario_boe/txt.php?id=BOE-A-2021-18259>
-- **counter** — BOE: allocation of responsibilities (2021-11-08) — Official safeguards / scope. Access: Page text reviewed. <https://boe.es/diario_boe/txt.php?id=BOE-A-2021-18259>
+- **support** — Wikipedia: Amancio Ortega (2026) — Biographical summary (tertiary). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Amancio_Ortega>
+- **counter** — Reviewer scope note (2026) — Explicit limit of evidence. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Amancio_Ortega>
 
-*Limitations:* No score follows from philanthropy alone. Foundation influence, commercial interests and an individual reciprocal benefit require separate evidence. This file does not evaluate Inditex’s full regulatory history or equate charitable giving with political capture.
+*Limitations:* Not read: Spanish government/Ministry of Health donation agreement text, BOE, Inditex filings, tax rulings. Figures conflict within the page itself. Narrow review, not exoneration.
 
-## Rob Walton & family · rank 11 · mixed · unscored
+## Rob Walton & family · rank 11 · no-strong · unscored
 
-*Broncos stadium announcement, September 2025; ownership biography in 2026. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*2022-2026. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Rob Walton is an owner in a group pursuing a stadium project with public authorities. The reviewed announcement is signed by other family-group leaders and does not establish his personal negotiations or a delivered preferential benefit.
+Rob Walton (Walmart heir and former chairman) personally funds Republican political spending according to a Wikipedia summary: over $17.6 million supporting Republican candidates in the 2024 elections and $11 million in the 2026 cycle (as of August 2026). He led the group buying the Denver Broncos ($4.65 billion, agreed 7 June 2022). No public benefit, appointment or contract is linked to him in the page.
 
-- **support** — Denver Broncos official biography (2026) — Subject institutional record. Access: Page text reviewed. <https://www.denverbroncos.com/team/front-office-roster/rob-walton>
-- **support** — Denver Broncos joint announcement (2025-09-09) — Project / government partnership. Access: Page text reviewed. <https://www.denverbroncos.com/news/read-owners-greg-penner-carrie-walton-penner-announce-preferred-stadium-site-in-joint-letter-with-mayor-mike-johnston-gov-jared-polis>
-- **counter** — Broncos letter: financing and attribution limits (2025-09-09) — Subject statement / scope. Access: Page text reviewed. <https://www.denverbroncos.com/news/read-owners-greg-penner-carrie-walton-penner-announce-preferred-stadium-site-in-joint-letter-with-mayor-mike-johnston-gov-jared-polis>
+- **support** — Wikipedia: Rob Walton (2026) — Biographical summary (tertiary). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Rob_Walton>
+- **counter** — Reviewer scope note (2026) — Explicit limit of evidence. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Rob_Walton>
 
-*Limitations:* No numeric estimate: do not transfer his daughter’s or son-in-law’s actions to him. An announced funding plan is not a completed transaction or independently audited cost; older Walmart policy activity remains outside this review.
+*Limitations:* Walmart lobbying (LDA) and FEC records were not opened (OpenSecrets was blocked). Walmart is a corporate lobbyer; relatives' and company conduct are not attributed to him. Narrow review, not exoneration.
 
-## Jim Walton & family · rank 12 · mixed · unscored
+## Jim Walton & family · rank 12 · no-strong · unscored
 
-*New York charter-school advocacy, March 2024. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*2008-2026. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-The reviewed evidence establishes Jim Walton’s own education-policy financing, rather than merely a family association. It does not establish a private business return from that advocacy.
+Jim Walton personally gave political money per a Wikipedia summary: 2012 (over $102,500 to Huntsman, then over $202,500 to Romney), 2015-2018 $543,800 to two Illinois charter-school PACs, 2024 $500,000 to oppose an Arkansas school-standards amendment, and $10.7 million supporting Republicans in the 2026 cycle (as of August 2026). A 2008 complaint to the FEC alleged contributions above limits; the page reports no outcome (an allegation).
 
-- **support** — Albany Times Union (2024-03-26) — Individual campaign contribution. Access: Page text reviewed. <https://www.timesunion.com/capitol/article/bloomberg-walmart-heir-give-charter-school-fight-19369658.php>
-- **support** — Walton Family Foundation (Accessed 2026-10-08) — Subject policy statement. Access: Page text reviewed. <https://www.waltonfamilyfoundation.org/our-work/education-program/systems>
-- **counter** — Walton Family Foundation: stated purpose (Accessed 2026-10-08) — Alternative explanation. Access: Page text reviewed. <https://www.waltonfamilyfoundation.org/our-work/education-program/systems>
+- **support** — Wikipedia: Jim Walton (2026) — Biographical summary (tertiary). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Jim_Walton>
+- **counter** — Reviewer scope note (2026) — Explicit limit of evidence. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Jim_Walton>
 
-*Limitations:* No numerical estimate: policy influence and personal enrichment are different dimensions. Family and Walmart political activities require individual attribution; no whole-career clearance is implied.
+*Limitations:* FEC, OpenSecrets and LDA records were not opened. Education-policy advocacy was characterised only as political giving, not as a business return. Narrow review, not exoneration.
 
 ## Michael Dell · rank 13 · mixed · score 31 (range 10–60)
 
@@ -156,27 +155,27 @@ Dell’s support for a presidential savings initiative sits alongside a major go
 
 *Limitations:* This is an episode-specific estimate, not a finding about procurement legality. Contract face value is neither Dell profit nor a personal payment. Broader political activity and award-selection records remain outside this review.
 
-## Alice Walton · rank 14 · mixed · unscored
+## Alice Walton · rank 14 · no-strong · unscored
 
-*New York education campaign contributions, 2020; reported March 2024. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*1998-2025. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Alice Walton’s own education-related campaign funding is documented. That establishes participation in policy advocacy, not a personal entitlement to favors or an economic exchange.
+Alice Walton is a Walmart heir and art and health philanthropist. The page reports political giving ($2.6 million to Progress for America in 2004; $200,000 to Restore Our Future by January 2012; $1.4 million to Illinois charter-school PACs 2015-2018 as summarised; $353,400 to the Hillary Victory Fund in 2016) and local public-private projects (airport terminal funding in 1998, Crystal Bridges 2011, a medical school announced 2021). No preferential benefit is shown.
 
-- **support** — Albany Times Union (2024-03-26) — Individual campaign contribution. Access: Page text reviewed. <https://www.timesunion.com/capitol/article/bloomberg-walmart-heir-give-charter-school-fight-19369658.php>
-- **counter** — Times Union: attribution limit (2024-03-26) — Scope limitation. Access: Page text reviewed. <https://www.timesunion.com/capitol/article/bloomberg-walmart-heir-give-charter-school-fight-19369658.php>
+- **support** — Wikipedia: Alice Walton (2026) — Biographical summary (tertiary). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Alice_Walton>
+- **counter** — Reviewer scope note (2026) — Explicit limit of evidence. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Alice_Walton>
 
-*Limitations:* No score is assigned from a donation alone. Broader philanthropy, corporate policy, personal access and preferential economic outcomes need separate evidence; sharing a surname does not share conduct.
+*Limitations:* Not read: FEC records, airport authority agreements, Walmart LDA filings. Narrow review, not exoneration.
 
-## Steve Ballmer · rank 15 · mixed · unscored
+## Steve Ballmer · rank 15 · no-strong · unscored
 
-*USAFacts civic-data work, reviewed October 2026. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*2017-2024. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-The reviewed civic-data initiative engages lawmakers, but does not demonstrate a preferential commercial benefit to Ballmer. That limited observation is not an assessment of all his business or political relationships.
+Ballmer (former Microsoft CEO) owns the LA Clippers. The reviewed Intuit Dome page describes the arena's approval by the City of Inglewood (exclusive negotiating agreement 2017; environmental review process 2018-2019; Surplus Land Act challenge dismissed November 2019) and the 2020 purchase of The Forum from MSG for $400 million. It reports no public subsidy and no personal political favour.
 
-- **support** — USAFacts: about and funding FAQ (Undated; reviewed 2026-10-08) — Organization statement. Access: Page text reviewed. <https://usafacts.org/about-usafacts/>
-- **counter** — TIME: Democracy Defenders (2024) — Scope limitation. Access: Indexed article passage reviewed. <https://time.com/collections/democracy-defenders/7017132/steve-ballmer-democracy-defenders/>
+- **support** — Wikipedia: Intuit Dome (first ~100,000 characters) (2026) — Case/project summary (tertiary). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Intuit_Dome>
+- **counter** — Reviewer scope note (2026) — Explicit limit of evidence. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Intuit_Dome>
 
-*Limitations:* USAFacts is not Ballmer’s entire financial or political life. Microsoft-era conduct, sports-arena public policy and other philanthropy require broader review; a civic project cannot be used to infer a low person-wide score.
+*Limitations:* Not read: Inglewood council records, land transfer terms, CEQA documents, any city agreements, FEC/Washington-state disclosures, USAFacts funding. No evidence for leverage, benefit or exchange at rubric standard. Narrow review, not exoneration.
 
 ## Carlos Slim Helu & family · rank 16 · mixed · score 75 (range 50–90)
 
@@ -212,16 +211,16 @@ His wealth clearly financed political reach. The reviewed analysis links philant
 
 *Limitations:* This assessment does not equate charitable giving or running for office with corruption. It is limited to political influence discussed in the reviewed record, not a full examination of Bloomberg LP contracts.
 
-## Bill Gates · rank 19 · mixed · unscored
+## Bill Gates · rank 19 · no-strong · unscored
 
-*Global-health foundation governance, reviewed 2025–2026. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*1998-2004 for this episode. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Research documents considerable influence over global-health priorities. The reviewed philanthropy sources do not establish that this influence replenishes Gates’s personal wealth; influence alone is not enough for our definition.
+Gates co-founded Microsoft. The reviewed page on US v. Microsoft (DOJ suit 1998; liability findings 1999-2000; D.C. Circuit 2001; settlement approved 2002 and 2004) concerns company conduct. Gates' videotaped deposition was reported as evasive by a cited source; no personal finding against him is recorded. This is a historical episode in which a regulator was adverse to the company, the opposite of preferential treatment.
 
-- **support** — Globalization and Health (2025-04-24) — Academic research. Access: Page text reviewed. <https://link.springer.com/article/10.1186/s12992-025-01112-9>
-- **counter** — Gates Foundation FAQ (Undated; reviewed 2026-10-08) — Subject explanation. Access: Page text reviewed. <https://www.gatesfoundation.org/about/foundation-faq>
+- **support** — Wikipedia: United States v. Microsoft Corp. (first ~100,000 characters) (2026) — Case summary (tertiary). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.>
+- **counter** — Reviewer scope note (2026) — Explicit limit of evidence. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.>
 
-*Limitations:* A foundation’s mission and legal constraints do not prove absence of all indirect benefit. Neither academic criticism of agenda-setting nor the foundation’s self-description establishes all three dimensions. Microsoft history and personal investments need a separate, broader review before assigning a person-wide score.
+*Limitations:* Gates' foundation, global-health agenda and any post-2008 government relationships were not reviewed here, and no primary filings were opened. Rubric dimensions lack receipts. Narrow review, not exoneration.
 
 ## Francoise Bettencourt Meyers & family · rank 20 · mixed · unscored
 
@@ -267,16 +266,16 @@ Reporting links Devasini personally to an attempted political-protection channel
 
 *Limitations:* Historical episode only. Financial alignment warrants scrutiny, but a specific delivered exception is not established. This estimate does not assign colleagues’ conduct to Devasini or assert current enforcement status.
 
-## Thomas Peterffy · rank 23 · mixed · unscored
+## Thomas Peterffy · rank 23 · no-strong · unscored
 
-*Republican presidential donor debate, April 2023. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*IBKR microcap SAR failures reviewed in 2020 settlement. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-The reviewed donor episode demonstrates political participation and willingness to withhold support. It does not establish the business benefit needed for a defensible oligarchy estimate.
+Peterffy founded Interactive Brokers (IBKR) and is a Republican political donor. The one primary document opened is the SEC release of 10 August 2020 on a company-level anti-money-laundering settlement: IBKR LLC paid an 11.5 million USD SEC penalty (with FINRA 15 million and CFTC 11.5 million, about 38 million in total) without admitting or denying findings; it names no individual. That is regulatory compliance history for the firm, not a wealth-power exchange. Existing campaign-giving evidence (DeSantis support paused in 2023) was not re-opened. No leverage, benefit or exchange mechanism is established, so no rubric is assigned. Rubric lacking: benefit and exchange evidence.
 
-- **support** — The Washington Post via Portland Press Herald (2023-04-19) — Donor statement. Access: Page text reviewed. <https://www.pressherald.com/2023/04/19/after-high-flying-start-desantis-hits-stumbling-blocks-on-road-to-2024/>
-- **counter** — Washington Post report: scope limit (2023-04-19) — Scope limitation. Access: Page text reviewed. <https://www.pressherald.com/2023/04/19/after-high-flying-start-desantis-hits-stumbling-blocks-on-road-to-2024/>
+- **support** — SEC press release 2020-178 (2020-08-10) — Primary regulatory settlement against the company. Access: Page text reviewed; role-only relevance to Peterffy (founder/chairman, not named). <https://www.sec.gov/news/press-release/2020-178>
+- **counter** — SEC press release 2020-178 (2020-08-10) — Scope limit / absence of personal attribution. Access: Page text reviewed. <https://www.sec.gov/news/press-release/2020-178>
 
-*Limitations:* No numeric score is assigned from campaign giving alone. Land, taxation and brokerage regulation require separate person-specific research; neither clearance nor wrongdoing is inferred from this narrow review.
+*Limitations:* Narrow review, not exoneration. Not opened: FEC/OpenSecrets giving records (OpenSecrets blocked to the fetch tool), lobbying disclosures (LDA) for IBKR, Peterffy's 2023 DeSantis episode source, tax or land matters. Absence of a mechanism in one regulatory release is not evidence of its absence.
 
 ## Julia Koch & family · rank 24 · mixed · unscored
 
@@ -303,14 +302,14 @@ The evidence concerns an organized effort to influence policy aligned with busin
 
 ## Zhang Yiming · rank 26 · mixed · unscored
 
-*ByteDance governance controversy, 2023–2025. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*TikTok US venture closing January 2026. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Reviewed sources disagree about state control of ByteDance-related entities. That is important governance context, but it does not by itself show Zhang obtaining private favors through personal political leverage.
+Zhang Yiming founded ByteDance; he stepped back from the CEO role in 2021 (not verified in this wave). The relevant public-power episode is the US TikTok divestiture: a search-result summary reports a US joint venture closed on 22 January 2026 with Oracle, Silver Lake and MGX each at 15 percent and ByteDance keeping 19.9 percent; the Axios page itself returned 403 and was not read. That is a government-imposed restructuring of a company asset, not a private benefit to Zhang, and the sources do not describe his personal conduct or any exchange. No rubric. Rubric lacking: all three dimensions lack opened receipts.
 
-- **support** — French Senate inquiry summary (2023) — Parliamentary inquiry. Access: Indexed source passage reviewed. <https://www.senat.fr/fileadmin/cru-1774270947/Structures_temporaires/commissions_d_enquete/CE_Tiktok/ESSENTIEL_Tiktok_EN_en_ligne.pdf>
-- **counter** — TikTok newsroom: company response (2023) — Subject response. Access: Indexed source passage reviewed. <https://newsroom.tiktok.com/the-truth-about-tiktok?lang=en-AU>
+- **support** — Search summaries citing Axios, Benzinga and others (2026-01-23) — Reported company-level restructuring under state pressure. Access: Snippet only **[weak/secondary]**. <https://axios.com/2026/01/23/tiktok-deal-trump-app-ban>
+- **counter** — Existing wave profile (TikTok newsroom; French Senate) (2025) — Contested characterisation, not re-opened. Access: Not re-opened this wave. <https://newsroom.tiktok.com/the-truth-about-tiktok?lang=en-AU>
 
-*Limitations:* State coercion, a subsidiary stake and a founder’s wealth are not interchangeable with personal political leverage. The reviewed governance dispute does not establish all rubric dimensions or the subsequent 2026 ownership position; broader individual review is required.
+*Limitations:* Weakest review of the wave: no page was read for this person (Axios 403; French Senate PDF could not be parsed). Not opened: CFIUS/Treasury statements, executive orders, Chinese government statements, ByteDance ownership disclosures, Zhang's own roles. Not exoneration; ownership details are flagged uncertain.
 
 ## Zhong Shanshan · rank 27 · mixed · unscored
 
@@ -348,15 +347,14 @@ The reviewed education-foundation episode raises governance questions but does n
 
 ## Germán Larrea Mota Velasco & family · rank 30 · mixed · unscored
 
-*Ferrosur dispute and settlement, May 2023. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*Spill August 2014; follow-up reporting to 2019. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-The Ferrosur episode documents a state–company negotiation, but the concession change was compensation following state occupation. Treating that alone as a gift to Larrea would omit the loss on the other side of the transaction.
+Larrea chairs Grupo Mexico. The only new source opened concerns the August 2014 Buenavista (Cananea) copper-mine spill: roughly 11 million gallons of copper-sulfate solution entered the Bacanuchi and Sonora rivers; investigators found 55 irregularities; the company was reportedly fined about 2 million USD and funded (through the environment ministry) a remediation trust of about 100 million USD whose delivery residents dispute. Reported 2019: the company was under investigation for 22 environmental cases; the Supreme Court had postponed the trust case. This documents company-level regulatory accountability and contested remediation, not a favour to Larrea or any personal link; the article does not name him. The earlier-reviewed Ferrosur concession episode was not re-opened. No rubric. Rubric lacking: leverage, benefit and exchange are not supported by opened receipts.
 
-- **support** — Reuters via MarketScreener (2023-05-31) — Negotiated settlement. Access: Page text reviewed. <https://www.marketscreener.com/news/latest/Mexico-Grupo-Mexico-reach-deal-over-occupation-of-railway-line-44006666/>
-- **support** — Reuters via Investing.com (2023-05-24) — Policy context. Access: Page text reviewed. <https://www.investing.com/news/stock-market-news/govt-compensation-to-grupo-mexico-over-railway-wont-include-cash--president-3089995>
-- **counter** — Reuters: settlement context (2023-05-31) — Alternative explanation. Access: Page text reviewed. <https://www.marketscreener.com/news/latest/Mexico-Grupo-Mexico-reach-deal-over-occupation-of-railway-line-44006666/>
+- **support** — Cronkite News / KJZZ (2019-08-09) — Reported company-level regulatory and environmental record (secondary). Access: Page text reviewed; role-only relevance to Larrea (not named). <https://cronkitenews.azpbs.org/2019/08/09/mexico-mining-disaster-rio-sonora/>
+- **counter** — Cronkite News / KJZZ (2019-08-09) — Alternative explanation / scope limit. Access: Page text reviewed. <https://cronkitenews.azpbs.org/2019/08/09/mexico-mining-disaster-rio-sonora/>
 
-*Limitations:* No score: concession value, individual negotiating role and broader privatization history remain unresolved. Company and family assets are not automatically evidence of personal political favoritism.
+*Limitations:* Narrow review, not exoneration. Not opened: the Supreme Court rulings (search snippets only, dates uncertain: one reported dismissal of an amparo against the company and later rulings for affected communities), Profepa/Semarnat orders, lobbying or donation records, mining-concession or Ferrosur records. Fine and trust figures differ between sources (2 to 3 million USD; 85 to 150 million USD for the trust) and are flagged uncertain.
 
 ## Gautam Adani · rank 31 · mixed · score 50 (range 15–80)
 
@@ -395,14 +393,16 @@ Yanai publicly advocates economic-policy changes. Having a prominent platform do
 
 ## Ma Huateng · rank 33 · mixed · unscored
 
-*NPC representation change, March 2023. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*NPC membership to 2023; SAMR actions 2021-2022. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Ma’s former parliamentary membership is documented, as is his absence from the 2023 delegate list. That role establishes access in a particular period, not personal control of the state or a specific economic favor.
+Ma Huateng (Pony Ma) founded Tencent and sat on the National People's Congress for two five-year terms (not on the 2023 list). The opened sources show access and the state's leverage over him rather than a preferential benefit to him: SAMR imposed repeated 500,000 yuan penalties on Tencent in 2021 for unreported deals and ordered it to give up exclusive music rights (July 2021 per search report; page not opened), and Reuters reported (March 2021) that Ma met SAMR officials who raised concerns about Tencent practices. The 2023 Reuters piece describes internet founders being dropped from delegate lists in favour of chip firms. Nothing shows a specific benefit linked to public power or an exchange, so no rubric. Rubric lacking: benefit and exchange evidence (leverage partly supported: past NPC seats).
 
-- **support** — Reuters via Investing.com (2023-03-03) — Political role and change. Access: Page text reviewed. <https://uk.investing.com/news/stock-market-news/at-china-political-meeting-internet-bosses-are-out-chip-execs-are-in-2937309>
-- **counter** — Reuters: limits of access (2023-03-03) — Counterevidence / scope. Access: Page text reviewed. <https://uk.investing.com/news/stock-market-news/at-china-political-meeting-internet-bosses-are-out-chip-execs-are-in-2937309>
+- **support** — Reuters via Al Jazeera (2021-03-24) — Reported meeting with regulator (anonymous sources). Access: Page text reviewed. <https://www.aljazeera.com/economy/2021/3/24/chinese-tech-giant-tencents-boss-met-antitrust-officials-report>
+- **support** — Reuters via Investing.com (2023-03-03) — Role/access evidence (past), reported. Access: Page text reviewed. <https://uk.investing.com/news/stock-market-news/at-china-political-meeting-internet-bosses-are-out-chip-execs-are-in-2937309>
+- **counter** — Reuters via Al Jazeera (2021-03-24) — Alternative explanation (regulatory pressure, not favour). Access: Page text reviewed. <https://www.aljazeera.com/economy/2021/3/24/chinese-tech-giant-tencents-boss-met-antitrust-officials-report>
+- **counter** — Search result summaries citing CNBC / Caixin / CPI (2021-07-24) — Regulatory penalties on the company. Access: Snippet only **[weak/secondary]**. <https://www.cnbc.com/2021/07/24/china-crackdown-antitrust-regulator-orders-tencent-music-to-give-up-music-label-rights.html>
 
-*Limitations:* No score: this review does not establish the preferential-benefit and reciprocal-exchange dimensions. Nationality, market share, censorship exposure and compliance with state direction do not automatically establish personal oligarchic leverage.
+*Limitations:* Narrow review, not exoneration. Not opened: Tencent annual reports, the SAMR decisions themselves, licences or approvals (e.g. game approvals), any government guidance funds, or Ma's personal conduct. Pressure from regulators does not rule out other favourable treatment; it also does not demonstrate it.
 
 ## Robin Zeng · rank 34 · mixed · unscored
 
@@ -502,15 +502,15 @@ Ferrero International’s policy access is visible in a lobbying-record compilat
 
 ## Li Ka-shing · rank 42 · mixed · unscored
 
-*CK Hutchison port-sale controversy, 2025–2026. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*2011-2026 (sources dated within). Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-The reviewed port-sale episode shows a family-controlled business exposed to political pressure and contested concessions. Neither exposure to state pressure nor a company-level concession dispute establishes Li’s personal control over government.
+Pages read show a business family operating in tense relations with the Chinese state at points: state media criticism in 2015 over asset sales that then stopped, and in 2025-26 a ports sale linked to US politics followed by a Panama Supreme Court ruling that voided CK Hutchison's Panama concessions. These are company-level and exposure-to-state-pressure facts; they do not show personal preferential benefit to Li Ka-shing. Li's son Victor Li leads the group; relatives' conduct is not attributed to him.
 
-- **support** — Reuters (2025-03-14) — Reported evidence. Access: Indexed source passage reviewed. <https://www.investing.com/news/stock-market-news/ck-hutchisons-shares-drop-after-china-posts-critical-commentary-on-port-sale-to-us-interests-3928691>
-- **support** — Associated Press (2026-01) — Legal update. Access: Indexed source passage reviewed. <https://apnews.com/article/b5fe3cdcc1fce45dbf1b0843a620830a>
-- **counter** — Reuters: response and scope (2025-03-14) — Alternative interpretation. Access: Indexed source passage reviewed. <https://www.investing.com/news/stock-market-news/ck-hutchisons-shares-drop-after-china-posts-critical-commentary-on-port-sale-to-us-interests-3928691>
+- **support** — Wikipedia: Li Ka-shing (2011-2015) — Relations with state (tertiary). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Li_Ka-shing>
+- **support** — Wikipedia: CK Hutchison Holdings (2025-2026) — Company exposure (tertiary). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/CK_Hutchison_Holdings>
+- **counter** — Wikipedia: CK Hutchison Holdings; Li Ka-shing (2026) — Counter-evidence: adverse outcomes. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/CK_Hutchison_Holdings>
 
-*Limitations:* The personal role, original concession terms, other markets and later court developments require broader review. Ownership and corporate litigation cannot fill missing person-specific evidence; no score is assigned.
+*Limitations:* Not read: Hong Kong land-sale or government-contract records, Basic Law/advisory role details (the page only lists categories), Reuters/Panama court documents, CK Hutchison filings, historical Hong Kong property episodes. Wikipedia only; narrow review, not exoneration.
 
 ## Mark Mateschitz · rank 43 · mixed · unscored
 
@@ -549,16 +549,16 @@ Rafaela’s foundation governance and historical company-control role are docume
 
 *Limitations:* No numerical estimate: do not copy Gianluigi’s contacts, scores or allegations onto Rafaela. A control filing is not evidence of misconduct, and its effective date does not authorize replacing the Forbes annual snapshot with an inferred new wealth figure. Broader person-specific research remains necessary.
 
-## Andrea Pignataro · rank 46 · mixed · unscored
+## Andrea Pignataro · rank 46 · no-strong · unscored
 
-*Cedacri loan conditions, 2023; appeal decision, December 2025. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*1997-2026 as described. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-The reviewed Cedacri episode shows a company challenging government restrictions through the courts. A successful appeal does not itself establish political favoritism toward Pignataro.
+The only government-facing matter in the page read is an Italian tax matter: in 2025 the revenue agency reportedly investigated alleged evasion of about EUR 500 million (2013-2023) and he reportedly agreed to pay EUR 280 million in instalments. That is an enforcement/settlement episode, not evidence of political benefit. Acquisitions of Italian firms (Cedacri, Cerved, Prelios) are ordinary investments in the pages read. No political-power mechanism was found; this is a scoped statement.
 
-- **support** — Reuters via MarketScreener (2025-12-05) — Court reporting. Access: Page text reviewed. <https://uk.marketscreener.com/news/italy-court-voids-government-s-golden-power-decision-on-ion-owned-cedacri-s-loan-ce7d51dcde8df126>
-- **counter** — Reuters: judicial reasoning (2025-12-05) — Alternative explanation. Access: Page text reviewed. <https://uk.marketscreener.com/news/italy-court-voids-government-s-golden-power-decision-on-ion-owned-cedacri-s-loan-ce7d51dcde8df126>
+- **support** — Wikipedia: Andrea Pignataro (2025) — Business and tax enforcement (tertiary; figures reported). Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Andrea_Pignataro>
+- **counter** — Wikipedia: Andrea Pignataro (2025) — Scope limit; absence not exoneration. Access: Page text reviewed; tertiary source via fetch tool, cited links not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Andrea_Pignataro>
 
-*Limitations:* No score is assigned from regulatory exposure or business concentration. Broader political relationships and other proceedings are outside this narrow review; this is not a legal clearance.
+*Limitations:* Not read: the Reuters Cedacri article (404), Italian golden-power decrees, Il Post/Il Sole 24 Ore tax reports, UK/Italy donation or lobbying records. Allegations of tax evasion are reported allegations; the settlement terms are reported by a tertiary source. Narrow review, not exoneration.
 
 ## Klaus-Michael Kuehne · rank 47 · mixed · score 25 (range 5–55)
 
@@ -1013,15 +1013,16 @@ The reviewed history links government office, privatization leadership and later
 
 ## François Pinault & family · rank 81 · no-strong · unscored
 
-*Notre-Dame reconstruction pledge, April 2019. Confidence: Low / narrow review. Reviewed 2026-10-29.*
+*April 2019 pledge; Italian tax settlement May 2019 (covering 2011-2017). Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-The only reviewed material is the 2019 pledge of €100 million to Notre-Dame by the Pinault family through Artemis. A charitable pledge is not a preferential benefit. Older leads about state-linked financing and political networks in France could not be read, so this entry establishes nothing either way.
+No evidence of a political-power mechanism was found. Two documented items: a April 2019 pledge of EUR 100 million to Notre-Dame by the Pinault family through Artemis, and a May 2019 Kering settlement of EUR 1.25 billion with the Italian tax authority (EUR 897 million in additional tax plus penalties and interest) over Gucci in 2011-2017. The tax settlement is a state enforcement outcome against a company chaired by François-Henri Pinault, not a benefit; Kering did not admit wrongdoing.
 
-- **support** — Star Advertiser (wire report) (2019-04-15) — Context only: charitable pledge. Access: Page text reviewed; the page date and weekday reference are inconsistent. <https://www.staradvertiser.com/?p=821783>
-- **counter** — Star Advertiser: limit of evidence (2019-04-15) — Explicit limit of evidence. Access: Page text reviewed. <https://www.staradvertiser.com/?p=821783>
-- **counter** — Discovery leads not read (2003-12) — Explicit limit of evidence. Access: Not readable in this session **[weak/secondary]**. <https://www.monde-diplomatique.fr/2003/12/TOSCER/10865>
+- **support** — FashionUnited (Reuters-based) (2019-05-10) — Context only: corporate enforcement matter. Access: Page text reviewed via fetch tool summary **[weak/secondary]**. <https://fashionunited.com/news/business/kering-settles-italian-tax-probe-owes-1-25bn-euros/2019051027720>
+- **support** — Star Advertiser (wire) (2019-04-15) — Context only: charitable pledge. Access: Page text reviewed. <https://www.staradvertiser.com/?p=821783>
+- **counter** — Star Advertiser (2019-04-15) — Explicit limit of evidence. Access: Page text reviewed. <https://www.staradvertiser.com/?p=821783>
+- **counter** — FashionUnited (2019-05-10) — Counter-evidence and scope limit. Access: Page text reviewed via fetch tool summary **[weak/secondary]**. <https://fashionunited.com/news/business/kering-settles-italian-tax-probe-owes-1-25bn-euros/2019051027720>
 
-*Limitations:* Family entry: François Pinault and François-Henri Pinault are distinct people and evidence about one cannot be transferred to the other. Luxury-sector regulation, Kering, Artemis holdings, media ownership and 1990s French financing history were not examined. Not exoneration.
+*Limitations:* Narrow review, not exoneration. Family entry: François Pinault and François-Henri Pinault are distinct people and evidence about one is not transferred to the other; most evidence here concerns Kering, chaired by the son. French lobbying disclosures (HATVP), Artemis holdings, media and art-museum ties, and 1990s financing history were not examined. The Italian criminal investigation outcome was not read.
 
 ## Jack Ma · rank 83 · mixed · unscored
 
@@ -1135,15 +1136,15 @@ Beijing’s planning authority describes an expedited Xiaomi factory approval in
 
 ## Andreas von Bechtolsheim & family · rank 90 · no-strong · unscored
 
-*Career 1982–2024. Confidence: Low / narrow review. Reviewed 2026-10-29.*
+*July 2019 conduct; SEC action March 2024. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-No evidence of political leverage, preferential benefit or an exchange was found. The reviewed reference describes a technology-founder fortune from Sun, Cisco, Google and Arista. A 2024 SEC settlement is a securities matter, not a wealth–power mechanism. This is a narrow review, not exoneration.
+No evidence of political leverage, a preferential benefit linked to public power, or a wealth-power exchange was found. The one primary-source matter is a securities case: on 26 March 2024 the SEC alleged that Bechtolsheim, then Arista chair, learned of Cisco's planned Acacia acquisition on 8 July 2019 and traded Acacia options through accounts of a close relative and an associate, producing $415,726 in profits. He settled without admitting or denying, agreeing to a five-year officer/director bar and a $923,740 penalty. This is an enforcement action against him, not a political mechanism.
 
-- **support** — Wikipedia: Andreas von Bechtolsheim (2025) — Tertiary context only. Access: Page text reviewed **[weak/secondary]**. <https://en.wikipedia.org/wiki/Andreas_von_Bechtolsheim>
-- **counter** — Wikipedia: Andreas von Bechtolsheim (2025) — Explicit limit of evidence. Access: Page text reviewed **[weak/secondary]**. <https://en.wikipedia.org/wiki/Andreas_von_Bechtolsheim>
-- **counter** — Wikipedia: Andreas von Bechtolsheim (SEC settlement) (2024) — Legal context; not a mechanism. Access: Page text reviewed; SEC order itself not opened **[weak/secondary]**. <https://en.wikipedia.org/wiki/Andreas_von_Bechtolsheim>
+- **support** — SEC Litigation Release 25955 (2024-03-26) — Primary regulator document (role-only for this review: no political content). Access: Page text reviewed via fetch tool summary **[weak/secondary]**. <https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25955>
+- **support** — SEC Press Release 2024-40 (2024-03-26) — Primary regulator document. Access: Page text reviewed via fetch tool summary **[weak/secondary]**. <https://www.sec.gov/news/press-release/2024-40>
+- **counter** — SEC releases (2024-03-26) — Scope limit: nothing political in the primary documents. Access: Page text reviewed via fetch tool summary **[weak/secondary]**. <https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25955>
 
-*Limitations:* Family entry: evidence concerns Andreas von Bechtolsheim himself; other family members were not researched. FEC and lobbying records, Arista’s government sales and German policy contacts were not checked. A German 2014 Tagesspiegel article from the discovery leads does not mention him. Not exoneration.
+*Limitations:* Narrow review, not exoneration: only SEC materials were read. Donations, lobbying disclosures, Arista government sales, export-control matters and Bechtolsheim's other investments were not searched. Entry covers Andreas von Bechtolsheim; the conduct evidenced is his own alleged trading, and no conduct of family members is attributed. Court approval of the judgment was not independently confirmed.
 
 ## Pham Nhat Vuong · rank 93 · mixed · score 25 (range 5–60)
 
@@ -1406,18 +1407,19 @@ Political agenda-setting power is documented, but a specific exchange securing b
 
 ## Diane Hendricks · rank 113 · mixed · unscored
 
-*2011 meeting, 2012 recall campaign, 2015 right-to-work law; later national giving noted only as context. Confidence: Low / narrow review. Reviewed 2026-10-29.*
+*2011 meetings; 2012 recall campaign; 2015 right-to-work law; 2016 advisory team; 2024-2026 super PAC giving and 2026 delegation. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Hendricks was Wisconsin Governor Scott Walker's largest donor in his 2012 recall campaign and was filmed raising right-to-work with him in 2011; Wisconsin enacted right-to-work in 2015. Reporting establishes donor access and policy alignment. The reviewed sources do not show a private economic reward to her or her company, or an agreed exchange.
+Hendricks, co-founder and chair of ABC Supply, is documented as a very large and long-running Republican donor with access to officials: Wisconsin Governor Scott Walker met her several times in 2011 and was filmed discussing right-to-work with her (video surfaced May 2012), she was named to Donald Trump's campaign economic advisory team in August 2016, she was sent on a U.S. government delegation to the February 2026 Olympics closing ceremony, and she gave $25 million to MAGA Inc. in March 2026 per FEC data as reported. Access and policy alignment are well evidenced (leverage). No reviewed source shows a state grant, contract, regulatory ruling or tax treatment that specifically benefited her or ABC Supply, so the benefit dimension is unsupported and no rubric is assigned.
 
-- **support** — Center for Public Integrity / Kate Golden, Bill Lueders, Amy Karon (2012-05-20) — Investigative reporting on donor access. Access: Page text reviewed (page shows a 2022 update). <https://publicintegrity.org/politics/wisconsin-gov-scott-walker-grants-significant-access-to-companies-donors/>
-- **support** — Wisconsin Public Radio (2015-02-23) — Dated policy chronology. Access: Page text reviewed. <https://www.wpr.org/politics/years-walker-said-he-wasnt-interested-right-work>
-- **support** — NPR via KPBS (2015-03-09) — Primary-style news report of enactment. Access: Page text reviewed. <https://www.kpbs.org/news/2015/03/09/wisconsin-gov-scott-walker-signs-right-to-work>
-- **support** — Wikipedia: Diane Hendricks (2026-10-29) — Secondary compilation of donations. Access: Page text reviewed; underlying filings not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Diane_Hendricks>
-- **counter** — Center for Public Integrity (2012-05-20) — Expert caveat. Access: Page text reviewed. <https://publicintegrity.org/politics/wisconsin-gov-scott-walker-grants-significant-access-to-companies-donors/>
-- **counter** — Wisconsin Public Radio (2015-02-23) — Alternative explanation / limit of evidence. Access: Page text reviewed. <https://www.wpr.org/politics/years-walker-said-he-wasnt-interested-right-work>
+- **support** — Center for Public Integrity, May 2012 (page shows later update) (2012-05) — Donor access record. Access: Page text reviewed. <https://publicintegrity.org/politics/wisconsin-gov-scott-walker-grants-significant-access-to-companies-donors/>
+- **support** — Wisconsin Public Radio, 23 February 2015 (2015-02-23) — Policy timeline with donor video. Access: Page text reviewed. <https://www.wpr.org/politics/years-walker-said-he-wasnt-interested-right-work>
+- **support** — NPR via KPBS (2015-03-09) — Policy outcome; no donor link stated. Access: Page text reviewed. <https://www.kpbs.org/news/2015/03/09/wisconsin-gov-scott-walker-signs-right-to-work>
+- **support** — CBS 58 Milwaukee (2016-08-11) — Advisory role (campaign). Access: Page text reviewed. <https://www.cbs58.com/news/trump-names-hendricks-uihlein-to-economic-team>
+- **support** — The Badger Project (2026-07-15) — Recent giving and ceremonial appointment (secondary, citing FEC). Access: Page text reviewed; FEC filings not opened. <https://thebadgerproject.org/2026/07/15/hendricks-gave-25m-to-maga-inc-her-largest-recorded-political-donation-ever/>
+- **counter** — CPI; WPR; NPR (as above) (2015-02-23) — Alternative explanation and limit. Access: Page text reviewed. <https://www.wpr.org/politics/years-walker-said-he-wasnt-interested-right-work>
+- **counter** — Web search results (not a primary record) (2026-10-30) — Absence of evidence; not a finding of none. Access: Snippet only **[weak/secondary]**. <https://publicintegrity.org/politics/wisconsin-gov-scott-walker-grants-significant-access-to-companies-donors/>
 
-*Limitations:* A narrow assessment of one episode. The reviewed sources do not show a specific private economic advantage to Hendricks or ABC Supply from the 2015 law, a quid pro quo, or any wrongdoing. Policy preferences shared by a donor and an official are not a private benefit. Later national giving is context only; no assessment of ABC Supply's other government dealings (e.g. contracts or pandemic programs) was made. No rubric assigned; absence of a benefit finding is not evidence against one.
+*Limitations:* Not read: FEC and OpenSecrets filings directly, Wisconsin Ethics Commission records, ABC Supply government contracts or pandemic-program data, and any ABC Supply tax or incentive records. Alleged-benefit claims were not found and are not made. Donation figures vary across secondary sources ($10-15 million for 2024 depending on committees counted), so only the figures quoted above are used. Office-holding is advisory or ceremonial. Not exoneration and not an allegation of an exchange.
 
 ## Stanley Kroenke · rank 114 · mixed · unscored
 
@@ -1508,16 +1510,15 @@ The reviewed sources concern regulator and tax disputes against his hedge fund (
 
 ## Vinod Adani · rank 121 · mixed · unscored
 
-*2014-2024 reporting; 2023 Hindenburg report; April 2024 SEBI finding. Confidence: Low / narrow review. Reviewed 2026-10-29.*
+*Allegations 2023-2024; SEBI order September 2025; SEC consent judgment motion May 2026. Confidence: Low / narrow review. Reviewed 2026-10-30.*
 
-Vinod Adani is the brother of Gautam Adani; reporting and a 2023 short-seller report alleged he manages offshore entities connected to Adani Group transactions, which the group has denied. The reviewed pages do not show him personally exercising political leverage or receiving a state-granted benefit; any link to the Adani Group's political context is through his brother and company, not established for him.
+Vinod Adani is the elder brother of Gautam Adani and is reported to be non-resident and based abroad. The reviewed sources show him in only one role: Hindenburg Research alleged in January 2023 and again in August 2024 that he controls a network of offshore entities connected to Adani Group transactions. The reviewed SEC release on the 2024 U.S. bribery case names only Gautam and Sagar Adani, and SEBI's September 2025 order, as reported, names other persons and does not mention him. No political leverage, state-granted benefit or exchange is attributed to Vinod in the reviewed record, and Gautam's matters are not transferred to him. No rubric.
 
-- **support** — Wikipedia: Vinod Adani (2026-10-29) — Secondary compilation of allegations. Access: Page text reviewed; underlying filings not verified **[weak/secondary]**. <https://en.wikipedia.org/wiki/Vinod_Adani>
-- **support** — Malay Mail (2024-08-11) — Attributed allegation and denial. Access: Page text reviewed. <https://www.malaymail.com/news/money/2024/08/11/india-market-regulator-rejects-us-bias-claim-in-adani-offshore-investments-probe/146689>
-- **counter** — Wikipedia: Vinod Adani (2026-10-29) — Limit of evidence / legal status. Access: Page text reviewed **[weak/secondary]**. <https://en.wikipedia.org/wiki/Vinod_Adani>
-- **counter** — Malay Mail (2024-08-11) — Subject response. Access: Page text reviewed. <https://www.malaymail.com/news/money/2024/08/11/india-market-regulator-rejects-us-bias-claim-in-adani-offshore-investments-probe/146689>
+- **support** — Malay Mail, 11 August 2024 (2024-08-11) — Allegation by third party. Access: Page text reviewed. <https://www.malaymail.com/news/money/2024/08/11/india-market-regulator-rejects-us-bias-claim-in-adani-offshore-investments-probe/146689>
+- **counter** — SEC litigation release (2026-05-14) — Scope limit: proceeding does not name him. Access: Page text reviewed. <https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26554>
+- **counter** — Scroll.in (2025-09-18) — Regulatory finding about group; does not address him. Access: Page text reviewed (summary) **[weak/secondary]**. <https://scroll.in/latest/1086739/sebi-clears-adani-group-in-allegation-linked-to-hindenburg-report>
 
-*Limitations:* Family-entry caution: the Gautam Adani case file and its legal developments must not be attributed to Vinod; his own role is disputed. Business Standard page returned access errors. Allegation-level evidence only; offshore structures are not unlawful per se. No rubric.
+*Limitations:* Family-entry caution: Gautam Adani's legal matters and political context are not attributed to Vinod. Not obtained: Hindenburg's reports or the SEBI orders themselves, the Adani Group's formal denial, any statement by Vinod Adani, or documents on his actual roles and residence. His own conduct beyond these allegations is unreviewed. This is a narrow review, not exoneration.
 
 ## Qin Yinglin · rank 121 · no-strong · unscored
 

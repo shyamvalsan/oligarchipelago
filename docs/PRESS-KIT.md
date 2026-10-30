@@ -16,7 +16,7 @@ After Elon Musk said on X on 7 October 2026 that unnamed "oligarchs" were blocki
 | Reviewed but unplaced (evidence did not support all three) | 148 | same |
 | Archive entries (500 on the Forbes list; not shown in the app) | 500, of which 219 reviewed, 63 placed | same |
 | Source receipts across all reviews | 740 | `docs/CLAIM-REGISTER.md` |
-| …of which flagged weak or secondary (Wikipedia, snippets, tool summaries, partial reads) | 179 (about 24%) | same |
+| …of which flagged weak or secondary (Wikipedia, snippets, tool summaries, partial reads) | 202 (about 27%) | same |
 | Runtime third-party requests, cookies, analytics | none | view source |
 
 ## The test

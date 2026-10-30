@@ -1,0 +1,77 @@
+{
+  "supersedes": [
+    "li-ka-shing",
+    "andrea-pignataro"
+  ],
+  "profiles": {
+    "li-ka-shing": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "2011-2026 (sources dated within)",
+      "summary": "Pages read show a business family operating in tense relations with the Chinese state at points: state media criticism in 2015 over asset sales that then stopped, and in 2025-26 a ports sale linked to US politics followed by a Panama Supreme Court ruling that voided CK Hutchison's Panama concessions. These are company-level and exposure-to-state-pressure facts; they do not show personal preferential benefit to Li Ka-shing. Li's son Victor Li leads the group; relatives' conduct is not attributed to him.",
+      "mechanism": "Strategic-infrastructure exposure to state pressure; no preferential-benefit mechanism evidenced",
+      "support": [
+        {
+          "text": "Wikipedia: Li endorsed Henry Tang in 2011; Xinhua criticised him over the 2014 protests; in early 2015 Global Times and others attacked him over reported property sales, calling them \"an act of ingratitude\"; the attacks stopped after several weeks; his companies said the sales were ordinary business.",
+          "source": "Wikipedia: Li Ka-shing",
+          "url": "https://en.wikipedia.org/wiki/Li_Ka-shing",
+          "date": "2011-2015",
+          "kind": "Relations with state (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        },
+        {
+          "text": "Wikipedia: March 2025 reports of CK Hutchison selling its port holdings to a consortium including BlackRock and MSC-linked TiL, framed against Trump's criticism of Chinese influence at the Panama Canal; Panama sued in July 2025 and its Supreme Court on 29 January 2026 ruled the Balboa and Cristobal concession unconstitutional.",
+          "source": "Wikipedia: CK Hutchison Holdings",
+          "url": "https://en.wikipedia.org/wiki/CK_Hutchison_Holdings",
+          "date": "2025-2026",
+          "kind": "Company exposure (tertiary)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The Panama ruling went against CK Hutchison, and the 2015 episode shows state criticism rather than favour; neither shows a concession or benefit granted to Li personally. The page does not say whether CK Hutchison's own statements dispute the Panama accusations.",
+          "source": "Wikipedia: CK Hutchison Holdings; Li Ka-shing",
+          "url": "https://en.wikipedia.org/wiki/CK_Hutchison_Holdings",
+          "date": "2026",
+          "kind": "Counter-evidence: adverse outcomes",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "limitations": "Not read: Hong Kong land-sale or government-contract records, Basic Law/advisory role details (the page only lists categories), Reuters/Panama court documents, CK Hutchison filings, historical Hong Kong property episodes. Wikipedia only; narrow review, not exoneration."
+    },
+    "andrea-pignataro": {
+      "status": "no-strong",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Narrow source-led review under a limited search budget; not independently editorially reviewed; no rubric assigned",
+      "confidence": "Low / narrow review",
+      "period": "1997-2026 as described",
+      "summary": "The only government-facing matter in the page read is an Italian tax matter: in 2025 the revenue agency reportedly investigated alleged evasion of about EUR 500 million (2013-2023) and he reportedly agreed to pay EUR 280 million in instalments. That is an enforcement/settlement episode, not evidence of political benefit. Acquisitions of Italian firms (Cedacri, Cerved, Prelios) are ordinary investments in the pages read. No political-power mechanism was found; this is a scoped statement.",
+      "mechanism": "No wealth-power mechanism identified in sources read; tax settlement is enforcement",
+      "support": [
+        {
+          "text": "Wikipedia: founded ION in 1997; invested over EUR 3 billion in 2021 to acquire Cedacri and Cerved and EUR 1.35 billion for control of Prelios (July 2024); in 2025 reportedly investigated by Agenzia delle Entrate for alleged evasion of about EUR 500 million (about EUR 1.2 billion with interest) and reportedly agreed to pay EUR 280 million in five instalments (citing Il Post, 9 June 2025).",
+          "source": "Wikipedia: Andrea Pignataro",
+          "url": "https://en.wikipedia.org/wiki/Andrea_Pignataro",
+          "date": "2025",
+          "kind": "Business and tax enforcement (tertiary; figures reported)",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The page does not mention political ties, donations or state benefits, and the tax outcome was a payment by Pignataro. A separate earlier search-result summary (Reuters via MarketScreener, Cedacri golden-power case, Council of State voiding a 2023 decree in December 2025) was not reopened here (page returned 404), so it is not relied on.",
+          "source": "Wikipedia: Andrea Pignataro",
+          "url": "https://en.wikipedia.org/wiki/Andrea_Pignataro",
+          "date": "2025",
+          "kind": "Scope limit; absence not exoneration",
+          "access": "Page text reviewed; tertiary source via fetch tool, cited links not verified"
+        }
+      ],
+      "limitations": "Not read: the Reuters Cedacri article (404), Italian golden-power decrees, Il Post/Il Sole 24 Ore tax reports, UK/Italy donation or lobbying records. Allegations of tax evasion are reported allegations; the settlement terms are reported by a tertiary source. Narrow review, not exoneration."
+    }
+  },
+  "rubrics": {}
+}

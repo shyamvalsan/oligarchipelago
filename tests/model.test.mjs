@@ -35,7 +35,7 @@ test('influence unknowns do not turn into a zero score',()=>{
 test('case files require support, counterevidence, confidence, dates and known people',()=>{
   for(const[id,r]of Object.entries(evidence.profiles).filter(([,r])=>r.fileState==='case-reviewed')){
     assert.ok(people.some(p=>p.id===id));assert.ok(r.status in ASSESSMENTS);
-    assert.ok(r.confidence);assert.ok(r.period);assert.ok(r.limitations);assert.ok(['2026-10-08','2026-10-29'].includes(r.reviewedAt));
+    assert.ok(r.confidence);assert.ok(r.period);assert.ok(r.limitations);assert.ok(['2026-10-08','2026-10-29','2026-10-30'].includes(r.reviewedAt));
     assert.ok(r.support.length);assert.ok(r.counter.length);
     for(const item of [...r.support,...r.counter]){assert.ok(item.text.length>30);assert.ok(item.date);assert.ok(item.kind);assert.ok(item.source);assert.equal(new URL(item.url).protocol,'https:');}
   }
