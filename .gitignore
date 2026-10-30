@@ -2,3 +2,5 @@
 __pycache__/
 .preview/
 .playwright-mcp/
+data/inbox/*
+!data/inbox/README.txt
