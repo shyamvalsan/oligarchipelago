@@ -76,8 +76,8 @@ That is the point of the exercise. The same test, the same anchors, and the same
 The honest headline is about the evidence, not the names.
 
 - **All 200 people on the launch list now have an individual, source-led review.** That is the Forbes 2026 top 200, in list order, not a hand-picked set of easy cases.
-- **Only 52 of the 200 can be placed on the chart.** For the other 148, the reviewed sources did not support all three dimensions, so they stay unplaced. That is by design: the project would rather show a gap than fill it with a guess.
-- **"Unplaced" mostly means "thin evidence", not "clean".** Many of the 148 reviews found only a business history, a donation record, or an episode that concerns a relative or the company rather than the named person. Several rest on a single press item or a Wikipedia summary. These are starting points for verification, and each profile says so.
+- **Only 53 of the 200 can be placed on the chart.** For the other 147, the reviewed sources did not support all three dimensions, so they stay unplaced. That is by design: the project would rather show a gap than fill it with a guess.
+- **"Unplaced" mostly means "thin evidence", not "clean".** Many of the 147 reviews found only a business history, a donation record, or an episode that concerns a relative or the company rather than the named person. Several rest on a single press item or a Wikipedia summary. These are starting points for verification, and each profile says so.
 - **Where evidence was strong, it was specific.** The placed cases are tied to documented episodes: a policy decision, a licence, a settlement, a privatization. Even then the ranges are wide, and a score of 60 does not mean "three times as oligarchic" as a score of 20.
 - **Size is not the test.** Some people with enormous fortunes have no documented loop between their money and state power in the sources reviewed, and the chart treats that as unknown, not as zero.
 

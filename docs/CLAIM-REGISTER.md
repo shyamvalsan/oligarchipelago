@@ -1,6 +1,6 @@
 # Claim and source register
 
-Every receipt behind every authored review, generated from `data/assessments.json`. **219 reviews, 741 receipts, 202 flagged as weak or secondary** (Wikipedia, search snippets, tool summaries, partial reads). A receipt that loads does not prove it supports the sentence attached to it. These reviews are AI-assisted and have **not** been independently reviewed; use this register to check them, not to rely on them. Scores are editorial estimates, not findings of fact or guilt. Corrections welcome.
+Every receipt behind every authored review, generated from `data/assessments.json`. **219 reviews, 745 receipts, 201 flagged as weak or secondary** (Wikipedia, search snippets, tool summaries, partial reads). A receipt that loads does not prove it supports the sentence attached to it. These reviews are AI-assisted and have **not** been independently reviewed; use this register to check them, not to rely on them. Scores are editorial estimates, not findings of fact or guilt. Corrections welcome.
 
 ## Elon Musk · rank 1 · mixed · score 63 (range 35–90)
 
@@ -478,15 +478,16 @@ John’s family-company political activity is documented; his personal decisions
 
 ## Lukas Walton · rank 40 · mixed · unscored
 
-*First Solar DFC financing, 2021–2024; inspector-general review, September 2025. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*First Solar DFC financing, 2021–2024; inspector-general review, September 2025. Confidence: Low / scope limited. Reviewed 2026-10-30.*
 
 Lawmakers questioned whether Walton’s political giving influenced a loan to a company in which he held a minority stake. The loan is documented; the alleged donor-to-award connection is not established by the reviewed inspection.
 
 - **support** — House Oversight member letter (2022-04-21) — Congressional concern. Access: Indexed PDF passage reviewed. <https://oversight.house.gov/wp-content/uploads/2022/04/Norman-Letter-to-OMB-042122.pdf>
 - **support** — US International Development Finance Corporation (2024-01-11) — Official financing record. Access: Indexed source passage reviewed. <https://www.dfc.gov/media/press-releases/dfc-ceo-marks-us-500-million-loan-strategic-supply-chain-diversification>
 - **counter** — DFC Office of Inspector General via Oversight.gov (2025-09-30) — Independent inspection / scope. Access: Page text reviewed. <https://www.oversight.gov/reports/inspection-dfcs-first-solar-and-bio-e-projects>
+- **counter** — US DFC Office of Inspector General, Inspection Report DFC-25-001-IE (2025-09-30) — Scope of an official review. Access: PDF text extracted and read (full report fetched by a human). <https://www.dfc.gov/sites/default/files/media/documents/Inspection%20of%20DFC%27s%20First%20Solar%20and%20Bio%20E%20Projects%20%28DFC-25-001-IE%29.pdf>
 
-*Limitations:* No score: personal political leverage in the award and preferential terms remain unresolved. A minority stake is not sole ownership, and neither an oversight allegation nor this differently scoped inspection proves or clears a donor-related bargain.
+*Limitations:* No score: personal political leverage in the award and preferential terms remain unresolved. A minority stake is not sole ownership, and neither an oversight allegation nor this differently scoped inspection proves or clears a donor-related bargain. The DFC Inspector General's 2025 inspection looked only at post-approval compliance and impact, so it neither supports nor rebuts the 2022 congressional questions about approval.
 
 ## Giovanni Ferrero · rank 41 · mixed · unscored
 
@@ -691,17 +692,20 @@ Adelson’s Texas political financing pursues a clear commercial-policy objectiv
 
 *Limitations:* The estimate covers this attempted economic-policy influence, not all US or Israeli activity. Miriam’s actions are separated from her late husband’s. Lawful advocacy is not bribery; an unsuccessful campaign is not a received concession.
 
-## Alexey Mordashov & family · rank 57 · mixed · unscored
+## Alexey Mordashov & family · rank 57 · mixed · score 69 (range 45–85)
 
-*EU designation, February 2022; General Court judgment, September 2023. Confidence: Low / scope limited. Reviewed 2026-10-08.*
+*EU listing 2022 to 20 September 2023 (General Court judgment T-248/22). Confidence: Moderate for the sanctions-law findings; low for any benefit mechanism. Reviewed 2026-10-30.*
 
-The EU attributed political-benefit and regime-support links to Mordashov’s holdings, and his 2023 sanctions challenge failed. Those records are substantial evidence to examine, but different legal grounds must not be collapsed into a proven personal patronage bargain.
+The EU General Court dismissed Mordashov's challenge to his 2022-23 listing. It accepted the Council's evidence that he held a 5.9% voting stake in Bank Rossiya, described in the evidence file as a bank of senior Russian officials, and that a company he controlled took part in a joint venture whose gas turbines were installed in Crimea. It also treated his attendance at Kremlin meetings with Putin as corroboration that he is an influential businessman. These are findings about the lawfulness of EU sanctions listings, which are not criminal findings, and the Court did not find a specific preferential contract or favour.
 
-- **support** — Council Implementing Regulation (EU) 2022/336, entry 695 (2022-02-28) — Official attributed findings. Access: PDF text reviewed. <https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32022R0336>
-- **support** — General Court: T-248/22 summary (2023-09-20) — Judicial outcome and scope. Access: Indexed official judgment-summary passages reviewed **[weak/secondary]**. <https://eur-lex.europa.eu/legal-content/EN/SUM/?uri=celex%3A62022TJ0248>
-- **counter** — General Court: T-248/22, paragraph 118 (2023-09-20) — Defense and judicial treatment. Access: Indexed official judgment passage reviewed. <https://eur-lex.europa.eu/legal-content/SL/ALL/?uri=CELEX%3A62022TJ0248>
+- **support** — General Court, T-248/22, paras 93-94, 108-110 (2023-09-20) — Court finding on sanctions-listing grounds. Access: Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us. <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248>
+- **support** — General Court, T-248/22, paras 113-118 (2023-09-20) — Court finding on sanctions-listing grounds. Access: Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us. <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248>
+- **support** — General Court, T-248/22, paras 133 and 136 (2023-09-20) — Court finding on access. Access: Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us. <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248>
+- **counter** — General Court, T-248/22, paras 108 and 125 (2023-09-20) — Legal standard and scope. Access: Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us. <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248>
+- **counter** — General Court, T-248/22, paras 96-102 and 115-118 (2023-09-20) — His arguments and their treatment. Access: Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us. <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248>
+- **counter** — Scope of this review (2026-10-30) — Explicit limit of evidence. Access: Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us. <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248>
 
-*Limitations:* No numerical estimate from this legal-record review alone. The underlying benefit mechanism and person-level political leverage need independent corroboration. This file describes historical reasons and a specific judgment, not an assertion about all current holdings, current sanctions in every jurisdiction, or criminal guilt.
+*Limitations:* Reads one judgment, in OCR from a French original. The Court assessed the Council's evidence file, not the underlying facts at trial; many of the Council's sources are not public. No specific preferential benefit is shown. The Court's test for supporting and benefiting from decision-makers is broader than our rubric's benefit and exchange dimensions, so the estimate leans on judgment. Later events were not reviewed. This is not a finding of criminal guilt.
 
 ## Colin Huang · rank 58 · mixed · unscored
 

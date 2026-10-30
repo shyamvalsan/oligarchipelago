@@ -12,9 +12,9 @@ After Elon Musk said on X on 7 October 2026 that unnamed "oligarchs" were blocki
 | --- | ---: | --- |
 | People in the launch cohort (first 200 of Forbes' 2026 annual list, in list order) | 200 | `data/billionaires.json` |
 | With an individual authored review | 200 | `docs/CLAIM-REGISTER.md` |
-| Placed on the chart (all three rubric dimensions supported) | 52 | `data/assessments.json` |
-| Reviewed but unplaced (evidence did not support all three) | 148 | same |
-| Archive entries (500 on the Forbes list; not shown in the app) | 500, of which 219 reviewed, 63 placed | same |
+| Placed on the chart (all three rubric dimensions supported) | 53 | `data/assessments.json` |
+| Reviewed but unplaced (evidence did not support all three) | 147 | same |
+| Archive entries (500 on the Forbes list; not shown in the app) | 500, of which 219 reviewed, 64 placed | same |
 | Source receipts across all reviews | 741 | `docs/CLAIM-REGISTER.md` |
 | …of which flagged weak or secondary (Wikipedia, snippets, tool summaries, partial reads) | 202 (about 27%) | same |
 | Runtime third-party requests, cookies, analytics | none | view source |
@@ -33,7 +33,7 @@ Operational definition: *private wealth and political power materially reinforce
 ## Known weaknesses (please read before relying on anything)
 
 1. **AI-assisted, one-pass research.** The reviews were drafted by AI agents under a shared search budget. They have not been independently edited or fact-checked by a human newsroom.
-2. **Source quality is uneven.** More than a quarter of receipts are weak or secondary; the register labels each one. Many of the 148 unplaced reviews rest on a single press item or a Wikipedia summary, and some concern a relative or the company rather than the named person.
+2. **Source quality is uneven.** More than a quarter of receipts are weak or secondary; the register labels each one. Many of the 147 unplaced reviews rest on a single press item or a Wikipedia summary, and some concern a relative or the company rather than the named person.
 3. **Family entries.** Forbes lists some wealth as "X & family". Evidence about one member is not transferred to another; reviews say where this limits them.
 4. **Primary documents.** The Indian reviews of Gautam Adani and Lakshmi Mittal read court, regulator and Hansard texts directly. Several others (for example the CAG reports, the 2014 coal-block judgment and Election Commission electoral-bond data) could not be opened and are listed as unverified.
 5. **Historical vs current.** Each review states its period. A past episode does not establish present conduct.

@@ -15,10 +15,10 @@
 | Source discovery | 200 | 500 | Individual queries; retained titles and URLs are unverified leads |
 | Narrow UK sanctions-name screen | 200 | 500 | Candidate matching, not verified identity or clearance |
 | Authored case review | 200 | 219 | Initial source-led files, not comprehensive investigations |
-| Numerical editorial estimate | 52 | 63 | All three rubric dimensions assigned |
+| Numerical editorial estimate | 53 | 64 | All three rubric dimensions assigned |
 | Discovery-only | 0 | 281 | No authored case review yet |
-| Reviewed but unplaced | 148 | 156 | Reviews do not support an estimate |
-| No numerical position | 148 | 437 | Discovery-only plus reviewed but unplaced |
+| Reviewed but unplaced | 147 | 155 | Reviews do not support an estimate |
+| No numerical position | 147 | 436 | Discovery-only plus reviewed but unplaced |
 
 `data/research-batches/001.json` through `125.json` preserve the discovery audit. `research-discovery.json` is the aggregate. Search hits may be irrelevant, disputed or about namesakes; they never automatically produce scores. All 200 launch entries remain accessible through search, table and profiles; the other 300 remain in the repository archive, not the current UI. The default chart has 50 positioned markers, not 200 assessed people. The readiness script reports launch and archive counts separately.
 
@@ -42,7 +42,7 @@ Anchors: 0 = reviewed evidence against the mechanism within scope; 1 = contextua
 
 A missing dimension is null and prevents a score. Unknown never means zero, midpoint or ordinary. Every estimate exposes dimension rationales, receipt references, counterevidence, qualitative confidence, historical period, limitations and a plausible editorial range. Ranges are not statistical intervals; scores are not probabilities of guilt. Small differences should not be treated as meaningful ranks. No automatic points for nationality, inheritance, sanctions, donations, contracts or company size.
 
-These initial AI-assisted judgments have not received independent editorial review. Coverage and source selection are uneven. The 148 launch-cohort reviews without estimates (156 in the archive) are not exonerations. Waves 21–35 were written under a shared search budget that ran out partway: many receipts are Wikipedia or fetch-tool summaries (marked in each receipt's access field), and several concern a relative or company rather than the named person. Treat them as starting points for verification.
+These initial AI-assisted judgments have not received independent editorial review. Coverage and source selection are uneven. The 147 launch-cohort reviews without estimates (156 in the archive) are not exonerations. Waves 21–35 were written under a shared search budget that ran out partway: many receipts are Wikipedia or fetch-tool summaries (marked in each receipt's access field), and several concern a relative or company rather than the named person. Treat them as starting points for verification.
 
 ### Material distinctions retained
 

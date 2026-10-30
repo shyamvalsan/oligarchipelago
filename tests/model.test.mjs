@@ -40,13 +40,13 @@ test('case files require support, counterevidence, confidence, dates and known p
     for(const item of [...r.support,...r.counter]){assert.ok(item.text.length>30);assert.ok(item.date);assert.ok(item.kind);assert.ok(item.source);assert.equal(new URL(item.url).protocol,'https:');}
   }
 });
-test('500 discovery records remain distinct from 219 case reviews and 63 estimates',()=>{
+test('500 discovery records remain distinct from 219 case reviews and 64 estimates',()=>{
   assert.equal(Object.keys(evidence.profiles).length,500);
   assert.equal(Object.values(evidence.profiles).filter(r=>r.fileState==='case-reviewed').length,219);
-  assert.equal(Object.values(evidence.profiles).filter(r=>r.score!==null).length,63);
+  assert.equal(Object.values(evidence.profiles).filter(r=>r.score!==null).length,64);
   const placed=filterPeople(people,{...DEFAULTS,assessment:'placed'},countries,evidence);
   const unplaced=filterPeople(people,{...DEFAULTS,assessment:'unplaced'},countries,evidence);
-  assert.equal(placed.length,63);assert.equal(unplaced.length,437);
+  assert.equal(placed.length,64);assert.equal(unplaced.length,436);
   assert.equal(new Set([...placed,...unplaced].map(p=>p.id)).size,500);
   for(const p of people){const a=assessment(p,evidence);assert.ok(a.discovery.query.includes(p.name.replace(' & family','')));assert.equal(a.discovery.status,'discovery-only-not-reviewed');
     if(a.fileState==='discovery-only'){assert.equal(a.reviewedAt,null);assert.equal(a.score,null);assert.equal(a.range,null);}
@@ -189,7 +189,7 @@ test('new episode reviews retain unsuccessful influence, legal closure and attri
 
 test('family ties, minority ownership and advocacy do not transfer conduct or force scores',()=>{
   const e=evidence.profiles;
-  for(const id of ['amancio-ortega','rob-walton','jim-walton','alice-walton','francoise-bettencourt-meyers','julia-koch','lukas-walton','tadashi-yanai','iris-fontbona','zhong-shanshan','alexey-mordashov']){
+  for(const id of ['amancio-ortega','rob-walton','jim-walton','alice-walton','francoise-bettencourt-meyers','julia-koch','lukas-walton','tadashi-yanai','iris-fontbona','zhong-shanshan']){
     assert.equal(e[id].fileState,'case-reviewed');assert.equal(e[id].score,null);
   }
   assert.match(e['lukas-walton'].support[0].text,/4\.9%/);
@@ -197,7 +197,10 @@ test('family ties, minority ownership and advocacy do not transfer conduct or fo
   assert.match(e['francoise-bettencourt-meyers'].support[0].text,/dismissal/);
   assert.match(e['iris-fontbona'].counter[0].text,/does not remove ownership power/);
   assert.match(e['zhong-shanshan'].counter[0].text,/outside the park boundary/);
-  assert.match(e['alexey-mordashov'].support[1].text,/not itself a finding of a personal favor/);
+  // Mordashov: scored in wave 47 from the full text of General Court T-248/22; the judgment finds no specific preferential benefit.
+  assert.equal(e['alexey-mordashov'].score,69);assert.deepEqual(e['alexey-mordashov'].range,[45,85]);
+  assert.match(e['alexey-mordashov'].counter[0].text,/contains no finding of a specific preferential contract/);
+  assert.match(e['alexey-mordashov'].limitations,/not a finding of criminal guilt/);
   assert.equal(e['giancarlo-devasini'].score,50);
   assert.match(e['giancarlo-devasini'].limitations,/not established/);
 });

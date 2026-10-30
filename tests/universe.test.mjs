@@ -23,7 +23,7 @@ test('launch is the first 200 Forbes entries, not the easiest 200 to score',()=>
 test('top-200 readiness retains missing evidence instead of treating reduced scope as complete',()=>{
   const launch=launchUniverse(data,evidence);
   const report=researchReadiness(launch.data.people,launch.evidence,{expectedCount:200});
-  assert.deepEqual(report.counts,{total:200,reviewed:200,scored:52,discoveryOnly:0,reviewedUnplaced:148});
+  assert.deepEqual(report.counts,{total:200,reviewed:200,scored:53,discoveryOnly:0,reviewedUnplaced:147});
   assert.deepEqual(report.structuralErrors,[]);
   assert.equal(report.researchGatePassed,false);
   assert.equal(report.blockers.length,1);

@@ -1,0 +1,147 @@
+{
+  "supersedes": [
+    "alexey-mordashov",
+    "lukas-walton"
+  ],
+  "profiles": {
+    "alexey-mordashov": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Primary-document review of one judgment; not independently editorially reviewed; not a finding of criminal guilt",
+      "confidence": "Moderate for the sanctions-law findings; low for any benefit mechanism",
+      "period": "EU listing 2022 to 20 September 2023 (General Court judgment T-248/22)",
+      "summary": "The EU General Court dismissed Mordashov's challenge to his 2022-23 listing. It accepted the Council's evidence that he held a 5.9% voting stake in Bank Rossiya, described in the evidence file as a bank of senior Russian officials, and that a company he controlled took part in a joint venture whose gas turbines were installed in Crimea. It also treated his attendance at Kremlin meetings with Putin as corroboration that he is an influential businessman. These are findings about the lawfulness of EU sanctions listings, which are not criminal findings, and the Court did not find a specific preferential contract or favour.",
+      "mechanism": "Strategic-sector holdings (steel, energy engineering, banking stake) ↔ material support to Russian decision-makers, as accepted under EU listing criteria",
+      "support": [
+        {
+          "text": "Paras 93-94 and 108-110: the Court held the Council could treat Mordashov as supporting and benefiting from the Russian leadership because he controls an \"economic empire\" in steel (Severstal), energy engineering (JSC Power Machines) and finance (Bank Rossiya). Through Severgroup he held 5.9% of Bank Rossiya's voting rights (5.481% shareholding in the evidence), the fifth-largest shareholder, which the Court said implies some control or at least presence in its decision-making; the Council could find he knew the bank supported certain Russian decision-makers and, by letting that continue, supported them himself.",
+          "source": "General Court, T-248/22, paras 93-94, 108-110",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248",
+          "date": "2023-09-20",
+          "kind": "Court finding on sanctions-listing grounds",
+          "access": "Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us"
+        },
+        {
+          "text": "Paras 113-118: Mordashov controls 100% of JSC Power Machines through Severgroup; Power Machines held 35% of a Siemens gas-turbine joint venture that sold four turbines (over EUR 200 million) to OJSC TPE, a subsidiary of state company Rostec; the turbines were installed in Crimea. He did not dispute that installation there is material support to Russian decision-makers; the Court held a contract clause meant to bar installation in Crimea did not change that.",
+          "source": "General Court, T-248/22, paras 113-118",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248",
+          "date": "2023-09-20",
+          "kind": "Court finding on sanctions-listing grounds",
+          "access": "Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us"
+        },
+        {
+          "text": "Paras 133 and 136: the Court noted he attended a 24 February 2022 meeting convened by Putin with a small group of businesspeople (it says 37 were invited) and a 16 March 2023 meeting; this was \"not in itself decisive\" but corroborated that he is an influential businessman. It did not itself adopt the Council's wording that he belongs to Putin's \"closest circle\".",
+          "source": "General Court, T-248/22, paras 133 and 136",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248",
+          "date": "2023-09-20",
+          "kind": "Court finding on access",
+          "access": "Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The judgment reviews whether the Council made an error of assessment under EU restrictive-measures criteria, which are preventive and not criminal (para 108). Criterion (g) alone requires only that a person be an influential businessperson in a revenue-generating sector, with no link to the government (para 125). The judgment contains no finding of a specific preferential contract, licence or subsidy to Mordashov.",
+          "source": "General Court, T-248/22, paras 108 and 125",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248",
+          "date": "2023-09-20",
+          "kind": "Legal standard and scope",
+          "access": "Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us"
+        },
+        {
+          "text": "Mordashov said Severgroup sold its Bank Rossiya shares on 21 July 2022 and that the Siemens joint venture had been misled by its customer. The Court did not accept the divestment evidence, finding the documents did not identify the buyer or show an independent third party (paras 96-102), and noted that legality is assessed on the facts when each act was adopted (para 97). It rejected the claim that the clause or the customer's conduct removed his responsibility (paras 115-118).",
+          "source": "General Court, T-248/22, paras 96-102 and 115-118",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248",
+          "date": "2023-09-20",
+          "kind": "His arguments and their treatment",
+          "access": "Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us"
+        },
+        {
+          "text": "The judgment is dated 20 September 2023. Later EU listings, any appeal, and developments since were not reviewed.",
+          "source": "Scope of this review",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62022TJ0248",
+          "date": "2026-10-30",
+          "kind": "Explicit limit of evidence",
+          "access": "Full judgment printed to PDF by a human from EUR-Lex (French original); text read by OCR; quoted paragraphs paraphrased and translated by us"
+        }
+      ],
+      "limitations": "Reads one judgment, in OCR from a French original. The Court assessed the Council's evidence file, not the underlying facts at trial; many of the Council's sources are not public. No specific preferential benefit is shown. The Court's test for supporting and benefiting from decision-makers is broader than our rubric's benefit and exchange dimensions, so the estimate leans on judgment. Later events were not reviewed. This is not a finding of criminal guilt."
+    },
+    "lukas-walton": {
+      "status": "mixed",
+      "reviewedAt": "2026-10-30",
+      "reviewDepth": "Source-led review of stated episodes; broader coverage still limited",
+      "confidence": "Low / scope limited",
+      "period": "First Solar DFC financing, 2021–2024; inspector-general review, September 2025",
+      "summary": "Lawmakers questioned whether Walton’s political giving influenced a loan to a company in which he held a minority stake. The loan is documented; the alleged donor-to-award connection is not established by the reviewed inspection.",
+      "mechanism": "Political donations and minority investment ↔ questioned development-finance award",
+      "support": [
+        {
+          "text": "A 2022 Republican oversight letter describes Walton holding 4.9% of First Solar and questions his political donations in relation to DFC financing. This is an allegation and records request, not a finding.",
+          "source": "House Oversight member letter",
+          "url": "https://oversight.house.gov/wp-content/uploads/2022/04/Norman-Letter-to-OMB-042122.pdf",
+          "date": "2022-04-21",
+          "kind": "Congressional concern",
+          "access": "Indexed PDF passage reviewed"
+        },
+        {
+          "text": "DFC confirms a $500 million loan for First Solar’s Indian facility and describes supply-chain diversification, jobs and development objectives. This is corporate debt financing, not a personal grant to Walton.",
+          "source": "US International Development Finance Corporation",
+          "url": "https://www.dfc.gov/media/press-releases/dfc-ceo-marks-us-500-million-loan-strategic-supply-chain-diversification",
+          "date": "2024-01-11",
+          "kind": "Official financing record",
+          "access": "Indexed source passage reviewed"
+        }
+      ],
+      "counter": [
+        {
+          "text": "The 2025 inspector-general summary identifies monitoring weaknesses and mixed impact progress. Its stated scope is project compliance and impact, not establishing that Walton bought the loan decision.",
+          "source": "DFC Office of Inspector General via Oversight.gov",
+          "url": "https://www.oversight.gov/reports/inspection-dfcs-first-solar-and-bio-e-projects",
+          "date": "2025-09-30",
+          "kind": "Independent inspection / scope",
+          "access": "Page text reviewed"
+        },
+        {
+          "text": "The DFC Inspector General inspected the $500 million First Solar loan (and a separate $50 million Bio E loan) for compliance with agreement terms and progress on impact metrics. It found gaps in environmental and social oversight of the First Solar project. It does not examine how the loan was approved or any political process, and it does not mention Walton.",
+          "source": "US DFC Office of Inspector General, Inspection Report DFC-25-001-IE",
+          "url": "https://www.dfc.gov/sites/default/files/media/documents/Inspection%20of%20DFC%27s%20First%20Solar%20and%20Bio%20E%20Projects%20%28DFC-25-001-IE%29.pdf",
+          "date": "2025-09-30",
+          "kind": "Scope of an official review",
+          "access": "PDF text extracted and read (full report fetched by a human)"
+        }
+      ],
+      "limitations": "No score: personal political leverage in the award and preferential terms remain unresolved. A minority stake is not sole ownership, and neither an oversight allegation nor this differently scoped inspection proves or clears a donor-related bargain. The DFC Inspector General's 2025 inspection looked only at post-approval compliance and impact, so it neither supports nor rebuts the 2022 congressional questions about approval."
+    }
+  },
+  "rubrics": {
+    "alexey-mordashov": {
+      "levels": [
+        3,
+        2,
+        3
+      ],
+      "range": [
+        45,
+        85
+      ],
+      "rationales": [
+        "Attended Putin-convened meetings of a small group of businesspeople in February 2022 and March 2023; the Court treated this as corroborating influence, not as proof of a closest circle.",
+        "The Court accepted that he benefited from Russian decision-makers through his strategic-sector position, but no specific preferential contract, licence or subsidy to him is identified.",
+        "The Court upheld the Council's finding that he supported Russian decision-makers through a Bank Rossiya stake and the Crimea turbine joint venture; this is adjudicated on sanctions-law grounds, with his divestment evidence rejected."
+      ],
+      "sourceRefs": [
+        [
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  }
+}
